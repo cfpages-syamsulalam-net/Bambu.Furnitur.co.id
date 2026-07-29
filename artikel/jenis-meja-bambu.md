@@ -1,9 +1,10 @@
 ---
 article_id: BFU-07-02
+writing_contract_version: "native-id-v2"
 title: "Meja Makan, Meja Kerja, dan Meja Kopi Bambu"
 slug: "jenis-meja-bambu"
 description: "Menentukan top, rangka, penyimpanan, tinggi kerja, interface, dan penggunaan meja/bar."
-status: outline
+status: draft
 publication_date: "2025-12-04"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -14,53 +15,18 @@ reader_address: "Sobat Furnitur.co.id"
 final_route: "/artikel/jenis-meja-bambu.html"
 technical_review: required
 sources:
-  - "https://www.iso.org/standard/73866.html"
-  - "https://www.iso.org/standard/76864.html"
   - "https://www.iso.org/standard/73590.html"
-  - "https://www.iso.org/standard/66310.html"
-  - "https://www.iso.org/standard/13773.html"
-  - "https://www.iso.org/standard/13774.html"
+  - "https://www.iso.org/standard/76864.html"
   - "https://www.iso.org/standard/76831.html"
-  - "https://www.iso.org/cms/%20render/live/en/sites/isoorg/contents/data/standard/03/56/35608.html?browse=tc"
+  - "https://www.iso.org/standard/71279.html"
+  - "https://www.iso.org/standard/82086.html"
   - "https://www.iso.org/standard/85716.html"
   - "https://www.iso.org/standard/76931.html"
   - "https://www.iso.org/standard/86789.html"
   - "https://www.iso.org/standard/55267.html"
-  - "https://www.iso.org/standard/71279.html"
-  - "https://www.iso.org/standard/82086.html"
 ---
 
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
-
-# Meja Makan, Meja Kerja, dan Meja Kopi Bambu
-
-## Assignment lock
-
-- **Writer task:** Expand this file into one complete article answering: “Meja Makan, Meja Kerja, dan Meja Kopi Bambu”
-- **Reader and situation:** Menentukan top, rangka, penyimpanan, tinggi kerja, interface, dan penggunaan meja/bar.
-- **Reader outcome:** Menentukan top, rangka, penyimpanan, tinggi kerja, interface, dan penggunaan meja/bar.
-- **Primary intent:** Memilih meja menurut fungsi
-- **Reader community:** `Furnitur.co.id`
-- **Primary friendly address:** `Sobat Furnitur.co.id`
-- **Natural variants:** `Kawan Furnitur.co.id` and `Teman Furnitur.co.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** Fokus use case; ergonomi dimiliki BFU-05.
-- **Final public route:** `/artikel/jenis-meja-bambu.html`
-- **Appointed CMS date:** `2025-12-04` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
-
-## Opening instructions
-
-- Open with the exact short salutation: **“Halo, Sobat Furnitur.co.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Meja Makan, Meja Kerja, dan Meja Kopi Bambu**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Sobat Furnitur.co.id`, `Kawan Furnitur.co.id`, or `Teman Furnitur.co.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
-
-
-<!-- BEGIN MANAGED IMAGE PLAN -->
+<!-- BEGIN MANAGED IMAGE PLAN
 ## Image plan
 
 - **Image ID:** `LOCAL-011`
@@ -71,151 +37,73 @@ sources:
 - **Selection basis:** filename/source metadata identifies `meja bambu 1` as relevant content media; no pixels were inspected.
 - **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
 - **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-011]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
+END MANAGED IMAGE PLAN -->
 
-## Evidence packet
+# Meja Makan, Meja Kerja, dan Meja Kopi Bambu
 
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
+Halo, Sobat Furnitur.co.id! Pilih meja bambu dari pekerjaan yang akan berlangsung di atasnya, bukan dari label “meja bambu” saja. Meja makan harus mendukung makan bersama dan mudah dirawat; meja kerja harus menyediakan bidang, ruang kaki, serta antarmuka kabel yang sesuai tugas; meja kopi harus mudah didekati, dipindahkan, dan tidak menghalangi sirkulasi. Top, rangka, penyimpanan, tinggi, dan sambungan mengikuti fungsi tersebut.
 
-### KR-25
+Jika fungsi belum jelas, keputusan paling aman adalah menunda ukuran final dan menuliskan skenario pemakaian: siapa yang menggunakan, berapa lama, benda apa yang diletakkan, dan bagaimana meja dibersihkan. Kekuatan atau kestabilan tidak dapat disimpulkan dari nama material. Standar meja dan penyimpanan membedakan konfigurasi, komponen, beban, dan kondisi uji; abstrak publiknya juga tidak membuktikan produk tertentu lulus uji ([ISO 19682:2023](https://www.iso.org/standard/73590.html), [ISO 7170:2021](https://www.iso.org/standard/76864.html)).
 
-- **Original sources:** [ISO 7173:2023 — chairs/stools](https://www.iso.org/standard/73866.html), [ISO 7170:2021 — storage units](https://www.iso.org/standard/76864.html), [ISO 19682:2023 — tables/desks](https://www.iso.org/standard/73590.html), and [ISO 19833:2018 — adult beds](https://www.iso.org/standard/66310.html).
-- **Purpose for this article:** Ground product taxonomy, strength/durability/stability, configuration, procurement, QC, diagnosis, and safety articles.
-- **Safe grounded facts:** Product family, intended user/use, complete assembled specimen, configuration, materials, joints/hardware, dimensions, loading/cycles, conditioning, failure/result, edition, and acceptance document determine applicability.
-- **Limits:** Public abstracts do not supply test values or prove a product passes. ISO 7173:2023 is already marked for revision. Resolve current full methods, exact specimen-to-offer equivalence, laboratory scope, results, and Indonesian/project acceptance under G-16.
+![Ilustrasi meja bambu 1](/wp-content/uploads/2022/04/meja-bambu-1.jpg)
 
-### KR-26
-
-- **Original sources:** [ISO 7174-1:1988 — upright chairs/stools](https://www.iso.org/standard/13773.html), [ISO 7174-2:1992 — reclining/rocking chairs](https://www.iso.org/standard/13774.html), and [ISO 7170:2021 — storage units](https://www.iso.org/standard/76864.html).
-- **Purpose for this article:** Support stability, anchoring, moving parts, loading, misuse, children, installation, inspection, and urgent-hazard articles.
-- **Safe grounded facts:** Open drawers/doors, extension, load location, adjustable/reclined state, floor level, wall/substrate/anchor, user behavior, damage, missing components, and installation change stability.
-- **Limits:** Do not publish a universal anchor, safe load, test force, or pass claim. Obtain the complete applicable method/requirement, product instructions/report, site/substrate survey, installation design, and competent review under G-17.
-
-### KR-27
-
-- **Original sources:** [ISO 24496:2021 — office-chair dimension methods](https://www.iso.org/standard/76831.html) and [ISO 21015:2007 — office work-chair stability/strength/durability](https://www.iso.org/cms/%20render/live/en/sites/isoorg/contents/data/standard/03/56/35608.html?browse=tc).
-- **Purpose for this article:** Bound anthropometry, dimensions, posture/task fit, adjustability, accessibility, and office-chair claims.
-- **Safe grounded facts:** User population, task, duration, posture changes, adjustability, reach, transfer, circulation, clothing/equipment, trial fit, and maintenance all affect usability.
-- **Limits:** No universal “ergonomic” dimension, accessibility compliance, medical benefit, or fit claim without current Indonesian requirements, user/task evidence, applicable product standard, trial, and ergonomics/accessibility review under G-18.
-
-### KR-31
-
-- **Original sources:** [ISO 4211-1:2025 — cold liquids](https://www.iso.org/standard/85716.html), [ISO 4211-5:2021 — abrasion](https://www.iso.org/standard/76931.html), [ISO 4211-6:2025 — scratching](https://www.iso.org/standard/86789.html), and [ISO 4211-3:2013 — dry heat](https://www.iso.org/standard/55267.html).
-- **Purpose for this article:** Ground finish selection, sample/test plans, cleaning, defects, refinish, care, QC, and warranty articles.
-- **Safe grounded facts:** Substrate, preparation, finish layers/cure, texture/color/gloss, specimen, chemical/heat/abrasion/scratch exposure, cleaning, ageing, edge/joint details, result scale, and maintenance all matter.
-- **Limits:** No universal “stain-proof,” “scratch-proof,” disinfectant compatibility, service-life, repair, or warranty claim without exact finish/product, current method/report, maintenance/cleaning evidence, and G-07/G-19/G-22.
-
-### KR-32
-
-- **Original sources:** [ISO 21625:2020 official record](https://www.iso.org/standard/71279.html).
-- **Purpose for this article:** Ground material naming, product taxonomy, trade descriptions, comparisons, and specifications.
-- **Safe grounded facts:** A culm, strip, sliver, mat, panel, laminated product, engineered product, and completed furniture or structure are not interchangeable evidence objects.
-- **Limits:** Obtain the full current vocabulary, Indonesian/local names, botanical identity, processing history, product construction, and supplier documentation under G-23.
-
-### KR-35
-
-- **Original sources:** [ISO 6128:2023 official record](https://www.iso.org/standard/82086.html).
-- **Purpose for this article:** Ground laminated furniture stock, construction, requirements/tests, handling, storage, packaging, and marking.
-- **Safe grounded facts:** An ISO 6128 scope match does not prove a specific product complies, and indoor furniture material evidence cannot be transferred to outdoor, structural, food-contact, or electrical use.
-- **Limits:** Obtain the current full standard, product construction/adhesive/finish, intended indoor use, reports, production equivalence, handling/storage history, and acceptance evidence under G-01/G-04/G-07/G-23.
-
-## Evidence gates
-
-- **TOPIC-GATE:** G-16, G-17, G-18, G-19, G-22, G-23
-
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
-
-## Internal-link plan
-
-### Existing local routes
-
-- `/meja-bambu-yogyakarta.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/meja-bambu-yogyakarta` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/meja-bambu-wonosobo.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/meja-bambu-wonosobo` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/meja-bambu-wonogiri.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/meja-bambu-wonogiri` — use only if it helps the reader's next step; verify the anchor describes the destination.
-
-### Planned sibling articles
-
-These are future routes. Do not link them as live until their HTML exists.
-
-- `BFU-07-01` → `/artikel/memilih-meja-bambu.html` — Panduan Memilih Meja Bambu
-- `BFU-07-03` → `/artikel/top-meja-bambu.html` — Top Meja Bambu Utuh, Bilah, atau Laminasi
-- `BFU-07-04` → `/artikel/desain-minibar-bambu.html` — Minibar Bambu: Counter, Storage, dan Service Side
-
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
+*Ilustrasi umum dari aset lokal Furnitur.co.id; bukan dokumentasi proyek tertentu.*
 
 ## Jawaban singkat dan salah paham utama
 
-- **Purpose:** Jawab pertanyaan judul dalam pembuka dan luruskan miskonsepsi yang paling berbahaya.
-- **Tie back to this article:** Keep the explanation specific to “Meja Makan, Meja Kerja, dan Meja Kopi Bambu”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Gunakan top yang cukup untuk aktivitas, rangka yang menjaga geometri tetap stabil, dan penyimpanan hanya jika barang memang perlu berada di meja. Untuk makan, prioritaskan tepi yang mudah dibersihkan dan ruang duduk yang tidak terganggu kaki meja. Untuk kerja, prioritaskan tinggi dan ruang kaki yang dapat dicoba oleh pengguna, lalu sediakan interface—bukaan atau jalur untuk kabel dan perangkat—yang tidak melemahkan rangka. Untuk kopi, prioritaskan akses dari beberapa arah, proporsi rendah yang tidak mengganggu pandangan, dan bobot yang masih dapat ditangani saat dipindahkan.
+
+Salah paham yang sering muncul adalah menganggap semua bambu, semua laminasi, atau semua sambungan memiliki perilaku sama. ISO 21625 menempatkan culm, strip, sliver, mat, panel, produk laminasi, dan furnitur jadi sebagai objek yang berbeda; deskripsi dagang tidak menggantikan informasi konstruksi ([ISO 21625:2020](https://www.iso.org/standard/71279.html)). Karena itu, minta penjelasan tentang susunan top, jenis sambungan, lapisan akhir, dan penggunaan yang dituju sebelum menyamakan dua penawaran.
 
 ## Definisi dan batas objek
 
-- **Purpose:** Jelaskan apa yang dibahas, apa yang tidak, dan mengapa batas itu mengubah keputusan.
-- **Tie back to this article:** Keep the explanation specific to “Meja Makan, Meja Kerja, dan Meja Kopi Bambu”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Artikel ini membahas meja rumah atau ruang kerja ringan menurut use case: makan, bekerja, minum kopi, dan fungsi bar yang hanya membutuhkan bidang servis atau makan berdiri. “Top” berarti bidang atas meja; “rangka” berarti kaki, apron, penyangga, dan sambungan yang menerima serta menyalurkan gaya; “interface” berarti titik interaksi dengan pengguna, kursi, kabel, perangkat, atau dinding.
+
+Yang tidak dibahas adalah pengganti desain struktur, perhitungan ergonomi universal, penetapan beban aman, atau persetujuan instalasi proyek. Meja bar yang menahan pemasangan tetap ke dinding, meja dengan perangkat listrik, dan meja di area luar ruang memerlukan spesifikasi serta pemeriksaan tersendiri. Material furnitur laminasi untuk penggunaan indoor juga tidak otomatis menjadi bukti untuk penggunaan outdoor, struktural, kontak pangan, atau listrik ([ISO 6128:2023](https://www.iso.org/standard/82086.html)).
 
 ## Cara kerjanya
 
-- **Purpose:** Terangkan mekanisme, urutan, pelaku, material/sistem, dan antarmuka secara sebab-akibat.
-- **Tie back to this article:** Keep the explanation specific to “Meja Makan, Meja Kerja, dan Meja Kopi Bambu”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Mulai dari urutan aktivitas. Catat posisi badan, arah pendekatan, benda yang masuk dan keluar, serta titik pembersihan. Dari catatan itu tentukan bentuk top: persegi panjang membantu pembagian sisi; bundar memudahkan percakapan dari beberapa arah; top sempit cocok untuk servis atau bar, tetapi tidak otomatis cocok sebagai meja kerja.
+
+Selanjutnya, cocokkan rangka dengan jalur gaya dan gerak. Kaki yang ditempatkan terlalu dekat tepi dapat mengganggu lutut; penyangga yang melintang dapat menutup ruang kaki; bukaan untuk kabel dapat memotong bagian yang seharusnya mengikat rangka. Tanyakan apakah sambungan dapat diperiksa, dikencangkan, dan diganti tanpa membongkar seluruh meja.
+
+Penyimpanan adalah keputusan antarmuka, bukan bonus dekoratif. Laci atau rak di meja kerja harus dapat dijangkau tanpa memaksa pengguna berdiri atau memutar badan. Pada meja makan, penyimpanan yang menampung barang servis harus tetap memungkinkan pembersihan. Pada meja kopi, rak rendah dapat menjadi titik benturan atau penampung debu jika jalur sirkulasi sempit.
+
+Untuk tinggi kerja, gunakan mock-up sederhana dari kardus atau meja sementara, lalu coba dengan kursi dan perangkat yang benar-benar dipakai. Ukuran pengguna, tugas, durasi, postur, jangkauan, dan perubahan posisi memengaruhi kecocokan; tidak ada satu angka “ergonomis” yang berlaku bagi semua orang ([ISO 24496:2021](https://www.iso.org/standard/76831.html)).
 
 ## Faktor yang mengubah hasil
 
-- **Purpose:** Kelompokkan kondisi proyek, penggunaan, lingkungan, pelaksanaan, dan bukti yang relevan.
-- **Tie back to this article:** Keep the explanation specific to “Meja Makan, Meja Kerja, dan Meja Kopi Bambu”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Top yang tampak kuat dapat berperilaku berbeda ketika konstruksi, perekat, lapisan akhir, atau sambungannya berubah. Untuk keputusan pengadaan, minta lembar spesifikasi yang menyebut bahan, susunan lapisan, dimensi yang disepakati, detail tepi, serta kondisi indoor atau outdoor. Jangan mengubah spesifikasi itu di lapangan tanpa menilai ulang sambungan dan kestabilan.
+
+Lingkungan juga mengubah pilihan. Tumpahan cairan, panas kering, gesekan, goresan, dan cara membersihkan harus dicocokkan dengan lapisan akhir dan instruksi perawatan. Metode uji untuk cairan dingin, abrasi, goresan, atau panas hanya bermakna bila spesimen, lapisan, paparan, dan skala hasilnya cocok dengan produk yang ditawarkan ([ISO 4211-1:2025](https://www.iso.org/standard/85716.html), [ISO 4211-5:2021](https://www.iso.org/standard/76931.html), [ISO 4211-6:2025](https://www.iso.org/standard/86789.html), [ISO 4211-3:2013](https://www.iso.org/standard/55267.html)).
+
+Kawan Furnitur.co.id, perhatikan pula perubahan penggunaan. Meja kerja yang sesekali dipakai makan tidak otomatis menjadi meja makan untuk pemakaian berulang; meja kopi yang dinaiki anak atau dijadikan bangku telah menerima perilaku di luar skenario awal. Lantai tidak rata, komponen hilang, kerusakan, laci terbuka, atau ekstensi yang ditarik dapat mengubah kestabilan. Penentuan anchor, beban aman, dan kelayakan instalasi harus menunggu metode lengkap, instruksi produk, survei substrat, serta tinjauan kompeten **[NEEDS TECHNICAL REVIEW: G-16, G-17, G-18, G-19, G-22, G-23]**.
 
 ## Contoh keputusan praktis
 
-- **Purpose:** Berikan skenario bersyarat atau tabel keputusan; tandai asumsi dan jangan mengarang pengalaman.
-- **Tie back to this article:** Keep the explanation specific to “Meja Makan, Meja Kerja, dan Meja Kopi Bambu”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Gunakan tabel ini sebagai penyaring awal, bukan spesifikasi final:
+
+| Skenario | Prioritas top dan interface | Rangka/penyimpanan yang perlu dicek |
+|---|---|---|
+| Makan harian | Area makan, tepi mudah dibersihkan, akses kursi dari sisi yang direncanakan | Kaki tidak menghalangi lutut; rak tidak menjadi perangkap kotoran |
+| Kerja laptop dan tulis | Bidang untuk perangkat, jangkauan kabel, posisi duduk yang bisa dicoba | Ruang kaki, jalur kabel, laci yang tidak mengganggu paha |
+| Kopi dan tamu | Akses beberapa arah, mudah dipindahkan, tidak menutup pandangan | Kaki tidak menjadi titik tersandung; rak hanya bila sirkulasi cukup |
+| Bar/servis | Top memanjang sesuai arah servis dan tinggi yang diuji dengan pengguna | Tumpuan dan sambungan perlu diperiksa; pisahkan kebutuhan duduk, berdiri, atau pemasangan tetap |
+
+Misalnya, ruang kecil dengan makan dan kerja bergantian mungkin membutuhkan top yang dapat dikosongkan cepat serta penyimpanan minimum. Jangan menyelesaikan konflik itu dengan memperbesar meja sebelum menguji jalur kursi, bukaan laci, dan akses pembersihan. Teman Furnitur.co.id, buat denah pita di lantai untuk menandai top, kursi, dan jalur lewat; catat apa yang bertabrakan sebelum meminta ukuran produksi.
 
 ## Kesalahan umum dan cara memeriksanya
 
-- **Purpose:** Bongkar shortcut umum lalu ubah menjadi pertanyaan/checklist verifikasi.
-- **Tie back to this article:** Keep the explanation specific to “Meja Makan, Meja Kerja, dan Meja Kopi Bambu”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Pertama, memilih berdasarkan foto atau nama “solid” tanpa dokumen konstruksi. Periksa apakah top benar-benar panel, bilah, atau laminasi; minta detail sambungan dan lapisan akhir. Kedua, menyalin tinggi meja dari ruang lain. Coba dengan kursi, alas kaki, monitor, atau alat makan yang akan digunakan. Ketiga, menambah laci, rak, atau lubang kabel setelah desain jadi. Tanyakan sejak awal bagian mana yang boleh dilubangi dan bagaimana pengaruhnya pada rangka.
 
-## Objection or shortcut to address
+Keempat, menyamakan klaim uji dengan jaminan pemakaian. Catat identitas benda uji, konfigurasi, edisi metode, hasil, dan kesetaraan dengan barang yang Anda terima. Kelima, mengabaikan perawatan. Minta daftar pembersih yang diizinkan, tindakan untuk tumpahan, dan siapa yang memeriksa kerusakan. Jika jawabannya hanya “tahan lama” atau “anti-gores” tanpa kondisi dan laporan yang jelas, tandai sebagai pertanyaan terbuka, bukan fakta.
 
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
+## Jalan pintas yang perlu dihindari
 
-## Required conclusion
+Jalan pintas yang menggoda adalah membeli satu model lalu memakainya untuk makan, kerja, kopi, dan bar tanpa mengubah apa pun. Cara itu dapat gagal karena tinggi, jangkauan, ruang kaki, paparan cairan, dan perilaku pengguna berbeda. Alternatif yang lebih andal adalah memilih satu fungsi utama, menuliskan fungsi sekunder, lalu meminta penjual atau pembuat menunjukkan batas penggunaannya dan dokumen yang mendukung. Untuk instalasi tetap, perubahan struktur, atau kondisi yang belum terjawab, hentikan keputusan final sampai tinjauan teknis selesai.
 
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
+## Kesimpulan
 
-## Draft completion checklist
+Meja makan bambu dipilih untuk makan dan perawatan; meja kerja untuk postur, ruang kaki, perangkat, dan kabel; meja kopi untuk akses, sirkulasi, serta pemindahan. Top, rangka, penyimpanan, tinggi, dan interface harus mengikuti urutan aktivitas, bukan sebaliknya.
 
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Sobat Furnitur.co.id!` and uses friendly `Furnitur.co.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+Sebelum memesan, kirimkan skenario pemakaian, denah sederhana, daftar benda dan cara membersihkan, spesifikasi konstruksi/lapisan, serta pertanyaan tentang batas beban dan instalasi. Untuk membandingkan pilihan meja, Anda dapat mulai dari kategori [meja](/meja) dan [daftar produk](/produk), lalu tetap cocokkan spesifikasi dengan fungsi Anda. Minta pemeriksaan kompeten bila ada pemasangan tetap atau perubahan penggunaan. Aturan operasionalnya: jika fungsi, konstruksi, dan bukti penerimaan belum cocok, jangan mengubah asumsi menjadi ukuran produksi.

@@ -3,7 +3,8 @@ article_id: BFU-09-06
 title: "Checklist Assembly dan Acceptance Tempat Tidur Bambu"
 slug: "acceptance-tempat-tidur-bambu"
 description: "Menentukan ukuran, dukungan kasur, ventilasi, akses, kebisingan, dan kebutuhan kamar."
-status: outline
+status: draft
+writing_contract_version: "native-id-v2"
 publication_date: "2026-02-06"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -14,51 +15,113 @@ reader_address: "Kawan Furnitur.co.id"
 final_route: "/artikel/acceptance-tempat-tidur-bambu.html"
 technical_review: required
 sources:
-  - "https://www.iso.org/standard/73866.html"
-  - "https://www.iso.org/standard/76864.html"
-  - "https://www.iso.org/standard/73590.html"
   - "https://www.iso.org/standard/66310.html"
-  - "https://www.iso.org/standard/13773.html"
-  - "https://www.iso.org/standard/13774.html"
-  - "https://www.iso.org/standard/76831.html"
-  - "https://www.iso.org/cms/%20render/live/en/sites/isoorg/contents/data/standard/03/56/35608.html?browse=tc"
   - "https://www.iso.org/committee/52448/x/catalogue/p/1/u/0/w/0/d/0"
   - "https://www.ilo.org/publications/safety-and-health-wood-workshop"
   - "https://www.iso.org/standard/71279.html"
-  - "https://www.iso.org/standard/82086.html"
 ---
-
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
 
 # Checklist Assembly dan Acceptance Tempat Tidur Bambu
 
-## Assignment lock
+Halo, Kawan Furnitur.co.id! Acceptance tempat tidur bambu bukan sekadar melihat apakah rangka sudah berdiri. Unit baru boleh diterima setelah ukuran aktual cocok dengan kasur dan kamar, tumpuan kasur bekerja merata, akses serta ventilasi tidak terhalang, dan tidak ada gerakan atau bunyi yang belum dijelaskan. Jika salah satu bukti penting belum tersedia, statusnya **belum diterima**, bukan langsung dianggap aman.
 
-- **Writer task:** Expand this file into one complete article answering: “Checklist Assembly dan Acceptance Tempat Tidur Bambu”
-- **Reader and situation:** Menentukan ukuran, dukungan kasur, ventilasi, akses, kebisingan, dan kebutuhan kamar.
-- **Reader outcome:** Menentukan ukuran, dukungan kasur, ventilasi, akses, kebisingan, dan kebutuhan kamar.
-- **Primary intent:** Memeriksa unit terpasang
-- **Reader community:** `Furnitur.co.id`
-- **Primary friendly address:** `Kawan Furnitur.co.id`
-- **Natural variants:** `Sobat Furnitur.co.id` and `Teman Furnitur.co.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** Fokus handover bedroom; delivery dimiliki BFU-15.
-- **Final public route:** `/artikel/acceptance-tempat-tidur-bambu.html`
-- **Appointed CMS date:** `2026-02-06` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
+Mulailah dengan membandingkan gambar atau pesanan, instruksi perakitan, dan kondisi terpasang. Catat ukuran aktual, komponen yang terpasang, serta perubahan di lapangan. Standar tempat tidur dewasa seperti ISO 19833 dapat membantu mengidentifikasi objek, konfigurasi, dan jenis pemeriksaan yang relevan, tetapi halaman katalog tidak membuktikan unit tertentu lulus uji atau menetapkan angka beban untuk proyek Anda ([ISO 19833:2018](https://www.iso.org/standard/66310.html)). Karena itu, checklist ini adalah alat handover kamar; nilai beban, detail jangkar, dan keputusan struktural tetap memerlukan dokumen produk serta review teknis yang sesuai.
 
-## Opening instructions
+![Ilustrasi furnitur bambu](/wp-content/uploads/2022/04/furnitur-bambu.jpg)
 
-- Open with the exact short salutation: **“Halo, Kawan Furnitur.co.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Checklist Assembly dan Acceptance Tempat Tidur Bambu**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Kawan Furnitur.co.id`, `Sobat Furnitur.co.id`, or `Teman Furnitur.co.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
+*Ilustrasi umum dari aset lokal Furnitur.co.id; bukan dokumentasi proyek tertentu.*
 
+## Hasil akhir dan prasyarat
 
-<!-- BEGIN MANAGED IMAGE PLAN -->
+Hasil yang dicari adalah satu unit terpasang yang dapat dicocokkan dengan identitas produknya, diperiksa tanpa membongkar secara spekulatif, dan diserahkan bersama catatan terbuka. Orang yang menyatakan “diterima” harus ditunjuk oleh pemilik atau pengelola proyek; perakit hanya menyampaikan hasil dan temuan. Untuk kondisi yang memengaruhi keselamatan, minta review kompeten sebelum kamar dipakai.
+
+Siapkan setidaknya:
+
+| Bukti atau alat | Untuk apa |
+| --- | --- |
+| Pesanan, gambar, dan revisi terakhir | Mencocokkan ukuran, orientasi, dan fitur yang dijanjikan |
+| Instruksi produk dan daftar komponen | Memastikan sambungan, bilah penyangga, kaki, dan hardware tidak tertinggal |
+| Meteran, alat ukur kerataan, dan kamera | Merekam ukuran serta kondisi, bukan menebak dari tampilan |
+| Kasur yang akan dipakai atau spesifikasi resminya | Menguji kecocokan aktual, celah, dan akses |
+| Form inspeksi dan daftar punch list | Memisahkan item diterima, diperbaiki, atau ditahan |
+
+Data awal yang belum ada harus ditandai: **[NEEDS PROJECT DATA: ukuran kasur dan ruang, konfigurasi penyangga, deklarasi beban, serta instruksi produk]**. Tanpa itu, pemeriksaan hanya dapat menyatakan kondisi visual dan kecocokan yang terukur pada hari inspeksi.
+
+## Langkah 1 — tetapkan cakupan
+
+Tuliskan batas pekerjaan sebelum menyentuh unit. Scope ini mencakup assembly di kamar, pemeriksaan rangka dan penyangga kasur, kesesuaian dengan ruang, akses untuk penggunaan dan pembersihan, ventilasi di bawah kasur, serta bunyi atau gerakan saat pemeriksaan ringan. Delivery, pengangkutan, dan kerusakan yang terjadi sebelum unit tiba adalah milik alur delivery terpisah; jangan mencampurnya ke berita acara handover kamar.
+
+Buat identitas unit: nomor kamar, kode produk, sisi kepala-kaki, ukuran nominal, dan tanggal pemeriksaan. Tandai juga antarmuka yang bukan bagian dari unit, misalnya lantai, dinding, stopkontak, lis, atau furnitur lain. Jika ranjang menempel ke dinding, pastikan gambar atau instruksi memang mengizinkannya; jangan membuat jangkar baru hanya agar tampak kokoh.
+
+Kawan Furnitur.co.id, scope yang jelas mencegah dua kesalahan: menerima rangka yang belum cocok dengan kasur, atau meminta perakit menyelesaikan masalah struktur kamar yang berada di luar paketnya. Setiap perubahan posisi, kaki tambahan, atau penggantian hardware dicatat sebagai deviasi dan menunggu persetujuan.
+
+## Langkah 2 — kumpulkan dan cocokkan bukti
+
+Periksa urutan bukti dari yang paling mudah diverifikasi. Pertama, cocokkan jumlah dan identitas komponen dengan daftar produk. Kedua, cocokkan orientasi dan dimensi aktual dengan gambar. Ketiga, periksa sambungan, kaki, bilah atau panel penyangga, serta bagian yang dapat bergerak. Katalog ISO furniture mengelompokkan persoalan berdasarkan produk dan konfigurasi; jenis benda, konstruksi, dan penggunaan harus cocok sebelum suatu metode pemeriksaan dipilih ([ISO/TC 136 catalogue](https://www.iso.org/committee/52448/x/catalogue/p/1/u/0/w/0/d/0)).
+
+Untuk ukuran, ukur panjang dan lebar bidang kasur, tinggi permukaan setelah kasur ditempatkan, jarak ke dinding, dan ruang sirkulasi yang benar-benar tersedia. Jangan mengisi toleransi yang tidak ada di gambar. Catat metode ukur dan titik acuannya sehingga pengukuran dapat diulang.
+
+Untuk dukungan kasur, pastikan seluruh bilah, panel, atau balok tumpuan berada pada posisi yang ditentukan, duduk pada dudukan masing-masing, dan tidak memiliki ujung lepas. Periksa apakah beban akan tersalurkan ke kaki dan rangka, bukan hanya ke satu bilah. Beban aman tidak boleh disimpulkan dari jenis bambu atau dari keberhasilan menekan satu titik; minta deklarasi produk atau perhitungan yang berlaku untuk konfigurasi tersebut.
+
+Untuk material, bedakan bambu utuh, strip, anyaman, panel, atau material laminasi. Nama material saja tidak membuktikan konstruksi, perekat, finishing, atau kesetaraan produksi. ISO 21625 menyediakan kerangka penamaan, tetapi identitas material lokal dan riwayat proses tetap perlu dokumen pemasok ([ISO 21625:2020](https://www.iso.org/standard/71279.html)).
+
+## Langkah 3 — jalankan urutan kerja
+
+Ikuti urutan yang dapat diaudit, tanpa memaksa komponen yang tidak cocok.
+
+1. **Kondisikan kamar.** Pastikan lantai telah selesai, area kerja cukup terang, dan jalur keluar-masuk tidak tertutup. Foto kondisi awal dan nomor unit.
+2. **Verifikasi assembly.** Cocokkan setiap sambungan dengan instruksi; periksa kepala sekrup, baut, pasak, pengunci, dan penutup. Jangan mengencangkan berlebihan atau mengebor ulang tanpa metode yang disetujui.
+3. **Periksa kerataan dan kontak.** Uji apakah semua kaki menyentuh lantai sesuai rancangan. Gan­jal sementara bukan perbaikan permanen; tandai bila lantai atau kaki memerlukan koreksi.
+4. **Uji kecocokan kasur.** Tempatkan kasur yang ditentukan atau gunakan ukurannya. Amati bidang tumpu, celah yang tidak direncanakan, ketinggian, dan apakah seprai atau pelindung mengganggu gerak.
+5. **Periksa ventilasi dan akses.** Pastikan ruang udara di bawah kasur tidak tertutup barang, panel, atau karpet. Pastikan sisi yang harus diakses untuk merapikan, membersihkan, atau memeriksa sambungan dapat dijangkau tanpa memindahkan unit secara berbahaya.
+6. **Amati kebisingan dan gerak.** Dengan prosedur ringan yang disetujui, periksa bunyi berulang, goyangan, gesekan, atau kontak dengan dinding. Catat kondisi pemicu dan lokasinya; jangan menyimpulkan penyebab hanya dari suara.
+7. **Dokumentasikan hasil.** Tandai lulus, perbaikan, atau hold pada tiap item dan ambil foto yang menunjukkan titik temuan.
+
+Instruksi keselamatan kerja kayu ILO mengingatkan bahwa pekerjaan bengkel dan penanganan material membutuhkan pengendalian bahaya yang sesuai; area harus dijaga agar pemeriksaan tidak menambah risiko tersandung, terjepit, atau terkena alat ([ILO safety and health in wood workshops](https://www.ilo.org/publications/safety-and-health-wood-workshop)). Untuk komponen berat atau penyesuaian yang memerlukan pembongkaran, hentikan pemeriksaan mandiri dan gunakan personel berwenang.
+
+## Titik tahan dan kondisi berhenti
+
+Tahan penerimaan bila ada satu saja kondisi berikut:
+
+- ukuran kasur, ruang, atau orientasi berbeda dari dokumen dan belum disetujui;
+- bilah atau panel penyangga hilang, retak, bergeser, atau tidak bertumpu penuh;
+- kaki tidak stabil, lantai tidak rata, sambungan longgar, atau unit bergeser saat uji ringan;
+- diperlukan jangkar ke dinding/lantai tetapi substrat, fastener, dan detail pemasangannya belum ditentukan;
+- bunyi keras atau gerak muncul dan sumbernya tidak dapat diidentifikasi;
+- ada tepi tajam, serpihan, bau finishing yang mengganggu, atau kerusakan yang dapat mencederai pengguna;
+- instruksi produk, deklarasi beban, atau catatan perubahan tidak tersedia.
+
+Pada kondisi ini tulis **[NEEDS TECHNICAL REVIEW: verifikasi konfigurasi, beban, stabilitas, dan metode perbaikan sebelum digunakan]**. Jangan menerbitkan angka beban, jenis jangkar universal, atau klaim “aman” berdasarkan observasi singkat. Jika perbaikan mengubah sambungan atau distribusi beban, minta pemeriksaan ulang terhadap unit lengkap; metode uji furnitur berlaku pada objek dan konfigurasi yang tepat, bukan pada potongan material secara terpisah.
+
+## Verifikasi hasil dan serah terima
+
+Gunakan lembar yang memisahkan fakta dari keputusan. Contoh kolom minimum:
+
+| Item | Bukti yang dicatat | Keputusan |
+| --- | --- | --- |
+| Identitas dan ukuran | Kode unit, ukuran terukur, gambar acuan | Terima / tahan |
+| Rangka dan sambungan | Komponen lengkap, kondisi, foto | Terima / perbaiki |
+| Dukungan kasur | Jenis penyangga, kontak, konfigurasi | Terima / tahan |
+| Kerataan dan stabilitas | Titik kaki, gerak saat prosedur | Terima / review |
+| Ventilasi dan akses | Jalur udara serta ruang pemeriksaan | Terima / koreksi |
+| Bunyi atau gesekan | Lokasi, pemicu, rekaman | Terima / investigasi |
+| Dokumen | Instruksi, deviasi, punch list | Lengkap / belum |
+
+Handover hanya ditandatangani setelah item wajib berstatus selesai atau ada persetujuan tertulis atas pekerjaan tersisa. Lampirkan foto sebelum dan sesudah koreksi, daftar komponen pengganti, serta tanggal pemeriksaan ulang. Bila unit akan dipindahkan, disimpan, atau dipasang ulang, anggap acceptance sebelumnya tidak otomatis berlaku; perubahan lantai, dinding, posisi, atau hardware dapat mengubah stabilitas.
+
+## Jalan pintas yang sering gagal
+
+Jalan pintas yang umum adalah menerima unit setelah menggoyangkan kepala ranjang sekali dan melihat kasur “muat”. Cara ini gagal karena tidak memeriksa seluruh jalur beban, kontak setiap penyangga, akses pembersihan, atau bunyi yang muncul saat pengguna bergerak. Ia juga dapat menyembunyikan ketidaksesuaian ukuran di sisi yang tidak terlihat.
+
+Alternatif yang lebih dapat dipercaya adalah mencocokkan dokumen, mengukur titik yang sama, menjalankan urutan pemeriksaan, lalu menahan item yang belum punya bukti. Teman Furnitur.co.id, beberapa menit tambahan untuk foto dan punch list jauh lebih berguna daripada tanda tangan yang menghapus temuan tanpa pemilik tindakan.
+
+## Kesimpulan
+
+Checklist assembly dan acceptance tempat tidur bambu harus menjawab enam hal: apakah unit dan ukurannya sesuai, apakah kasur ditopang merata, apakah ventilasi serta akses tetap tersedia, apakah rangka stabil tanpa bunyi atau gerak yang tidak dijelaskan, apakah kamar siap dipakai, dan apakah semua deviasi memiliki pemilik serta tindak lanjut. Jawaban “ya” hanya sah untuk item yang benar-benar diukur atau didukung dokumen.
+
+Langkah berikutnya adalah mengisi lembar inspeksi bersama pemilik proyek, melampirkan gambar serta instruksi produk, dan meminta **[NEEDS TECHNICAL REVIEW]** untuk beban, jangkar, perubahan konstruksi, atau gejala yang belum terdiagnosis. Jika Anda masih menyusun pilihan unit, gunakan [kategori tempat tidur](/tempat-tidur) atau [halaman produk](/produk) sebagai titik koordinasi berikutnya, lalu kembali ke checklist ini saat unit tiba. Aturan operasinya sederhana: bila konfigurasi atau bukti berubah, ulangi pemeriksaan sebelum tempat tidur dipakai.
+
+<!-- BEGIN MANAGED IMAGE PLAN
 ## Image plan
 
 - **Image ID:** `LOCAL-001`
@@ -69,150 +132,4 @@ sources:
 - **Selection basis:** filename/source metadata identifies `furnitur bambu` as relevant content media; no pixels were inspected.
 - **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
 - **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-001]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
-
-## Evidence packet
-
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
-
-### KR-25
-
-- **Original sources:** [ISO 7173:2023 — chairs/stools](https://www.iso.org/standard/73866.html), [ISO 7170:2021 — storage units](https://www.iso.org/standard/76864.html), [ISO 19682:2023 — tables/desks](https://www.iso.org/standard/73590.html), and [ISO 19833:2018 — adult beds](https://www.iso.org/standard/66310.html).
-- **Purpose for this article:** Ground product taxonomy, strength/durability/stability, configuration, procurement, QC, diagnosis, and safety articles.
-- **Safe grounded facts:** Product family, intended user/use, complete assembled specimen, configuration, materials, joints/hardware, dimensions, loading/cycles, conditioning, failure/result, edition, and acceptance document determine applicability.
-- **Limits:** Public abstracts do not supply test values or prove a product passes. ISO 7173:2023 is already marked for revision. Resolve current full methods, exact specimen-to-offer equivalence, laboratory scope, results, and Indonesian/project acceptance under G-16.
-
-### KR-26
-
-- **Original sources:** [ISO 7174-1:1988 — upright chairs/stools](https://www.iso.org/standard/13773.html), [ISO 7174-2:1992 — reclining/rocking chairs](https://www.iso.org/standard/13774.html), and [ISO 7170:2021 — storage units](https://www.iso.org/standard/76864.html).
-- **Purpose for this article:** Support stability, anchoring, moving parts, loading, misuse, children, installation, inspection, and urgent-hazard articles.
-- **Safe grounded facts:** Open drawers/doors, extension, load location, adjustable/reclined state, floor level, wall/substrate/anchor, user behavior, damage, missing components, and installation change stability.
-- **Limits:** Do not publish a universal anchor, safe load, test force, or pass claim. Obtain the complete applicable method/requirement, product instructions/report, site/substrate survey, installation design, and competent review under G-17.
-
-### KR-27
-
-- **Original sources:** [ISO 24496:2021 — office-chair dimension methods](https://www.iso.org/standard/76831.html) and [ISO 21015:2007 — office work-chair stability/strength/durability](https://www.iso.org/cms/%20render/live/en/sites/isoorg/contents/data/standard/03/56/35608.html?browse=tc).
-- **Purpose for this article:** Bound anthropometry, dimensions, posture/task fit, adjustability, accessibility, and office-chair claims.
-- **Safe grounded facts:** User population, task, duration, posture changes, adjustability, reach, transfer, circulation, clothing/equipment, trial fit, and maintenance all affect usability.
-- **Limits:** No universal “ergonomic” dimension, accessibility compliance, medical benefit, or fit claim without current Indonesian requirements, user/task evidence, applicable product standard, trial, and ergonomics/accessibility review under G-18.
-
-### KR-29
-
-- **Original sources:** [ISO/TC 136 current furniture catalogue](https://www.iso.org/committee/52448/x/catalogue/p/1/u/0/w/0/d/0), [ISO 7170:2021](https://www.iso.org/standard/76864.html), and [ILO wood-workshop guidance](https://www.ilo.org/publications/safety-and-health-wood-workshop).
-- **Purpose for this article:** Support joints, hinges/slides/extensions, mechanisms, built-ins, anchoring, delivery, installation, relocation, adjustment, and handover.
-- **Safe grounded facts:** Hardware/product identity, declared load/use, mounting material/thickness, fastener/edge distances, alignment, travel/clearance, stops/locks, wall/floor substrate, services, access, inspection, and instructions form the evidence chain.
-- **Limits:** Obtain exact hardware/furniture instructions and reports, site/substrate survey, approved drawings/method, competent installer, safe-work plan, tests, and handover under G-20.
-
-### KR-32
-
-- **Original sources:** [ISO 21625:2020 official record](https://www.iso.org/standard/71279.html).
-- **Purpose for this article:** Ground material naming, product taxonomy, trade descriptions, comparisons, and specifications.
-- **Safe grounded facts:** A culm, strip, sliver, mat, panel, laminated product, engineered product, and completed furniture or structure are not interchangeable evidence objects.
-- **Limits:** Obtain the full current vocabulary, Indonesian/local names, botanical identity, processing history, product construction, and supplier documentation under G-23.
-
-### KR-35
-
-- **Original sources:** [ISO 6128:2023 official record](https://www.iso.org/standard/82086.html).
-- **Purpose for this article:** Ground laminated furniture stock, construction, requirements/tests, handling, storage, packaging, and marking.
-- **Safe grounded facts:** An ISO 6128 scope match does not prove a specific product complies, and indoor furniture material evidence cannot be transferred to outdoor, structural, food-contact, or electrical use.
-- **Limits:** Obtain the current full standard, product construction/adhesive/finish, intended indoor use, reports, production equivalence, handling/storage history, and acceptance evidence under G-01/G-04/G-07/G-23.
-
-## Evidence gates
-
-- **TOPIC-GATE:** G-16, G-17, G-18, G-20, G-22, G-23
-
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
-
-## Internal-link plan
-
-### Existing local routes
-
-- `/tempat-tidur-bambu-yogyakarta.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/tempat-tidur-bambu-yogyakarta` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/tempat-tidur-bambu-wonosobo.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/tempat-tidur-bambu-wonosobo` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/tempat-tidur-bambu-wonogiri.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/tempat-tidur-bambu-wonogiri` — use only if it helps the reader's next step; verify the anchor describes the destination.
-
-### Planned sibling articles
-
-These are future routes. Do not link them as live until their HTML exists.
-
-- `BFU-09-04` → `/artikel/headboard-bambu.html` — Headboard Bambu: Batang, Panel, atau Anyaman
-- `BFU-09-05` → `/artikel/tempat-tidur-bambu-berbunyi.html` — Bunyi pada Tempat Tidur Bambu: Sambungan atau Permukaan?
-
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
-
-## Hasil akhir dan prasyarat
-
-- **Purpose:** Nyatakan hasil yang ingin dicapai, siapa yang berwenang, data awal, alat/dokumen, dan kondisi yang harus tersedia.
-- **Tie back to this article:** Keep the explanation specific to “Checklist Assembly dan Acceptance Tempat Tidur Bambu”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Langkah 1 — tetapkan scope
-
-- **Purpose:** Jelaskan objek, batas pekerjaan, antarmuka, risiko, serta hal yang sengaja tidak dikerjakan.
-- **Tie back to this article:** Keep the explanation specific to “Checklist Assembly dan Acceptance Tempat Tidur Bambu”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Langkah 2 — kumpulkan dan cocokkan bukti
-
-- **Purpose:** Susun dokumen, observasi, data, produk, atau standar yang harus cocok dengan kasus.
-- **Tie back to this article:** Keep the explanation specific to “Checklist Assembly dan Acceptance Tempat Tidur Bambu”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Langkah 3 — jalankan urutan kerja
-
-- **Purpose:** Berikan urutan konseptual yang dapat diikuti tanpa berubah menjadi instruksi teknis berbahaya.
-- **Tie back to this article:** Keep the explanation specific to “Checklist Assembly dan Acceptance Tempat Tidur Bambu”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Hold point dan kondisi berhenti
-
-- **Purpose:** Nyatakan kapan pekerjaan tidak boleh diteruskan tanpa review, tes, atau persetujuan.
-- **Tie back to this article:** Keep the explanation specific to “Checklist Assembly dan Acceptance Tempat Tidur Bambu”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Verifikasi hasil dan handover
-
-- **Purpose:** Buat checklist penerimaan, rekaman, tindak lanjut, dan pemicu koreksi.
-- **Tie back to this article:** Keep the explanation specific to “Checklist Assembly dan Acceptance Tempat Tidur Bambu”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Objection or shortcut to address
-
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
-
-## Required conclusion
-
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
-
-## Draft completion checklist
-
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Kawan Furnitur.co.id!` and uses friendly `Furnitur.co.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+END MANAGED IMAGE PLAN -->

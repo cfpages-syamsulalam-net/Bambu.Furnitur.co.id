@@ -1,9 +1,10 @@
 ---
 article_id: BFU-02-03
+writing_contract_version: "native-id-v2"
 title: "Tanda Jamur, Hama, dan Kerusakan Awal pada Bambu"
 slug: "tanda-jamur-hama-bambu"
 description: "Menilai kadar air, hama, jamur, treatment, penyimpanan, dan bukti mutu sebelum produksi."
-status: outline
+status: draft
 publication_date: "2025-08-16"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -16,193 +17,91 @@ technical_review: required
 sources:
   - "https://www.iso.org/standard/40502.html?browse=ics"
   - "https://research.fs.usda.gov/fpl/wood-handbook"
-  - "https://www.ilo.org/publications/safety-and-health-wood-workshop"
   - "https://www.iso.org/standard/46556.html"
-  - "https://www.ilo.org/resource/other/code-practice-safety-and-health-forestry-work"
   - "https://www.iso.org/cms/%20render/live/en/sites/isoorg/contents/data/standard/06/59/65950.html"
   - "https://www.iso.org/standard/65528.html?browse=tc"
+  - "https://www.ilo.org/publications/safety-and-health-wood-workshop"
+  - "https://www.ilo.org/resource/other/code-practice-safety-and-health-forestry-work"
 ---
 
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
+<!-- BEGIN MANAGED IMAGE PLAN
+Image ID: LOCAL-001
+Source type: local
+Placement: after the opening answer, before the first detailed H2
+**Exact Markdown to insert:** `![Ilustrasi furnitur bambu](/wp-content/uploads/2022/04/furnitur-bambu.jpg)`
+Caption/credit: Aset lokal proyek; jangan klaim sebagai dokumentasi proyek tertentu.
+Selection basis: filename/source metadata identifies furnitur bambu as relevant content media; no pixels were inspected.
+Hard boundary: do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
+Substitution rule: do not replace this image; if unavailable or provenance is incomplete, use [NEEDS IMAGE REVIEW: LOCAL-001].
+END MANAGED IMAGE PLAN -->
 
 # Tanda Jamur, Hama, dan Kerusakan Awal pada Bambu
 
-## Assignment lock
+Halo, Sobat Furnitur.co.id! Bambu dengan noda, lubang kecil, atau permukaan yang berubah tidak otomatis berarti harus dibuang, tetapi juga tidak aman langsung masuk produksi. Tanda tersebut perlu dipisahkan antara gejala permukaan, aktivitas hama, kelembapan berlebih, dan kerusakan yang sudah mengurangi bagian material. Keputusan yang masuk akal dimulai dari catatan dan pemeriksaan, bukan dari tebakan atau semprotan.
 
-- **Writer task:** Expand this file into one complete article answering: “Tanda Jamur, Hama, dan Kerusakan Awal pada Bambu”
-- **Reader and situation:** Menilai kadar air, hama, jamur, treatment, penyimpanan, dan bukti mutu sebelum produksi.
-- **Reader outcome:** Menilai kadar air, hama, jamur, treatment, penyimpanan, dan bukti mutu sebelum produksi.
-- **Primary intent:** Mengenali bahan bermasalah
-- **Reader community:** `Furnitur.co.id`
-- **Primary friendly address:** `Sobat Furnitur.co.id`
-- **Natural variants:** `Kawan Furnitur.co.id` and `Teman Furnitur.co.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** Fokus inspeksi/eskalasi; bukan formula pest treatment.
-- **Final public route:** `/artikel/tanda-jamur-hama-bambu.html`
-- **Appointed CMS date:** `2025-08-16` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
+Untuk penyaringan awal, tahan lot yang meragukan, petakan gejala, ukur kondisi yang dapat diukur, lalu minta penilaian kompeten bila kerusakan meluas atau fungsi produk dipertaruhkan. Kadar air, riwayat penyimpanan, identitas bahan, bukti treatment, dan kriteria penerimaan lot dapat mengubah keputusan. Standar dan buku teknis membantu kerangka pemeriksaan, tetapi tidak menggantikan kriteria proyek atau bukti bahan yang sedang Anda beli.
 
-## Opening instructions
+![Ilustrasi furnitur bambu](/wp-content/uploads/2022/04/furnitur-bambu.jpg)
 
-- Open with the exact short salutation: **“Halo, Sobat Furnitur.co.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Tanda Jamur, Hama, dan Kerusakan Awal pada Bambu**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Sobat Furnitur.co.id`, `Kawan Furnitur.co.id`, or `Teman Furnitur.co.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
-
-
-<!-- BEGIN MANAGED IMAGE PLAN -->
-## Image plan
-
-- **Image ID:** `LOCAL-001`
-- **Source type:** `local`
-- **Placement:** after the opening has answered the main question, before the first detailed H2
-- **Exact Markdown to insert:** `![Ilustrasi furnitur bambu](/wp-content/uploads/2022/04/furnitur-bambu.jpg)`
-- **Caption/credit:** Aset lokal proyek; jangan klaim sebagai dokumentasi proyek tertentu.
-- **Selection basis:** filename/source metadata identifies `furnitur bambu` as relevant content media; no pixels were inspected.
-- **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
-- **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-001]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
-
-## Evidence packet
-
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
-
-### KR-12
-
-- **Original sources:** [ISO 21887:2007, confirmed 2023](https://www.iso.org/standard/40502.html?browse=ics) and [USDA Wood Handbook](https://research.fs.usda.gov/fpl/wood-handbook).
-- **Purpose for this article:** Ground exposure/use class, natural durability, preservative selection, and prevention boundaries.
-- **Safe grounded facts:** Hazard exposure, species/sapwood, moisture, design detailing, treatment process, penetration/retention, compatibility, cut-end repair, and maintenance affect durability.
-- **Limits:** No chemical, dose, retention, application, re-entry, disposal, or warranty advice without current authorized label/SDS, applicable law, product evidence, and licensed specialist review under G-05/G-09.
-
-### KR-20
-
-- **Original sources:** [USDA Wood Handbook](https://research.fs.usda.gov/fpl/wood-handbook) and [ILO wood-workshop guidance](https://www.ilo.org/publications/safety-and-health-wood-workshop).
-- **Purpose for this article:** Support grain-aware machining, joinery, pilot holes, fastening, movement allowance, edge sealing, sanding, samples, and repairability.
-- **Safe grounded facts:** A sample/mockup and manufacturer instructions are needed where appearance, adhesion, compatibility, movement, or repairability matters.
-- **Limits:** Do not provide machine bypass, cutting parameters, chemical recipes, or structural joint design. Resolve through G-07/G-08/G-13.
-
-### KR-21
-
-- **Original sources:** [ISO 13822:2010 official record](https://www.iso.org/standard/46556.html) and [USDA Wood Handbook](https://research.fs.usda.gov/fpl/wood-handbook).
-- **Purpose for this article:** Ground inspection, maintenance, symptom diagnosis, repair, replacement, post-flood/fire, and reuse decisions.
-- **Safe grounded facts:** Baseline identity, drawings, exposure, measurements, moisture map, defect/activity, extent, concealed risk, temporary controls, cause, consequence, action, reviewer, and follow-up belong in the record.
-- **Limits:** No remaining capacity, safe occupancy, repair, interval, or reuse decision without project evidence and qualified review under G-09/G-10.
-
-### KR-22
-
-- **Original sources:** [ILO Safety and health at the wood workshop](https://www.ilo.org/publications/safety-and-health-wood-workshop) and [ILO 2025 forestry-work code](https://www.ilo.org/resource/other/code-practice-safety-and-health-forestry-work).
-- **Purpose for this article:** Support guarding, energy control, cutting/kickback, dust, noise, ergonomics, chemicals, fire, housekeeping, and emergency planning.
-- **Safe grounded facts:** Task, machine/material, energy, guards, extraction, noise/dust/chemical exposure, maintenance, competence, supervision, exclusion, housekeeping, fire, first aid, incident, and emergency/rescue controls must be site-specific.
-- **Limits:** ILO guidance is not an Indonesian legal compliance certificate. Resolve consolidated Indonesian K3 law, exposure assessment, equipment instructions, risk assessment, and competent review under G-13.
-
-### KR-33
-
-- **Original sources:** [ISO 22157:2019 official record](https://www.iso.org/cms/%20render/live/en/sites/isoorg/contents/data/standard/06/59/65950.html) and [ISO 19624:2018 official record](https://www.iso.org/standard/65528.html?browse=tc).
-- **Purpose for this article:** Ground moisture, density, dimensions, defects, grading, mechanical properties, and lot acceptance.
-- **Safe grounded facts:** Species, age, diameter, colour, seller grade, or one test result does not establish a lot’s characteristic values, furniture strength, joint behavior, or project acceptance.
-- **Limits:** Both records show revision activity in 2026. Obtain current complete editions, representative sampling, identity/maturity/location, seasoned condition, geometry/defects, test reports, grading/acceptance basis, and qualified interpretation under G-01/G-23.
-
-## Evidence gates
-
-- **TOPIC-GATE:** G-01, G-03, G-05, G-08, G-09, G-13, G-23, G-24
-
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
-
-## Internal-link plan
-
-### Existing local routes
-
-- `/tirai-bambu-polos-yogyakarta` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/tirai-bambu-polos-wonosobo.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/tirai-bambu-polos-wonosobo` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/tirai-bambu-polos-wonogiri` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/tirai-bambu-polos-tulungagung.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/tirai-bambu-polos-tulungagung` — use only if it helps the reader's next step; verify the anchor describes the destination.
-
-### Planned sibling articles
-
-These are future routes. Do not link them as live until their HTML exists.
-
-- `BFU-02-01` → `/artikel/checklist-mutu-bambu.html` — Checklist Mutu Bahan Bambu sebelum Produksi
-- `BFU-02-02` → `/artikel/pengeringan-bambu-furnitur.html` — Mengapa Pengeringan Bambu Penting untuk Furnitur?
-- `BFU-02-04` → `/artikel/pertanyaan-treatment-bambu.html` — Treatment Bambu: Pertanyaan yang Perlu Diajukan ke Pengrajin
-- `BFU-02-05` → `/artikel/penyimpanan-bahan-bambu.html` — Penyimpanan Bahan Bambu sebelum Dirakit
-
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
+*Aset lokal proyek; jangan klaim sebagai dokumentasi proyek tertentu.*
 
 ## Mulai dari gejala, bukan tebakan penyebab
 
-- **Purpose:** Tentukan apa yang terlihat/terukur, lokasi, waktu, perubahan, dan keterbatasan pengamatan.
-- **Tie back to this article:** Keep the explanation specific to “Tanda Jamur, Hama, dan Kerusakan Awal pada Bambu”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Catat apa yang benar-benar terlihat: warna dan batas noda, serbuk atau frass di bawah batang, lubang baru, retak, bagian lunak, bau lembap, perubahan bentuk, serta lokasi gejala pada setiap batang atau komponen. Tambahkan tanggal, identitas lot, posisi penyimpanan, dan apakah gejala berubah sejak pemeriksaan sebelumnya. Foto berlabel dan sketsa sederhana lebih berguna daripada kalimat “bambunya berjamur”.
+
+Bedakan tanda yang aktif dan tanda lama. Serbuk yang muncul kembali setelah permukaan dibersihkan memberi alasan untuk menahan bahan dan melakukan pemeriksaan lebih lanjut; lubang tanpa serbuk belum membuktikan hama aktif. Noda permukaan juga belum membuktikan kehilangan kekuatan. Jangan mengerok atau mengampelas dahulu sebelum kondisi awal dicatat karena tindakan itu dapat menghilangkan petunjuk.
+
+Kawan Furnitur.co.id, tanyakan tiga hal kepada pemasok: kapan lot dipanen atau diproses, bagaimana dikeringkan dan disimpan, serta dokumen apa yang menunjukkan treatment dan pemeriksaan sebelum dikirim. Jika jawaban hanya berupa istilah “sudah oven” atau “anti-rayap” tanpa identitas proses, tanggal, dan cakupan lot, perlakukan sebagai informasi yang belum terverifikasi. Untuk membandingkan konteks penggunaan, Anda dapat melihat [kategori tirai polos](/tirai-polos), tetapi halaman produk bukan pengganti bukti mutu lot yang sedang diperiksa.
+
+Ketahanan dipengaruhi paparan, jenis bagian bambu, kadar air, detail desain, proses treatment, penetrasi dan retensi, kecocokan bahan, perbaikan ujung potongan, serta pemeliharaan. Kerangka tersebut dijelaskan dalam [ISO 21887:2007](https://www.iso.org/standard/40502.html?browse=ics) dan [USDA Wood Handbook](https://research.fs.usda.gov/fpl/wood-handbook). Sumber itu membantu menentukan pertanyaan, bukan memberi diagnosis untuk lot tertentu.
 
 ## Saringan risiko langsung
 
-- **Purpose:** Jelaskan kapan pembaca harus membatasi akses, menghentikan pekerjaan, atau meminta pemeriksaan kompeten.
-- **Tie back to this article:** Keep the explanation specific to “Tanda Jamur, Hama, dan Kerusakan Awal pada Bambu”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Hentikan pemindahan dan isolasi bahan bila ada bagian yang runtuh saat disentuh, retak memanjang yang bertambah, serbuk terus muncul, banyak batang saling menularkan noda, atau bau dan kelembapan menunjukkan penyimpanan basah berkepanjangan. Jangan campur bahan yang ditahan dengan stok siap produksi. Gunakan area yang berventilasi dan batasi akses agar debu, serpihan, atau bahan yang mungkin terkontaminasi tidak menyebar.
+
+Jika pemeriksaan melibatkan pemotongan, pengamplasan, debu, bahan kimia, atau mesin, siapkan pengamanan tugas yang sesuai: pelindung mesin, pengendalian energi, ekstraksi debu, pengelolaan kebisingan, housekeeping, dan rencana keadaan darurat. Panduan [ILO untuk keselamatan dan kesehatan di bengkel kayu](https://www.ilo.org/publications/safety-and-health-wood-workshop) serta [kode praktik pekerjaan kehutanan](https://www.ilo.org/resource/other/code-practice-safety-and-health-forestry-work) dapat menjadi rujukan pengendalian bahaya. Keduanya bukan sertifikat kepatuhan hukum Indonesia; penilaian K3 setempat tetap diperlukan.
+
+Minta pemeriksaan kompeten jika material akan menjadi bagian yang menanggung beban, kerusakan berada di sambungan, bagian dalam tidak dapat dilihat, atau keputusan pakai ulang dan penggantian menimbulkan konsekuensi keselamatan. [NEEDS QUALIFIED REVIEW: keputusan kapasitas, kelayakan pakai ulang, dan interval inspeksi proyek belum tersedia.]
 
 ## Kemungkinan mekanisme
 
-- **Purpose:** Kelompokkan kemungkinan penyebab tanpa menyatakan diagnosis dari bukti yang belum cukup.
-- **Tie back to this article:** Keep the explanation specific to “Tanda Jamur, Hama, dan Kerusakan Awal pada Bambu”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Jamur permukaan sering berkaitan dengan kelembapan dan ventilasi, tetapi warna saja tidak menentukan kedalaman kerusakan. Hama penggerek dapat meninggalkan lubang dan serbuk; pola itu perlu dibedakan dari lubang proses, retak pengeringan, atau sisa potongan. Pelunakan lokal dapat berkaitan dengan pembasahan berulang atau kerusakan biologis, sementara perubahan bentuk dapat muncul dari pelepasan dan penyerapan kelembapan.
+
+Jangan mengunci mekanisme hanya dari satu petunjuk. Spesies, bagian batang, umur, kondisi seasoned, geometri, cacat, dan riwayat paparan memengaruhi hasil. Catatan USDA tentang kayu dan rekaman resmi [ISO 22157:2019](https://www.iso.org/cms/%20render/live/en/sites/isoorg/contents/data/standard/06/59/65950.html) serta [ISO 19624:2018](https://www.iso.org/standard/65528.html?browse=tc) menegaskan bahwa identitas bahan, dimensi, cacat, kadar air, dan metode pengujian perlu dikaitkan dengan sampel yang representatif. Satu hasil ukur atau satu batang tidak otomatis mewakili seluruh lot.
 
 ## Urutan pemeriksaan dan pengujian
 
-- **Purpose:** Susun observasi, dokumen, tes, sampel, atau pengukuran dari yang paling aman dan informatif.
-- **Tie back to this article:** Keep the explanation specific to “Tanda Jamur, Hama, dan Kerusakan Awal pada Bambu”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Mulai dari langkah tanpa merusak:
+
+1. Tahan dan beri identitas pada lot; jangan mencampur batang yang belum diperiksa.
+2. Lakukan pemeriksaan visual 360 derajat pada permukaan, ujung, sambungan, dan titik tumpu. Tandai noda, lubang, retak, serbuk, dan bagian lunak pada sketsa.
+3. Petakan kondisi penyimpanan: alas, jarak dari lantai atau dinding, sirkulasi udara, perlindungan hujan, dan riwayat basah. Catat juga kapan bahan dipindahkan.
+4. Ukur kadar air dengan alat yang sesuai dan catat lokasi serta kondisi pengukuran. Angka tanpa metode, kalibrasi, dan kriteria penerimaan tidak cukup untuk meluluskan lot.
+5. Cocokkan dokumen pemasok: identitas bahan, tanggal proses, treatment, lot, instruksi penanganan, dan hasil inspeksi. Jangan menganggap label treatment sebagai bukti penetrasi atau retensi yang memadai.
+6. Ambil sampel secara representatif hanya bila prosedurnya jelas dan aman. Pengujian lanjutan harus ditafsirkan terhadap kriteria produk, bukan sekadar dibandingkan dengan angka umum.
+
+Buat *moisture map* (peta kadar air) sederhana agar lokasi basah terlihat sebagai pola, bukan angka terpisah. Bila perlu membuka penampang atau membersihkan serbuk, dokumentasikan kondisi sebelum dan sesudah. [ISO 13822:2010](https://www.iso.org/standard/46556.html) berguna sebagai kerangka pencatatan identitas, gejala, pengukuran, penyebab yang mungkin, konsekuensi, tindakan sementara, penanggung jawab, dan tindak lanjut; penerapannya pada furnitur bambu tetap memerlukan penyesuaian proyek.
 
 ## Cara membaca hasil tanpa melompat ke kesimpulan
 
-- **Purpose:** Pisahkan hasil tes, kriteria proyek, sebab, konsekuensi, dan otoritas keputusan.
-- **Tie back to this article:** Keep the explanation specific to “Tanda Jamur, Hama, dan Kerusakan Awal pada Bambu”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Pisahkan lima kolom dalam lembar keputusan: hasil observasi, bukti pendukung, kriteria penerimaan, kemungkinan sebab, dan tindakan. “Ada noda di dua batang” adalah observasi. “Jamur aktif” adalah hipotesis yang memerlukan bukti tambahan. “Boleh dipakai untuk komponen tampak” adalah keputusan yang baru sah jika kriteria produk, risiko, dan otoritas penilai sudah jelas.
+
+Hasil kadar air tinggi menunjukkan kondisi saat diukur, bukan sendirinya bukti hama atau kegagalan treatment. Sebaliknya, kadar air yang lebih rendah tidak menghapus lubang, retak, atau kehilangan bagian. Demikian pula, sertifikat atau nama standar hanya menunjukkan identitas dan ruang lingkup dokumen; itu tidak membuktikan lot Anda lulus atau produk akhir memiliki kekuatan tertentu. [NEEDS ACCEPTANCE BASIS: spesifikasi kadar air, toleransi cacat, metode sampling, dan kriteria lulus/gagal untuk produk ini belum disediakan.]
+
+Teman Furnitur.co.id, bila pemasok menawarkan penggantian sebagian, minta daftar batang yang diganti dan cara memastikan bahan baru tidak tercampur dengan lot lama. Simpan hasil ukur, foto, dokumen, dan keputusan dalam satu berkas agar pemeriksa berikutnya dapat menelusuri perubahan.
 
 ## Pilihan tindakan dan titik eskalasi
 
-- **Purpose:** Bedakan kontrol sementara, pemantauan, perbaikan, penggantian, dan review profesional.
-- **Tie back to this article:** Keep the explanation specific to “Tanda Jamur, Hama, dan Kerusakan Awal pada Bambu”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Kontrol sementara berarti mengisolasi, mengeringkan secara terkendali sesuai instruksi penanganan, memperbaiki housekeeping, dan memantau perubahan. Itu bukan izin untuk menutup noda lalu meneruskan produksi. Perbaikan lokal hanya masuk akal setelah penyebab, kedalaman, dan fungsi komponen dinilai. Penggantian lebih tepat bila bagian kehilangan material, gejalanya aktif dan meluas, atau bukti lot tidak dapat dipulihkan.
 
-## Objection or shortcut to address
+Jangan meracik formula pest treatment sendiri. Pemilihan bahan, dosis, label, lembar data keselamatan, ventilasi, waktu masuk kembali, pembuangan, dan aturan yang berlaku memerlukan produk yang sah dan peninjauan spesialis berwenang. Untuk komponen yang memengaruhi keselamatan atau sambungan, eskalasikan ke penilai kompeten sebelum memotong, merakit, atau menyatakan bahan lolos.
 
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
+## Jalan pintas yang sering gagal
 
-## Required conclusion
+Jalan pintas paling umum adalah menyemprot seluruh tumpukan, menunggu permukaan tampak bersih, lalu menganggap masalah selesai. Cara ini dapat mengaburkan gejala, tidak menjawab apakah hama masih aktif, dan tidak membuktikan penetrasi treatment atau kelayakan komponen. Alternatif yang lebih dapat dipertanggungjawabkan adalah tahan lot, dokumentasikan kondisi awal, verifikasi dokumen dan pengukuran, lalu putuskan berdasarkan kriteria penerimaan yang tertulis.
 
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
+## Kesimpulan: kapan bambu perlu ditahan?
 
-## Draft completion checklist
+Tanda jamur, hama, dan kerusakan awal pada bambu adalah alasan untuk memeriksa lebih teratur, bukan diagnosis otomatis dan bukan pula alasan untuk menutupinya. Tahan bahan ketika gejala aktif, kerusakan meluas, fungsi atau sambungan terlibat, atau bukti mutu tidak memadai. Langkah berikutnya adalah meminta pemasok melengkapi identitas lot, riwayat pengeringan dan treatment, hasil pengukuran, serta kriteria lulus/gagal; kemudian minta review kompeten bila keputusan menyentuh keselamatan atau pakai ulang.
 
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Sobat Furnitur.co.id!` and uses friendly `Furnitur.co.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+Aturan operasionalnya sederhana: jangan produksi dari bahan yang belum dapat ditelusuri, diukur, dan dinilai terhadap kriteria yang disepakati. Jika salah satu bukti utama belum ada, pertahankan status tahan dan tandai untuk review teknis—bukan menebak. Bila kebutuhan Anda berlanjut ke pemilihan produk jadi, gunakan [halaman produk](/produk) sebagai referensi kategori, bukan bukti kondisi bahan tertentu.

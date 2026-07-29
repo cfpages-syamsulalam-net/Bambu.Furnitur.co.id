@@ -3,7 +3,8 @@ article_id: BFU-04-02
 title: "Natural, Stain, Painted, atau Clear Finish"
 slug: "jenis-finishing-bambu"
 description: "Memilih tampilan/proteksi permukaan serta meminta bukti kompatibilitas dan emisi."
-status: outline
+status: draft
+writing_contract_version: "native-id-v2"
 publication_date: "2025-09-26"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -14,207 +15,83 @@ reader_address: "Teman Furnitur.co.id"
 final_route: "/artikel/jenis-finishing-bambu.html"
 technical_review: required
 sources:
-  - "https://www.iso.org/standard/40123.html"
-  - "https://www.iso.org/standard/40124.html"
-  - "https://research.fs.usda.gov/fpl/wood-handbook"
-  - "https://www.iso.org/ics/79.060.01/x/"
-  - "https://www.iso.org/standard/84728.html?browse=tc"
-  - "https://www.epa.gov/formaldehyde/formaldehyde-emission-standards-composite-wood-products"
-  - "https://www.ilo.org/publications/safety-and-health-wood-workshop"
-  - "https://www.iso.org/standard/46556.html"
   - "https://www.iso.org/standard/85716.html"
   - "https://www.iso.org/standard/76931.html"
   - "https://www.iso.org/standard/86789.html"
   - "https://www.iso.org/standard/55267.html"
-  - "https://www.iso.org/standard/82086.html"
+  - "https://research.fs.usda.gov/fpl/wood-handbook"
+  - "https://www.iso.org/standard/84728.html?browse=tc"
+  - "https://www.epa.gov/formaldehyde/formaldehyde-emission-standards-composite-wood-products"
+  - "https://www.ilo.org/publications/safety-and-health-wood-workshop"
 ---
 
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
-
 # Natural, Stain, Painted, atau Clear Finish
+Halo, Teman Furnitur.co.id! Pilihan antara natural, stain, painted, dan clear finish sebaiknya dimulai dari tampilan yang ingin dipertahankan, bukan dari nama produk di kaleng. Natural menonjolkan warna dan serat asli; stain memberi warna sambil membiarkan sebagian karakter serat terbaca; painted menutup warna dan serat dengan lapisan pigmen; clear finish tetap transparan atau agak berwarna untuk menambah lapisan pelindung tanpa menghilangkan seluruh tampilan bambu.
 
-## Assignment lock
+Jawaban praktisnya: pilih natural atau clear bila karakter bahan adalah tujuan utama, stain bila Anda perlu menggeser rona, dan painted bila warna seragam lebih penting daripada serat. Itu baru keputusan estetika. Ketahanan terhadap noda, gores, panas, cairan pembersih, kelembapan, dan emisi tidak dapat disimpulkan dari label tampilan. Hasil harus dibuktikan untuk kombinasi bambu, persiapan permukaan, produk finish, jumlah lapisan, proses curing (pengerasan), dan penggunaan yang direncanakan. [NEEDS FINISH-SYSTEM EVIDENCE: kompatibilitas, durabilitas, dan emisi belum dibuktikan untuk produk/proyek tertentu.]
 
-- **Writer task:** Expand this file into one complete article answering: “Natural, Stain, Painted, atau Clear Finish”
-- **Reader and situation:** Memilih tampilan/proteksi permukaan serta meminta bukti kompatibilitas dan emisi.
-- **Reader outcome:** Memilih tampilan/proteksi permukaan serta meminta bukti kompatibilitas dan emisi.
-- **Primary intent:** Membandingkan tampilan finish
-- **Reader community:** `Furnitur.co.id`
-- **Primary friendly address:** `Teman Furnitur.co.id`
-- **Natural variants:** `Sobat Furnitur.co.id` and `Kawan Furnitur.co.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** Fokus estetika; durability harus dibuktikan per sistem.
-- **Final public route:** `/artikel/jenis-finishing-bambu.html`
-- **Appointed CMS date:** `2025-09-26` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
+![Ilustrasi furnitur bambu](/wp-content/uploads/2022/04/furnitur-bambu.jpg)
 
-## Opening instructions
+*Ilustrasi umum dari aset lokal Furnitur.co.id; bukan dokumentasi proyek tertentu.*
 
-- Open with the exact short salutation: **“Halo, Teman Furnitur.co.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Natural, Stain, Painted, atau Clear Finish**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Teman Furnitur.co.id`, `Sobat Furnitur.co.id`, or `Kawan Furnitur.co.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
-
-
-<!-- BEGIN MANAGED IMAGE PLAN -->
-## Image plan
-
-- **Image ID:** `LOCAL-001`
-- **Source type:** `local`
-- **Placement:** after the opening has answered the main question, before the first detailed H2
-- **Exact Markdown to insert:** `![Ilustrasi furnitur bambu](/wp-content/uploads/2022/04/furnitur-bambu.jpg)`
-- **Caption/credit:** Aset lokal proyek; jangan klaim sebagai dokumentasi proyek tertentu.
-- **Selection basis:** filename/source metadata identifies `furnitur bambu` as relevant content media; no pixels were inspected.
-- **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
-- **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-001]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
-
-## Evidence packet
-
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
-
-### KR-10
-
-- **Original sources:** [ISO 12466-1:2007](https://www.iso.org/standard/40123.html), [ISO 12466-2:2007](https://www.iso.org/standard/40124.html), and [USDA Wood Handbook adhesive chapter index](https://research.fs.usda.gov/fpl/wood-handbook).
-- **Purpose for this article:** Support adhesive-family, cure, exposure, veneer/panel bond, delamination, repair, and procurement articles.
-- **Safe grounded facts:** “Exterior,” “marine,” “waterproof,” or adhesive chemistry alone does not prove the complete panel or joint will suit an application.
-- **Limits:** Obtain SDS, technical data, complete test/standard, production controls, compatibility, service exposure, and qualified review under G-04/G-07/G-09.
-
-### KR-11
-
-- **Original sources:** [ISO 12460 panel-method catalogue](https://www.iso.org/ics/79.060.01/x/), [ISO 12460-2:2024 small-chamber method](https://www.iso.org/standard/84728.html?browse=tc), and [U.S. EPA composite-wood rule overview](https://www.epa.gov/formaldehyde/formaldehyde-emission-standards-composite-wood-products).
-- **Purpose for this article:** Ground emissions, labels, indoor-air, test-report, supplier, and safe-use articles.
-- **Safe grounded facts:** Method, chamber, temperature, humidity, loading, air exchange, conditioning, specimen, result units, correlation, edition, and jurisdiction are essential to interpretation.
-- **Limits:** Never transfer U.S. limits to Indonesia or equate unlike methods. Obtain current Indonesian requirements, exact report, laboratory scope, product identity, and exposure assessment under G-01/G-05.
-
-### KR-20
-
-- **Original sources:** [USDA Wood Handbook](https://research.fs.usda.gov/fpl/wood-handbook) and [ILO wood-workshop guidance](https://www.ilo.org/publications/safety-and-health-wood-workshop).
-- **Purpose for this article:** Support grain-aware machining, joinery, pilot holes, fastening, movement allowance, edge sealing, sanding, samples, and repairability.
-- **Safe grounded facts:** A sample/mockup and manufacturer instructions are needed where appearance, adhesion, compatibility, movement, or repairability matters.
-- **Limits:** Do not provide machine bypass, cutting parameters, chemical recipes, or structural joint design. Resolve through G-07/G-08/G-13.
-
-### KR-21
-
-- **Original sources:** [ISO 13822:2010 official record](https://www.iso.org/standard/46556.html) and [USDA Wood Handbook](https://research.fs.usda.gov/fpl/wood-handbook).
-- **Purpose for this article:** Ground inspection, maintenance, symptom diagnosis, repair, replacement, post-flood/fire, and reuse decisions.
-- **Safe grounded facts:** Baseline identity, drawings, exposure, measurements, moisture map, defect/activity, extent, concealed risk, temporary controls, cause, consequence, action, reviewer, and follow-up belong in the record.
-- **Limits:** No remaining capacity, safe occupancy, repair, interval, or reuse decision without project evidence and qualified review under G-09/G-10.
-
-### KR-31
-
-- **Original sources:** [ISO 4211-1:2025 — cold liquids](https://www.iso.org/standard/85716.html), [ISO 4211-5:2021 — abrasion](https://www.iso.org/standard/76931.html), [ISO 4211-6:2025 — scratching](https://www.iso.org/standard/86789.html), and [ISO 4211-3:2013 — dry heat](https://www.iso.org/standard/55267.html).
-- **Purpose for this article:** Ground finish selection, sample/test plans, cleaning, defects, refinish, care, QC, and warranty articles.
-- **Safe grounded facts:** Substrate, preparation, finish layers/cure, texture/color/gloss, specimen, chemical/heat/abrasion/scratch exposure, cleaning, ageing, edge/joint details, result scale, and maintenance all matter.
-- **Limits:** No universal “stain-proof,” “scratch-proof,” disinfectant compatibility, service-life, repair, or warranty claim without exact finish/product, current method/report, maintenance/cleaning evidence, and G-07/G-19/G-22.
-
-### KR-35
-
-- **Original sources:** [ISO 6128:2023 official record](https://www.iso.org/standard/82086.html).
-- **Purpose for this article:** Ground laminated furniture stock, construction, requirements/tests, handling, storage, packaging, and marking.
-- **Safe grounded facts:** An ISO 6128 scope match does not prove a specific product complies, and indoor furniture material evidence cannot be transferred to outdoor, structural, food-contact, or electrical use.
-- **Limits:** Obtain the current full standard, product construction/adhesive/finish, intended indoor use, reports, production equivalence, handling/storage history, and acceptance evidence under G-01/G-04/G-07/G-23.
-
-## Evidence gates
-
-- **TOPIC-GATE:** G-01, G-04, G-05, G-07, G-19, G-22, G-23, G-24
-
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
-
-## Internal-link plan
-
-### Existing local routes
-
-- `/tirai-bambu-polos-yogyakarta` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/tirai-bambu-polos-wonosobo.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/tirai-bambu-polos-wonosobo` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/tirai-bambu-polos-wonogiri` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/tirai-bambu-polos-tulungagung.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/tirai-bambu-polos-tulungagung` — use only if it helps the reader's next step; verify the anchor describes the destination.
-
-### Planned sibling articles
-
-These are future routes. Do not link them as live until their HTML exists.
-
-- `BFU-04-01` → `/artikel/memilih-finishing-bambu.html` — Panduan Memilih Finishing Furnitur Bambu
-- `BFU-04-03` → `/artikel/bukti-adhesive-produk-bambu.html` — Adhesive pada Produk Bambu: Bukti Apa yang Perlu Diminta?
-- `BFU-04-04` → `/artikel/finishing-bambu-indoor-outdoor.html` — Finishing Bambu untuk Indoor vs Outdoor
-
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
-
-## Jawaban singkat dan salah paham utama
-
-- **Purpose:** Jawab pertanyaan judul dalam pembuka dan luruskan miskonsepsi yang paling berbahaya.
-- **Tie back to this article:** Keep the explanation specific to “Natural, Stain, Painted, atau Clear Finish”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+<!-- BEGIN MANAGED IMAGE PLAN
+Image ID: LOCAL-001
+Source type: local
+Placement: after the opening answer, before the first detailed H2
+**Exact Markdown to insert:** `![Ilustrasi furnitur bambu](/wp-content/uploads/2022/04/furnitur-bambu.jpg)`
+Caption/credit: Aset lokal proyek; jangan klaim sebagai dokumentasi proyek tertentu.
+Selection basis: filename/source metadata identifies furnitur bambu as relevant content media; no pixels were inspected.
+Hard boundary: do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
+Substitution rule: do not replace this image. If unavailable or provenance is incomplete, insert [NEEDS IMAGE REVIEW: LOCAL-001] and continue drafting the prose.
+END MANAGED IMAGE PLAN -->
 
 ## Definisi dan batas objek
 
-- **Purpose:** Jelaskan apa yang dibahas, apa yang tidak, dan mengapa batas itu mengubah keputusan.
-- **Tie back to this article:** Keep the explanation specific to “Natural, Stain, Painted, atau Clear Finish”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Dalam artikel ini, “finish” berarti sistem lapisan paling luar pada komponen bambu, bukan mutu bambu, konstruksi sambungan, atau klaim bahwa sebuah furnitur cocok untuk luar ruang. Natural bisa berarti permukaan dibiarkan dengan perubahan warna minimal atau memakai lapisan bening yang hampir tidak mengubah rona; minta penjelasan tertulis dari pemasok karena istilah dagang tidak seragam. Stain adalah pewarna yang meresap atau membentuk lapisan tipis, sedangkan painted adalah sistem berpigmen yang membentuk warna penutup. Clear finish adalah lapisan bening seperti yang disebut pada lembar teknis produk, dengan tingkat kilap dan perubahan warna yang perlu dilihat lewat sampel.
+
+Batas ini penting. Artikel ini membantu membandingkan tampilan dan menyiapkan pertanyaan pembelian. Ia bukan bukti bahwa suatu lapisan tahan cuaca, aman untuk kontak makanan, tahan disinfektan, atau memiliki masa pakai tertentu. Untuk material laminasi, kecocokan ruang pakai dan konstruksi juga harus diverifikasi; bukti untuk furnitur indoor tidak otomatis berlaku untuk aplikasi outdoor atau struktural.
 
 ## Cara kerjanya
 
-- **Purpose:** Terangkan mekanisme, urutan, pelaku, material/sistem, dan antarmuka secara sebab-akibat.
-- **Tie back to this article:** Keep the explanation specific to “Natural, Stain, Painted, atau Clear Finish”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Keempat pilihan bekerja melalui urutan yang sama: permukaan disiapkan, lapisan diaplikasikan, setiap lapisan mengering atau mengeras, lalu sistem dirawat sesuai petunjuk. Warna akhir dipengaruhi rona bambu, pengamplasan, primer atau sealer, warna stain, opasitas cat, ketebalan lapisan, dan tingkat kilap. Karena itu, dua produk dengan nama “clear” pun dapat menghasilkan tampilan berbeda.
+
+Mulailah dengan papan atau potongan dari batch yang sama. Catat kode produk, nomor warna, metode aplikasi yang diizinkan, interval antar-lapis, kondisi pengeringan, dan cara pembersihan. Panduan USDA menekankan bahwa sifat substrat, persiapan, dan kondisi pemakaian memengaruhi hasil material kayu; instruksi pabrikan dan mockup tetap diperlukan ketika adhesi, pergerakan, atau kemampuan perbaikan menjadi penting ([USDA Wood Handbook](https://research.fs.usda.gov/fpl/wood-handbook)). Jangan mencampur produk dari sistem berbeda hanya karena warnanya cocok jika lembar teknis tidak menyatakan kompatibilitas.
 
 ## Faktor yang mengubah hasil
 
-- **Purpose:** Kelompokkan kondisi proyek, penggunaan, lingkungan, pelaksanaan, dan bukti yang relevan.
-- **Tie back to this article:** Keep the explanation specific to “Natural, Stain, Painted, atau Clear Finish”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Pertama, tentukan prioritas visual. Natural dan clear mempertahankan variasi warna yang sudah ada sehingga sambungan atau bagian berbeda mungkin tetap terlihat. Stain memberi ruang untuk menyamakan atau menggelapkan rona, tetapi daya serap bambu dan persiapan yang tidak seragam dapat membuat warna belang. Painted paling efektif untuk warna konsisten, namun tekstur dan serat akan lebih tertutup; perbaikan lokal juga perlu dicocokkan dengan warna dan tingkat kilap.
+
+Kedua, cocokkan beban pemakaian. Meja yang sering terkena cairan, area yang sering disentuh, atau permukaan yang dibersihkan berulang membutuhkan bukti uji yang relevan, bukan kata “premium” atau “waterproof”. Seri ISO 4211 memisahkan paparan cairan dingin, abrasi, gores, dan panas kering; hasil uji hanya bermakna bila substrat, persiapan, lapisan, waktu curing, cara membersihkan, dan skala penilaiannya sama dengan sistem yang dibeli ([ISO 4211-1](https://www.iso.org/standard/85716.html), [ISO 4211-5](https://www.iso.org/standard/76931.html), [ISO 4211-6](https://www.iso.org/standard/86789.html), [ISO 4211-3](https://www.iso.org/standard/55267.html)).
+
+Ketiga, perhatikan lingkungan dan kesehatan kerja. Minta SDS (lembar data keselamatan), kandungan atau klasifikasi emisi yang dinyatakan pemasok, serta petunjuk ventilasi dan penggunaan. Metode ruang kecil untuk emisi memiliki parameter seperti suhu, kelembapan, beban spesimen, pertukaran udara, dan satuan hasil; laporan tanpa identitas produk, edisi metode, atau lingkup laboratorium tidak cukup untuk dibandingkan ([ISO 12460-2:2024](https://www.iso.org/standard/84728.html?browse=tc)). Batas aturan Amerika Serikat tidak boleh dipindahkan begitu saja menjadi batas Indonesia ([U.S. EPA](https://www.epa.gov/formaldehyde/formaldehyde-emission-standards-composite-wood-products)). [NEEDS EMISSION REVIEW: persyaratan Indonesia dan laporan produk aktual belum tersedia.]
+
+Terakhir, cek pelaksanaan. Pengamplasan, kebersihan, tepi, celah sambungan, dan waktu curing menentukan apakah lapisan menempel dan dapat diperbaiki. Pedoman keselamatan bengkel ILO mengingatkan pentingnya pengendalian bahaya kerja kayu dan bahan kimia; mintalah prosedur kerja pemasok, bukan menebak resep aplikasi ([ILO, Safety and health in wood workshop](https://www.ilo.org/publications/safety-and-health-wood-workshop)).
 
 ## Contoh keputusan praktis
 
-- **Purpose:** Berikan skenario bersyarat atau tabel keputusan; tandai asumsi dan jangan mengarang pengalaman.
-- **Tie back to this article:** Keep the explanation specific to “Natural, Stain, Painted, atau Clear Finish”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Gunakan tabel ini sebagai titik awal, lalu konfirmasi melalui mockup:
+
+| Tujuan utama | Pilihan awal | Pertanyaan pengunci |
+|---|---|---|
+| Serat dan rona bambu tetap dominan | Natural atau clear | Seberapa besar perubahan rona dan kilap setelah curing? |
+| Rona lebih tua/seragam tetapi serat masih terbaca | Stain | Apakah contoh dibuat pada bambu, amplas, dan sealer yang sama? |
+| Warna solid sesuai interior | Painted | Bagaimana sistem memperbaiki gores dan mencocokkan kilap? |
+| Permukaan sering terkena cairan atau gesekan | Clear, stain, atau painted sesuai desain | Adakah laporan uji paparan yang cocok dengan pembersihan dan penggunaan saya? |
+
+Sobat Furnitur.co.id, bila proyek memiliki beberapa komponen, jangan memutuskan dari satu sampel kecil saja. Minta sampel tepi, area sambungan, dan kondisi pencahayaan yang menyerupai lokasi. Keputusan dapat berubah setelah melihat perbedaan warna antar-bagian atau setelah pemasok menjelaskan batas pemakaian.
 
 ## Kesalahan umum dan cara memeriksanya
 
-- **Purpose:** Bongkar shortcut umum lalu ubah menjadi pertanyaan/checklist verifikasi.
-- **Tie back to this article:** Keep the explanation specific to “Natural, Stain, Painted, atau Clear Finish”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Kesalahan pertama adalah menganggap lapisan bening selalu paling tahan. Transparansi hanya menjelaskan tampilan; ketahanan harus ditautkan ke sistem dan uji yang disebutkan. Kedua, menganggap “cat eksterior” otomatis cocok untuk bambu atau semua cuaca. Periksa substrat, primer, lapisan akhir, paparan, dan perawatan yang tercantum.
 
-## Objection or shortcut to address
+Ketiga, membandingkan dua laporan yang memakai metode, spesimen, atau satuan berbeda. Simpan salinan laporan lengkap dan cocokkan identitas produk, edisi metode, laboratorium, kondisi uji, serta hasilnya. Keempat, melewati mockup karena warna pada katalog terlihat cukup. Mintalah persetujuan tertulis atas warna, tekstur, kilap, dan toleransi variasi sebelum produksi.
 
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
+Kelima, membersihkan atau menggosok permukaan dengan bahan yang tidak disebut dalam petunjuk. Tanyakan daftar bahan pembersih yang diizinkan dan cara memperbaiki cacat kecil. Tanpa data itu, jangan menjanjikan “anti-gores”, “anti-noda”, atau bebas perawatan. Saat membandingkan opsi, gunakan [kategori tirai polos](/tirai-polos) dan [halaman produk](/produk) hanya sebagai titik untuk menanyakan spesifikasi finish; halaman produk bukan pengganti laporan uji.
 
-## Required conclusion
+## Jalan pintas yang tampak menarik
 
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
+Jalan pintas yang sering dipilih adalah mengambil nama finish dan foto katalog sebagai bukti performa. Cara ini gagal karena foto hanya menunjukkan tampilan pada kondisi tertentu, sedangkan kegagalan dapat terjadi pada adhesi, tepi, curing, atau pembersihan. Alternatif yang lebih aman adalah membeli atau meminta panel uji, memperoleh SDS dan lembar teknis, lalu meminta pemasok menuliskan sistem lengkap serta batas penggunaannya. Jika penggunaan menyangkut ruang publik, anak-anak, makanan, atau paparan luar ruang, mintalah peninjauan profesional dan persyaratan lokal sebelum menyetujui produksi.
 
-## Draft completion checklist
+## Kesimpulan
 
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Teman Furnitur.co.id!` and uses friendly `Furnitur.co.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+Natural dan clear dipilih ketika karakter bambu ingin ditonjolkan, stain ketika rona perlu digeser, dan painted ketika warna penutup menjadi prioritas. Tidak ada pilihan yang otomatis paling awet atau paling aman. Sebelum memesan, minta mockup dari substrat yang sama, dokumen sistem dan curing, SDS, laporan uji yang metodenya relevan, serta petunjuk pembersihan dan perbaikan. Kawan Furnitur.co.id, jadikan tampilan sebagai keputusan pertama; jadikan bukti sistem dan tinjauan yang sesuai proyek sebagai syarat terakhir. Jika bukti itu belum ada, tandai [NEEDS FINISH-SYSTEM EVIDENCE] dan jangan mengubah preferensi visual menjadi janji performa.

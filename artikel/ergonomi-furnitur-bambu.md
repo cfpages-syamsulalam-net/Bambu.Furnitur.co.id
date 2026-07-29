@@ -1,9 +1,10 @@
 ---
 article_id: BFU-05-04
+writing_contract_version: "native-id-v2"
 title: "Ergonomi Kursi, Meja, dan Tempat Tidur Bambu"
 slug: "ergonomi-furnitur-bambu"
-description: "Mengubah kebutuhan pengguna, ukuran ruang, gaya, dan interface menjadi brief yang dapat diproduksi."
-status: outline
+description: "Mengubah kebutuhan pengguna, ukuran ruang, gaya, dan antarmuka menjadi ringkasan kerja yang dapat diproduksi."
+status: draft
 publication_date: "2025-10-29"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -14,51 +15,96 @@ reader_address: "Sobat Furnitur.co.id"
 final_route: "/artikel/ergonomi-furnitur-bambu.html"
 technical_review: required
 sources:
+  - "https://www.iso.org/standard/76831.html"
   - "https://www.iso.org/standard/73866.html"
-  - "https://www.iso.org/standard/76864.html"
   - "https://www.iso.org/standard/73590.html"
   - "https://www.iso.org/standard/66310.html"
-  - "https://www.iso.org/standard/13773.html"
-  - "https://www.iso.org/standard/13774.html"
-  - "https://www.iso.org/standard/76831.html"
-  - "https://www.iso.org/cms/%20render/live/en/sites/isoorg/contents/data/standard/03/56/35608.html?browse=tc"
-  - "https://www.iso.org/committee/52448/x/catalogue/p/1/u/0/w/0/d/0"
-  - "https://www.ilo.org/publications/safety-and-health-wood-workshop"
   - "https://www.iso.org/standard/71279.html"
   - "https://www.iso.org/standard/82086.html"
+  - "https://www.ilo.org/publications/safety-and-health-wood-workshop"
 ---
-
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
 
 # Ergonomi Kursi, Meja, dan Tempat Tidur Bambu
 
-## Assignment lock
+Halo, Sobat Furnitur.co.id! Furnitur bambu terasa nyaman bukan karena memiliki satu ukuran “ergonomis” yang berlaku untuk semua orang. Kenyamanan muncul ketika ukuran tubuh pengguna, aktivitas, ruang gerak, dan cara furnitur dibuat diterjemahkan menjadi brief yang bisa diuji. Kursi untuk makan, meja untuk bekerja, dan tempat tidur untuk beristirahat memerlukan keputusan yang berbeda.
 
-- **Writer task:** Expand this file into one complete article answering: “Ergonomi Kursi, Meja, dan Tempat Tidur Bambu”
-- **Reader and situation:** Mengubah kebutuhan pengguna, ukuran ruang, gaya, dan interface menjadi brief yang dapat diproduksi.
-- **Reader outcome:** Mengubah kebutuhan pengguna, ukuran ruang, gaya, dan interface menjadi brief yang dapat diproduksi.
-- **Primary intent:** Menyusun kebutuhan kenyamanan
-- **Reader community:** `Furnitur.co.id`
-- **Primary friendly address:** `Sobat Furnitur.co.id`
-- **Natural variants:** `Kawan Furnitur.co.id` and `Teman Furnitur.co.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** Fokus user fit; bukan standar dimensi universal.
-- **Final public route:** `/artikel/ergonomi-furnitur-bambu.html`
-- **Appointed CMS date:** `2025-10-29` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
+Mulailah dari pengguna dan tugasnya, bukan dari foto model. Catat siapa yang memakai, berapa lama, dalam posisi apa, serta bagaimana ia duduk, berdiri, masuk, keluar, atau berpindah. Setelah itu ukur ruang dan jalur gerak, tentukan permukaan yang bersentuhan dengan tubuh, lalu minta pembuat menyusun gambar, contoh sambungan, dan prototipe. Metode pengukuran dimensi kursi kerja memang membahas populasi pengguna, tugas, postur, jangkauan, dan penyesuaian; metode itu membantu menyusun pertanyaan, tetapi tidak menetapkan satu ukuran universal untuk kursi bambu rumah Anda ([ISO 24496:2021](https://www.iso.org/standard/76831.html)).
 
-## Opening instructions
+![Ilustrasi kursi bambu 3](/wp-content/uploads/2022/04/kursi-bambu-3.jpg)
 
-- Open with the exact short salutation: **“Halo, Sobat Furnitur.co.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Ergonomi Kursi, Meja, dan Tempat Tidur Bambu**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Sobat Furnitur.co.id`, `Kawan Furnitur.co.id`, or `Teman Furnitur.co.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
+*Ilustrasi umum dari aset lokal Furnitur.co.id; bukan dokumentasi proyek tertentu.*
 
+## Jawaban singkat dan salah paham utama
 
-<!-- BEGIN MANAGED IMAGE PLAN -->
+Ergonomi kursi, meja, dan tempat tidur bambu adalah proses mencocokkan hubungan tubuh–furnitur–ruang dengan aktivitas nyata. Untuk kursi, periksa dukungan tubuh, tinggi dan kedalaman dudukan, sandaran, serta kemudahan berdiri. Untuk meja, periksa tinggi permukaan terhadap posisi duduk atau berdiri, ruang kaki, jangkauan, dan pantulan aktivitas di atasnya. Untuk tempat tidur, periksa tinggi tepi kasur, cara naik-turun, ruang sirkulasi, serta interaksi dengan kasur dan aksesori yang dipilih.
+
+Istilah “ergonomis” bukan bukti bahwa sebuah produk pasti nyaman, aman, atau cocok bagi pengguna tertentu. Standar kursi, meja, penyimpanan, dan tempat tidur mengaitkan penilaian dengan spesimen lengkap, konfigurasi, bahan, sambungan, dimensi, pembebanan, kondisi uji, dan hasil yang didokumentasikan. Abstrak standar tidak membuktikan produk tertentu lulus, apalagi membuktikan cocok di rumah Anda ([ISO 7173:2023](https://www.iso.org/standard/73866.html), [ISO 19682:2023](https://www.iso.org/standard/73590.html), [ISO 19833:2018](https://www.iso.org/standard/66310.html)).
+
+Jika seseorang memiliki keterbatasan gerak, nyeri, atau kebutuhan transfer khusus, brief furnitur hanya menjadi titik awal. Mintalah penilaian ergonomi atau aksesibilitas yang kompeten sebelum memesan; jangan menyamakan saran umum dengan rekomendasi medis.
+
+## Definisi dan batas objek
+
+Objek yang dibahas adalah furnitur bambu jadi dan interface-nya: dudukan, permukaan kerja, tepi, sandaran, ruang kaki, pegangan, sambungan, serta hubungan dengan lantai, dinding, kasur, dan perangkat pengguna. Bambu sendiri dapat hadir sebagai batang, bilah, strip, anyaman, panel laminasi, atau produk rekayasa. Nama bahan tidak cukup untuk menyimpulkan kekuatan atau perilaku produk jadi; setiap bentuk adalah objek bukti yang berbeda ([ISO 21625:2020](https://www.iso.org/standard/71279.html)).
+
+Batas artikel ini adalah user fit—kecocokan terhadap pengguna dan aktivitas—bukan standar dimensi universal, sertifikat kepatuhan, klaim medis, atau jaminan hasil proyek. Produk laminasi untuk furnitur dalam ruang juga tidak otomatis cocok untuk luar ruang, struktur, kontak pangan, atau peralatan listrik; kesesuaian harus ditelusuri dari konstruksi, perekat, lapisan akhir, penggunaan, dan dokumen pemasok ([ISO 6128:2023](https://www.iso.org/standard/82086.html)).
+
+## Cara kerjanya
+
+Susun brief dalam urutan berikut.
+
+1. **Profil pengguna dan tugas.** Tulis rentang pengguna, durasi pemakaian, pakaian atau alat yang dibawa, posisi yang sering berubah, dan bantuan yang diperlukan. “Dipakai bekerja” perlu dipecah menjadi mengetik, membaca, menggambar, makan, atau menerima tamu karena masing-masing mengubah jangkauan dan postur.
+2. **Peta ruang dan interface.** Ukur ruang aktual, bukaan pintu, jalur lewat, posisi stopkontak, dan benda yang harus dijangkau. Tandai bagian tubuh yang menyentuh furnitur serta titik yang perlu dibersihkan atau diperiksa.
+3. **Pilihan bentuk dan material.** Tentukan apakah komponen memakai batang, bilah, anyaman, panel, atau laminasi. Minta identitas konstruksi, perekat, dan finishing; jangan menganggap semua “bambu” setara.
+4. **Terjemahkan menjadi parameter.** Alih-alih menyalin ukuran dari foto, minta rentang ukuran, toleransi yang penting, radius atau pelindung tepi, ruang gerak, posisi sambungan, dan opsi penyesuaian. Untuk kursi, sertakan cara masuk-keluar; untuk meja, ruang lutut dan jangkauan; untuk tempat tidur, tinggi tepi dan jalur di sekitarnya.
+5. **Uji sebelum produksi penuh.** Gunakan mock-up atau satu unit contoh dengan pengguna dan aktivitas yang sebenarnya. Catat titik tekan, kebutuhan mengubah posisi, usaha berdiri, benturan lutut, dan akses pembersihan. Revisi gambar berdasarkan catatan, bukan berdasarkan ingatan.
+6. **Serah-terima dan pemeliharaan.** Minta instruksi beban dan penggunaan, daftar komponen, cara memeriksa sambungan, batas pembersih, serta prosedur bila furnitur dipindah. Pekerjaan bengkel dan instalasi perlu mengikuti rencana kerja aman; panduan ILO menekankan pengendalian bahaya dalam lingkungan kerja kayu ([ILO, Safety and health in the wood workshop](https://www.ilo.org/publications/safety-and-health-wood-workshop)).
+
+## Faktor yang mengubah hasil
+
+**Tubuh dan aktivitas.** Tinggi badan, proporsi tungkai, kebiasaan duduk, durasi, alas kaki, dan kebutuhan berpindah mengubah rasa nyaman. Satu kursi mungkin baik untuk makan singkat tetapi melelahkan untuk bekerja lama. Tempat tidur yang tampak rendah bagi satu orang dapat menyulitkan orang lain saat bangun.
+
+**Ruang dan lingkungan.** Lantai tidak rata, karpet, dinding rapuh, kelembapan, tumpahan, bahan pembersih, dan intensitas lalu lintas memengaruhi stabilitas serta perawatan. Bukaan pintu, sirkulasi, dan akses evakuasi harus diperiksa pada kondisi furnitur terpasang, bukan hanya di gambar.
+
+**Konfigurasi dan perangkat.** Laci terbuka, sandaran direbahkan, roda, mekanisme tarik, kasur lebih tebal, atau tambahan bantalan mengubah pusat beban dan ruang gerak. Jangan memberi angka beban atau jenis angkur sebelum identitas hardware, substrat, instruksi produk, dan survei lokasi tersedia.
+
+**Bukti produksi.** Sambungan, baut, engsel, rel, anyaman, dan panel perlu ditautkan ke gambar serta inspeksi. Standar dapat memberi kerangka pengujian stabilitas atau daya tahan, tetapi kesesuaian produk dan hasil uji aktual tetap memerlukan dokumen lengkap dan tinjauan teknis ([ISO 7173:2023](https://www.iso.org/standard/73866.html)).
+
+Kawan Furnitur.co.id, jadikan setiap perubahan penggunaan sebagai perubahan brief. Menambah kasur, memindahkan meja ke area lembap, atau mengubah kursi makan menjadi kursi kerja bukan perubahan kosmetik.
+
+## Contoh keputusan praktis
+
+| Situasi | Pertanyaan brief | Keputusan yang dapat diuji |
+|---|---|---|
+| Kursi dipakai bekerja beberapa jam | Apakah pengguna perlu mengubah posisi dan berdiri berkala? | Sediakan dukungan dan penyesuaian yang dapat dicoba; validasi dengan mock-up dan catatan postur. |
+| Meja dipakai bergantian duduk dan berdiri | Perangkat apa yang harus dijangkau, dan ke mana lutut bergerak? | Gambar dua konfigurasi, ruang kaki, serta jalur kabel; uji pada tinggi kerja yang direncanakan. |
+| Tempat tidur untuk pengguna yang sulit berdiri | Dari sisi mana pengguna naik dan turun? Apakah ada alat bantu? | Tetapkan area transfer dan pegangan hanya setelah penilaian kompeten serta pemeriksaan lantai/dinding. |
+| Furnitur dipakai publik | Berapa variasi pengguna, frekuensi pembersihan, dan pengawasan? | Dokumentasikan duty, pembersih, inspeksi, dan kebijakan fasilitas; jangan menyebutnya aman universal tanpa bukti. |
+
+Jika belum ada data pengguna, tulis asumsi secara eksplisit dan tandai untuk dikonfirmasi. Jangan mengubah asumsi menjadi ukuran final.
+
+## Kesalahan umum dan cara memeriksanya
+
+- **Menyalin ukuran dari foto.** Foto tidak menunjukkan skala, postur, atau ruang sirkulasi. Minta ukuran ruang dan lakukan uji duduk/berdiri.
+- **Menganggap batang bambu menentukan kenyamanan.** Kenyamanan dipengaruhi bentuk, sambungan, bantalan, finishing, dan cara pakai. Minta spesifikasi konstruksi, bukan nama bahan saja.
+- **Menguji furnitur kosong.** Laci, kasur, perangkat, dan pengguna mengubah konfigurasi. Periksa unit lengkap pada keadaan penggunaan yang paling berat dan realistis; metode standar pun membedakan konfigurasi dan pembebanan.
+- **Mengabaikan pemindahan dan pembersihan.** Ukur jalur masuk, titik angkat, akses kain pel atau vacuum, lalu cantumkan prosedur inspeksi.
+- **Memberi klaim “aman untuk semua”.** Ganti klaim dengan kondisi: siapa pengguna, aktivitas apa, bukti apa, dan siapa yang menyetujui. Untuk pertanyaan stabilitas, anchoring, dan aksesibilitas, minta tinjauan teknis; gate G-16/G-17/G-18/G-20/G-23 masih memerlukan dokumen proyek yang sesuai.
+
+## Jalan pintas yang perlu diwaspadai
+
+Shortcut yang sering dipilih adalah membeli model yang tampak nyaman lalu menyesuaikan ruang setelah barang datang. Cara ini dapat gagal karena tinggi kasur, lebar jalur, posisi laci, atau sambungan tidak mudah diubah tanpa mengorbankan stabilitas dan garansi pemasangan. Alternatif yang lebih dapat dipertanggungjawabkan adalah mengirim brief berisi pengguna, aktivitas, ukuran ruang, material, dan foto kondisi lokasi; meminta gambar serta satu contoh untuk dicoba; lalu menyetujui produksi setelah catatan uji ditutup.
+
+Teman Furnitur.co.id, bila kebutuhan Anda adalah ranjang bambu, lihat kategori [tempat tidur](/tempat-tidur) dan [daftar produk](/produk), lalu tetap cocokkan ukuran dan cara pakai dengan ruang serta pengguna Anda sendiri.
+
+## Kesimpulan
+
+Ergonomi furnitur bambu berarti mengubah kebutuhan tubuh dan aktivitas menjadi brief yang bisa diukur, dicoba, dan diperiksa—bukan memilih ukuran ajaib. Mulailah dengan profil pengguna, peta ruang, dan interface; lanjutkan dengan konstruksi serta prototipe; tutup dengan instruksi dan inspeksi.
+
+Sebelum memesan, kirimkan lembar brief dan minta gambar berdimensi, identitas material/finishing, rincian sambungan, rencana uji, dan instruksi pemeliharaan. [NEEDS TECHNICAL REVIEW: G-16/G-17/G-18/G-20/G-23 — konfirmasi metode yang berlaku, kecocokan produk, kondisi lokasi, serta penilaian ergonomi/aksesibilitas sebelum persetujuan final.]
+
+Aturan operasionalnya: jangan menyetujui ukuran atau klaim kenyamanan sampai pengguna nyata mencoba konfigurasi yang akan diproduksi dan bukti teknis yang relevan telah ditinjau.
+
+<!-- BEGIN MANAGED IMAGE PLAN
 ## Image plan
 
 - **Image ID:** `LOCAL-005`
@@ -69,159 +115,4 @@ sources:
 - **Selection basis:** filename/source metadata identifies `kursi bambu 3` as relevant content media; no pixels were inspected.
 - **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
 - **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-005]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
-
-## Evidence packet
-
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
-
-### KR-25
-
-- **Original sources:** [ISO 7173:2023 — chairs/stools](https://www.iso.org/standard/73866.html), [ISO 7170:2021 — storage units](https://www.iso.org/standard/76864.html), [ISO 19682:2023 — tables/desks](https://www.iso.org/standard/73590.html), and [ISO 19833:2018 — adult beds](https://www.iso.org/standard/66310.html).
-- **Purpose for this article:** Ground product taxonomy, strength/durability/stability, configuration, procurement, QC, diagnosis, and safety articles.
-- **Safe grounded facts:** Product family, intended user/use, complete assembled specimen, configuration, materials, joints/hardware, dimensions, loading/cycles, conditioning, failure/result, edition, and acceptance document determine applicability.
-- **Limits:** Public abstracts do not supply test values or prove a product passes. ISO 7173:2023 is already marked for revision. Resolve current full methods, exact specimen-to-offer equivalence, laboratory scope, results, and Indonesian/project acceptance under G-16.
-
-### KR-26
-
-- **Original sources:** [ISO 7174-1:1988 — upright chairs/stools](https://www.iso.org/standard/13773.html), [ISO 7174-2:1992 — reclining/rocking chairs](https://www.iso.org/standard/13774.html), and [ISO 7170:2021 — storage units](https://www.iso.org/standard/76864.html).
-- **Purpose for this article:** Support stability, anchoring, moving parts, loading, misuse, children, installation, inspection, and urgent-hazard articles.
-- **Safe grounded facts:** Open drawers/doors, extension, load location, adjustable/reclined state, floor level, wall/substrate/anchor, user behavior, damage, missing components, and installation change stability.
-- **Limits:** Do not publish a universal anchor, safe load, test force, or pass claim. Obtain the complete applicable method/requirement, product instructions/report, site/substrate survey, installation design, and competent review under G-17.
-
-### KR-27
-
-- **Original sources:** [ISO 24496:2021 — office-chair dimension methods](https://www.iso.org/standard/76831.html) and [ISO 21015:2007 — office work-chair stability/strength/durability](https://www.iso.org/cms/%20render/live/en/sites/isoorg/contents/data/standard/03/56/35608.html?browse=tc).
-- **Purpose for this article:** Bound anthropometry, dimensions, posture/task fit, adjustability, accessibility, and office-chair claims.
-- **Safe grounded facts:** User population, task, duration, posture changes, adjustability, reach, transfer, circulation, clothing/equipment, trial fit, and maintenance all affect usability.
-- **Limits:** No universal “ergonomic” dimension, accessibility compliance, medical benefit, or fit claim without current Indonesian requirements, user/task evidence, applicable product standard, trial, and ergonomics/accessibility review under G-18.
-
-### KR-28
-
-- **Original sources:** [ISO 7173:2023](https://www.iso.org/standard/73866.html), [ISO 7170:2021](https://www.iso.org/standard/76864.html), [ISO 19682:2023](https://www.iso.org/standard/73590.html), and [ISO 24496:2021](https://www.iso.org/standard/76831.html).
-- **Purpose for this article:** Support workplace, hospitality, healthcare, education, food-service, retail, worship, and public-use furniture briefs.
-- **Safe grounded facts:** Users, traffic/duty, activities, cleaning agents/frequency, spills, mobility, accessibility, supervision, evacuation/fire, utilities, privacy/security, replacement, and facility policy must be documented.
-- **Limits:** Resolve current Indonesian sector/building rules, owner infection-control/cleaning policy, exact products/finishes, tests, risk assessment, and relevant professional review under G-19.
-
-### KR-29
-
-- **Original sources:** [ISO/TC 136 current furniture catalogue](https://www.iso.org/committee/52448/x/catalogue/p/1/u/0/w/0/d/0), [ISO 7170:2021](https://www.iso.org/standard/76864.html), and [ILO wood-workshop guidance](https://www.ilo.org/publications/safety-and-health-wood-workshop).
-- **Purpose for this article:** Support joints, hinges/slides/extensions, mechanisms, built-ins, anchoring, delivery, installation, relocation, adjustment, and handover.
-- **Safe grounded facts:** Hardware/product identity, declared load/use, mounting material/thickness, fastener/edge distances, alignment, travel/clearance, stops/locks, wall/floor substrate, services, access, inspection, and instructions form the evidence chain.
-- **Limits:** Obtain exact hardware/furniture instructions and reports, site/substrate survey, approved drawings/method, competent installer, safe-work plan, tests, and handover under G-20.
-
-### KR-32
-
-- **Original sources:** [ISO 21625:2020 official record](https://www.iso.org/standard/71279.html).
-- **Purpose for this article:** Ground material naming, product taxonomy, trade descriptions, comparisons, and specifications.
-- **Safe grounded facts:** A culm, strip, sliver, mat, panel, laminated product, engineered product, and completed furniture or structure are not interchangeable evidence objects.
-- **Limits:** Obtain the full current vocabulary, Indonesian/local names, botanical identity, processing history, product construction, and supplier documentation under G-23.
-
-### KR-35
-
-- **Original sources:** [ISO 6128:2023 official record](https://www.iso.org/standard/82086.html).
-- **Purpose for this article:** Ground laminated furniture stock, construction, requirements/tests, handling, storage, packaging, and marking.
-- **Safe grounded facts:** An ISO 6128 scope match does not prove a specific product complies, and indoor furniture material evidence cannot be transferred to outdoor, structural, food-contact, or electrical use.
-- **Limits:** Obtain the current full standard, product construction/adhesive/finish, intended indoor use, reports, production equivalence, handling/storage history, and acceptance evidence under G-01/G-04/G-07/G-23.
-
-## Evidence gates
-
-- **TOPIC-GATE:** G-16, G-17, G-18, G-20, G-23
-
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
-
-## Internal-link plan
-
-### Existing local routes
-
-- `/tempat-tidur-bambu-yogyakarta.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/tempat-tidur-bambu-yogyakarta` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/tempat-tidur-bambu-wonosobo.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/tempat-tidur-bambu-wonosobo` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/tempat-tidur-bambu-wonogiri.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/tempat-tidur-bambu-wonogiri` — use only if it helps the reader's next step; verify the anchor describes the destination.
-
-### Planned sibling articles
-
-These are future routes. Do not link them as live until their HTML exists.
-
-- `BFU-05-02` → `/artikel/mengukur-ruang-furnitur-bambu.html` — Mengukur Ruang untuk Furnitur Bambu
-- `BFU-05-03` → `/artikel/toleransi-furnitur-bambu.html` — Dimensi Kritis, Toleransi, dan Clearance
-- `BFU-05-05` → `/artikel/referensi-foto-furnitur-custom.html` — Mengubah Referensi Foto menjadi Desain yang Dapat Diproduksi
-- `BFU-05-06` → `/artikel/shop-drawing-furnitur-bambu.html` — Shop Drawing, Mockup, dan Persetujuan sebelum Produksi
-
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
-
-## Jawaban singkat dan salah paham utama
-
-- **Purpose:** Jawab pertanyaan judul dalam pembuka dan luruskan miskonsepsi yang paling berbahaya.
-- **Tie back to this article:** Keep the explanation specific to “Ergonomi Kursi, Meja, dan Tempat Tidur Bambu”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Definisi dan batas objek
-
-- **Purpose:** Jelaskan apa yang dibahas, apa yang tidak, dan mengapa batas itu mengubah keputusan.
-- **Tie back to this article:** Keep the explanation specific to “Ergonomi Kursi, Meja, dan Tempat Tidur Bambu”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Cara kerjanya
-
-- **Purpose:** Terangkan mekanisme, urutan, pelaku, material/sistem, dan antarmuka secara sebab-akibat.
-- **Tie back to this article:** Keep the explanation specific to “Ergonomi Kursi, Meja, dan Tempat Tidur Bambu”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Faktor yang mengubah hasil
-
-- **Purpose:** Kelompokkan kondisi proyek, penggunaan, lingkungan, pelaksanaan, dan bukti yang relevan.
-- **Tie back to this article:** Keep the explanation specific to “Ergonomi Kursi, Meja, dan Tempat Tidur Bambu”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Contoh keputusan praktis
-
-- **Purpose:** Berikan skenario bersyarat atau tabel keputusan; tandai asumsi dan jangan mengarang pengalaman.
-- **Tie back to this article:** Keep the explanation specific to “Ergonomi Kursi, Meja, dan Tempat Tidur Bambu”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Kesalahan umum dan cara memeriksanya
-
-- **Purpose:** Bongkar shortcut umum lalu ubah menjadi pertanyaan/checklist verifikasi.
-- **Tie back to this article:** Keep the explanation specific to “Ergonomi Kursi, Meja, dan Tempat Tidur Bambu”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Objection or shortcut to address
-
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
-
-## Required conclusion
-
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
-
-## Draft completion checklist
-
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Sobat Furnitur.co.id!` and uses friendly `Furnitur.co.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+END MANAGED IMAGE PLAN -->

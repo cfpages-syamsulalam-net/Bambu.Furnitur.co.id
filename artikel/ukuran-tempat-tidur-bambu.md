@@ -1,9 +1,10 @@
 ---
 article_id: BFU-09-02
+writing_contract_version: "native-id-v2"
 title: "Ukuran Kasur, Clearance, dan Tinggi Tempat Tidur"
 slug: "ukuran-tempat-tidur-bambu"
 description: "Menentukan ukuran, dukungan kasur, ventilasi, akses, kebisingan, dan kebutuhan kamar."
-status: outline
+status: draft
 publication_date: "2026-01-20"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -14,206 +15,95 @@ reader_address: "Kawan Furnitur.co.id"
 final_route: "/artikel/ukuran-tempat-tidur-bambu.html"
 technical_review: required
 sources:
-  - "https://www.iso.org/standard/73866.html"
-  - "https://www.iso.org/standard/76864.html"
-  - "https://www.iso.org/standard/73590.html"
   - "https://www.iso.org/standard/66310.html"
-  - "https://www.iso.org/standard/13773.html"
-  - "https://www.iso.org/standard/13774.html"
-  - "https://www.iso.org/standard/76831.html"
-  - "https://www.iso.org/cms/%20render/live/en/sites/isoorg/contents/data/standard/03/56/35608.html?browse=tc"
-  - "https://www.iso.org/committee/52448/x/catalogue/p/1/u/0/w/0/d/0"
-  - "https://www.ilo.org/publications/safety-and-health-wood-workshop"
-  - "https://www.iso.org/standard/71279.html"
-  - "https://www.iso.org/standard/82086.html"
 ---
-
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
 
 # Ukuran Kasur, Clearance, dan Tinggi Tempat Tidur
 
-## Assignment lock
+Halo, Kawan Furnitur.co.id! Ukuran tempat tidur bambu yang aman dimulai dari ukuran kasur yang benar-benar akan dipakai, lalu ditambah toleransi untuk rangka, alas, sirkulasi udara, dan gerak pengguna. Jadi, jangan memesan “ukuran queen” hanya berdasarkan nama. Ukur kasur aktual, ukur kamar, dan tentukan dulu tinggi permukaan kasur yang nyaman untuk naik-turun.
 
-- **Writer task:** Expand this file into one complete article answering: “Ukuran Kasur, Clearance, dan Tinggi Tempat Tidur”
-- **Reader and situation:** Menentukan ukuran, dukungan kasur, ventilasi, akses, kebisingan, dan kebutuhan kamar.
-- **Reader outcome:** Menentukan ukuran, dukungan kasur, ventilasi, akses, kebisingan, dan kebutuhan kamar.
-- **Primary intent:** Menyesuaikan bed dengan kasur/ruang
-- **Reader community:** `Furnitur.co.id`
-- **Primary friendly address:** `Kawan Furnitur.co.id`
-- **Natural variants:** `Sobat Furnitur.co.id` and `Teman Furnitur.co.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** Fokus interface dimensi; standar aktual harus diverifikasi.
-- **Final public route:** `/artikel/ukuran-tempat-tidur-bambu.html`
-- **Appointed CMS date:** `2026-01-20` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
+Jawaban singkatnya: buat bidang tumpu sesuai panjang dan lebar kasur, sisakan ruang bebas agar kasur tidak terjepit dan seprai dapat dipasang, lalu cek jarak ke dinding, pintu, laci, serta jalur berjalan. Tinggi akhir adalah tinggi rangka ditambah tebal kasur dan topper bila ada. Nilai dimensi yang tepat tetap bergantung pada produk, pengguna, dan hasil ukur di lokasi; standar tempat tidur dewasa seperti ISO 19833 membantu membingkai objek dan pengujiannya, tetapi halaman ringkas standar tidak membuktikan satu desain tertentu lulus atau menetapkan ukuran kamar Anda ([ISO 19833:2018](https://www.iso.org/standard/66310.html)).
 
-## Opening instructions
-
-- Open with the exact short salutation: **“Halo, Kawan Furnitur.co.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Ukuran Kasur, Clearance, dan Tinggi Tempat Tidur**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Kawan Furnitur.co.id`, `Sobat Furnitur.co.id`, or `Teman Furnitur.co.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
-
-
-<!-- BEGIN MANAGED IMAGE PLAN -->
-## Image plan
-
-- **Image ID:** `LOCAL-001`
-- **Source type:** `local`
-- **Placement:** after the opening has answered the main question, before the first detailed H2
+<!-- BEGIN MANAGED IMAGE PLAN
+- Image ID: `LOCAL-001`
+- Source type: `local`
+- Placement: after the opening has answered the main question, before the first detailed H2
 - **Exact Markdown to insert:** `![Ilustrasi furnitur bambu](/wp-content/uploads/2022/04/furnitur-bambu.jpg)`
-- **Caption/credit:** Aset lokal proyek; jangan klaim sebagai dokumentasi proyek tertentu.
-- **Selection basis:** filename/source metadata identifies `furnitur bambu` as relevant content media; no pixels were inspected.
-- **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
-- **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-001]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
+- Caption/credit: Aset lokal proyek; jangan klaim sebagai dokumentasi proyek tertentu.
+- Selection basis: filename/source metadata identifies `furnitur bambu` as relevant content media; no pixels were inspected.
+- Hard boundary: do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
+- Substitution rule: do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-001]` and continue drafting the prose.
+END MANAGED IMAGE PLAN -->
 
-## Evidence packet
+![Ilustrasi furnitur bambu](/wp-content/uploads/2022/04/furnitur-bambu.jpg)
 
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
-
-### KR-25
-
-- **Original sources:** [ISO 7173:2023 — chairs/stools](https://www.iso.org/standard/73866.html), [ISO 7170:2021 — storage units](https://www.iso.org/standard/76864.html), [ISO 19682:2023 — tables/desks](https://www.iso.org/standard/73590.html), and [ISO 19833:2018 — adult beds](https://www.iso.org/standard/66310.html).
-- **Purpose for this article:** Ground product taxonomy, strength/durability/stability, configuration, procurement, QC, diagnosis, and safety articles.
-- **Safe grounded facts:** Product family, intended user/use, complete assembled specimen, configuration, materials, joints/hardware, dimensions, loading/cycles, conditioning, failure/result, edition, and acceptance document determine applicability.
-- **Limits:** Public abstracts do not supply test values or prove a product passes. ISO 7173:2023 is already marked for revision. Resolve current full methods, exact specimen-to-offer equivalence, laboratory scope, results, and Indonesian/project acceptance under G-16.
-
-### KR-26
-
-- **Original sources:** [ISO 7174-1:1988 — upright chairs/stools](https://www.iso.org/standard/13773.html), [ISO 7174-2:1992 — reclining/rocking chairs](https://www.iso.org/standard/13774.html), and [ISO 7170:2021 — storage units](https://www.iso.org/standard/76864.html).
-- **Purpose for this article:** Support stability, anchoring, moving parts, loading, misuse, children, installation, inspection, and urgent-hazard articles.
-- **Safe grounded facts:** Open drawers/doors, extension, load location, adjustable/reclined state, floor level, wall/substrate/anchor, user behavior, damage, missing components, and installation change stability.
-- **Limits:** Do not publish a universal anchor, safe load, test force, or pass claim. Obtain the complete applicable method/requirement, product instructions/report, site/substrate survey, installation design, and competent review under G-17.
-
-### KR-27
-
-- **Original sources:** [ISO 24496:2021 — office-chair dimension methods](https://www.iso.org/standard/76831.html) and [ISO 21015:2007 — office work-chair stability/strength/durability](https://www.iso.org/cms/%20render/live/en/sites/isoorg/contents/data/standard/03/56/35608.html?browse=tc).
-- **Purpose for this article:** Bound anthropometry, dimensions, posture/task fit, adjustability, accessibility, and office-chair claims.
-- **Safe grounded facts:** User population, task, duration, posture changes, adjustability, reach, transfer, circulation, clothing/equipment, trial fit, and maintenance all affect usability.
-- **Limits:** No universal “ergonomic” dimension, accessibility compliance, medical benefit, or fit claim without current Indonesian requirements, user/task evidence, applicable product standard, trial, and ergonomics/accessibility review under G-18.
-
-### KR-29
-
-- **Original sources:** [ISO/TC 136 current furniture catalogue](https://www.iso.org/committee/52448/x/catalogue/p/1/u/0/w/0/d/0), [ISO 7170:2021](https://www.iso.org/standard/76864.html), and [ILO wood-workshop guidance](https://www.ilo.org/publications/safety-and-health-wood-workshop).
-- **Purpose for this article:** Support joints, hinges/slides/extensions, mechanisms, built-ins, anchoring, delivery, installation, relocation, adjustment, and handover.
-- **Safe grounded facts:** Hardware/product identity, declared load/use, mounting material/thickness, fastener/edge distances, alignment, travel/clearance, stops/locks, wall/floor substrate, services, access, inspection, and instructions form the evidence chain.
-- **Limits:** Obtain exact hardware/furniture instructions and reports, site/substrate survey, approved drawings/method, competent installer, safe-work plan, tests, and handover under G-20.
-
-### KR-32
-
-- **Original sources:** [ISO 21625:2020 official record](https://www.iso.org/standard/71279.html).
-- **Purpose for this article:** Ground material naming, product taxonomy, trade descriptions, comparisons, and specifications.
-- **Safe grounded facts:** A culm, strip, sliver, mat, panel, laminated product, engineered product, and completed furniture or structure are not interchangeable evidence objects.
-- **Limits:** Obtain the full current vocabulary, Indonesian/local names, botanical identity, processing history, product construction, and supplier documentation under G-23.
-
-### KR-35
-
-- **Original sources:** [ISO 6128:2023 official record](https://www.iso.org/standard/82086.html).
-- **Purpose for this article:** Ground laminated furniture stock, construction, requirements/tests, handling, storage, packaging, and marking.
-- **Safe grounded facts:** An ISO 6128 scope match does not prove a specific product complies, and indoor furniture material evidence cannot be transferred to outdoor, structural, food-contact, or electrical use.
-- **Limits:** Obtain the current full standard, product construction/adhesive/finish, intended indoor use, reports, production equivalence, handling/storage history, and acceptance evidence under G-01/G-04/G-07/G-23.
-
-## Evidence gates
-
-- **TOPIC-GATE:** G-16, G-17, G-18, G-20, G-22, G-23
-
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
-
-## Internal-link plan
-
-### Existing local routes
-
-- `/tempat-tidur-bambu-yogyakarta.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/tempat-tidur-bambu-yogyakarta` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/tempat-tidur-bambu-wonosobo.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/tempat-tidur-bambu-wonosobo` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/tempat-tidur-bambu-wonogiri.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/tempat-tidur-bambu-wonogiri` — use only if it helps the reader's next step; verify the anchor describes the destination.
-
-### Planned sibling articles
-
-These are future routes. Do not link them as live until their HTML exists.
-
-- `BFU-09-01` → `/artikel/memilih-tempat-tidur-bambu.html` — Panduan Memilih Tempat Tidur Bambu
-- `BFU-09-03` → `/artikel/support-kasur-bambu.html` — Slat, Support Tengah, dan Ventilasi Kasur
-- `BFU-09-04` → `/artikel/headboard-bambu.html` — Headboard Bambu: Batang, Panel, atau Anyaman
-
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
+Aset lokal proyek; jangan klaim sebagai dokumentasi proyek tertentu.
 
 ## Jawaban singkat dan salah paham utama
 
-- **Purpose:** Jawab pertanyaan judul dalam pembuka dan luruskan miskonsepsi yang paling berbahaya.
-- **Tie back to this article:** Keep the explanation specific to “Ukuran Kasur, Clearance, dan Tinggi Tempat Tidur”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Kesalahan paling mahal biasanya terjadi ketika ukuran luar rangka disamakan dengan ukuran kasur. Kasur harus punya bidang tumpu yang rata dan tidak memaksa sisi kasur melengkung. Sebaliknya, ruang bebas yang terlalu besar membuat kasur bergeser, seprai mudah terlepas, dan bunyi gesekan lebih mungkin muncul saat pengguna bergerak.
+
+Pisahkan empat angka sejak awal: panjang-lebar kasur, ukuran bersih bidang tumpu, ukuran luar rangka, dan tinggi permukaan tidur. Tambahkan juga ukuran elemen yang menonjol, seperti headboard, kaki, atau laci. Sebuah gambar denah yang hanya memuat persegi panjang kasur belum menjawab apakah pintu dapat dibuka atau apakah orang dapat berjalan di sisinya.
+
+Kawan Furnitur.co.id, bila spesifikasi kasur belum final, jangan mengunci sambungan rangka berdasarkan perkiraan. Tulis ukuran target sebagai asumsi sementara dan minta konfirmasi sebelum produksi. [NEEDS TECHNICAL REVIEW: toleransi celah, detail alas, dan beban harus disesuaikan dengan kasur serta desain aktual.]
 
 ## Definisi dan batas objek
 
-- **Purpose:** Jelaskan apa yang dibahas, apa yang tidak, dan mengapa batas itu mengubah keputusan.
-- **Tie back to this article:** Keep the explanation specific to “Ukuran Kasur, Clearance, dan Tinggi Tempat Tidur”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Artikel ini membahas antarmuka antara kasur, tempat tidur bambu, dan kamar: cara mengukur, memeriksa clearance (ruang bebas), menilai akses, serta menghitung tinggi akhir. “Ukuran tempat tidur” berarti lebih dari ukuran kasur; ia mencakup konstruksi penyangga, tepi, sambungan, dan ruang untuk pemakaian sehari-hari.
+
+Yang tidak dibahas adalah ukuran kasur nasional yang dianggap universal, klaim ergonomi medis, kapasitas beban, ketahanan sambungan, atau kepatuhan terhadap persyaratan proyek tertentu. Bambu juga bukan satu benda yang seragam: batang, strip, panel, dan produk laminasi memiliki konstruksi berbeda. Karena itu, nama material saja tidak cukup untuk memindahkan data dari satu produk ke produk lain.
 
 ## Cara kerjanya
 
-- **Purpose:** Terangkan mekanisme, urutan, pelaku, material/sistem, dan antarmuka secara sebab-akibat.
-- **Tie back to this article:** Keep the explanation specific to “Ukuran Kasur, Clearance, dan Tinggi Tempat Tidur”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Mulai dari kasur. Ukur panjang, lebar, dan tebal pada beberapa titik; catat tonjolan, sarung tambahan, atau topper. Gunakan ukuran aktual, bukan ukuran pada iklan, jika keduanya berbeda. Tandai sisi kepala dan sisi akses agar orientasi tidak tertukar.
+
+Berikutnya tentukan bidang tumpu. Periksa apakah kasur ditahan oleh bilah, panel, atau bingkai keliling. Bidang itu harus konsisten sepanjang kasur dan dapat diperiksa setelah dirakit. Jangan menganggap celah antarelemen alas otomatis cocok untuk semua jenis kasur; kebutuhan dukungan dan ventilasi berasal dari konstruksi kasur dan instruksi produsennya.
+
+Setelah bidang tumpu, gambar ukuran luar. Tambahkan tebal tiang, lis, anyaman, headboard, dan komponen bergerak. Ukur juga ruang servis: tempat tangan masuk untuk mengangkat kasur, akses membersihkan debu, serta jalur melepas komponen bila rangka perlu dipindahkan.
+
+Terakhir hitung tinggi permukaan tidur: tinggi lantai ke atas rangka ditambah tebal kasur dan lapisan tambahan. Uji dengan simulasi sederhana—duduk di tepi, berdiri, dan masuk dari sisi yang direncanakan—sebelum keputusan final. Simulasi ini adalah pemeriksaan kecocokan pengguna, bukan sertifikasi ergonomi.
 
 ## Faktor yang mengubah hasil
 
-- **Purpose:** Kelompokkan kondisi proyek, penggunaan, lingkungan, pelaksanaan, dan bukti yang relevan.
-- **Tie back to this article:** Keep the explanation specific to “Ukuran Kasur, Clearance, dan Tinggi Tempat Tidur”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Pertama, ruang gerak. Ukur daun pintu, bukaan lemari, laci nakas, dan arah ayunan pintu. Clearance di denah dapat hilang ketika furnitur lain masuk. Sisakan jalur yang benar-benar dapat dilalui, terutama pada sisi yang dipakai untuk naik-turun atau mengganti seprai.
+
+Kedua, ventilasi dan kelembapan. Alas yang tertutup rapat, kasur yang menempel ke lantai, atau ruang yang sulit dibersihkan dapat menghambat pengeringan. Jangan menjanjikan angka ventilasi tanpa data kasur, lingkungan, dan desain alas. Pastikan pula air pembersih tidak tertahan di sambungan bambu.
+
+Ketiga, akses dan pengguna. Anak kecil, orang lanjut usia, pengguna dengan keterbatasan gerak, atau orang yang membawa peralatan tidur dapat membutuhkan tinggi dan sisi akses berbeda. Pakaian tebal serta topper mengubah tinggi akhir. Sobat Furnitur.co.id, keputusan tinggi sebaiknya diuji oleh pengguna yang sebenarnya, bukan hanya diputuskan dari tampilan samping.
+
+Keempat, gerak dan bunyi. Celah longgar, alas yang tidak rata, kaki yang tidak sebidang, atau sambungan yang berubah saat dipindahkan dapat menimbulkan bunyi. Telusuri sumber gerak pada titik kontak kasur–alas, alas–rangka, dan rangka–lantai. Jangan menyelesaikan bunyi dengan mengganjal bahan acak sebelum penyebab dan kondisi pemasangan dicatat.
+
+Kelima, bukti konstruksi. Identitas hardware, cara pemasangan, substrat lantai atau dinding, alignment, dan instruksi perakitan memengaruhi hasil. Catat ukuran komponen, posisi pengikat, serta pemeriksaan setelah perakitan. Pedoman keselamatan kerja bengkel kayu ILO relevan untuk pengendalian proses kerja, tetapi bukan bukti bahwa tempat tidur tertentu aman atau lulus uji.
 
 ## Contoh keputusan praktis
 
-- **Purpose:** Berikan skenario bersyarat atau tabel keputusan; tandai asumsi dan jangan mengarang pengalaman.
-- **Tie back to this article:** Keep the explanation specific to “Ukuran Kasur, Clearance, dan Tinggi Tempat Tidur”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Gunakan tabel ini sebagai urutan keputusan, bukan angka baku:
+
+| Pertanyaan | Jika jawabannya “ya” | Tindakan berikutnya |
+|---|---|---|
+| Kasur sudah tersedia dan terukur? | Ada angka aktual panjang, lebar, tebal | Jadikan angka itu dasar bidang tumpu dan tinggi akhir. |
+| Kasur belum tersedia? | Ukuran masih berupa perkiraan | Tunda penguncian detail; minta lembar spesifikasi kasur. |
+| Sisi akses berdekatan pintu atau laci? | Bukaan dapat beradu dengan rangka | Gambar lintasan bukaan dan pindahkan orientasi atau posisi. |
+| Ada topper atau alas tambahan? | Tinggi permukaan berubah | Hitung ulang tinggi duduk dan tinggi headboard. |
+| Alas memakai bilah atau panel? | Dukungan dan celahnya berbeda | Cocokkan dengan instruksi kasur; tandai kebutuhan review teknis. |
+| Rangka akan sering dipindah? | Sambungan menerima siklus bongkar-pasang | Pastikan hardware, pengunci, dan urutan inspeksi terdokumentasi. |
+
+Contoh bersyarat: kamar sempit mungkin memaksa satu sisi tempat tidur menempel dekat dinding. Dalam kondisi itu, ukuran luar yang tampak “pas” belum tentu nyaman dipakai karena seprai dan pembersihan memerlukan akses. Pilih orientasi yang memberi akses utama, lalu minta pengguna mencoba gerak nyata sebelum produksi.
 
 ## Kesalahan umum dan cara memeriksanya
 
-- **Purpose:** Bongkar shortcut umum lalu ubah menjadi pertanyaan/checklist verifikasi.
-- **Tie back to this article:** Keep the explanation specific to “Ukuran Kasur, Clearance, dan Tinggi Tempat Tidur”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Mengandalkan label “single”, “queen”, atau “king” tanpa mengukur kasur adalah shortcut pertama. Periksa kasur dengan meteran dan simpan tanggal pengukuran. Kesalahan kedua adalah mengukur dinding ke dinding tanpa memperhitungkan plint, tirai, kabel, dan bukaan pintu. Tandai semua tonjolan pada denah.
 
-## Objection or shortcut to address
+Kesalahan ketiga ialah menyamakan celah alas dengan ventilasi yang pasti cukup. Tanyakan konstruksi kasur, lokasi lembap, dan cara membersihkan bagian bawah. Kesalahan keempat adalah memilih tinggi hanya dari estetika. Duduk dan berdiri beberapa kali dengan alas yang meniru tinggi akhir; bila pengguna berbeda, uji semuanya.
 
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
+Kesalahan kelima adalah menganggap standar sebagai stempel otomatis. Catatan ISO 19833 membahas tempat tidur dewasa sebagai objek standar, namun penerapan metode, edisi, spesimen, dan penerimaan proyek harus diverifikasi. Simpan gambar kerja, spesifikasi material, instruksi hardware, hasil pengukuran lokasi, dan catatan inspeksi sebagai satu paket review.
 
-## Required conclusion
+## Jalan pintas yang perlu dihindari
 
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
+“Buat saja sedikit lebih longgar supaya semua kasur bisa masuk” terdengar praktis, tetapi celah berlebih dapat membuat kasur bergerak dan menyulitkan pemasangan seprai. “Buat seukuran kasur persis” juga berisiko bila tidak ada toleransi untuk sarung, perubahan kecil ukuran, atau akses tangan. Alternatif yang lebih dapat dipertanggungjawabkan adalah menetapkan ukuran kasur yang dituju, mendokumentasikan toleransi desain, lalu menguji kasur aktual pada prototipe atau rakitan percobaan bila detailnya kritis. Untuk membandingkan kebutuhan model sebelum meminta penawaran, Anda dapat meninjau [kategori tempat tidur](/tempat-tidur) dan [halaman produk](/produk), sambil tetap mencocokkan ukuran kasur aktual.
 
-## Draft completion checklist
+## Kesimpulan
 
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Kawan Furnitur.co.id!` and uses friendly `Furnitur.co.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+Ukuran tempat tidur bambu ditentukan berurutan: ukur kasur aktual, rancang bidang tumpu dan ruang bebas, hitung ukuran luar beserta jalur akses, lalu tetapkan tinggi akhir setelah semua lapisan kasur diketahui. Ventilasi, kebisingan, dan kemudahan pindah harus diperiksa pada antarmuka kasur–alas–rangka–lantai, bukan disimpulkan dari nama material.
+
+Langkah berikutnya adalah membuat lembar ukur berisi kasur, kamar, bukaan, furnitur sekitar, tinggi lapisan, dan detail alas; lampirkan gambar kerja serta instruksi hardware untuk review. Teman Furnitur.co.id, jangan produksi atau mengklaim kesesuaian sebelum [NEEDS TECHNICAL REVIEW: ukuran, toleransi, dukungan, stabilitas, dan persyaratan lokasi] diverifikasi oleh pihak kompeten. Aturan operasionalnya sederhana: setiap angka harus punya sumber ukur atau asumsi yang tertulis, dan setiap asumsi penting harus disetujui sebelum rangka dibuat.

@@ -3,7 +3,8 @@ article_id: BFU-08-03
 title: "Rak TV Bambu: Kabel, Ventilasi, dan Ukuran Perangkat"
 slug: "rak-tv-bambu"
 description: "Menentukan kapasitas, ventilasi, akses, kestabilan, kabel, serta interface dinding/lantai."
-status: outline
+status: draft
+writing_contract_version: "native-id-v2"
 publication_date: "2025-12-30"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -14,49 +15,21 @@ reader_address: "Teman Furnitur.co.id"
 final_route: "/artikel/rak-tv-bambu.html"
 technical_review: required
 sources:
-  - "https://www.iso.org/standard/73866.html"
   - "https://www.iso.org/standard/76864.html"
-  - "https://www.iso.org/standard/73590.html"
-  - "https://www.iso.org/standard/66310.html"
   - "https://www.iso.org/standard/13773.html"
   - "https://www.iso.org/standard/13774.html"
   - "https://www.iso.org/committee/52448/x/catalogue/p/1/u/0/w/0/d/0"
   - "https://www.ilo.org/publications/safety-and-health-wood-workshop"
-  - "https://www.iso.org/standard/71279.html"
   - "https://www.iso.org/standard/82086.html"
 ---
 
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
-
 # Rak TV Bambu: Kabel, Ventilasi, dan Ukuran Perangkat
 
-## Assignment lock
+Halo, Teman Furnitur.co.id! Rak TV bambu yang aman bukan sekadar bidang yang lebih lebar dari televisi. Ukur televisi, soundbar, konsol, dekoder, dan adaptor dalam kondisi terpasang; sisakan jalur kabel dan ruang pembuangan panas; lalu tetapkan apakah unit berdiri di lantai atau berinteraksi dengan dinding. Ukuran akhir baru dapat disetujui setelah data perangkat, instruksi pabrikan, material lantai/dinding, dan rancangan sambungan tersedia.
 
-- **Writer task:** Expand this file into one complete article answering: “Rak TV Bambu: Kabel, Ventilasi, dan Ukuran Perangkat”
-- **Reader and situation:** Menentukan kapasitas, ventilasi, akses, kestabilan, kabel, serta interface dinding/lantai.
-- **Reader outcome:** Menentukan kapasitas, ventilasi, akses, kestabilan, kabel, serta interface dinding/lantai.
-- **Primary intent:** Menyiapkan kebutuhan media unit
-- **Reader community:** `Furnitur.co.id`
-- **Primary friendly address:** `Teman Furnitur.co.id`
-- **Natural variants:** `Sobat Furnitur.co.id` and `Kawan Furnitur.co.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** Fokus electronics interface; rating/support harus dibuktikan.
-- **Final public route:** `/artikel/rak-tv-bambu.html`
-- **Appointed CMS date:** `2025-12-30` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
+Jangan memakai kapasitas umum untuk semua rak. Stabilitas berubah ketika laci dibuka, perangkat ditarik, kabel menahan gerakan, lantai tidak rata, atau unit dipindahkan. Prinsip pengujian storage unit membedakan konfigurasi, lokasi beban, dan kondisi penggunaan; abstrak standar tidak memberikan angka beban universal atau membuktikan rak tertentu lulus ([ISO 7170:2021](https://www.iso.org/standard/76864.html)). Karena itu, artikel ini membantu menyiapkan brief dan pemeriksaan antarmuka, bukan menggantikan persetujuan teknis proyek.
 
-## Opening instructions
-
-- Open with the exact short salutation: **“Halo, Teman Furnitur.co.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Rak TV Bambu: Kabel, Ventilasi, dan Ukuran Perangkat**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Teman Furnitur.co.id`, `Sobat Furnitur.co.id`, or `Kawan Furnitur.co.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
-
-
-<!-- BEGIN MANAGED IMAGE PLAN -->
+<!-- BEGIN MANAGED IMAGE PLAN
 ## Image plan
 
 - **Image ID:** `LOCAL-018`
@@ -67,145 +40,68 @@ sources:
 - **Selection basis:** filename/source metadata identifies `Rak TV Bambu` as relevant content media; no pixels were inspected.
 - **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
 - **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-018]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
+END MANAGED IMAGE PLAN -->
 
-## Evidence packet
+![Ilustrasi Rak TV Bambu](/wp-content/uploads/2022/04/Rak-TV-Bambu.jpg)
 
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
-
-### KR-25
-
-- **Original sources:** [ISO 7173:2023 — chairs/stools](https://www.iso.org/standard/73866.html), [ISO 7170:2021 — storage units](https://www.iso.org/standard/76864.html), [ISO 19682:2023 — tables/desks](https://www.iso.org/standard/73590.html), and [ISO 19833:2018 — adult beds](https://www.iso.org/standard/66310.html).
-- **Purpose for this article:** Ground product taxonomy, strength/durability/stability, configuration, procurement, QC, diagnosis, and safety articles.
-- **Safe grounded facts:** Product family, intended user/use, complete assembled specimen, configuration, materials, joints/hardware, dimensions, loading/cycles, conditioning, failure/result, edition, and acceptance document determine applicability.
-- **Limits:** Public abstracts do not supply test values or prove a product passes. ISO 7173:2023 is already marked for revision. Resolve current full methods, exact specimen-to-offer equivalence, laboratory scope, results, and Indonesian/project acceptance under G-16.
-
-### KR-26
-
-- **Original sources:** [ISO 7174-1:1988 — upright chairs/stools](https://www.iso.org/standard/13773.html), [ISO 7174-2:1992 — reclining/rocking chairs](https://www.iso.org/standard/13774.html), and [ISO 7170:2021 — storage units](https://www.iso.org/standard/76864.html).
-- **Purpose for this article:** Support stability, anchoring, moving parts, loading, misuse, children, installation, inspection, and urgent-hazard articles.
-- **Safe grounded facts:** Open drawers/doors, extension, load location, adjustable/reclined state, floor level, wall/substrate/anchor, user behavior, damage, missing components, and installation change stability.
-- **Limits:** Do not publish a universal anchor, safe load, test force, or pass claim. Obtain the complete applicable method/requirement, product instructions/report, site/substrate survey, installation design, and competent review under G-17.
-
-### KR-29
-
-- **Original sources:** [ISO/TC 136 current furniture catalogue](https://www.iso.org/committee/52448/x/catalogue/p/1/u/0/w/0/d/0), [ISO 7170:2021](https://www.iso.org/standard/76864.html), and [ILO wood-workshop guidance](https://www.ilo.org/publications/safety-and-health-wood-workshop).
-- **Purpose for this article:** Support joints, hinges/slides/extensions, mechanisms, built-ins, anchoring, delivery, installation, relocation, adjustment, and handover.
-- **Safe grounded facts:** Hardware/product identity, declared load/use, mounting material/thickness, fastener/edge distances, alignment, travel/clearance, stops/locks, wall/floor substrate, services, access, inspection, and instructions form the evidence chain.
-- **Limits:** Obtain exact hardware/furniture instructions and reports, site/substrate survey, approved drawings/method, competent installer, safe-work plan, tests, and handover under G-20.
-
-### KR-32
-
-- **Original sources:** [ISO 21625:2020 official record](https://www.iso.org/standard/71279.html).
-- **Purpose for this article:** Ground material naming, product taxonomy, trade descriptions, comparisons, and specifications.
-- **Safe grounded facts:** A culm, strip, sliver, mat, panel, laminated product, engineered product, and completed furniture or structure are not interchangeable evidence objects.
-- **Limits:** Obtain the full current vocabulary, Indonesian/local names, botanical identity, processing history, product construction, and supplier documentation under G-23.
-
-### KR-35
-
-- **Original sources:** [ISO 6128:2023 official record](https://www.iso.org/standard/82086.html).
-- **Purpose for this article:** Ground laminated furniture stock, construction, requirements/tests, handling, storage, packaging, and marking.
-- **Safe grounded facts:** An ISO 6128 scope match does not prove a specific product complies, and indoor furniture material evidence cannot be transferred to outdoor, structural, food-contact, or electrical use.
-- **Limits:** Obtain the current full standard, product construction/adhesive/finish, intended indoor use, reports, production equivalence, handling/storage history, and acceptance evidence under G-01/G-04/G-07/G-23.
-
-## Evidence gates
-
-- **TOPIC-GATE:** G-16, G-17, G-18, G-20, G-22, G-23
-
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
-
-## Internal-link plan
-
-### Existing local routes
-
-- `/rak-tv-bambu-yogyakarta.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/rak-tv-bambu-yogyakarta` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/rak-tv-bambu-wonosobo.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/rak-tv-bambu-wonosobo` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/rak-tv-bambu-wonogiri.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/rak-tv-bambu-wonogiri` — use only if it helps the reader's next step; verify the anchor describes the destination.
-
-### Planned sibling articles
-
-These are future routes. Do not link them as live until their HTML exists.
-
-- `BFU-08-01` → `/artikel/memilih-lemari-rak-bambu.html` — Panduan Memilih Lemari dan Rak Bambu
-- `BFU-08-02` → `/artikel/rak-terbuka-vs-lemari-bambu.html` — Rak Terbuka vs Lemari Tertutup dari Bambu
-- `BFU-08-04` → `/artikel/rak-dinding-vs-berdiri-bambu.html` — Rak Dinding vs Rak Berdiri dari Bambu
-- `BFU-08-05` → `/artikel/hardware-lemari-bambu.html` — Pintu, Laci, dan Hardware pada Lemari Bambu
-
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
+Aset lokal dari Furnitur.co.id; bukan dokumentasi proyek tertentu.
 
 ## Hasil akhir dan prasyarat
 
-- **Purpose:** Nyatakan hasil yang ingin dicapai, siapa yang berwenang, data awal, alat/dokumen, dan kondisi yang harus tersedia.
-- **Tie back to this article:** Keep the explanation specific to “Rak TV Bambu: Kabel, Ventilasi, dan Ukuran Perangkat”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Hasil yang dicari adalah lembar kebutuhan media unit yang bisa diperiksa: daftar perangkat dan ukurannya, posisi setiap beban, jalur kabel, kebutuhan ventilasi, akses servis, serta keputusan interface lantai atau dinding. Pemilik rumah menyediakan model perangkat dan manualnya; perancang menerjemahkannya menjadi gambar berdimensi; penanggung jawab teknis menyetujui kapasitas, sambungan, dan metode pemasangan.
 
-## Langkah 1 — tetapkan scope
+Sebelum pemesanan, siapkan lebar, tinggi, kedalaman, dan berat aktual tiap perangkat; ukuran colokan dan radius tekuk kabel; posisi stopkontak, jaringan, dan antena; serta jarak ke dinding, tirai, dan bukaan. Catat jenis lantai dan dinding, kemungkinan ketidakrataan, akses untuk memindahkan unit, dan apakah ada anak yang dapat menarik laci atau memanjat. Tanpa data ini, hasilnya hanya perkiraan dan perlu ditandai `[NEEDS G-16/G-17: data perangkat, rating, dan kondisi lokasi belum diverifikasi]`.
 
-- **Purpose:** Jelaskan objek, batas pekerjaan, antarmuka, risiko, serta hal yang sengaja tidak dikerjakan.
-- **Tie back to this article:** Keep the explanation specific to “Rak TV Bambu: Kabel, Ventilasi, dan Ukuran Perangkat”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+## Langkah 1 — tetapkan batas pekerjaan
+
+Scope artikel ini adalah antarmuka elektronik pada rak TV bambu: dudukan layar, kompartemen perangkat, bukaan kabel, ventilasi pasif, akses servis, serta hubungan unit dengan lantai atau dinding. Yang tidak ditetapkan di sini adalah rating beban numerik, desain anchor universal, instalasi listrik, atau klaim bahwa bambu tertentu otomatis setara dengan produk yang diuji.
+
+Bedakan unit berdiri dari unit yang ditambatkan. Pada unit berdiri, pusat gravitasi, kaki, kerataan lantai, dan tarikan kabel menjadi perhatian utama. Pada unit yang berinteraksi dengan dinding, jenis substrat, ketebalan, posisi elemen penahan, fastener, dan urutan pemasangan harus masuk gambar kerja. Perubahan kecil—misalnya menambah laci, roda, atau panel belakang—dapat mengubah stabilitas. Kawan Furnitur.co.id, tetapkan juga siapa yang boleh memindahkan unit dan kapan kabel harus dilepas.
 
 ## Langkah 2 — kumpulkan dan cocokkan bukti
 
-- **Purpose:** Susun dokumen, observasi, data, produk, atau standar yang harus cocok dengan kasus.
-- **Tie back to this article:** Keep the explanation specific to “Rak TV Bambu: Kabel, Ventilasi, dan Ukuran Perangkat”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Mulai dari perangkat, bukan dari nama bahan. Buat tabel dengan kolom model, dimensi maksimum, berat menurut manual, kebutuhan ruang bebas, lokasi ventilasi, konektor, dan cara servis. Ukur kondisi nyata setelah kabel dan adaptor terpasang. Tandai perangkat yang membuang panas melalui sisi atau atas; kompartemen tertutup tidak boleh diasumsikan cocok hanya karena ukurannya muat.
+
+Untuk furnitur, cocokkan gambar rak lengkap, material panel, detail sambungan, hardware, dan instruksi penggunaan dengan konfigurasi yang akan dibuat. Katalog ISO/TC 136 menunjukkan bahwa identitas produk, konfigurasi, serta metode dan bukti pengujian harus dibaca sebagai satu rangkaian, bukan dipisahkan menjadi klaim “bambu kuat” ([katalog ISO/TC 136](https://www.iso.org/committee/52448/x/catalogue/p/1/u/0/w/0/d/0)). Jika memakai panel laminasi, minta konstruksi, perekat, finishing, penggunaan indoor, dan riwayat penyimpanan; cakupan ISO 6128 tidak otomatis membuktikan produk tertentu memenuhi persyaratan ([ISO 6128:2023](https://www.iso.org/standard/82086.html)).
+
+Untuk klaim material, pastikan istilahnya tepat: culm, strip, anyaman, panel, produk laminasi, dan furnitur jadi bukan objek bukti yang sama. Catat nama dagang dan konstruksi pemasok, tetapi jangan mengubah deskripsi tersebut menjadi rating struktur tanpa laporan yang cocok.
 
 ## Langkah 3 — jalankan urutan kerja
 
-- **Purpose:** Berikan urutan konseptual yang dapat diikuti tanpa berubah menjadi instruksi teknis berbahaya.
-- **Tie back to this article:** Keep the explanation specific to “Rak TV Bambu: Kabel, Ventilasi, dan Ukuran Perangkat”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+1. **Bekukan daftar perangkat.** Sertakan rencana perangkat yang mungkin ditambah, tetapi pisahkan dari beban yang benar-benar akan diterima rak. Jangan mengisi celah data berat atau dimensi dengan tebakan.
+2. **Gambar amplop perangkat.** Letakkan layar dan perangkat pada posisi pakai, dengan bukaan untuk konektor dan ruang agar tangan dapat mencabut kabel. Tunjukkan arah aliran udara yang disyaratkan manual; hindari membuat kisi-kisi dekoratif yang menutup jalur tersebut.
+3. **Rancang jalur kabel.** Kelompokkan kabel daya dan sinyal sesuai kebutuhan peralatan, sediakan strain relief agar colokan tidak menarik perangkat, dan beri label titik masuk/keluar. Pastikan jalur tidak terjepit pintu atau laci dan masih bisa diinspeksi.
+4. **Tetapkan interface.** Untuk kaki, nyatakan bidang tumpu dan penyetelan kerataan. Untuk dinding, nyatakan substrat, titik anchor, fastener, serta urutan pemasangan berdasarkan survei lokasi—bukan berdasarkan ukuran sekrup yang dianggap umum. Dokumen keselamatan kerja bengkel ILO membahas pengendalian bahaya kerja dan prosedur sesuai aktivitas; pemasangan tetap membutuhkan rencana kerja dan kompetensi yang relevan ([ILO, Safety and health in wood workshop](https://www.ilo.org/publications/safety-and-health-wood-workshop)).
+5. **Tinjau gerak dan penggunaan.** Simulasikan pintu/laci terbuka, perangkat ditarik untuk servis, serta kondisi kabel tersambung. Prinsip stabilitas juga dipengaruhi beban di posisi berbeda, lantai, anchor, dan perilaku pengguna ([ISO 7174-1](https://www.iso.org/standard/13773.html); [ISO 7174-2](https://www.iso.org/standard/13774.html)).
+6. **Kunci gambar dan instruksi.** Gambar harus memuat dimensi final, titik sambungan, batas penggunaan yang benar-benar didukung bukti, serta langkah inspeksi dan handover.
 
-## Hold point dan kondisi berhenti
+## Titik berhenti dan kondisi berhenti
 
-- **Purpose:** Nyatakan kapan pekerjaan tidak boleh diteruskan tanpa review, tes, atau persetujuan.
-- **Tie back to this article:** Keep the explanation specific to “Rak TV Bambu: Kabel, Ventilasi, dan Ukuran Perangkat”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Hentikan pemesanan atau pemasangan bila model perangkat berubah, berat aktual tidak tersedia, bukaan ventilasi bertentangan dengan manual, kabel harus melewati tepi tajam, atau unit bergoyang setelah diratakan. Berhenti juga bila dinding/lantai tidak dapat diidentifikasi, titik anchor tidak dapat disurvei, atau ada retak, sambungan longgar, komponen hilang, dan perubahan konfigurasi.
 
-## Verifikasi hasil dan handover
+Pada titik ini, minta review teknis atas metode dan laporan yang berlaku: `[NEEDS G-16/G-17/G-20: verifikasi rating, anchor, substrat, hardware, dan metode pemasangan]`. Jangan mengganti review tersebut dengan angka kapasitas dari artikel, label bahan, atau pengalaman pemasangan yang tidak terdokumentasi. Sobat Furnitur.co.id, keputusan aman adalah menunda kompartemen atau memilih konfigurasi yang dapat diperiksa, bukan memaksa perangkat masuk ke ruang yang terlalu sempit.
 
-- **Purpose:** Buat checklist penerimaan, rekaman, tindak lanjut, dan pemicu koreksi.
-- **Tie back to this article:** Keep the explanation specific to “Rak TV Bambu: Kabel, Ventilasi, dan Ukuran Perangkat”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+## Verifikasi hasil dan serah terima
 
-## Objection or shortcut to address
+Gunakan checklist penerimaan berikut bersama gambar yang telah disetujui:
 
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
+- Semua model perangkat, dimensi, dan berat tercatat serta cocok dengan konfigurasi rak.
+- Layar dan perangkat tidak menutup jalur ventilasi yang diwajibkan manual; ruang bebas dan akses servis dapat diperiksa.
+- Kabel tidak terjepit, tertarik, atau menjadi penghalang gerak laci/pintu; titik keluar dan labelnya jelas.
+- Unit rata dan stabil pada kondisi penggunaan yang direncanakan; perubahan posisi beban dan bukaan sudah ditinjau.
+- Interface lantai/dinding, hardware, substrat, dan instruksi pemasangan terdokumentasi; tidak ada klaim anchor atau rating tanpa bukti yang cocok.
+- Kondisi awal, foto titik sambungan, hasil inspeksi, dan siapa yang menerima dicatat untuk handover.
 
-## Required conclusion
+Jika salah satu butir gagal, rekam sebagai temuan dan tetapkan tindakan koreksi serta pemeriksaan ulang. Handover belum lengkap sampai manual perangkat, gambar final, batas penggunaan, dan jadwal inspeksi diserahkan kepada pengguna.
 
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
+## Jalan pintas yang sering gagal
 
-## Draft completion checklist
+Jalan pintas yang umum adalah mengukur lebar televisi saja, menutup panel belakang agar tampak rapi, lalu memakai sekrup yang tersedia untuk menambatkan unit. Cara ini dapat menyisakan adaptor yang menekan kabel, memerangkap panas, menghilangkan akses servis, atau memberi rasa aman palsu pada dinding yang belum disurvei. Ukuran luar tidak membuktikan kapasitas, dan standar storage tidak menerbitkan angka universal untuk rak tertentu ([ISO 7170:2021](https://www.iso.org/standard/76864.html)).
 
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Teman Furnitur.co.id!` and uses friendly `Furnitur.co.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+Alternatif yang lebih dapat dipertanggungjawabkan adalah mengunci data perangkat dan lokasi, menggambar bukaan serta jalur kabel, mencocokkan hardware dan substrat, lalu meminta review kompeten sebelum produksi. Bila data belum lengkap, biarkan ruang lingkup tetap sementara dan gunakan penanda kebutuhan bukti.
+
+## Kesimpulan dan langkah berikutnya
+
+Rak TV bambu ditentukan oleh pasangan ukuran perangkat dan antarmukanya: ruang bebas untuk ventilasi, jalur kabel yang bisa diinspeksi, akses saat servis, stabilitas pada lantai atau dinding, serta bukti rating dan hardware yang benar-benar cocok. Tidak ada ukuran, kapasitas, atau anchor universal yang boleh diasumsikan dari nama “bambu”.
+
+Langkah berikutnya: kumpulkan manual semua perangkat, ukur kondisi lokasi, dan minta gambar final yang menunjukkan dimensi, ventilasi, kabel, titik tumpu, serta metode interface. Untuk memahami jenis barang yang relevan, lihat [rak TV](/rak-tv) dan [daftar produk](/produk), lalu kembali ke data perangkat dan lokasi Anda sendiri. Serahkan paket itu untuk review teknis yang disyaratkan sebelum rak dibuat atau dipasang. Jika bukti rating, substrat, atau kecocokan produk belum ada, tandai `[NEEDS TECHNICAL REVIEW]` dan jangan lanjutkan pekerjaan yang bergantung padanya.

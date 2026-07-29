@@ -3,7 +3,7 @@ article_id: BFU-07-06
 title: "Checklist Acceptance Meja dan Minibar Bambu"
 slug: "acceptance-meja-minibar-bambu"
 description: "Menentukan top, rangka, penyimpanan, tinggi kerja, interface, dan penggunaan meja/bar."
-status: outline
+status: draft
 publication_date: "2025-12-18"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -13,15 +13,10 @@ reader_community: "Furnitur.co.id"
 reader_address: "Sobat Furnitur.co.id"
 final_route: "/artikel/acceptance-meja-minibar-bambu.html"
 technical_review: required
+writing_contract_version: "native-id-v2"
 sources:
-  - "https://www.iso.org/standard/73866.html"
   - "https://www.iso.org/standard/76864.html"
   - "https://www.iso.org/standard/73590.html"
-  - "https://www.iso.org/standard/66310.html"
-  - "https://www.iso.org/standard/13773.html"
-  - "https://www.iso.org/standard/13774.html"
-  - "https://www.iso.org/standard/76831.html"
-  - "https://www.iso.org/cms/%20render/live/en/sites/isoorg/contents/data/standard/03/56/35608.html?browse=tc"
   - "https://www.iso.org/standard/85716.html"
   - "https://www.iso.org/standard/76931.html"
   - "https://www.iso.org/standard/86789.html"
@@ -30,37 +25,13 @@ sources:
   - "https://www.iso.org/standard/82086.html"
 ---
 
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
-
 # Checklist Acceptance Meja dan Minibar Bambu
 
-## Assignment lock
+Halo, Sobat Furnitur.co.id! Meja atau minibar bambu baru layak diterima bila seluruh unit yang terpasang cocok dengan kebutuhan pemakaian, bukan sekadar tampak rapi saat serah terima. Periksa top, rangka, penyimpanan, tinggi kerja, interface dengan lantai atau dinding, serta cara unit akan dipakai. Catat temuan per bagian dan tahan penerimaan bila ada risiko stabilitas, bagian bergerak macet, atau bukti produk tidak sesuai.
 
-- **Writer task:** Expand this file into one complete article answering: “Checklist Acceptance Meja dan Minibar Bambu”
-- **Reader and situation:** Menentukan top, rangka, penyimpanan, tinggi kerja, interface, dan penggunaan meja/bar.
-- **Reader outcome:** Menentukan top, rangka, penyimpanan, tinggi kerja, interface, dan penggunaan meja/bar.
-- **Primary intent:** Memeriksa hasil akhir unit
-- **Reader community:** `Furnitur.co.id`
-- **Primary friendly address:** `Sobat Furnitur.co.id`
-- **Natural variants:** `Kawan Furnitur.co.id` and `Teman Furnitur.co.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** Fokus penerimaan; procurement dimiliki BFU-14.
-- **Final public route:** `/artikel/acceptance-meja-minibar-bambu.html`
-- **Appointed CMS date:** `2025-12-18` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
+Jawaban singkatnya: lakukan pemeriksaan berurutan dari identitas dan kelengkapan, kondisi visual, kekakuan dan stabilitas, fungsi penyimpanan, kecocokan tinggi serta jangkauan, lalu finish dan dokumentasi. Hasil akhirnya hanya dapat disebut diterima setelah kriteria proyek, gambar kerja, instruksi pemasangan, dan kondisi lokasi cocok. Ringkasan halaman ISO tentang meja dan unit penyimpanan membantu mengelompokkan aspek konfigurasi, dimensi, beban, serta hasil pemeriksaan, tetapi abstrak tersebut tidak membuktikan unit tertentu lulus uji ([ISO 19682:2023](https://www.iso.org/standard/73590.html); [ISO 7170:2021](https://www.iso.org/standard/76864.html)).
 
-## Opening instructions
-
-- Open with the exact short salutation: **“Halo, Sobat Furnitur.co.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Checklist Acceptance Meja dan Minibar Bambu**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Sobat Furnitur.co.id`, `Kawan Furnitur.co.id`, or `Teman Furnitur.co.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
-
-
-<!-- BEGIN MANAGED IMAGE PLAN -->
+<!-- BEGIN MANAGED IMAGE PLAN
 ## Image plan
 
 - **Image ID:** `LOCAL-015`
@@ -71,150 +42,61 @@ sources:
 - **Selection basis:** filename/source metadata identifies `Minibar Bambu 9` as relevant content media; no pixels were inspected.
 - **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
 - **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-015]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
+END MANAGED IMAGE PLAN -->
 
-## Evidence packet
+![Ilustrasi Minibar Bambu 9](/wp-content/uploads/2022/04/Minibar-Bambu-9.jpg)
 
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
-
-### KR-25
-
-- **Original sources:** [ISO 7173:2023 — chairs/stools](https://www.iso.org/standard/73866.html), [ISO 7170:2021 — storage units](https://www.iso.org/standard/76864.html), [ISO 19682:2023 — tables/desks](https://www.iso.org/standard/73590.html), and [ISO 19833:2018 — adult beds](https://www.iso.org/standard/66310.html).
-- **Purpose for this article:** Ground product taxonomy, strength/durability/stability, configuration, procurement, QC, diagnosis, and safety articles.
-- **Safe grounded facts:** Product family, intended user/use, complete assembled specimen, configuration, materials, joints/hardware, dimensions, loading/cycles, conditioning, failure/result, edition, and acceptance document determine applicability.
-- **Limits:** Public abstracts do not supply test values or prove a product passes. ISO 7173:2023 is already marked for revision. Resolve current full methods, exact specimen-to-offer equivalence, laboratory scope, results, and Indonesian/project acceptance under G-16.
-
-### KR-26
-
-- **Original sources:** [ISO 7174-1:1988 — upright chairs/stools](https://www.iso.org/standard/13773.html), [ISO 7174-2:1992 — reclining/rocking chairs](https://www.iso.org/standard/13774.html), and [ISO 7170:2021 — storage units](https://www.iso.org/standard/76864.html).
-- **Purpose for this article:** Support stability, anchoring, moving parts, loading, misuse, children, installation, inspection, and urgent-hazard articles.
-- **Safe grounded facts:** Open drawers/doors, extension, load location, adjustable/reclined state, floor level, wall/substrate/anchor, user behavior, damage, missing components, and installation change stability.
-- **Limits:** Do not publish a universal anchor, safe load, test force, or pass claim. Obtain the complete applicable method/requirement, product instructions/report, site/substrate survey, installation design, and competent review under G-17.
-
-### KR-27
-
-- **Original sources:** [ISO 24496:2021 — office-chair dimension methods](https://www.iso.org/standard/76831.html) and [ISO 21015:2007 — office work-chair stability/strength/durability](https://www.iso.org/cms/%20render/live/en/sites/isoorg/contents/data/standard/03/56/35608.html?browse=tc).
-- **Purpose for this article:** Bound anthropometry, dimensions, posture/task fit, adjustability, accessibility, and office-chair claims.
-- **Safe grounded facts:** User population, task, duration, posture changes, adjustability, reach, transfer, circulation, clothing/equipment, trial fit, and maintenance all affect usability.
-- **Limits:** No universal “ergonomic” dimension, accessibility compliance, medical benefit, or fit claim without current Indonesian requirements, user/task evidence, applicable product standard, trial, and ergonomics/accessibility review under G-18.
-
-### KR-31
-
-- **Original sources:** [ISO 4211-1:2025 — cold liquids](https://www.iso.org/standard/85716.html), [ISO 4211-5:2021 — abrasion](https://www.iso.org/standard/76931.html), [ISO 4211-6:2025 — scratching](https://www.iso.org/standard/86789.html), and [ISO 4211-3:2013 — dry heat](https://www.iso.org/standard/55267.html).
-- **Purpose for this article:** Ground finish selection, sample/test plans, cleaning, defects, refinish, care, QC, and warranty articles.
-- **Safe grounded facts:** Substrate, preparation, finish layers/cure, texture/color/gloss, specimen, chemical/heat/abrasion/scratch exposure, cleaning, ageing, edge/joint details, result scale, and maintenance all matter.
-- **Limits:** No universal “stain-proof,” “scratch-proof,” disinfectant compatibility, service-life, repair, or warranty claim without exact finish/product, current method/report, maintenance/cleaning evidence, and G-07/G-19/G-22.
-
-### KR-32
-
-- **Original sources:** [ISO 21625:2020 official record](https://www.iso.org/standard/71279.html).
-- **Purpose for this article:** Ground material naming, product taxonomy, trade descriptions, comparisons, and specifications.
-- **Safe grounded facts:** A culm, strip, sliver, mat, panel, laminated product, engineered product, and completed furniture or structure are not interchangeable evidence objects.
-- **Limits:** Obtain the full current vocabulary, Indonesian/local names, botanical identity, processing history, product construction, and supplier documentation under G-23.
-
-### KR-35
-
-- **Original sources:** [ISO 6128:2023 official record](https://www.iso.org/standard/82086.html).
-- **Purpose for this article:** Ground laminated furniture stock, construction, requirements/tests, handling, storage, packaging, and marking.
-- **Safe grounded facts:** An ISO 6128 scope match does not prove a specific product complies, and indoor furniture material evidence cannot be transferred to outdoor, structural, food-contact, or electrical use.
-- **Limits:** Obtain the current full standard, product construction/adhesive/finish, intended indoor use, reports, production equivalence, handling/storage history, and acceptance evidence under G-01/G-04/G-07/G-23.
-
-## Evidence gates
-
-- **TOPIC-GATE:** G-16, G-17, G-18, G-19, G-22, G-23
-
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
-
-## Internal-link plan
-
-### Existing local routes
-
-- `/minibar-bambu-wonogiri` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/minibar-bambu-tulungagung` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/minibar-bambu-tuban` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/minibar-bambu-trenggalek` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/minibar-bambu-temanggung` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/minibar-bambu-tegal` — use only if it helps the reader's next step; verify the anchor describes the destination.
-
-### Planned sibling articles
-
-These are future routes. Do not link them as live until their HTML exists.
-
-- `BFU-07-04` → `/artikel/desain-minibar-bambu.html` — Minibar Bambu: Counter, Storage, dan Service Side
-- `BFU-07-05` → `/artikel/kombinasi-top-meja-bambu.html` — Bambu dengan Top Kaca atau Batu pada Meja
-
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
+Ilustrasi umum dari aset lokal Furnitur.co.id; aset ini bukan dokumentasi proyek tertentu.
 
 ## Hasil akhir dan prasyarat
 
-- **Purpose:** Nyatakan hasil yang ingin dicapai, siapa yang berwenang, data awal, alat/dokumen, dan kondisi yang harus tersedia.
-- **Tie back to this article:** Keep the explanation specific to “Checklist Acceptance Meja dan Minibar Bambu”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Tujuan acceptance adalah menghasilkan keputusan yang bisa ditelusuri: diterima, diterima dengan daftar perbaikan, atau ditolak sementara. Pemilik pekerjaan atau wakil yang berwenang memimpin pemeriksaan; pembuat unit dan pemasang sebaiknya hadir untuk menjawab pertanyaan teknis. Siapkan gambar atau spesifikasi yang disetujui, daftar perubahan, instruksi perawatan, catatan pengiriman, dan formulir inspeksi. Pastikan unit sudah terakit pada posisi penggunaan normal, lantai cukup aman untuk inspeksi, pencahayaan memadai, serta area bebas barang yang menghalangi.
 
-## Langkah 1 — tetapkan scope
+Pisahkan fakta dari opini. “Top bergoyang ketika ditekan ringan di sudut” adalah observasi; “rangka kurang kuat” adalah diagnosis yang masih memerlukan pemeriksaan sambungan atau desain. Kawan Furnitur.co.id, jangan menandatangani berita acara hanya karena warna dan anyaman terlihat seragam. Penerimaan harus merujuk pada konfigurasi unit lengkap, tujuan pemakaian, dan persyaratan proyek yang tertulis.
 
-- **Purpose:** Jelaskan objek, batas pekerjaan, antarmuka, risiko, serta hal yang sengaja tidak dikerjakan.
-- **Tie back to this article:** Keep the explanation specific to “Checklist Acceptance Meja dan Minibar Bambu”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+## Langkah 1 — tetapkan lingkup
+
+Tuliskan unit mana yang diperiksa: meja, minibar, atau keduanya; jumlah modul; sisi yang menempel dinding; komponen lepas-pasang; serta peralatan yang menjadi interface, misalnya stopkontak, pipa, atau lantai yang tidak dikerjakan oleh pembuat furnitur. Acceptance ini menilai hasil akhir unit. Pengadaan bahan, negosiasi harga, dan pemilihan pemasok berada di luar lingkup; arahkan keputusan tersebut ke proses procurement terpisah.
+
+Tentukan pula penggunaan yang diizinkan: meja kerja ringan, meja saji, atau minibar dengan penyimpanan tertentu. Jangan menyamakan panel bambu, bilah, laminasi, dan furnitur jadi sebagai bukti yang sama; istilah material tersebut memiliki objek dan riwayat proses berbeda ([ISO 21625:2020](https://www.iso.org/standard/71279.html)). Jika unit diminta untuk area lembap, luar ruang, kontak pangan, atau menahan perangkat listrik, minta persyaratan khusus sebelum inspeksi. Bukti material untuk furnitur dalam ruang tidak otomatis berlaku untuk penggunaan itu ([ISO 6128:2023](https://www.iso.org/standard/82086.html)).
 
 ## Langkah 2 — kumpulkan dan cocokkan bukti
 
-- **Purpose:** Susun dokumen, observasi, data, produk, atau standar yang harus cocok dengan kasus.
-- **Tie back to this article:** Keep the explanation specific to “Checklist Acceptance Meja dan Minibar Bambu”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Mulai dari identitas: cocokkan kode unit, ukuran pada gambar, jumlah rak atau laci, arah bukaan, jenis top, dan daftar aksesori. Ukur dimensi yang menjadi syarat proyek dengan alat yang sesuai, lalu catat toleransi yang memang tertulis; jangan membuat angka toleransi baru. Periksa bahwa sambungan, sekrup, engsel, rel, kaki, dan penutup tepi hadir serta tidak berubah dari spesifikasi.
+
+Untuk top, amati kerataan, sambungan, tepi, noda, retak, dan tanda kelembapan. Untuk rangka, lihat apakah kaki menyentuh lantai secara konsisten, sambungan rapat, dan unit tidak bergeser ketika diberi dorongan terkontrol tanpa membebani berlebihan. Untuk rak, pintu, dan laci, buka-tutup pada seluruh rentang normal; catat gesekan, kemacetan, atau perubahan posisi. Stabilitas dipengaruhi oleh laci atau pintu yang terbuka, distribusi isi, kondisi lantai, dan perubahan instalasi, sehingga pemeriksaan harus dilakukan pada keadaan penggunaan yang disepakati ([ISO 7170:2021](https://www.iso.org/standard/76864.html)).
+
+Uji fungsi dengan beban dan siklus hanya bila metode proyek atau laporan pengujian yang berlaku tersedia. Halaman standar memberi kerangka mengenai spesimen lengkap, konfigurasi, dimensi, pembebanan, dan hasil, bukan nilai universal yang dapat dipakai untuk semua meja atau minibar ([ISO 19682:2023](https://www.iso.org/standard/73590.html)). Simpan foto temuan, nomor komponen, lokasi, dan tanggal agar perbaikan dapat diverifikasi ulang.
 
 ## Langkah 3 — jalankan urutan kerja
 
-- **Purpose:** Berikan urutan konseptual yang dapat diikuti tanpa berubah menjadi instruksi teknis berbahaya.
-- **Tie back to this article:** Keep the explanation specific to “Checklist Acceptance Meja dan Minibar Bambu”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Gunakan urutan berikut agar pemeriksaan tidak melompat-lompat:
 
-## Hold point dan kondisi berhenti
+1. **Karantina identitas dan kelengkapan.** Tandai unit yang kode atau komponennya tidak cocok. Jangan lanjut ke uji fungsi sebelum daftar bagian jelas.
+2. **Periksa interface.** Amati pertemuan dengan lantai, dinding, plafon, dan utilitas. Pastikan celah servis dan akses pembersihan sesuai gambar; jangan memindahkan instalasi bangunan sebagai “perbaikan kecil”.
+3. **Periksa geometri dan stabilitas.** Nilai kerataan top, kesikuan tampak, kontak kaki, dan gerakan saat didorong ringan. Hentikan uji bila unit condong, retak, atau sambungan lepas.
+4. **Periksa penyimpanan dan kecocokan tugas.** Pastikan rak, laci, dan pintu dapat dijangkau pengguna yang ditetapkan, tidak menutup jalur sirkulasi, dan tidak memerlukan postur yang tidak direncanakan. Tidak ada ukuran “ergonomis” universal tanpa data pengguna, tugas, durasi, uji coba, dan tinjauan kompeten.
+5. **Periksa finish dan perawatan.** Cocokkan warna, tekstur, kilap, serta ketuntasan lapisan dengan sampel yang disetujui. Tanyakan produk pembersih yang diizinkan. Ketahanan terhadap cairan dingin, abrasi, gores, dan panas kering bergantung pada substrat, persiapan, lapisan, paparan, serta skala hasil; standar pengujian tidak menjadi klaim “anti noda” atau “anti gores” otomatis ([ISO 4211-1:2025](https://www.iso.org/standard/85716.html); [ISO 4211-5:2021](https://www.iso.org/standard/76931.html); [ISO 4211-6:2025](https://www.iso.org/standard/86789.html); [ISO 4211-3:2013](https://www.iso.org/standard/55267.html)).
+6. **Tutup dengan simulasi pemakaian.** Lakukan satu skenario yang disetujui, misalnya mengambil barang dari rak, menaruh gelas, atau membuka pintu minibar. Simulasi hanya untuk verifikasi fungsi yang ditentukan, bukan pembuktian kapasitas baru.
 
-- **Purpose:** Nyatakan kapan pekerjaan tidak boleh diteruskan tanpa review, tes, atau persetujuan.
-- **Tie back to this article:** Keep the explanation specific to “Checklist Acceptance Meja dan Minibar Bambu”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Teman Furnitur.co.id, beri status per item: OK, perlu perbaikan, atau tidak dapat diverifikasi. Status “tidak dapat diverifikasi” lebih jujur daripada memaksakan tanda tangan ketika dokumen atau akses lokasi belum lengkap.
 
-## Verifikasi hasil dan handover
+## Titik tahan dan kondisi berhenti
 
-- **Purpose:** Buat checklist penerimaan, rekaman, tindak lanjut, dan pemicu koreksi.
-- **Tie back to this article:** Keep the explanation specific to “Checklist Acceptance Meja dan Minibar Bambu”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Hentikan pemeriksaan dan minta review bila unit goyah, terbalik saat pintu atau laci dibuka, memiliki retak struktural, tepi tajam, kabel atau pipa terjepit, anchor tidak diketahui, atau ada perubahan lapangan dari gambar. Jangan menentukan ukuran anchor, beban aman, atau gaya uji berdasarkan perkiraan; stabilitas sangat bergantung pada substrat, desain pemasangan, dan perilaku pengguna.
 
-## Objection or shortcut to address
+Tahan penerimaan jika spesifikasi top atau finishing tidak jelas, dokumen material tidak cocok dengan produk, atau instruksi perawatan belum tersedia. [NEEDS PROJECT ACCEPTANCE CRITERIA: minta kriteria toleransi, beban, anchoring, dan tingkat cacat yang disetujui proyek sebelum keputusan final.] Jika ada fungsi listrik, kontak pangan, atau tuntutan aksesibilitas, minta penilaian disiplin terkait. [NEEDS TECHNICAL REVIEW: verifikasi kesetaraan unit terpasang, metode uji, laporan, dan persyaratan Indonesia oleh pihak kompeten.]
 
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
+## Verifikasi hasil dan serah terima
 
-## Required conclusion
+Buat lembar penerimaan dengan kolom: identitas unit; aspek top, rangka, penyimpanan, tinggi kerja, interface, dan finish; metode observasi atau pengukuran; hasil; foto; penanggung jawab; tenggat perbaikan; dan tanggal verifikasi ulang. Untuk temuan terbuka, tulis lokasi persisnya, tindakan yang diminta, serta kondisi yang membuat unit tidak boleh digunakan. Setelah perbaikan, ulangi hanya pemeriksaan yang terdampak dan catat bukti sebelum status diubah menjadi OK.
 
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
+Serahkan bersama gambar akhir yang benar-benar terpasang, daftar komponen, instruksi pembersihan, batas penggunaan yang disetujui, catatan perubahan, dan kontak untuk layanan. Tautkan dokumentasi ke kode unit, bukan hanya nama ruang. Untuk melihat kategori yang relevan, buka [minibar](/minibar), lalu gunakan [daftar produk](/produk) untuk memperjelas pilihan sebelum menyusun kriteria acceptance.
 
-## Draft completion checklist
+## Jalan pintas yang sering menggoda
 
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Sobat Furnitur.co.id!` and uses friendly `Furnitur.co.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+Jalan pintas paling umum adalah memeriksa permukaan dari jauh, mengetuk top sekali, lalu menganggap unit selesai karena tampak bersih. Cara ini dapat melewatkan kaki yang tidak menapak, rel yang macet saat penuh, pintu yang mengubah stabilitas ketika terbuka, atau finish yang rusak oleh cairan dan panas. Alternatif yang lebih andal adalah menjalankan urutan identitas–interface–stabilitas–fungsi–finish, memakai kondisi pemakaian normal, dan menyimpan temuan yang bisa diperiksa ulang. Jangan mengganti bukti proyek dengan label standar atau foto promosi.
+
+## Kesimpulan
+
+Checklist acceptance meja dan minibar bambu berarti memeriksa unit lengkap terhadap kebutuhan pemakaian dan kriteria proyek: top dan rangka harus sesuai serta stabil, penyimpanan dan tinggi kerja harus dapat digunakan, interface harus aman, dan finish harus memiliki instruksi perawatan yang jelas. Langkah berikutnya adalah minta kriteria penerimaan tertulis, lakukan inspeksi bersama pihak berwenang, lalu buka hold point untuk review profesional bila ada risiko atau bukti yang belum lengkap. Aturan operasionalnya sederhana: tanpa kriteria dan bukti yang cocok, statusnya belum diterima.

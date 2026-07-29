@@ -1,9 +1,10 @@
 ---
 article_id: BFU-03-03
+writing_contract_version: "native-id-v2"
 title: "Mencegah Bambu Pecah di Area Sambungan"
 slug: "risiko-pecah-sambungan-bambu"
 description: "Memahami rangka, sambungan, pengikat, interface, stabilitas, dan bukti beban."
-status: outline
+status: draft
 publication_date: "2025-09-06"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -30,37 +31,7 @@ sources:
   - "https://www.iso.org/standard/83076.html"
 ---
 
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
-
-# Mencegah Bambu Pecah di Area Sambungan
-
-## Assignment lock
-
-- **Writer task:** Expand this file into one complete article answering: “Mencegah Bambu Pecah di Area Sambungan”
-- **Reader and situation:** Memahami rangka, sambungan, pengikat, interface, stabilitas, dan bukti beban.
-- **Reader outcome:** Memahami rangka, sambungan, pengikat, interface, stabilitas, dan bukti beban.
-- **Primary intent:** Menilai detail joint
-- **Reader community:** `Furnitur.co.id`
-- **Primary friendly address:** `Kawan Furnitur.co.id`
-- **Natural variants:** `Sobat Furnitur.co.id` and `Teman Furnitur.co.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** Fokus risiko desain; bukan instruksi engineering universal.
-- **Final public route:** `/artikel/risiko-pecah-sambungan-bambu.html`
-- **Appointed CMS date:** `2025-09-06` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
-
-## Opening instructions
-
-- Open with the exact short salutation: **“Halo, Kawan Furnitur.co.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Mencegah Bambu Pecah di Area Sambungan**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Kawan Furnitur.co.id`, `Sobat Furnitur.co.id`, or `Teman Furnitur.co.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
-
-
-<!-- BEGIN MANAGED IMAGE PLAN -->
+<!-- BEGIN MANAGED IMAGE PLAN
 ## Image plan
 
 - **Image ID:** `LOCAL-001`
@@ -71,166 +42,75 @@ sources:
 - **Selection basis:** filename/source metadata identifies `furnitur bambu` as relevant content media; no pixels were inspected.
 - **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
 - **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-001]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
+END MANAGED IMAGE PLAN -->
 
-## Evidence packet
+# Mencegah Bambu Pecah di Area Sambungan
 
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
+Halo, Kawan Furnitur.co.id! Bambu paling sering pecah di area sambungan bukan semata-mata karena batangnya “lemah”, melainkan karena gaya, lubang, pengikat, dan perubahan gerak bertemu di titik yang sama. Pencegahan dimulai dengan memetakan jalur beban, memberi ruang bagi gerak material, lalu memeriksa apakah detail yang dibuat benar-benar cocok dengan jenis bambu, fungsi furnitur, dan cara pemasangannya.
 
-### KR-25
+Jangan menyimpulkan sambungan aman hanya dari tampilan rapi atau dari diameter culm (batang bambu) yang besar. Bukti yang mengubah keputusan adalah identitas material dan produk, detail sambungan lengkap, kondisi pemasangan, beban pemakaian, serta inspeksi atau pengujian yang mewakili benda yang ditawarkan. Standar furnitur ISO sendiri membedakan jenis produk, konfigurasi, sambungan, beban, siklus, dan hasil pada spesimen lengkap; abstraknya tidak membuktikan produk tertentu lulus ([ISO 7173:2023](https://www.iso.org/standard/73866.html), [ISO 7170:2021](https://www.iso.org/standard/76864.html), [ISO 19682:2023](https://www.iso.org/standard/73590.html), [ISO 19833:2018](https://www.iso.org/standard/66310.html)).
 
-- **Original sources:** [ISO 7173:2023 — chairs/stools](https://www.iso.org/standard/73866.html), [ISO 7170:2021 — storage units](https://www.iso.org/standard/76864.html), [ISO 19682:2023 — tables/desks](https://www.iso.org/standard/73590.html), and [ISO 19833:2018 — adult beds](https://www.iso.org/standard/66310.html).
-- **Purpose for this article:** Ground product taxonomy, strength/durability/stability, configuration, procurement, QC, diagnosis, and safety articles.
-- **Safe grounded facts:** Product family, intended user/use, complete assembled specimen, configuration, materials, joints/hardware, dimensions, loading/cycles, conditioning, failure/result, edition, and acceptance document determine applicability.
-- **Limits:** Public abstracts do not supply test values or prove a product passes. ISO 7173:2023 is already marked for revision. Resolve current full methods, exact specimen-to-offer equivalence, laboratory scope, results, and Indonesian/project acceptance under G-16.
+![Ilustrasi furnitur bambu](/wp-content/uploads/2022/04/furnitur-bambu.jpg)
 
-### KR-26
-
-- **Original sources:** [ISO 7174-1:1988 — upright chairs/stools](https://www.iso.org/standard/13773.html), [ISO 7174-2:1992 — reclining/rocking chairs](https://www.iso.org/standard/13774.html), and [ISO 7170:2021 — storage units](https://www.iso.org/standard/76864.html).
-- **Purpose for this article:** Support stability, anchoring, moving parts, loading, misuse, children, installation, inspection, and urgent-hazard articles.
-- **Safe grounded facts:** Open drawers/doors, extension, load location, adjustable/reclined state, floor level, wall/substrate/anchor, user behavior, damage, missing components, and installation change stability.
-- **Limits:** Do not publish a universal anchor, safe load, test force, or pass claim. Obtain the complete applicable method/requirement, product instructions/report, site/substrate survey, installation design, and competent review under G-17.
-
-### KR-29
-
-- **Original sources:** [ISO/TC 136 current furniture catalogue](https://www.iso.org/committee/52448/x/catalogue/p/1/u/0/w/0/d/0), [ISO 7170:2021](https://www.iso.org/standard/76864.html), and [ILO wood-workshop guidance](https://www.ilo.org/publications/safety-and-health-wood-workshop).
-- **Purpose for this article:** Support joints, hinges/slides/extensions, mechanisms, built-ins, anchoring, delivery, installation, relocation, adjustment, and handover.
-- **Safe grounded facts:** Hardware/product identity, declared load/use, mounting material/thickness, fastener/edge distances, alignment, travel/clearance, stops/locks, wall/floor substrate, services, access, inspection, and instructions form the evidence chain.
-- **Limits:** Obtain exact hardware/furniture instructions and reports, site/substrate survey, approved drawings/method, competent installer, safe-work plan, tests, and handover under G-20.
-
-### KR-32
-
-- **Original sources:** [ISO 21625:2020 official record](https://www.iso.org/standard/71279.html).
-- **Purpose for this article:** Ground material naming, product taxonomy, trade descriptions, comparisons, and specifications.
-- **Safe grounded facts:** A culm, strip, sliver, mat, panel, laminated product, engineered product, and completed furniture or structure are not interchangeable evidence objects.
-- **Limits:** Obtain the full current vocabulary, Indonesian/local names, botanical identity, processing history, product construction, and supplier documentation under G-23.
-
-### KR-33
-
-- **Original sources:** [ISO 22157:2019 official record](https://www.iso.org/cms/%20render/live/en/sites/isoorg/contents/data/standard/06/59/65950.html) and [ISO 19624:2018 official record](https://www.iso.org/standard/65528.html?browse=tc).
-- **Purpose for this article:** Ground moisture, density, dimensions, defects, grading, mechanical properties, and lot acceptance.
-- **Safe grounded facts:** Species, age, diameter, colour, seller grade, or one test result does not establish a lot’s characteristic values, furniture strength, joint behavior, or project acceptance.
-- **Limits:** Both records show revision activity in 2026. Obtain current complete editions, representative sampling, identity/maturity/location, seasoned condition, geometry/defects, test reports, grading/acceptance basis, and qualified interpretation under G-01/G-23.
-
-### KR-34
-
-- **Original sources:** [ISO 22156:2021 official record](https://www.iso.org/standard/73831.html?browse=tc).
-- **Purpose for this article:** Ground bamboo load paths, stability, joints, durability, occupied structures, and engineering boundaries.
-- **Safe grounded facts:** A bamboo furniture test, traditional precedent, culm diameter, lashing detail, or “light structure” label does not establish building-scale capacity or Indonesian acceptance.
-- **Limits:** ISO 22156 is under review in 2026 and is not Indonesian law. Obtain current full text, Indonesian load/design basis, exact system, material properties, connections, site/exposure, calculations, drawings, and engineer acceptance under G-01/G-23/G-25.
-
-### KR-35
-
-- **Original sources:** [ISO 6128:2023 official record](https://www.iso.org/standard/82086.html).
-- **Purpose for this article:** Ground laminated furniture stock, construction, requirements/tests, handling, storage, packaging, and marking.
-- **Safe grounded facts:** An ISO 6128 scope match does not prove a specific product complies, and indoor furniture material evidence cannot be transferred to outdoor, structural, food-contact, or electrical use.
-- **Limits:** Obtain the current full standard, product construction/adhesive/finish, intended indoor use, reports, production equivalence, handling/storage history, and acceptance evidence under G-01/G-04/G-07/G-23.
-
-### KR-36
-
-- **Original sources:** [ISO 7567:2024 official record](https://www.iso.org/standard/83076.html) and [ISO 6128:2023](https://www.iso.org/standard/82086.html).
-- **Purpose for this article:** Bound engineered bamboo, glulam, panel, furniture-stock, and structural-product claims.
-- **Safe grounded facts:** Similar appearance or the word “laminated” does not establish common scope, bond/exposure class, structural role, test evidence, or substitution acceptability.
-- **Limits:** Obtain exact product family, construction, adhesive, intended use/exposure, full standard, test reports, production control, design/acceptance basis, and change control under G-01/G-04/G-07/G-23/G-25.
-
-## Evidence gates
-
-- **TOPIC-GATE:** G-01, G-04, G-06, G-16, G-17, G-20, G-23
-
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
-
-## Internal-link plan
-
-### Existing local routes
-
-- `/tirai-bambu-polos-yogyakarta` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/tirai-bambu-polos-wonosobo.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/tirai-bambu-polos-wonosobo` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/tirai-bambu-polos-wonogiri` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/tirai-bambu-polos-tulungagung.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/tirai-bambu-polos-tulungagung` — use only if it helps the reader's next step; verify the anchor describes the destination.
-
-### Planned sibling articles
-
-These are future routes. Do not link them as live until their HTML exists.
-
-- `BFU-03-01` → `/artikel/sambungan-furnitur-bambu.html` — Peta Konstruksi dan Sambungan Furnitur Bambu
-- `BFU-03-02` → `/artikel/jenis-sambungan-bambu.html` — Ikatan, Pasak, Baut, Sekrup, dan Sambungan Lem
-- `BFU-03-04` → `/artikel/stabilitas-furnitur-bambu.html` — Bracing dan Stabilitas pada Furnitur Bambu
-- `BFU-03-05` → `/artikel/interface-bambu-material-lain.html` — Sambungan Bambu dengan Kayu, Logam, dan Kaca
-
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
-
-## Jawaban singkat dan salah paham utama
-
-- **Purpose:** Jawab pertanyaan judul dalam pembuka dan luruskan miskonsepsi yang paling berbahaya.
-- **Tie back to this article:** Keep the explanation specific to “Mencegah Bambu Pecah di Area Sambungan”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+*Ilustrasi umum dari aset lokal Furnitur.co.id; bukan dokumentasi proyek tertentu. Aset lokal proyek; jangan klaim sebagai dokumentasi proyek tertentu.*
 
 ## Definisi dan batas objek
 
-- **Purpose:** Jelaskan apa yang dibahas, apa yang tidak, dan mengapa batas itu mengubah keputusan.
-- **Tie back to this article:** Keep the explanation specific to “Mencegah Bambu Pecah di Area Sambungan”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Yang dinilai di sini adalah risiko desain pada titik pertemuan bambu dengan bambu atau dengan kayu, logam, kaca, lantai, dan dinding. “Sambungan” mencakup lubang bor, pasak, baut, sekrup, ikatan, lem, pelat, serta bagian yang menahan atau mengarahkan gerak. Interface berarti batas antara bambu dan material atau perangkat lain; di situlah kekakuan, gesekan, dan toleransi bisa berubah mendadak.
+
+Benda yang tampak serupa belum tentu menjadi objek bukti yang sama. Culm utuh, strip, sliver, mat, panel, bambu laminasi, glulam, stok furnitur, dan struktur memiliki konstruksi serta perilaku berbeda. [ISO 21625:2020](https://www.iso.org/standard/71279.html) membantu membedakan istilah dan kategori, tetapi kecocokan nama tidak otomatis membuktikan kecocokan sambungan.
+
+Batasnya tegas: artikel ini bukan angka kapasitas, ukuran baut universal, resep jarak tepi, atau pengganti perhitungan engineer. Untuk elemen yang menanggung orang, beban tinggi, atau fungsi bangunan, keputusan harus memakai metode lengkap, gambar, data material, kondisi lokasi, dan persetujuan kompeten. Status beberapa standar bambu juga sedang ditinjau; catatan status dan edisi terkini perlu dikonfirmasi sebelum dijadikan dasar proyek ([ISO 22157:2019](https://www.iso.org/cms/%20render/live/en/sites/isoorg/contents/data/standard/06/59/65950.html), [ISO 22156:2021](https://www.iso.org/standard/73831.html?browse=tc)).
 
 ## Cara kerjanya
 
-- **Purpose:** Terangkan mekanisme, urutan, pelaku, material/sistem, dan antarmuka secara sebab-akibat.
-- **Tie back to this article:** Keep the explanation specific to “Mencegah Bambu Pecah di Area Sambungan”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Mulailah dari jalur gaya: beban masuk lewat permukaan dudukan atau rak, diteruskan ke rangka, lalu berubah arah di joint menuju kaki, penyangga, atau bidang penambat. Bila gaya dipaksa melewati satu lubang kecil, serat di sekitar lubang menerima konsentrasi tegangan. Pengencangan yang terlalu keras dapat menghancurkan dinding bambu; kelonggaran membuat sambungan berulang kali bergeser. Siklus geser itu dapat membuka retak yang kemudian menjalar searah serat.
+
+Urutan pemeriksaan yang berguna adalah: (1) gambar semua komponen dan arah gaya; (2) identifikasi material serta prosesnya; (3) tentukan gerak yang mungkin terjadi karena kelembapan, beban, atau penggunaan; (4) pilih pengikat dan interface yang menyebarkan gaya; (5) tetapkan inspeksi sebelum diserahkan. Satu pengikat tidak boleh diam-diam menjadi penahan gaya ke segala arah tanpa bukti.
+
+Pada sambungan dengan hardware, identitas produk, beban yang dideklarasikan, bahan dan ketebalan tempat memasang, jarak dari tepi, kelurusan, jarak gerak, serta stop atau pengunci harus tercatat. Katalog ISO/TC 136 dan panduan keselamatan bengkel kayu menempatkan instruksi produk, pemasangan, inspeksi, dan serah terima sebagai satu rantai bukti ([katalog ISO/TC 136](https://www.iso.org/committee/52448/x/catalogue/p/1/u/0/w/0/d/0), [ILO wood-workshop guidance](https://www.ilo.org/publications/safety-and-health-wood-workshop)).
 
 ## Faktor yang mengubah hasil
 
-- **Purpose:** Kelompokkan kondisi proyek, penggunaan, lingkungan, pelaksanaan, dan bukti yang relevan.
-- **Tie back to this article:** Keep the explanation specific to “Mencegah Bambu Pecah di Area Sambungan”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Material: spesies, kematangan, diameter, kadar air, cacat, dan proses pengeringan memengaruhi respons di sekitar lubang. Satu sampel atau klaim “grade A” tidak mewakili satu lot tanpa cara sampling, kondisi uji, dan kriteria penerimaan yang jelas. [ISO 22157:2019](https://www.iso.org/cms/%20render/live/en/sites/isoorg/contents/data/standard/06/59/65950.html) dan [ISO 19624:2018](https://www.iso.org/standard/65528.html?browse=tc) dapat menjadi titik awal identifikasi dan pengujian, bukan bukti otomatis untuk furnitur jadi.
+
+Geometri: lubang dekat ujung, pengikat yang memaksa arah serat, perubahan penampang mendadak, dan tidak adanya penyangga lateral memperbesar risiko. Pada bambu laminasi atau panel, konstruksi, perekat, lapisan, dan kelas paparan harus cocok dengan fungsi; kata “laminated” saja tidak menjamin substitusi ([ISO 6128:2023](https://www.iso.org/standard/82086.html), [ISO 7567:2024](https://www.iso.org/standard/83076.html)).
+
+Pemakaian dan lokasi: laci atau pintu yang dibuka, bagian yang direbahkan, lantai tidak rata, dinding atau substrat yang berbeda, rel yang macet, relokasi, dan komponen yang hilang mengubah stabilitas. Karena itu, instruksi produk dan survei substrat harus diperiksa bersama—bukan mengandalkan jenis anchor yang dianggap umum ([ISO 7174-1:1988](https://www.iso.org/standard/13773.html), [ISO 7174-2:1992](https://www.iso.org/standard/13774.html)).
+
+Kawan Furnitur.co.id, bila ada retak, bunyi patah, serbuk baru, atau pengikat yang mulai longgar, hentikan pemakaian dan beri tanda pada area tersebut. Jangan mengencangkan ulang secara membabi buta; tindakan itu bisa menambah kerusakan sebelum penyebabnya diketahui.
 
 ## Contoh keputusan praktis
 
-- **Purpose:** Berikan skenario bersyarat atau tabel keputusan; tandai asumsi dan jangan mengarang pengalaman.
-- **Tie back to this article:** Keep the explanation specific to “Mencegah Bambu Pecah di Area Sambungan”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Gunakan tabel ringkas berikut saat menilai detail, dengan asumsi bahwa belum ada klaim kapasitas proyek:
+
+| Temuan | Pertanyaan keputusan | Tindakan aman |
+|---|---|---|
+| Baut menembus dinding tipis dekat ujung | Ke mana gaya tarik dan geser dialihkan? | Tahan pemasangan; minta gambar detail dan verifikasi material. |
+| Sambungan longgar setelah dipindah | Apakah alignment, lantai, atau anchor berubah? | Inspeksi ulang lokasi dan komponen sebelum dipakai. |
+| Panel laminasi dipakai di area berbeda | Apakah konstruksi dan paparan sesuai deklarasi produk? | Minta dokumen produk dan dasar penerimaan; jangan menyamakan tampilan. |
+| Rangka menahan beban pengguna | Apakah ada metode uji dan laporan untuk konfigurasi lengkap? | Minta review teknis dan bukti yang mewakili produk. |
+
+Contoh itu bukan ambang lulus-gagal. Jika jawaban atas pertanyaan di kolom tengah belum tersedia, keputusan yang masuk akal adalah menunda serah terima, bukan mengisi angka dengan perkiraan. Untuk sistem yang mendekati skala struktur, [ISO 22156:2021](https://www.iso.org/standard/73831.html?browse=tc) pun tidak menggantikan basis beban dan penerimaan Indonesia.
 
 ## Kesalahan umum dan cara memeriksanya
 
-- **Purpose:** Bongkar shortcut umum lalu ubah menjadi pertanyaan/checklist verifikasi.
-- **Tie back to this article:** Keep the explanation specific to “Mencegah Bambu Pecah di Area Sambungan”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Kesalahan pertama adalah menganggap banyak lem atau baut selalu lebih kuat. Tambahan pengikat dapat menambah lubang, kekakuan lokal, dan konsentrasi gaya. Periksa apakah gaya benar-benar tersebar dan apakah bambu diberi ruang untuk bergerak.
 
-## Objection or shortcut to address
+Kedua, memindahkan hasil uji bahan ke sambungan jadi. Sifat mekanis bambu atau stok laminasi tidak otomatis menggambarkan perilaku rangka lengkap. Mintalah identitas lot, kondisi pengujian, gambar konfigurasi, dan laporan yang dapat ditelusuri.
 
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
+Ketiga, memakai satu jenis anchor untuk semua dinding atau lantai. Substrat, ketebalan, akses, dan layanan tersembunyi harus disurvei; instruksi pemasangan dan kompetensi installer ikut menentukan hasil.
 
-## Required conclusion
+Keempat, menutup retak dengan finishing lalu menyebut masalah selesai. Finishing mungkin menyamarkan gejala, tetapi tidak menghapus jalur gaya yang salah. Foto sebelum-sesudah, catatan komponen, dan pemeriksaan ulang harus menjadi bagian serah terima.
 
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
+Jika Anda perlu menilai contoh produk sebelum meminta detail joint, gunakan [kategori tirai polos](/tirai-polos) dan [halaman produk](/produk) sebagai titik tanya tentang material, hardware, dan cara pemasangan. Halaman produk bukan pengganti gambar kerja atau laporan uji; fungsinya membantu memastikan objek yang dibahas memang sama.
 
-## Draft completion checklist
+## Jalan pintas yang perlu dihindari
 
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Kawan Furnitur.co.id!` and uses friendly `Furnitur.co.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+Shortcut yang sering dipilih adalah “buat saja sambungan paling kaku.” Kekakuan berlebih pada satu sisi bisa memindahkan gerak ke sisi lain dan membebani serat di sekitar lubang. Alternatif yang lebih dapat dipertanggungjawabkan adalah menyeimbangkan jalur gaya, memberi toleransi gerak yang memang diperlukan, memakai hardware sesuai instruksi, lalu memvalidasi konfigurasi lengkap.
+
+## Penutup: aturan kerja sebelum sambungan dipakai
+
+Mencegah bambu pecah berarti mengendalikan konsentrasi gaya di sekitar joint, bukan sekadar memilih batang yang tampak besar. Sebelum produksi atau pemasangan, minta gambar detail, identitas material dan hardware, kondisi substrat, deklarasi penggunaan, serta bukti inspeksi atau uji yang mewakili konfigurasi lengkap. Bila data itu belum ada atau retak sudah muncul, tandai `[NEEDS TECHNICAL REVIEW: G-01/G-04/G-06/G-16/G-17/G-20/G-23]` dan hentikan klaim aman sampai peninjauan kompeten selesai.
+
+Teman Furnitur.co.id, jadikan aturan operasionalnya sederhana: setiap perubahan lubang, pengikat, material, lokasi, atau beban memicu pemeriksaan ulang. Itu adalah batas jujur antara detail yang masuk akal untuk ditinjau dan keputusan engineering yang harus disahkan oleh profesional.

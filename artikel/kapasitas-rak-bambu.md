@@ -3,7 +3,8 @@ article_id: BFU-08-06
 title: "Menentukan Kapasitas Penyimpanan tanpa Menebak Beban"
 slug: "kapasitas-rak-bambu"
 description: "Menentukan kapasitas, ventilasi, akses, kestabilan, kabel, serta interface dinding/lantai."
-status: outline
+status: draft
+writing_contract_version: "native-id-v2"
 publication_date: "2026-01-12"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -14,49 +15,14 @@ reader_address: "Sobat Furnitur.co.id"
 final_route: "/artikel/kapasitas-rak-bambu.html"
 technical_review: required
 sources:
-  - "https://www.iso.org/standard/73866.html"
   - "https://www.iso.org/standard/76864.html"
-  - "https://www.iso.org/standard/73590.html"
-  - "https://www.iso.org/standard/66310.html"
-  - "https://www.iso.org/standard/13773.html"
-  - "https://www.iso.org/standard/13774.html"
+  - "https://www.iso.org/standard/73866.html"
   - "https://www.iso.org/committee/52448/x/catalogue/p/1/u/0/w/0/d/0"
   - "https://www.ilo.org/publications/safety-and-health-wood-workshop"
   - "https://www.iso.org/standard/71279.html"
-  - "https://www.iso.org/standard/82086.html"
 ---
 
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
-
-# Menentukan Kapasitas Penyimpanan tanpa Menebak Beban
-
-## Assignment lock
-
-- **Writer task:** Expand this file into one complete article answering: “Menentukan Kapasitas Penyimpanan tanpa Menebak Beban”
-- **Reader and situation:** Menentukan kapasitas, ventilasi, akses, kestabilan, kabel, serta interface dinding/lantai.
-- **Reader outcome:** Menentukan kapasitas, ventilasi, akses, kestabilan, kabel, serta interface dinding/lantai.
-- **Primary intent:** Menyusun kebutuhan kapasitas
-- **Reader community:** `Furnitur.co.id`
-- **Primary friendly address:** `Sobat Furnitur.co.id`
-- **Natural variants:** `Kawan Furnitur.co.id` and `Teman Furnitur.co.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** Fokus evidence; bukan load rating universal.
-- **Final public route:** `/artikel/kapasitas-rak-bambu.html`
-- **Appointed CMS date:** `2026-01-12` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
-
-## Opening instructions
-
-- Open with the exact short salutation: **“Halo, Sobat Furnitur.co.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Menentukan Kapasitas Penyimpanan tanpa Menebak Beban**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Sobat Furnitur.co.id`, `Kawan Furnitur.co.id`, or `Teman Furnitur.co.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
-
-
-<!-- BEGIN MANAGED IMAGE PLAN -->
+<!-- BEGIN MANAGED IMAGE PLAN
 ## Image plan
 
 - **Image ID:** `LOCAL-020`
@@ -67,143 +33,79 @@ sources:
 - **Selection basis:** filename/source metadata identifies `Rak TV Bambu 9` as relevant content media; no pixels were inspected.
 - **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
 - **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-020]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
+END MANAGED IMAGE PLAN -->
 
-## Evidence packet
+# Menentukan Kapasitas Penyimpanan tanpa Menebak Beban
 
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
+Halo, Sobat Furnitur.co.id! Kapasitas rak bambu sebaiknya ditentukan dari barang yang benar-benar akan disimpan, cara mengambilnya, dan kondisi pemasangannya—bukan dari perkiraan “pasti kuat” berdasarkan bahan. Pisahkan dua keputusan: **kapasitas ruang** (berapa benda, ukuran, dan akses yang diperlukan) serta **kemampuan menahan beban** (hal yang memerlukan data produk, metode uji, dan pemeriksaan lokasi).
 
-### KR-25
+Mulailah dengan inventaris: kelompokkan benda menurut ukuran, berat perkiraan, frekuensi akses, kebutuhan ventilasi, dan kabel atau layanan yang melewatinya. Setelah itu cocokkan jumlah tingkat, lebar bersih, kedalaman, dan ruang bukaan dengan inventaris tersebut. Kesimpulan tentang batas kilogram, gaya angkur, atau kelulusan uji belum dapat dibuat dari artikel ini. Untuk keputusan yang menyangkut keselamatan, siapkan [NEEDS TECHNICAL REVIEW: data produk, laporan/metode uji, dan survei dinding/lantai belum tersedia].
 
-- **Original sources:** [ISO 7173:2023 — chairs/stools](https://www.iso.org/standard/73866.html), [ISO 7170:2021 — storage units](https://www.iso.org/standard/76864.html), [ISO 19682:2023 — tables/desks](https://www.iso.org/standard/73590.html), and [ISO 19833:2018 — adult beds](https://www.iso.org/standard/66310.html).
-- **Purpose for this article:** Ground product taxonomy, strength/durability/stability, configuration, procurement, QC, diagnosis, and safety articles.
-- **Safe grounded facts:** Product family, intended user/use, complete assembled specimen, configuration, materials, joints/hardware, dimensions, loading/cycles, conditioning, failure/result, edition, and acceptance document determine applicability.
-- **Limits:** Public abstracts do not supply test values or prove a product passes. ISO 7173:2023 is already marked for revision. Resolve current full methods, exact specimen-to-offer equivalence, laboratory scope, results, and Indonesian/project acceptance under G-16.
+![Ilustrasi Rak TV Bambu 9](/wp-content/uploads/2022/04/Rak-TV-Bambu-9.jpg)
 
-### KR-26
-
-- **Original sources:** [ISO 7174-1:1988 — upright chairs/stools](https://www.iso.org/standard/13773.html), [ISO 7174-2:1992 — reclining/rocking chairs](https://www.iso.org/standard/13774.html), and [ISO 7170:2021 — storage units](https://www.iso.org/standard/76864.html).
-- **Purpose for this article:** Support stability, anchoring, moving parts, loading, misuse, children, installation, inspection, and urgent-hazard articles.
-- **Safe grounded facts:** Open drawers/doors, extension, load location, adjustable/reclined state, floor level, wall/substrate/anchor, user behavior, damage, missing components, and installation change stability.
-- **Limits:** Do not publish a universal anchor, safe load, test force, or pass claim. Obtain the complete applicable method/requirement, product instructions/report, site/substrate survey, installation design, and competent review under G-17.
-
-### KR-29
-
-- **Original sources:** [ISO/TC 136 current furniture catalogue](https://www.iso.org/committee/52448/x/catalogue/p/1/u/0/w/0/d/0), [ISO 7170:2021](https://www.iso.org/standard/76864.html), and [ILO wood-workshop guidance](https://www.ilo.org/publications/safety-and-health-wood-workshop).
-- **Purpose for this article:** Support joints, hinges/slides/extensions, mechanisms, built-ins, anchoring, delivery, installation, relocation, adjustment, and handover.
-- **Safe grounded facts:** Hardware/product identity, declared load/use, mounting material/thickness, fastener/edge distances, alignment, travel/clearance, stops/locks, wall/floor substrate, services, access, inspection, and instructions form the evidence chain.
-- **Limits:** Obtain exact hardware/furniture instructions and reports, site/substrate survey, approved drawings/method, competent installer, safe-work plan, tests, and handover under G-20.
-
-### KR-32
-
-- **Original sources:** [ISO 21625:2020 official record](https://www.iso.org/standard/71279.html).
-- **Purpose for this article:** Ground material naming, product taxonomy, trade descriptions, comparisons, and specifications.
-- **Safe grounded facts:** A culm, strip, sliver, mat, panel, laminated product, engineered product, and completed furniture or structure are not interchangeable evidence objects.
-- **Limits:** Obtain the full current vocabulary, Indonesian/local names, botanical identity, processing history, product construction, and supplier documentation under G-23.
-
-### KR-35
-
-- **Original sources:** [ISO 6128:2023 official record](https://www.iso.org/standard/82086.html).
-- **Purpose for this article:** Ground laminated furniture stock, construction, requirements/tests, handling, storage, packaging, and marking.
-- **Safe grounded facts:** An ISO 6128 scope match does not prove a specific product complies, and indoor furniture material evidence cannot be transferred to outdoor, structural, food-contact, or electrical use.
-- **Limits:** Obtain the current full standard, product construction/adhesive/finish, intended indoor use, reports, production equivalence, handling/storage history, and acceptance evidence under G-01/G-04/G-07/G-23.
-
-## Evidence gates
-
-- **TOPIC-GATE:** G-16, G-17, G-18, G-20, G-22, G-23
-
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
-
-## Internal-link plan
-
-### Existing local routes
-
-- `/rak-tv-bambu-yogyakarta.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/rak-tv-bambu-yogyakarta` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/rak-tv-bambu-wonosobo.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/rak-tv-bambu-wonosobo` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/rak-tv-bambu-wonogiri.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/rak-tv-bambu-wonogiri` — use only if it helps the reader's next step; verify the anchor describes the destination.
-
-### Planned sibling articles
-
-These are future routes. Do not link them as live until their HTML exists.
-
-- `BFU-08-04` → `/artikel/rak-dinding-vs-berdiri-bambu.html` — Rak Dinding vs Rak Berdiri dari Bambu
-- `BFU-08-05` → `/artikel/hardware-lemari-bambu.html` — Pintu, Laci, dan Hardware pada Lemari Bambu
-
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
+*Ilustrasi umum dari aset lokal Furnitur.co.id; bukan dokumentasi proyek tertentu.*
 
 ## Jawaban singkat dan salah paham utama
 
-- **Purpose:** Jawab pertanyaan judul dalam pembuka dan luruskan miskonsepsi yang paling berbahaya.
-- **Tie back to this article:** Keep the explanation specific to “Menentukan Kapasitas Penyimpanan tanpa Menebak Beban”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Kapasitas yang dapat dipertanggungjawabkan adalah kapasitas **yang direncanakan**: jumlah dan volume barang yang muat dengan celah ventilasi, jalur tangan, bukaan pintu atau laci, serta ruang servis tetap tersedia. Jangan mengubah ukuran rak menjadi angka beban. Dua rak dengan dimensi sama dapat menerima penggunaan berbeda jika konstruksi, sambungan, perangkat keras, distribusi isi, lantai, dan angkurnya berbeda.
+
+Standar penyimpanan seperti [ISO 7170:2021](https://www.iso.org/standard/76864.html) memandang konfigurasi, pembebanan, dan kestabilan sebagai bagian dari penilaian unit lengkap. Catatan publiknya tidak memberikan angka aman universal untuk rak bambu tertentu. Karena itu, tulis kebutuhan sebagai “empat kotak arsip pada tingkat bawah, perangkat elektronik berventilasi di tengah” dan bukan “rak ini aman untuk 100 kg”.
+
+Jika isi berubah menjadi lebih berat, lebih tinggi, atau sering ditarik keluar, ulangi penilaian. Perubahan konfigurasi, laci terbuka, atau benda yang diletakkan jauh di depan dapat mengubah kestabilan; klaim batas akhirnya menunggu instruksi produk, metode yang tepat, dan pemeriksaan kompeten.
 
 ## Definisi dan batas objek
 
-- **Purpose:** Jelaskan apa yang dibahas, apa yang tidak, dan mengapa batas itu mengubah keputusan.
-- **Tie back to this article:** Keep the explanation specific to “Menentukan Kapasitas Penyimpanan tanpa Menebak Beban”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Dalam artikel ini, “kapasitas” berarti kecukupan ruang dan pola pemakaian untuk satu unit rak pada lokasi tertentu. Objeknya mencakup rak, panel, sekat, pintu atau laci, sambungan, kaki, pengikat ke dinding atau lantai, serta barang yang disimpan. Bambu juga bukan satu objek bukti yang seragam: culm, bilah, anyaman, panel laminasi, dan furnitur jadi memiliki konstruksi dan dokumentasi berbeda. [ISO 21625:2020](https://www.iso.org/standard/71279.html) menyediakan rekam istilah dan klasifikasi, bukan sertifikat bahwa produk tertentu cocok untuk semua penggunaan.
+
+Batasnya penting. Kita tidak menetapkan load rating universal, menggantikan gambar kerja, memilih angkur untuk semua jenis dinding, atau menyatakan lulus uji tanpa laporan. Rak dalam ruang untuk barang kering tidak otomatis cocok untuk luar ruang, struktur, kontak pangan, atau perangkat listrik. Bila fungsi tersebut muncul, pisahkan persyaratan dan minta peninjauan khusus.
 
 ## Cara kerjanya
 
-- **Purpose:** Terangkan mekanisme, urutan, pelaku, material/sistem, dan antarmuka secara sebab-akibat.
-- **Tie back to this article:** Keep the explanation specific to “Menentukan Kapasitas Penyimpanan tanpa Menebak Beban”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+1. **Catat isi dan pola akses.** Ukur panjang, lebar, tinggi, dan jumlah tiap kelompok barang. Tandai barang yang harus diambil setiap hari, barang rapuh, dan perangkat yang menghasilkan panas. Sisakan ruang untuk jari, pintu, laci, atau penutup; ukuran luar tidak sama dengan ruang bersih.
+2. **Ubah inventaris menjadi modul.** Susun tingkat berdasarkan kelompok: benda berat dan jarang dipindah cenderung membutuhkan posisi rendah; barang yang perlu sering diambil memerlukan akses langsung. Ini adalah aturan penataan, bukan bukti kemampuan material menahan berat.
+3. **Periksa antarmuka.** Tentukan apakah rak berdiri bebas, ditambatkan ke dinding, atau bertumpu pada kabinet lain. Catat bahan dan ketebalan dinding/lantai, kerataan, jalur kabel, pipa, serta ruang untuk memasang dan memeriksa pengikat. Panduan kerja aman bengkel kayu dari [ILO](https://www.ilo.org/publications/safety-and-health-wood-workshop) mengingatkan bahwa pekerjaan pembuatan dan pemasangan harus direncanakan sebagai aktivitas kerja yang aman; detail angkur tetap memerlukan instruksi dan survei lokasi.
+4. **Verifikasi sistem lengkap.** Cocokkan identitas panel, sambungan, engsel, rel, kaki, dan pengikat dengan gambar atau instruksi produk. Katalog komite [ISO/TC 136](https://www.iso.org/committee/52448/x/catalogue/p/1/u/0/w/0/d/0) membantu menelusuri keluarga standar furnitur, tetapi bukan pengganti metode lengkap atau laporan untuk unit Anda. Minta [NEEDS DOCUMENT REVIEW: instruksi pemasangan, spesifikasi material, dan laporan uji yang berlaku].
+5. **Tetapkan aturan operasi.** Labeli tingkat atau kelompok isi, batasi perubahan posisi tanpa pemeriksaan ulang, dan dokumentasikan kondisi saat serah terima. Bila rak dipindah, dibor ulang, atau salah satu pengikat hilang, hentikan pemakaian sampai konfigurasi diperiksa.
 
 ## Faktor yang mengubah hasil
 
-- **Purpose:** Kelompokkan kondisi proyek, penggunaan, lingkungan, pelaksanaan, dan bukti yang relevan.
-- **Tie back to this article:** Keep the explanation specific to “Menentukan Kapasitas Penyimpanan tanpa Menebak Beban”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+**Isi dan distribusi.** Berat terkonsentrasi pada satu sisi, benda tinggi, atau barang yang didorong ke tepi memberi kondisi berbeda dari isi yang tersebar. Gerakan menarik laci atau pintu juga memindahkan pusat gravitasi. Jangan menjumlahkan berat nominal lalu menganggap semua tingkat setara.
+
+**Ventilasi dan layanan.** Perangkat elektronik, kabel, stopkontak, dan akses pembersihan memerlukan ruang yang tidak boleh ditutup barang. Jalur kabel harus memiliki radius belok dan titik inspeksi yang wajar; jangan mengebor dinding sebelum posisi pipa atau kabel diketahui. Jika panas, kelembapan, atau kebutuhan listrik menjadi faktor utama, mintalah penilaian bidang terkait.
+
+**Struktur dan antarmuka.** Kerataan lantai, celah antara rak dan dinding, material substrat, serta tepi tempat pengikat dipasang dapat mengubah perilaku unit. Tidak ada satu jenis sekrup yang aman untuk semua dinding. Kawan Furnitur.co.id, anggap angkur sebagai bagian dari sistem, bukan aksesori yang dipilih setelah rak selesai dibuat.
+
+**Pemakaian dan perubahan.** Anak yang memanjat, pintu terbuka, rel yang macet, benturan saat relokasi, atau komponen yang diganti adalah kondisi baru. Dokumen inspeksi harus mencatat perubahan ini. Standar kursi dan unit penyimpanan menilai spesimen lengkap serta konfigurasi tertentu; abstraknya tidak membuktikan kinerja rak Anda ([ISO 7170:2021](https://www.iso.org/standard/76864.html), [ISO 7173:2023](https://www.iso.org/standard/73866.html)).
+
+Pisahkan pula kapasitas nominal dari kapasitas yang nyaman dipakai. Rak yang secara fisik memuat banyak kotak belum tentu dapat diakses tanpa memindahkan isi lain. Tetapkan jalur pengambilan, titik berhenti laci, dan ruang untuk membersihkan debu sebagai bagian dari lembar kebutuhan. Bila keputusan berikutnya adalah membandingkan model, gunakan [kategori rak TV](/rak-tv) dan [halaman produk](/produk) sebagai referensi bentuk saja; keduanya bukan bukti batas beban unit tertentu.
 
 ## Contoh keputusan praktis
 
-- **Purpose:** Berikan skenario bersyarat atau tabel keputusan; tandai asumsi dan jangan mengarang pengalaman.
-- **Tie back to this article:** Keep the explanation specific to “Menentukan Kapasitas Penyimpanan tanpa Menebak Beban”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Gunakan tabel berikut sebagai cara mengumpulkan kebutuhan, bukan sebagai tabel kapasitas beban.
+
+| Kondisi yang diketahui | Keputusan ruang | Bukti yang masih harus diminta |
+|---|---|---|
+| Buku dan kotak berukuran seragam, akses mingguan | Buat modul tingkat dengan kedalaman sedikit lebih besar dari benda terpanjang, lalu sisakan celah tangan | Gambar konstruksi, spesifikasi panel dan sambungan |
+| Perangkat elektronik dengan kabel | Sediakan bukaan kabel, ventilasi, dan akses servis; jangan menutup kisi atau stopkontak | Instruksi perangkat, rencana kabel, pemeriksaan listrik |
+| Barang berat pada tingkat bawah, rak perlu ditambatkan | Tempatkan pusat isi rendah dan rencanakan titik pengikat sebelum produksi | Survei dinding/lantai, detail angkur, instruksi pemasangan |
+| Laci atau pintu sering dibuka | Sisakan lintasan bukaan dan ruang berdiri; cek agar unit tidak bergeser saat digunakan | Identitas rel/engsel, metode uji yang berlaku, inspeksi kompeten |
+
+Misalnya, Anda memiliki tiga kelompok: buku, perangkat, dan barang dekoratif. Hitung modul dan ruang aksesnya terlebih dahulu. Jika kemudian diminta menambah kotak berat di tingkat atas, jangan hanya mengurangi jumlah buku; minta verifikasi ulang distribusi, sambungan, dan kestabilan. Contoh ini sengaja tidak memberi angka kilogram karena data produk dan lokasi belum ada.
 
 ## Kesalahan umum dan cara memeriksanya
 
-- **Purpose:** Bongkar shortcut umum lalu ubah menjadi pertanyaan/checklist verifikasi.
-- **Tie back to this article:** Keep the explanation specific to “Menentukan Kapasitas Penyimpanan tanpa Menebak Beban”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+- **Mengalikan luas rak dengan angka beban internet.** Periksa apakah angka itu berasal dari unit lengkap, konfigurasi, metode, dan laporan yang sama. Jika tidak, tandai [NEEDS LOAD EVIDENCE] dan jangan pakai sebagai batas.
+- **Menganggap bambu selalu ringan sehingga aman.** Identifikasi bentuk material, panel, perekat, finishing, dan sambungan; nama bahan saja tidak menjelaskan perilaku unit.
+- **Memilih angkur setelah rak tiba.** Ukur dan dokumentasikan substrat, tepi, layanan tersembunyi, serta posisi pengikat sebelum fabrikasi. Pengikat yang tidak cocok berarti pekerjaan harus berhenti.
+- **Mengabaikan akses servis.** Buka simulasi pintu/laci, tarik kabel, dan sisakan ruang inspeksi. Kapasitas ruang yang menghalangi servis bukan kapasitas yang siap dipakai.
+- **Menyatakan “sudah diuji” tanpa berkas.** Minta identitas spesimen, konfigurasi, edisi metode, hasil, dan penerimaan proyek. Abstrak standar hanya menunjukkan lingkup publik, bukan kelulusan produk tertentu.
 
-## Objection or shortcut to address
+## Jalan pintas yang tampak praktis
 
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
+Jalan pintas yang sering dipilih adalah menetapkan batas dengan “beban per tingkat” dari ukuran rak atau dari pengalaman orang lain. Cara ini gagal ketika jenis panel, sambungan, posisi isi, lantai, atau angkur berbeda. Alternatif yang lebih aman: buat lembar inventaris dan gambar pemasangan, minta dokumen produk yang dapat ditelusuri, lalu minta peninjauan kompeten untuk kondisi lokasi. Bila bukti belum lengkap, tulis batas operasi sementara secara konservatif dan beri tanda [NEEDS TECHNICAL REVIEW]—jangan mengubah asumsi menjadi spesifikasi.
 
-## Required conclusion
+## Kesimpulan dan langkah berikutnya
 
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
+Menentukan kapasitas penyimpanan tanpa menebak beban berarti menetapkan kebutuhan ruang, akses, ventilasi, kabel, dan penataan; lalu memisahkannya dari klaim kemampuan menahan beban. Kumpulkan inventaris, ukur modul dan ruang bersih, petakan dinding/lantai serta layanan, dan cocokkan semua komponen dengan instruksi serta laporan yang relevan.
 
-## Draft completion checklist
-
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Sobat Furnitur.co.id!` and uses friendly `Furnitur.co.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+Teman Furnitur.co.id, sebelum memesan atau memasang, minta tiga berkas: gambar konfigurasi, dokumen produk/perangkat keras, dan survei lokasi berikut rencana pengikat. Tahan perubahan isi atau relokasi sampai pemeriksaan ulang dilakukan. Aturan operasinya sederhana: **jika konfigurasi, antarmuka, atau bukti berubah, kapasitas yang direncanakan harus dihitung ulang; tidak ada angka beban universal dari bahan bambu saja.**

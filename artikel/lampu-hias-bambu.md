@@ -3,7 +3,8 @@ article_id: BFU-13-05
 title: "Lampu Hias Bambu: Bentuk, Bayangan, dan Akses Bohlam"
 slug: "lampu-hias-bambu"
 description: "Memilih aksesori interior menurut skala, pemasangan, cahaya, privasi, dan perawatan."
-status: outline
+status: draft
+writing_contract_version: "native-id-v2"
 publication_date: "2026-05-10"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -16,10 +17,8 @@ technical_review: required
 sources:
   - "https://research.fs.usda.gov/fpl/wood-handbook"
   - "https://www.ilo.org/publications/safety-and-health-wood-workshop"
-  - "https://www.iso.org/standard/46556.html"
-  - "https://www.ilo.org/resource/other/code-practice-safety-and-health-forestry-work"
   - "https://www.iso.org/committee/52448/x/catalogue/p/1/u/0/w/0/d/0"
-  - "https://www.iso.org/standard/76864.html"
+  - "https://www.iso.org/standard/46556.html"
   - "https://www.iso.org/standard/85716.html"
   - "https://www.iso.org/standard/76931.html"
   - "https://www.iso.org/standard/86789.html"
@@ -29,199 +28,72 @@ sources:
   - "https://pesta.bsn.go.id/produk/index?key=Puil"
 ---
 
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
-
 # Lampu Hias Bambu: Bentuk, Bayangan, dan Akses Bohlam
 
-## Assignment lock
+<!-- BEGIN MANAGED IMAGE PLAN
+Image ID: LOCAL-032
+Source type: local
+Placement: after the opening has answered the main question, before the first detailed H2
+**Exact Markdown to insert:** `![Ilustrasi Lampu Hias Bambu 3](/wp-content/uploads/2022/04/Lampu-Hias-Bambu-3.jpg)`
+Caption/credit: Aset lokal proyek; jangan klaim sebagai dokumentasi proyek tertentu.
+Selection basis: filename/source metadata identifies Lampu Hias Bambu 3 as relevant content media; no pixels were inspected.
+Hard boundary: do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
+Substitution rule: do not replace this image. If unavailable or provenance is incomplete, insert [NEEDS IMAGE REVIEW: LOCAL-032] and continue drafting the prose.
+END MANAGED IMAGE PLAN -->
 
-- **Writer task:** Expand this file into one complete article answering: “Lampu Hias Bambu: Bentuk, Bayangan, dan Akses Bohlam”
-- **Reader and situation:** Memilih aksesori interior menurut skala, pemasangan, cahaya, privasi, dan perawatan.
-- **Reader outcome:** Memilih aksesori interior menurut skala, pemasangan, cahaya, privasi, dan perawatan.
-- **Primary intent:** Menentukan desain luminaire
-- **Reader community:** `Furnitur.co.id`
-- **Primary friendly address:** `Sobat Furnitur.co.id`
-- **Natural variants:** `Kawan Furnitur.co.id` and `Teman Furnitur.co.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** Fokus body/visual; electrical compliance wajib qualified evidence.
-- **Final public route:** `/artikel/lampu-hias-bambu.html`
-- **Appointed CMS date:** `2026-05-10` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
+Halo, Sobat Furnitur.co.id! Lampu hias bambu paling mudah dipilih bila Anda memisahkan dua keputusan: bentuk anyaman menentukan pola bayangan dan skala visual, sedangkan akses bohlam menentukan apakah lampu bisa dirawat tanpa membongkar seluruh kap. Jadi, jangan mulai dari motif saja. Mulailah dari posisi lampu, arah cahaya yang diinginkan, ruang untuk mengganti bohlam, serta dudukan yang benar-benar cocok.
 
-## Opening instructions
+Kap yang rapat dan berwarna gelap cenderung memberi cahaya lebih terarah; bukaan yang lebih lega menghasilkan bayangan yang lebih terbaca dan memudahkan tangan menjangkau bohlam. Namun, bentuk kap bukan bukti bahwa rangkaian listriknya aman. Data luminaire, kabel, driver, jarak terhadap material bambu, dan cara pemasangan harus diperiksa pada produk yang nyata. [NEEDS ELECTRICAL REVIEW: G-27 — verifikasi luminaire, panas, jarak bebas, kabel, mounting, dan pengujian oleh pihak kompeten sebelum dipasang.]
 
-- Open with the exact short salutation: **“Halo, Sobat Furnitur.co.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Lampu Hias Bambu: Bentuk, Bayangan, dan Akses Bohlam**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Sobat Furnitur.co.id`, `Kawan Furnitur.co.id`, or `Teman Furnitur.co.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
+![Ilustrasi Lampu Hias Bambu 3](/wp-content/uploads/2022/04/Lampu-Hias-Bambu-3.jpg)
 
-
-<!-- BEGIN MANAGED IMAGE PLAN -->
-## Image plan
-
-- **Image ID:** `LOCAL-032`
-- **Source type:** `local`
-- **Placement:** after the opening has answered the main question, before the first detailed H2
-- **Exact Markdown to insert:** `![Ilustrasi Lampu Hias Bambu 3](/wp-content/uploads/2022/04/Lampu-Hias-Bambu-3.jpg)`
-- **Caption/credit:** Aset lokal proyek; jangan klaim sebagai dokumentasi proyek tertentu.
-- **Selection basis:** filename/source metadata identifies `Lampu Hias Bambu 3` as relevant content media; no pixels were inspected.
-- **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
-- **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-032]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
-
-## Evidence packet
-
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
-
-### KR-20
-
-- **Original sources:** [USDA Wood Handbook](https://research.fs.usda.gov/fpl/wood-handbook) and [ILO wood-workshop guidance](https://www.ilo.org/publications/safety-and-health-wood-workshop).
-- **Purpose for this article:** Support grain-aware machining, joinery, pilot holes, fastening, movement allowance, edge sealing, sanding, samples, and repairability.
-- **Safe grounded facts:** A sample/mockup and manufacturer instructions are needed where appearance, adhesion, compatibility, movement, or repairability matters.
-- **Limits:** Do not provide machine bypass, cutting parameters, chemical recipes, or structural joint design. Resolve through G-07/G-08/G-13.
-
-### KR-21
-
-- **Original sources:** [ISO 13822:2010 official record](https://www.iso.org/standard/46556.html) and [USDA Wood Handbook](https://research.fs.usda.gov/fpl/wood-handbook).
-- **Purpose for this article:** Ground inspection, maintenance, symptom diagnosis, repair, replacement, post-flood/fire, and reuse decisions.
-- **Safe grounded facts:** Baseline identity, drawings, exposure, measurements, moisture map, defect/activity, extent, concealed risk, temporary controls, cause, consequence, action, reviewer, and follow-up belong in the record.
-- **Limits:** No remaining capacity, safe occupancy, repair, interval, or reuse decision without project evidence and qualified review under G-09/G-10.
-
-### KR-22
-
-- **Original sources:** [ILO Safety and health at the wood workshop](https://www.ilo.org/publications/safety-and-health-wood-workshop) and [ILO 2025 forestry-work code](https://www.ilo.org/resource/other/code-practice-safety-and-health-forestry-work).
-- **Purpose for this article:** Support guarding, energy control, cutting/kickback, dust, noise, ergonomics, chemicals, fire, housekeeping, and emergency planning.
-- **Safe grounded facts:** Task, machine/material, energy, guards, extraction, noise/dust/chemical exposure, maintenance, competence, supervision, exclusion, housekeeping, fire, first aid, incident, and emergency/rescue controls must be site-specific.
-- **Limits:** ILO guidance is not an Indonesian legal compliance certificate. Resolve consolidated Indonesian K3 law, exposure assessment, equipment instructions, risk assessment, and competent review under G-13.
-
-### KR-29
-
-- **Original sources:** [ISO/TC 136 current furniture catalogue](https://www.iso.org/committee/52448/x/catalogue/p/1/u/0/w/0/d/0), [ISO 7170:2021](https://www.iso.org/standard/76864.html), and [ILO wood-workshop guidance](https://www.ilo.org/publications/safety-and-health-wood-workshop).
-- **Purpose for this article:** Support joints, hinges/slides/extensions, mechanisms, built-ins, anchoring, delivery, installation, relocation, adjustment, and handover.
-- **Safe grounded facts:** Hardware/product identity, declared load/use, mounting material/thickness, fastener/edge distances, alignment, travel/clearance, stops/locks, wall/floor substrate, services, access, inspection, and instructions form the evidence chain.
-- **Limits:** Obtain exact hardware/furniture instructions and reports, site/substrate survey, approved drawings/method, competent installer, safe-work plan, tests, and handover under G-20.
-
-### KR-31
-
-- **Original sources:** [ISO 4211-1:2025 — cold liquids](https://www.iso.org/standard/85716.html), [ISO 4211-5:2021 — abrasion](https://www.iso.org/standard/76931.html), [ISO 4211-6:2025 — scratching](https://www.iso.org/standard/86789.html), and [ISO 4211-3:2013 — dry heat](https://www.iso.org/standard/55267.html).
-- **Purpose for this article:** Ground finish selection, sample/test plans, cleaning, defects, refinish, care, QC, and warranty articles.
-- **Safe grounded facts:** Substrate, preparation, finish layers/cure, texture/color/gloss, specimen, chemical/heat/abrasion/scratch exposure, cleaning, ageing, edge/joint details, result scale, and maintenance all matter.
-- **Limits:** No universal “stain-proof,” “scratch-proof,” disinfectant compatibility, service-life, repair, or warranty claim without exact finish/product, current method/report, maintenance/cleaning evidence, and G-07/G-19/G-22.
-
-### KR-32
-
-- **Original sources:** [ISO 21625:2020 official record](https://www.iso.org/standard/71279.html).
-- **Purpose for this article:** Ground material naming, product taxonomy, trade descriptions, comparisons, and specifications.
-- **Safe grounded facts:** A culm, strip, sliver, mat, panel, laminated product, engineered product, and completed furniture or structure are not interchangeable evidence objects.
-- **Limits:** Obtain the full current vocabulary, Indonesian/local names, botanical identity, processing history, product construction, and supplier documentation under G-23.
-
-### KR-40
-
-- **Original sources:** [SNI 0225-2:2020 official PUIL design record](https://pesta.bsn.go.id/produk/detail/12857-sni0225-22020), [SNI 0225-4-41:2020 official PUIL catalogue](https://pesta.bsn.go.id/produk/index?key=Puil), and [SNI 0225-6:2020 listed by BSN](https://pesta.bsn.go.id/produk/detail/12857-sni0225-22020).
-- **Purpose for this article:** Bound lamp-shade, luminaire, cable, heat, mounting, shock, fire, certification, installation, and verification claims.
-- **Safe grounded facts:** Low wattage, LED, plug-in format, dry indoor use, artisan manufacture, or attractive shade spacing does not prove safe temperature, clearance, strain relief, insulation, protection, mounting, or verified installation.
-- **Limits:** Obtain exact luminaire/driver/lamp/cable/mounting data, heat/clearance/fire evidence, current applicable product and installation standards, certification, competent installation, inspection/testing, instructions, and warranty under G-27. ## Topic-family coverage matrix | Topic family | Main evidence records | Safe ground for the article set | Remaining gate before definitive drafting | | --- | --- | --- | --- | | `BFU-01` | KR-02, KR-16, KR-24, KR-32, KR-33, KR-35, KR-36 | Distinguish culm, processed, laminated, engineered, and completed products; compare identity, condition, grade, use, and evidence. | G-01, G-02, G-04, G-23 | | `BFU-02` | KR-12, KR-20, KR-21, KR-22, KR-33 | Explain seasoning/condition, biological pathways, treatment/chemical boundaries, storage, sampling, inspection, and QC. | G-01, G-03, G-05, G-08, G-09, G-13, G-23, G-24 | | `BFU-03` | KR-25, KR-26, KR-29, KR-32, KR-33, KR-34, KR-35, KR-36 | Separate furniture joints from structural culm systems; map load transfer, splitting/crushing, stability, hardware, test, and acceptance evidence. | G-01, G-04, G-06, G-16, G-17, G-20, G-23 | | `BFU-04` | KR-10, KR-11, KR-20, KR-21, KR-31, KR-35 | Coordinate substrate, adhesive, finish, emissions, cure, compatibility, cleaning, ageing, sample, and repair evidence. | G-01, G-04, G-05, G-07, G-19, G-22, G-23, G-24 | | `BFU-05` | KR-25, KR-26, KR-27, KR-28, KR-29, KR-32, KR-35 | Turn actual users/tasks/space into product-family, dimension, stability, accessibility, interface, and evidence requirements. | G-16, G-17, G-18, G-20, G-23 | | `BFU-06` | KR-25, KR-26, KR-27, KR-30, KR-32, KR-33, KR-35 | Select seating through exact construction, user/duty, dimensions, strength/durability, stability, finish, and upholstery evidence. | G-16, G-17, G-18, G-21, G-22, G-23 | | `BFU-07` | KR-25, KR-26, KR-27, KR-31, KR-32, KR-35 | Define table/minibar use, top/frame/storage, dimensions, stability, surface exposure, cleaning, and exact-system tests. | G-16, G-17, G-18, G-19, G-22, G-23 | | `BFU-08` | KR-25, KR-26, KR-29, KR-32, KR-35 | Define storage/display family, capacity, stability/tip-over, hardware, cable/ventilation, anchoring, finish, and installation evidence. | G-16, G-17, G-18, G-20, G-22, G-23 | | `BFU-09` | KR-25, KR-26, KR-27, KR-29, KR-32, KR-35 | Define bed/bedroom family, users, mattress/support, dimensions, stability/noise, ventilation, hardware, finish, and test evidence. | G-16, G-17, G-18, G-20, G-22, G-23 | | `BFU-10` | KR-17, KR-18, KR-24, KR-33, KR-34, KR-36, KR-37, KR-38 | Treat gazebo/bale as an occupied site system with bamboo-specific material, structural, foundation, roof, access, approval, construction, and handover evidence. | G-01, G-02, G-03, G-06, G-10, G-11, G-12, G-13, G-23, G-24, G-25 | | `BFU-11` | KR-16, KR-20, KR-21, KR-32, KR-33, KR-34, KR-36, KR-37 | Select fence/screen/exterior systems from function, loads, exposure, ground/drainage, joints, finish/corrosion, inspection, and replaceability. | G-01, G-03, G-04, G-06, G-07, G-09, G-20, G-22, G-23, G-24, G-25 | | `BFU-12` | KR-10, KR-11, KR-20, KR-22, KR-23, KR-32, KR-39 | Separate woven container/panel construction, edge quality, chemicals, intended contact, hygiene, food-contact, handling, waste, and claim evidence. | G-05, G-07, G-08, G-13, G-14, G-19, G-23, G-24, G-26 | | `BFU-13` | KR-20, KR-21, KR-22, KR-29, KR-31, KR-32, KR-40 | Coordinate accessory scale, mounting, edges, finish, cleaning, mirror/curtain interfaces, and decorative-versus-electrical lighting scope. | G-13, G-19, G-20, G-22, G-23, G-27 | | `BFU-14` | KR-18, KR-24, KR-25, KR-32, KR-33, KR-35, KR-36, KR-38, KR-39, KR-40 | Compare artisans/offers on exact product/system, evidence-equivalent scope, samples, lawful inputs, tests, exclusions, lead time, price, warranty, and verification. | G-04, G-11, G-12, G-15, G-16, G-23, G-25, G-26, G-27 | | `BFU-15` | KR-19, KR-21, KR-24, KR-29, KR-32, KR-35, KR-37, KR-38, KR-40 | Plan packing, environment, access, assembly/anchoring, site interfaces, inspection/testing, defects, documents, and acceptance. | G-03, G-04, G-08, G-13, G-15, G-20, G-23, G-25, G-27 | | `BFU-16` | KR-21, KR-23, KR-24, KR-31, KR-32, KR-35, KR-37, KR-39, KR-40 | Inspect against a baseline; separate cleaning, biological/finish/electrical/structural symptoms, safe repair/refinish, reuse, waste, replacement, and claims. | G-09, G-12, G-14, G-19, G-22, G-23, G-24, G-25, G-26, G-27 | Coverage result: **16/16 topic families mapped; 0 families without a starting evidence set.** ## Cross-catalog fact bank 1. Wood species, an individual piece, a graded lot, a processed panel, and an installed system are different evidence objects. 2. Moisture, test method, specimen orientation/condition, grade, and service exposure must travel with property values. 3. A standards catalogue proves identity/status/visible scope, not licensed requirements or product compliance. 4. A foreign method or rule is not Indonesian law; a certificate or chain-of-custody system does not by itself prove every product characteristic. 5. Commercial availability, price, capacity, warranty, legality, and delivered conformity require current project and transaction evidence. ## Evidence gaps and publication gates | Gate | Affected topic families | Resolution required | | --- | --- | --- | | `G-01` Licensed standards and exact tests/acceptance | `BFU-01`, `BFU-02`, `BFU-03`, `BFU-04`, `BFU-05`, `BFU-06`, `BFU-07`, `BFU-08`, `BFU-09`, `BFU-10`, `BFU-11`, `BFU-12`, `BFU-13`, `BFU-14`, `BFU-15`, `BFU-16` | Obtain current complete standards; record edition, clause, specimen, conditioning, method, units, sampling, uncertainty, and qualified interpretation | | `G-02` Species identity, origin, and property applicability | `BFU-01`, `BFU-02`, `BFU-03`, `BFU-04`, `BFU-05`, `BFU-06`, `BFU-07`, `BFU-08`, `BFU-09`, `BFU-10`, `BFU-11`, `BFU-12`, `BFU-13`, `BFU-14`, `BFU-15`, `BFU-16` | Verify botanical/trade identity, source, specimen/lot, sapwood/heartwood, moisture, test population, conservation/trade status, and expert identification where needed | | `G-03` Moisture, climate, exposure, and site facts | `BFU-01`, `BFU-02`, `BFU-03`, `BFU-04`, `BFU-05`, `BFU-06`, `BFU-07`, `BFU-08`, `BFU-09`, `BFU-10`, `BFU-11`, `BFU-12`, `BFU-13`, `BFU-14`, `BFU-15`, `BFU-16` | Obtain actual climate/indoor conditions, use/exposure, product construction, baseline measurements, method/corrections, gradients, ventilation/drainage, and monitoring | | `G-04` Exact product and current test evidence | `BFU-01`, `BFU-02`, `BFU-03`, `BFU-04`, `BFU-05`, `BFU-06`, `BFU-07`, `BFU-08`, `BFU-09`, `BFU-10`, `BFU-11`, `BFU-12`, `BFU-13`, `BFU-14`, `BFU-15`, `BFU-16` | Obtain current datasheet, construction, dimensions, grade, moisture/bond/emission/structural evidence, specimen-to-offer comparison, limits, production control, and warranty | | `G-05` Chemical, emissions, indoor-health, and label evidence | `BFU-01`, `BFU-02`, `BFU-03`, `BFU-04`, `BFU-05`, `BFU-06`, `BFU-07`, `BFU-08`, `BFU-09`, `BFU-10`, `BFU-11`, `BFU-12`, `BFU-13`, `BFU-14`, `BFU-15`, `BFU-16` | Obtain current Indonesian basis, SDS/label, exact method/result, product/lot, exposure scenario, ventilation/use limits, compatibility, and chemist/industrial-hygiene review | | `G-06` Structural design, connections, alteration, and acceptance | `BFU-01`, `BFU-02`, `BFU-03`, `BFU-04`, `BFU-05`, `BFU-06`, `BFU-07`, `BFU-08`, `BFU-09`, `BFU-10`, `BFU-11`, `BFU-12`, `BFU-13`, `BFU-14`, `BFU-15`, `BFU-16` | Obtain current complete Indonesian design/load basis, site/use inputs, grade/product evidence, drawings, calculations, fire/service conditions, inspection, and signed engineer review | | `G-07` Adhesive, veneer, panel, finish, and substrate compatibility | `BFU-01`, `BFU-02`, `BFU-03`, `BFU-04`, `BFU-05`, `BFU-06`, `BFU-07`, `BFU-08`, `BFU-09`, `BFU-10`, `BFU-11`, `BFU-12`, `BFU-13`, `BFU-14`, `BFU-15`, `BFU-16` | Obtain manufacturer written instructions, SDS, bond/exposure evidence, substrate/moisture/preparation, cure, sample/mockup, test, maintenance, repair, and warranty approval | | `G-08` Process, machinery, yield, handling, and workmanship | `BFU-01`, `BFU-02`, `BFU-03`, `BFU-04`, `BFU-05`, `BFU-06`, `BFU-07`, `BFU-08`, `BFU-09`, `BFU-10`, `BFU-11`, `BFU-12`, `BFU-13`, `BFU-14`, `BFU-15`, `BFU-16` | Document actual material/process/equipment, competence, settings/method, measurements, hold points, yield basis, damage, nonconformance, records, and approved safe work | | `G-09` Biological damage, treatment, inspection, and repair | `BFU-01`, `BFU-02`, `BFU-03`, `BFU-04`, `BFU-05`, `BFU-06`, `BFU-07`, `BFU-08`, `BFU-09`, `BFU-10`, `BFU-11`, `BFU-12`, `BFU-13`, `BFU-14`, `BFU-15`, `BFU-16` | Identify organism/activity, moisture/source, extent/concealment, species/product, treatment history, authorized product/label, environmental controls, specialist disposition, and follow-up | | `G-10` Fire strategy, test equivalence, incident, and reuse | `BFU-01`, `BFU-02`, `BFU-03`, `BFU-04`, `BFU-05`, `BFU-06`, `BFU-07`, `BFU-08`, `BFU-09`, `BFU-10`, `BFU-11`, `BFU-12`, `BFU-13`, `BFU-14`, `BFU-15`, `BFU-16` | Obtain current Indonesian fire basis, exact assembly/report, proposed-to-tested comparison, building strategy, incident exposure/damage, temporary controls, and fire/structural/K3 decision | | `G-11` Current forestry legality and official verification | `BFU-01`, `BFU-02`, `BFU-03`, `BFU-04`, `BFU-05`, `BFU-06`, `BFU-07`, `BFU-08`, `BFU-09`, `BFU-10`, `BFU-11`, `BFU-12`, `BFU-13`, `BFU-14`, `BFU-15`, `BFU-16` | Read consolidated current law/implementation; verify actor/activity, source, product, issuer, holder, site, scope, document/status, transaction, export destination, and official lookup | | `G-12` Sustainability, chain-of-custody, reuse, and claim scope | `BFU-01`, `BFU-02`, `BFU-03`, `BFU-04`, `BFU-05`, `BFU-06`, `BFU-07`, `BFU-08`, `BFU-09`, `BFU-10`, `BFU-11`, `BFU-12`, `BFU-13`, `BFU-14`, `BFU-15`, `BFU-16` | Obtain amended ISO/claim-scheme rules, eligible inputs, model, conversion/loss, transaction records, certificate scope/status, assurance, contamination, lifecycle method, and authorized wording | | `G-13` Indonesian K3 and task-specific safe execution | `BFU-01`, `BFU-02`, `BFU-03`, `BFU-04`, `BFU-05`, `BFU-06`, `BFU-07`, `BFU-08`, `BFU-09`, `BFU-10`, `BFU-11`, `BFU-12`, `BFU-13`, `BFU-14`, `BFU-15`, `BFU-16` | Consolidate current law and complete risk/exposure assessment, guards/energy control, extraction, noise/chemical/fire controls, competence, supervision, emergency arrangements, and records | | `G-14` Environmental approval, waste identity, and authorized route | `BFU-01`, `BFU-02`, `BFU-03`, `BFU-04`, `BFU-05`, `BFU-06`, `BFU-07`, `BFU-08`, `BFU-09`, `BFU-10`, `BFU-11`, `BFU-12`, `BFU-13`, `BFU-14`, `BFU-15`, `BFU-16` | Confirm current obligations/approvals, waste/material identity and contamination, analysis, quantities, storage, transport, receiver, reuse suitability, records, and closure | | `G-15` Current supplier, commercial, contract, and handover facts | `BFU-01`, `BFU-02`, `BFU-03`, `BFU-04`, `BFU-05`, `BFU-06`, `BFU-07`, `BFU-08`, `BFU-09`, `BFU-10`, `BFU-11`, `BFU-12`, `BFU-13`, `BFU-14`, `BFU-15`, `BFU-16` | Obtain dated equivalent quotations, actual scope/specification/deviations, samples/submittals, capability, lead time/logistics, inspection/acceptance, warranty/claims, traceability, and handover | | `G-16` Product-family test, requirements, and specimen-to-offer equivalence | `BFU-01`, `BFU-02`, `BFU-03`, `BFU-04`, `BFU-05`, `BFU-06`, `BFU-07`, `BFU-08`, `BFU-09`, `BFU-10`, `BFU-11`, `BFU-12`, `BFU-13`, `BFU-14`, `BFU-15`, `BFU-16` | Identify exact furniture family/use/user, current method and separate acceptance basis, specimen/configuration, load/cycles, laboratory scope, report/result/failure, exclusions, production equivalence, and change control | | `G-17` Stability, tip-over, anchoring, and misuse | `BFU-01`, `BFU-02`, `BFU-03`, `BFU-04`, `BFU-05`, `BFU-06`, `BFU-07`, `BFU-08`, `BFU-09`, `BFU-10`, `BFU-11`, `BFU-12`, `BFU-13`, `BFU-14`, `BFU-15`, `BFU-16` | Obtain exact configuration and load/use, current requirement/method/report, product instructions, floor/wall/substrate/anchor design, site survey, installation/inspection, user controls, and competent review | | `G-18` Ergonomics, dimensions, user fit, and accessibility | `BFU-01`, `BFU-02`, `BFU-03`, `BFU-04`, `BFU-05`, `BFU-06`, `BFU-07`, `BFU-08`, `BFU-09`, `BFU-10`, `BFU-11`, `BFU-12`, `BFU-13`, `BFU-14`, `BFU-15`, `BFU-16` | Define target users, tasks, duration, postures, reach/transfer/circulation, adjustability, current Indonesian/accessibility basis, dimension method, trials/mockups, maintenance, and qualified ergonomics/accessibility review | | `G-19` Institutional duty, hygiene, cleaning, and facility rules | `BFU-01`, `BFU-02`, `BFU-03`, `BFU-04`, `BFU-05`, `BFU-06`, `BFU-07`, `BFU-08`, `BFU-09`, `BFU-10`, `BFU-11`, `BFU-12`, `BFU-13`, `BFU-14`, `BFU-15`, `BFU-16` | Obtain sector/building rules, owner policy, users/traffic, cleaning/disinfection agents and frequency, exact material/finish compatibility, infection/fire/accessibility/operations evidence, replacement plan, and responsible approvals | | `G-20` Hardware, mechanisms, built-ins, and site installation | `BFU-01`, `BFU-02`, `BFU-03`, `BFU-04`, `BFU-05`, `BFU-06`, `BFU-07`, `BFU-08`, `BFU-09`, `BFU-10`, `BFU-11`, `BFU-12`, `BFU-13`, `BFU-14`, `BFU-15`, `BFU-16` | Obtain exact product/hardware instructions and reports, drawings, material thickness/fasteners/clearances, wall/floor/substrate/services survey, approved safe method, competent installation, testing, adjustment, inspection, and handover | | `G-21` Upholstery combination and fire/health evidence | `BFU-01`, `BFU-02`, `BFU-03`, `BFU-04`, `BFU-05`, `BFU-06`, `BFU-07`, `BFU-08`, `BFU-09`, `BFU-10`, `BFU-11`, `BFU-12`, `BFU-13`, `BFU-14`, `BFU-15`, `BFU-16` | Identify exact cover/filling/interliner/backing/seam/treatment combination, conditioning, current method/report, proposed equivalence, ageing/cleaning/substitution effects, Indonesian fire/health basis, and fire/industrial-hygiene review | | `G-22` Finish performance, cleaning, ageing, repair, and warranty | `BFU-01`, `BFU-02`, `BFU-03`, `BFU-04`, `BFU-05`, `BFU-06`, `BFU-07`, `BFU-08`, `BFU-09`, `BFU-10`, `BFU-11`, `BFU-12`, `BFU-13`, `BFU-14`, `BFU-15`, `BFU-16` | Obtain exact substrate/preparation/finish/cure, current test/report and exposure, cleaner compatibility, edge/joint/sample evidence, field ageing/defect facts, approved repair/refinish, maintenance, and warranty conditions | | `G-23` Bamboo identity, culm/product family, grade, and lot applicability | `BFU-01`, `BFU-02`, `BFU-03`, `BFU-04`, `BFU-05`, `BFU-06`, `BFU-07`, `BFU-08`, `BFU-09`, `BFU-10`, `BFU-11`, `BFU-12`, `BFU-13`, `BFU-14`, `BFU-15`, `BFU-16` | Verify botanical/local identity, part/form, maturity/source, culm geometry/defects, seasoned condition, processing/construction, product family, representative sampling/tests, grading/acceptance, lot/offer equivalence, and current expert review | | `G-24` Seasoning, preservation, chemicals, biological control, and safe use | `BFU-02`, `BFU-04`, `BFU-10`, `BFU-11`, `BFU-12`, `BFU-16` | Obtain process history, moisture baseline, organism/exposure, authorized treatment/finish/adhesive identity and label/SDS, application/cure, ventilation/contact limits, compatibility, efficacy evidence, worker/environment/waste controls, inspection, retreatment, and specialist disposition | | `G-25` Occupied outdoor structure, exterior system, site, and approval evidence | `BFU-10`, `BFU-11`, `BFU-14`, `BFU-15`, `BFU-16` | Confirm function/site/users/local rules and approvals, survey, climate/loads, ground/water/drainage, foundation, full structural/connection/roof/fire/access/MEP design, K3/temporary works, inspections, as-builts, maintenance, and signed professional/authority acceptance | | `G-26` Current food-contact material, intended use, migration, hygiene, and BPOM evidence | `BFU-12`, `BFU-14`, `BFU-16` | Read current complete PP/BPOM rules and annexes; identify exact bamboo/liner/adhesive/finish/ink, food type, time/temperature/reuse, migration/compliance reports, manufacturing hygiene, packaging/label, cleaning, lot equivalence, and BPOM/qualified decision | | `G-27` Electrical/luminaire product, heat/fire, installation, and verification | `BFU-13`, `BFU-14`, `BFU-15`, `BFU-16` | Identify exact luminaire/driver/lamp/cable/mounting, environment, bamboo shade/finish and clearances, heat/fire/strain/insulation/protection evidence, current product/PUIL basis, certification, competent installation, inspection/testing, instructions, maintenance, and warranty | ## Source-refresh triggers Recheck immediately when: - an outline uses law, SNI status, certification, export, environmental, K3, or product-compliance language; - ISO/BSN records show review, amendment, replacement, confirmation, or withdrawal; - a supplier, product construction, adhesive/finish/preservative, report, certificate, label, or warranty changes; - project climate, use, load, fire strategy, moisture exposure, substrate, installation, or maintenance conditions differ; - an exact value, class, tolerance, test result, service life, price, yield, capacity, or acceptance decision is proposed; - publication begins more than 90 days after this verification date for law/safety/legal pages, or more than 12 months later for stable technical foundations. ## Next authorized stage The later outline and constrained-writing-instruction stage may use this file only when separately authorized. Article drafting, Markdown article creation, HTML hydration, publication dating, sitemap generation, deployment, and Google Search Console submission are intentionally **not performed in this research stage**.
-
-## Evidence gates
-
-- **TOPIC-GATE:** G-13, G-19, G-20, G-22, G-23, G-27
-
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
-
-## Internal-link plan
-
-### Existing local routes
-
-- `/lampu-hias-bambu-wonosobo` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/lampu-hias-bambu-wonogiri.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/lampu-hias-bambu-wonogiri` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/lampu-hias-bambu-tulungagung` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/lampu-hias-bambu-tuban` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/lampu-hias-bambu-trenggalek` — use only if it helps the reader's next step; verify the anchor describes the destination.
-
-### Planned sibling articles
-
-These are future routes. Do not link them as live until their HTML exists.
-
-- `BFU-13-03` → `/artikel/fungsi-tirai-bambu.html` — Privasi, Cahaya, dan Ventilasi pada Tirai Bambu
-- `BFU-13-04` → `/artikel/bingkai-cermin-bambu.html` — Bingkai Cermin Bambu: Ukuran, Profil, dan Mounting
-- `BFU-13-06` → `/artikel/kombinasi-aksesori-bambu.html` — Menggabungkan Aksesori Bambu dalam Satu Ruang
-
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
-
-## Jawaban singkat dan salah paham utama
-
-- **Purpose:** Jawab pertanyaan judul dalam pembuka dan luruskan miskonsepsi yang paling berbahaya.
-- **Tie back to this article:** Keep the explanation specific to “Lampu Hias Bambu: Bentuk, Bayangan, dan Akses Bohlam”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+*Ilustrasi umum dari aset lokal Furnitur.co.id; bukan dokumentasi proyek tertentu.*
 
 ## Definisi dan batas objek
 
-- **Purpose:** Jelaskan apa yang dibahas, apa yang tidak, dan mengapa batas itu mengubah keputusan.
-- **Tie back to this article:** Keep the explanation specific to “Lampu Hias Bambu: Bentuk, Bayangan, dan Akses Bohlam”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Yang dibahas di sini adalah kap atau badan dekoratif berbahan bambu untuk lampu interior: profilnya, arah bayangan, cara membuka akses bohlam, titik pemasangan, dan perawatan permukaannya. Bambu dapat hadir sebagai culm, bilah, sliver, anyaman, panel, atau produk laminasi; istilah dagang itu tidak otomatis berarti konstruksi dan perilakunya sama. [ISO 21625:2020](https://www.iso.org/standard/71279.html) berguna sebagai rujukan taksonomi, tetapi identitas botani, proses, lot, dan dokumen pemasok tetap perlu diminta untuk produk tertentu.
+
+Artikel ini tidak menetapkan watt, suhu maksimum, jarak aman, kelas perlindungan, atau kepatuhan PUIL untuk lampu tertentu. Catatan BSN tentang seri PUIL ([SNI 0225-2:2020](https://pesta.bsn.go.id/produk/detail/12857-sni0225-22020) dan [katalog PUIL](https://pesta.bsn.go.id/produk/index?key=Puil)) menunjukkan bahwa dasar desain dan instalasi harus ditelusuri ke edisi serta penerapan yang tepat. Dengan demikian, keputusan visual boleh dibuat di sini, sedangkan persetujuan listrik tetap berada pada pemeriksa atau installer kompeten.
 
 ## Cara kerjanya
 
-- **Purpose:** Terangkan mekanisme, urutan, pelaku, material/sistem, dan antarmuka secara sebab-akibat.
-- **Tie back to this article:** Keep the explanation specific to “Lampu Hias Bambu: Bentuk, Bayangan, dan Akses Bohlam”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Urutkan keputusan dari ruang ke kap. Ukur area pemasangan, jalur pandang, dan ruang tangan untuk membuka kap atau melepas bohlam. Pilih profil—kerucut, tabung, kubah, atau susunan bilah—berdasarkan apakah Anda ingin bayangan menyebar ke dinding, jatuh ke meja, atau hanya menjadi aksen. Setelah itu, tentukan bukaan akses: cincin bawah yang bisa dilepas, panel berengsel, atau celah yang memungkinkan penggantian tanpa menekan anyaman.
+
+Bentuk bekerja sebagai antarmuka cahaya. Bilah yang rapat menyaring lebih banyak pandangan langsung ke sumber cahaya; bilah yang renggang menonjolkan garis bayangan, tetapi juga dapat memperlihatkan lampu dari sudut tertentu. Uji dengan contoh material atau mockup pada jarak dan ketinggian yang menyerupai ruang sebenarnya. Panduan kayu USDA dan ILO menekankan pentingnya sampel, instruksi produsen, pengendalian proses, serta perhatian pada arah serat, pengencangan, dan kemungkinan gerak material ([USDA Wood Handbook](https://research.fs.usda.gov/fpl/wood-handbook); [ILO wood-workshop guidance](https://www.ilo.org/publications/safety-and-health-wood-workshop)).
+
+Pada pemasangan, kap dekoratif, fitting lampu, kabel, dan plafon adalah satu rangkaian antarmuka. Identitas hardware, bahan dan ketebalan dudukan, posisi fastener, clearance, akses, inspeksi, serta instruksi handover perlu dicatat; itulah sebabnya katalog furnitur ISO tidak dapat menggantikan instruksi produk dan survei substrat ([ISO/TC 136 catalogue](https://www.iso.org/committee/52448/x/catalogue/p/1/u/0/w/0/d/0)). Jangan mengebor atau mengubah fitting sambil mengandalkan perkiraan. Pekerjaan alat dan energi harus mengikuti metode kerja, guarding, housekeeping, dan kompetensi yang sesuai; panduan ILO bukan sertifikat kepatuhan hukum Indonesia.
 
 ## Faktor yang mengubah hasil
 
-- **Purpose:** Kelompokkan kondisi proyek, penggunaan, lingkungan, pelaksanaan, dan bukti yang relevan.
-- **Tie back to this article:** Keep the explanation specific to “Lampu Hias Bambu: Bentuk, Bayangan, dan Akses Bohlam”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Skala ruang menentukan apakah kap menjadi titik fokus atau mengganggu sirkulasi. Di atas meja, sisakan ruang pandang dan ruang kepala; di koridor, utamakan profil yang tidak mudah tersenggol. Ukuran nyata, tinggi plafon, warna dinding, dan posisi furnitur harus diukur—jangan menyalin ukuran dari foto katalog.
+
+Privasi dan bayangan juga saling tarik-menarik. Bukaan besar memberi pola lebih jelas tetapi dapat membuka pandangan ke bohlam. Untuk ruang yang membutuhkan cahaya tenang, pilih lapisan atau bentuk yang memecah pandangan langsung, lalu cek perubahan bayangan pada siang dan malam. Jangan menyebut suatu kap “anti-silau” atau “menyebarkan cahaya merata” tanpa uji pada konfigurasi lampu yang sama.
+
+Material dan finishing mengubah perawatan. Permukaan, lapisan akhir, waktu curing, tekstur, serta sambungan menentukan respons terhadap cairan, panas kering, abrasi, dan gores. Standar uji furnitur ISO memisahkan paparan tersebut ([ISO 4211-1](https://www.iso.org/standard/85716.html), [ISO 4211-3](https://www.iso.org/standard/55267.html), [ISO 4211-5](https://www.iso.org/standard/76931.html), [ISO 4211-6](https://www.iso.org/standard/86789.html)); itu bukan izin untuk mengklaim “tahan noda” atau kompatibel dengan semua pembersih. Minta instruksi produk, lakukan uji di area contoh, dan pilih kain lembut atau metode yang disetujui.
 
 ## Contoh keputusan praktis
 
-- **Purpose:** Berikan skenario bersyarat atau tabel keputusan; tandai asumsi dan jangan mengarang pengalaman.
-- **Tie back to this article:** Keep the explanation specific to “Lampu Hias Bambu: Bentuk, Bayangan, dan Akses Bohlam”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+| Situasi | Pilihan desain awal | Bukti yang perlu diminta |
+| --- | --- | --- |
+| Kap menjadi aksen di atas meja | Profil lebih terbuka dengan akses bohlam dari bawah atau samping | Mockup bayangan, ukuran ruang, dan cara membuka kap |
+| Lampu berada di jalur pandang | Bilah atau lapisan yang menyamarkan pandangan langsung | Uji dari tinggi mata pengguna, bukan dari satu sudut foto |
+| Plafon sulit dijangkau | Akses yang dapat dibuka tanpa melepas dudukan utama | Instruksi penggantian, clearance tangan, dan rencana perawatan |
+| Ruang lembap atau sering dibersihkan | Finishing yang punya instruksi pembersih dan batas paparan | Data finishing, curing, kompatibilitas pembersih, serta inspeksi berkala |
+
+Kawan Furnitur.co.id, tabel ini adalah titik awal desain, bukan spesifikasi siap pasang. Jika konfigurasi lampu, kabel, atau dudukan berubah, ulangi pemeriksaan; hasil mockup visual tidak membuktikan keselamatan listrik.
 
 ## Kesalahan umum dan cara memeriksanya
 
-- **Purpose:** Bongkar shortcut umum lalu ubah menjadi pertanyaan/checklist verifikasi.
-- **Tie back to this article:** Keep the explanation specific to “Lampu Hias Bambu: Bentuk, Bayangan, dan Akses Bohlam”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Kesalahan pertama adalah memilih berdasarkan foto lalu mengabaikan akses. Tanyakan: “Bisakah bohlam diganti dengan tangan dan alat yang wajar tanpa menarik kabel atau merusak anyaman?” Jika jawabannya tidak jelas, minta gambar bukaan dan urutan perawatan dari pembuat.
 
-## Objection or shortcut to address
+Kesalahan kedua adalah menganggap LED atau watt rendah otomatis aman untuk bambu. Daya rendah tidak membuktikan suhu, jarak bebas, strain relief, isolasi, perlindungan, atau hasil pemasangan. Tandai dokumen yang belum ada dan jangan menutupinya dengan klaim umum. Kesalahan ketiga adalah membersihkan dengan bahan yang belum diuji. Cocokkan pembersih dengan finish yang tepat dan dokumentasikan perubahan warna, retak, atau serat terangkat.
 
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
+Kesalahan keempat adalah mengencangkan sambungan tanpa memberi ruang bagi gerak material. Untuk detail lubang, sekrup, perekat, dan tepi, gunakan sampel serta instruksi produsen; jangan menyalin resep atau ukuran sambungan dari proyek lain. Saat ada retak, kelonggaran, perubahan bentuk, atau bekas panas, hentikan penggunaan bila perlu, catat gejala dan kondisi, lalu minta penilaian yang sesuai. Rekaman identitas, paparan, pengukuran, cacat, tindakan, reviewer, dan tindak lanjut membantu keputusan pemeliharaan ([ISO 13822:2010](https://www.iso.org/standard/46556.html)).
 
-## Required conclusion
+## Jalan pintas yang perlu dihindari
 
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
+Shortcut yang sering dipilih adalah membeli kap termurah lalu memasangkan fitting yang tersedia. Cara ini bisa gagal karena ukuran bukaan, berat kap, substrat, dan jalur kabel tidak otomatis cocok. Alternatif yang lebih dapat dipertanggungjawabkan adalah mengunci dulu gambar kap, fitting, dan dudukan; minta sampel bayangan serta instruksi akses; kemudian minta pemeriksaan instalasi dan dokumen kelistrikan untuk konfigurasi final.
 
-## Draft completion checklist
+## Langkah penutup
 
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Sobat Furnitur.co.id!` and uses friendly `Furnitur.co.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+Lampu hias bambu yang tepat adalah yang bentuknya menghasilkan bayangan sesuai ruang, skalanya tidak mengganggu, dan akses bohlamnya benar-benar dapat dirawat. Sebelum memesan, buat satu lembar keputusan berisi ukuran ruang, posisi pemasangan, foto atau mockup bayangan, cara membuka kap, identitas material dan finish, serta instruksi pembersihan. Untuk membandingkan pilihan bentuk, lihat kategori [lampu hias](/lampu-hias) dan [daftar produk](/produk) sebagai langkah inspirasi berikutnya, bukan sebagai bukti teknis produk yang sama. Sobat Furnitur.co.id, serahkan data luminaire, kabel, lampu/driver, dudukan, jarak bebas, dan pengujian kepada pihak kompeten; pertahankan penanda [NEEDS ELECTRICAL REVIEW: G-27] sampai bukti itu lengkap. Aturan operasionalnya sederhana: jangan menganggap kap bambu aman hanya karena tampak ringan atau indah—keindahan diputuskan lewat mockup, keselamatan lewat verifikasi konfigurasi nyata.

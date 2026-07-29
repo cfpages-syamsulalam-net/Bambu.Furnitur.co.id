@@ -1,9 +1,10 @@
 ---
 article_id: BFU-01-04
+writing_contract_version: "native-id-v2"
 title: "Diameter, Ketebalan Dinding, dan Ruas pada Batang Bambu"
 slug: "geometri-batang-bambu"
 description: "Memahami bagian, bentuk, karakter visual, dan bukti material yang relevan untuk furnitur."
-status: outline
+status: draft
 publication_date: "2025-07-27"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -16,10 +17,6 @@ technical_review: required
 sources:
   - "https://research.fs.usda.gov/fpl/wood-handbook"
   - "https://research.fs.usda.gov/treesearch/62246"
-  - "https://www.iso.org/standard/40502.html?browse=ics"
-  - "https://www.iso.org/ics/79.060.10/x/"
-  - "https://www.iso.org/standard/72532.html"
-  - "https://silk.menlhk.go.id/index.php/svlk/files/1/information-data"
   - "https://www.iso.org/standard/71279.html"
   - "https://www.iso.org/cms/%20render/live/en/sites/isoorg/contents/data/standard/06/59/65950.html"
   - "https://www.iso.org/standard/65528.html?browse=tc"
@@ -27,37 +24,7 @@ sources:
   - "https://www.iso.org/standard/83076.html"
 ---
 
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
-
-# Diameter, Ketebalan Dinding, dan Ruas pada Batang Bambu
-
-## Assignment lock
-
-- **Writer task:** Expand this file into one complete article answering: “Diameter, Ketebalan Dinding, dan Ruas pada Batang Bambu”
-- **Reader and situation:** Memahami bagian, bentuk, karakter visual, dan bukti material yang relevan untuk furnitur.
-- **Reader outcome:** Memahami bagian, bentuk, karakter visual, dan bukti material yang relevan untuk furnitur.
-- **Primary intent:** Memahami variasi geometri bahan
-- **Reader community:** `Furnitur.co.id`
-- **Primary friendly address:** `Teman Furnitur.co.id`
-- **Natural variants:** `Sobat Furnitur.co.id` and `Kawan Furnitur.co.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** Fokus dimensi bahan; kapasitas beban dimiliki BFU-03.
-- **Final public route:** `/artikel/geometri-batang-bambu.html`
-- **Appointed CMS date:** `2025-07-27` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
-
-## Opening instructions
-
-- Open with the exact short salutation: **“Halo, Teman Furnitur.co.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Diameter, Ketebalan Dinding, dan Ruas pada Batang Bambu**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Teman Furnitur.co.id`, `Sobat Furnitur.co.id`, or `Kawan Furnitur.co.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
-
-
-<!-- BEGIN MANAGED IMAGE PLAN -->
+<!-- BEGIN MANAGED IMAGE PLAN
 ## Image plan
 
 - **Image ID:** `LOCAL-001`
@@ -68,159 +35,69 @@ sources:
 - **Selection basis:** filename/source metadata identifies `furnitur bambu` as relevant content media; no pixels were inspected.
 - **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
 - **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-001]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
+END MANAGED IMAGE PLAN -->
 
-## Evidence packet
+# Diameter, Ketebalan Dinding, dan Ruas pada Batang Bambu
 
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
+Halo, Teman Furnitur.co.id! Saat memilih batang bambu untuk furnitur, diameter luar yang tampak besar bukan jawaban lengkap. Tiga hal perlu dibaca bersama: diameter luar, ketebalan dinding, dan pola ruas. Ketiganya membantu menjelaskan bentuk bahan dan cara mengolahnya, tetapi tidak sendirian membuktikan kuat, awet, atau layak untuk beban tertentu.
 
-### KR-02
+Secara praktis, ukur penampang di beberapa titik, catat ketebalan dinding pada potongan yang representatif, dan hitung kondisi ruas sepanjang batang. Hasil itu harus dicocokkan dengan jenis produk, kadar air, cacat, riwayat pengeringan, dan metode sambungan. Data spesimen dan dasar penerimaan yang belum tersedia menjadi batas penting: **[NEEDS G-01/G-02/G-04/G-23: verifikasi edisi standar yang berlaku, identitas/maturitas bahan, sampel representatif, serta interpretasi profesional sebelum menetapkan kesesuaian proyek.]**
 
-- **Original sources:** [USDA Forest Products Laboratory Wood Handbook, revised 2021](https://research.fs.usda.gov/fpl/wood-handbook) and [Chapter 2 — commercially important woods](https://research.fs.usda.gov/treesearch/62246).
-- **Purpose for this article:** Ground anatomy, vocabulary, species/property, movement, machining, and failure explanations.
-- **Safe grounded facts:** Species name alone does not establish an individual piece's grade, moisture, defects, strength, durability, machining response, or project suitability.
-- **Limits:** U.S. species tables and construction practice are not Indonesian design values. Use Indonesian/local evidence and actual specimens under G-02/G-06.
+![Ilustrasi furnitur bambu](/wp-content/uploads/2022/04/furnitur-bambu.jpg)
 
-### KR-16
-
-- **Original sources:** [ISO 21887](https://www.iso.org/standard/40502.html?browse=ics), [USDA Wood Handbook](https://research.fs.usda.gov/fpl/wood-handbook), and [ISO plywood catalogue](https://www.iso.org/ics/79.060.10/x/).
-- **Purpose for this article:** Build specification and selection workflows without ranking vague trade labels.
-- **Safe grounded facts:** Selection should state requirement, evidence, acceptance method, responsible reviewer, deviation control, and maintenance assumptions.
-- **Limits:** Exact suitability remains product-, project-, site-, and professional-dependent under G-03/G-04/G-06.
-
-### KR-24
-
-- **Original sources:** [ISO 22095 and 2026 amendment](https://www.iso.org/standard/72532.html), [SILK/SVLK service](https://silk.menlhk.go.id/index.php/svlk/files/1/information-data), and [ISO plywood catalogue](https://www.iso.org/ics/79.060.10/x/).
-- **Purpose for this article:** Support RFQ, supplier comparison, sampling, receiving, deviations, lifecycle cost, claims, and handover.
-- **Safe grounded facts:** Domain age, logo, certificate image, sample, test badge, species name, or lowest price does not independently prove legal origin, quality, suitability, capacity, or delivered conformity.
-- **Limits:** Obtain dated quotations, actual samples/submittals, certificate/report verification, capability evidence, inspection plan, contract terms, and receiving records under G-04/G-11/G-15.
-
-### KR-32
-
-- **Original sources:** [ISO 21625:2020 official record](https://www.iso.org/standard/71279.html).
-- **Purpose for this article:** Ground material naming, product taxonomy, trade descriptions, comparisons, and specifications.
-- **Safe grounded facts:** A culm, strip, sliver, mat, panel, laminated product, engineered product, and completed furniture or structure are not interchangeable evidence objects.
-- **Limits:** Obtain the full current vocabulary, Indonesian/local names, botanical identity, processing history, product construction, and supplier documentation under G-23.
-
-### KR-33
-
-- **Original sources:** [ISO 22157:2019 official record](https://www.iso.org/cms/%20render/live/en/sites/isoorg/contents/data/standard/06/59/65950.html) and [ISO 19624:2018 official record](https://www.iso.org/standard/65528.html?browse=tc).
-- **Purpose for this article:** Ground moisture, density, dimensions, defects, grading, mechanical properties, and lot acceptance.
-- **Safe grounded facts:** Species, age, diameter, colour, seller grade, or one test result does not establish a lot’s characteristic values, furniture strength, joint behavior, or project acceptance.
-- **Limits:** Both records show revision activity in 2026. Obtain current complete editions, representative sampling, identity/maturity/location, seasoned condition, geometry/defects, test reports, grading/acceptance basis, and qualified interpretation under G-01/G-23.
-
-### KR-35
-
-- **Original sources:** [ISO 6128:2023 official record](https://www.iso.org/standard/82086.html).
-- **Purpose for this article:** Ground laminated furniture stock, construction, requirements/tests, handling, storage, packaging, and marking.
-- **Safe grounded facts:** An ISO 6128 scope match does not prove a specific product complies, and indoor furniture material evidence cannot be transferred to outdoor, structural, food-contact, or electrical use.
-- **Limits:** Obtain the current full standard, product construction/adhesive/finish, intended indoor use, reports, production equivalence, handling/storage history, and acceptance evidence under G-01/G-04/G-07/G-23.
-
-### KR-36
-
-- **Original sources:** [ISO 7567:2024 official record](https://www.iso.org/standard/83076.html) and [ISO 6128:2023](https://www.iso.org/standard/82086.html).
-- **Purpose for this article:** Bound engineered bamboo, glulam, panel, furniture-stock, and structural-product claims.
-- **Safe grounded facts:** Similar appearance or the word “laminated” does not establish common scope, bond/exposure class, structural role, test evidence, or substitution acceptability.
-- **Limits:** Obtain exact product family, construction, adhesive, intended use/exposure, full standard, test reports, production control, design/acceptance basis, and change control under G-01/G-04/G-07/G-23/G-25.
-
-## Evidence gates
-
-- **TOPIC-GATE:** G-01, G-02, G-04, G-23
-
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
-
-## Internal-link plan
-
-### Existing local routes
-
-- `/tirai-bambu-polos-batang` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/tirai-bambu-motif-batang` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/tempat-tidur-bambu-batang.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/tempat-tidur-bambu-batang` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/rak-tv-bambu-batang.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/rak-tv-bambu-batang` — use only if it helps the reader's next step; verify the anchor describes the destination.
-
-### Planned sibling articles
-
-These are future routes. Do not link them as live until their HTML exists.
-
-- `BFU-01-02` → `/artikel/bentuk-material-bambu.html` — Batang Utuh, Bilah, Laminasi, dan Anyaman Bambu
-- `BFU-01-03` → `/artikel/verifikasi-jenis-bambu.html` — Cara Memverifikasi Jenis Bambu tanpa Menebak dari Tampilan
-- `BFU-01-05` → `/artikel/variasi-warna-serat-bambu.html` — Variasi Warna dan Serat pada Furnitur Bambu
-- `BFU-01-06` → `/artikel/bambu-vs-kayu-furnitur.html` — Bambu vs Kayu untuk Furnitur: Pertanyaan Pembeda
-
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
-
-## Jawaban singkat dan salah paham utama
-
-- **Purpose:** Jawab pertanyaan judul dalam pembuka dan luruskan miskonsepsi yang paling berbahaya.
-- **Tie back to this article:** Keep the explanation specific to “Diameter, Ketebalan Dinding, dan Ruas pada Batang Bambu”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+*Aset lokal proyek; bukan dokumentasi proyek tertentu.*
 
 ## Definisi dan batas objek
 
-- **Purpose:** Jelaskan apa yang dibahas, apa yang tidak, dan mengapa batas itu mengubah keputusan.
-- **Tie back to this article:** Keep the explanation specific to “Diameter, Ketebalan Dinding, dan Ruas pada Batang Bambu”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Batang bambu (culm) adalah tabung beruas. Diameter luar adalah jarak melintang dari satu sisi terluar ke sisi berseberangan. Karena penampang tidak selalu benar-benar bundar, satu angka diameter dapat menutupi bentuk oval atau perubahan dari pangkal ke ujung. Diameter dalam diperoleh setelah memperhitungkan dinding; selisih diameter luar dan dalam, dibagi dua, merupakan pendekatan ketebalan dinding bila pengukuran penampang cukup akurat.
+
+Dinding bukan lapisan seragam yang otomatis memiliki sifat sama di setiap titik. Serat, kerapatan, kadar air, dan cacat memengaruhi respons material. Ruas (node) adalah bagian melintang tempat sekat dan sambungan pertumbuhan berada; ruas membagi batang menjadi ruas-ruas berongga (internode). Posisi ruas mengubah panjang bebas, tampilan, dan lokasi yang mudah atau sulit dibor serta disambung.
+
+Pembahasan ini berhenti pada geometri dan bukti material untuk furnitur. Ia tidak menetapkan kapasitas beban, ukuran sambungan final, kelas struktural, atau keamanan penggunaan. Bambu utuh, bilah, strip, panel, bambu laminasi, dan furnitur jadi adalah objek bukti yang berbeda; nama “bambu” atau “laminasi” saja tidak menyamakan konstruksi maupun penggunaannya. (Lihat rekaman resmi [ISO 21625:2020](https://www.iso.org/standard/71279.html).)
 
 ## Cara kerjanya
 
-- **Purpose:** Terangkan mekanisme, urutan, pelaku, material/sistem, dan antarmuka secara sebab-akibat.
-- **Tie back to this article:** Keep the explanation specific to “Diameter, Ketebalan Dinding, dan Ruas pada Batang Bambu”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Mulai dengan tujuan komponen: kaki, rangka, bidang anyaman, atau elemen dekoratif memerlukan ruang, arah serat, dan detail sambungan yang berbeda. Buat lembar ukur berisi identitas lot, lokasi pengukuran dari pangkal, diameter luar pada dua arah, diameter dalam bila bisa diukur, ketebalan dinding, jarak antarruas, dan cacat yang terlihat. Pengukuran berulang lebih informatif daripada memilih satu titik terbaik.
+
+Untuk batang yang akan dipotong, tandai ruas sebelum menentukan panjang komponen. Ujung dekat ruas dapat memiliki kondisi berbeda dari bagian tengah internode. Jika lubang, sekrup, pasak, atau belahan direncanakan, tandai apakah titik tersebut memotong ruas atau dinding kosong. Itu adalah informasi antarmuka untuk pengrajin dan perancang, bukan jaminan hasil sambungan.
+
+Metode pengukuran, kadar air saat ukur, cara memilih sampel, dan kriteria cacat perlu ditulis agar pemasok, pemeriksa, dan penerima memakai dasar yang sama. Catatan resmi [ISO 22157](https://www.iso.org/cms/%20render/live/en/sites/isoorg/contents/data/standard/06/59/65950.html) dan [ISO 19624](https://www.iso.org/standard/65528.html?browse=tc) menunjukkan bahwa dimensi, kondisi bahan, pengujian, dan penilaian memerlukan prosedur serta interpretasi; status katalog bukan bukti bahwa satu lot telah memenuhi persyaratan Anda.
 
 ## Faktor yang mengubah hasil
 
-- **Purpose:** Kelompokkan kondisi proyek, penggunaan, lingkungan, pelaksanaan, dan bukti yang relevan.
-- **Tie back to this article:** Keep the explanation specific to “Diameter, Ketebalan Dinding, dan Ruas pada Batang Bambu”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Variasi alami adalah faktor pertama. Diameter cenderung berubah sepanjang culm, sementara ketebalan dinding dapat berbeda pada sisi dan ketinggian yang sama. Ovalitas, retak ujung, lubang serangga, jamur, dan bekas tekan membuat angka rata-rata kurang berguna bila cacat berada tepat di area sambungan.
+
+Kadar air dan sejarah pengeringan juga penting. Material yang berubah kondisi dapat berubah dimensi; USDA Wood Handbook menjelaskan hubungan umum antara kayu/bahan berlignoselulosa, kelembapan, gerak dimensi, cacat, dan pemesinan ([Wood Handbook](https://research.fs.usda.gov/fpl/wood-handbook); [Chapter 2](https://research.fs.usda.gov/treesearch/62246)). Penjelasan tersebut adalah dasar perilaku material secara umum, bukan nilai desain untuk batang bambu tertentu di Indonesia.
+
+Lingkungan pemakaian mengubah keputusan. Furnitur dalam ruang, area lembap, luar ruang, atau dekat sumber panas menuntut asumsi perawatan dan perlindungan berbeda. Demikian pula proses: pemotongan dekat ruas, pengamplasan berlebihan, atau pengeboran tanpa memperhatikan arah serat dapat mengurangi bagian dinding yang tersedia. Jika komponen direkayasa menjadi panel atau glulam, bukti konstruksi, perekat, paparan, dan pengujian harus berasal dari produk tersebut; kemiripan rupa tidak cukup. (Bandingkan batas ruang lingkup [ISO 6128](https://www.iso.org/standard/82086.html) dan [ISO 7567](https://www.iso.org/standard/83076.html).)
 
 ## Contoh keputusan praktis
 
-- **Purpose:** Berikan skenario bersyarat atau tabel keputusan; tandai asumsi dan jangan mengarang pengalaman.
-- **Tie back to this article:** Keep the explanation specific to “Diameter, Ketebalan Dinding, dan Ruas pada Batang Bambu”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Gunakan tabel berikut sebagai urutan keputusan, bukan sebagai ukuran universal:
+
+| Temuan pada sampel | Pertanyaan berikutnya | Keputusan aman sementara |
+|---|---|---|
+| Diameter berubah banyak antar titik | Apakah komponen memerlukan garis luar seragam? | Pisahkan batang, ukur ulang, dan jangan menjanjikan keseragaman sebelum disortir. |
+| Dinding tampak tipis di area lubang | Di mana posisi lubang terhadap ruas dan retak? | Geser detail atau minta tinjauan perancang; jangan menyimpulkan kapasitas dari diameter luar. |
+| Jarak ruas tidak seragam | Apakah pola ruas adalah bagian visual atau mengganggu panjang komponen? | Potong berdasarkan peta ruas aktual, bukan jarak katalog. |
+| Material akan dilaminasi | Apa konstruksi, perekat, paparan, dan laporan produk? | Minta submittal produk; jangan memindahkan bukti bambu utuh ke panel. |
+
+Kawan Furnitur.co.id, ketika meminta penawaran, kirim sketsa yang menyebut rentang dimensi, toleransi yang dapat diterima, lokasi ruas yang diizinkan, dan metode inspeksi. Minta pemasok menunjukkan sampel aktual dari lot yang sama, bukan hanya foto atau label jenis. Pada penerimaan, simpan lembar ukur, foto identitas lot, catatan penyimpangan, dan keputusan siapa yang menyetujui penggantian.
 
 ## Kesalahan umum dan cara memeriksanya
 
-- **Purpose:** Bongkar shortcut umum lalu ubah menjadi pertanyaan/checklist verifikasi.
-- **Tie back to this article:** Keep the explanation specific to “Diameter, Ketebalan Dinding, dan Ruas pada Batang Bambu”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Kesalahan pertama adalah memakai diameter luar sebagai “ukuran kuat”. Diameter tidak memberi informasi lengkap tentang dinding, cacat, kadar air, orientasi gaya, atau sambungan. Kesalahan kedua adalah menganggap semua ruas harus dibuang atau semua ruas memperkuat bagian; dampaknya bergantung pada detail komponen dan proses, sehingga perlu penilaian pada spesimen.
 
-## Objection or shortcut to address
+Kesalahan ketiga adalah menerima istilah dagang, sertifikat, atau satu hasil uji sebagai bukti seluruh lot. Nama spesies, warna, umur yang diklaim, dan logo pemasok tidak berdiri sendiri untuk membuktikan identitas, kualitas, legalitas asal, atau kesesuaian. Minta definisi produk, riwayat proses, metode sampling, laporan yang dapat diverifikasi, dan kriteria penerimaan tertulis. Jika dokumen tidak lengkap, tandai penyimpangan dan tahan keputusan final.
 
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
+Sebelum produksi, lakukan pemeriksaan singkat: apakah satuan dan titik ukur jelas; apakah sampel mewakili lot; apakah retak dan ovalitas dicatat; apakah kadar air dan kondisi simpan diketahui; apakah ruas dipetakan terhadap lubang dan sambungan; dan apakah perubahan bahan memerlukan persetujuan ulang? Jawaban “tidak” pada pertanyaan penting berarti data masih kurang, bukan izin untuk menebak.
 
-## Required conclusion
+## Jalan pintas yang sebaiknya dihindari
 
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
+Jalan pintas yang sering menggoda adalah memilih batang paling besar dan paling lurus dari tumpukan, lalu menyatakan komponen aman. Cara itu gagal karena hanya menangkap tampilan satu batang, bukan variasi lot atau kondisi pada titik potong. Alternatif yang lebih dapat dipertanggungjawabkan adalah menetapkan spesifikasi geometri, mengambil sampel representatif, memeriksa dengan metode yang disepakati, lalu meminta tinjauan teknis untuk fungsi dan sambungan. Untuk inspirasi bentuk furnitur, gunakan [kategori tempat tidur](/tempat-tidur) atau [rak TV](/rak-tv) tanpa menganggap halaman produk tersebut sebagai bukti performa material.
 
-## Draft completion checklist
+## Kesimpulan dan langkah berikutnya
 
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Teman Furnitur.co.id!` and uses friendly `Furnitur.co.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+Diameter menjelaskan ukuran luar, ketebalan dinding menjelaskan banyaknya material pada penampang, dan ruas menjelaskan pembagian serta lokasi antarmuka sepanjang batang. Ketiganya adalah peta geometri—bukan sertifikat kapasitas atau persetujuan proyek.
+
+Teman Furnitur.co.id, langkah berikutnya adalah membuat lembar ukur untuk lot yang benar-benar akan dipakai, melampirkan sampel dan dokumen pemasok, lalu meminta perancang atau pemeriksa yang berwenang menilai fungsi, sambungan, lingkungan, serta edisi standar yang berlaku. Pegang aturan ini: **jangan mengubah angka geometri menjadi klaim beban atau kesesuaian sebelum bukti spesimen, produk, dan keputusan profesional tersedia.**

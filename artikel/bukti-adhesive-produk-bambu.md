@@ -1,9 +1,10 @@
 ---
 article_id: BFU-04-03
+writing_contract_version: "native-id-v2"
 title: "Adhesive pada Produk Bambu: Bukti Apa yang Perlu Diminta?"
 slug: "bukti-adhesive-produk-bambu"
 description: "Memilih tampilan/proteksi permukaan serta meminta bukti kompatibilitas dan emisi."
-status: outline
+status: draft
 publication_date: "2025-09-30"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -15,51 +16,90 @@ final_route: "/artikel/bukti-adhesive-produk-bambu.html"
 technical_review: required
 sources:
   - "https://www.iso.org/standard/40123.html"
-  - "https://www.iso.org/standard/40124.html"
   - "https://research.fs.usda.gov/fpl/wood-handbook"
   - "https://www.iso.org/ics/79.060.01/x/"
   - "https://www.iso.org/standard/84728.html?browse=tc"
   - "https://www.epa.gov/formaldehyde/formaldehyde-emission-standards-composite-wood-products"
   - "https://www.ilo.org/publications/safety-and-health-wood-workshop"
-  - "https://www.iso.org/standard/46556.html"
-  - "https://www.iso.org/standard/85716.html"
-  - "https://www.iso.org/standard/76931.html"
-  - "https://www.iso.org/standard/86789.html"
   - "https://www.iso.org/standard/55267.html"
   - "https://www.iso.org/standard/82086.html"
+  - "https://www.iso.org/standard/85716.html"
 ---
-
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
 
 # Adhesive pada Produk Bambu: Bukti Apa yang Perlu Diminta?
 
-## Assignment lock
+Halo, Kawan Furnitur.co.id!
 
-- **Writer task:** Expand this file into one complete article answering: “Adhesive pada Produk Bambu: Bukti Apa yang Perlu Diminta?”
-- **Reader and situation:** Memilih tampilan/proteksi permukaan serta meminta bukti kompatibilitas dan emisi.
-- **Reader outcome:** Memilih tampilan/proteksi permukaan serta meminta bukti kompatibilitas dan emisi.
-- **Primary intent:** Memverifikasi lem yang digunakan
-- **Reader community:** `Furnitur.co.id`
-- **Primary friendly address:** `Kawan Furnitur.co.id`
-- **Natural variants:** `Sobat Furnitur.co.id` and `Teman Furnitur.co.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** Fokus evidence; bukan formula atau klaim emisi.
-- **Final public route:** `/artikel/bukti-adhesive-produk-bambu.html`
-- **Appointed CMS date:** `2025-09-30` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
+Meminta nama merek lem saja belum cukup untuk menilai produk bambu. Bukti yang perlu diminta adalah identitas produk yang jelas, lembar data keselamatan (SDS), technical data sheet (TDS), instruksi aplikasi dan curing, serta laporan uji yang benar-benar cocok dengan panel atau sambungan yang dibeli. Tanyakan juga kompatibilitas dengan bambu, lapisan akhir, paparan penggunaan, dan data emisi bila produk dipakai di ruang dalam.
 
-## Opening instructions
+Label “waterproof”, “marine”, atau nama kimia tidak otomatis membuktikan bahwa seluruh panel tahan delaminasi, aman untuk ruang tertentu, atau cocok dengan finishing pilihan Anda. Metode, benda uji, kondisi paparan, dan pengendalian produksinya harus dapat ditelusuri. Standar panel seperti ISO 12466-1 membantu memahami pengujian kualitas ikatan, tetapi catatan standar itu bukan sertifikat bahwa produk tertentu lulus. [Baca catatan ISO 12466-1](https://www.iso.org/standard/40123.html) dan pembahasan perekat pada [USDA Wood Handbook](https://research.fs.usda.gov/fpl/wood-handbook).
 
-- Open with the exact short salutation: **“Halo, Kawan Furnitur.co.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Adhesive pada Produk Bambu: Bukti Apa yang Perlu Diminta?**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Kawan Furnitur.co.id`, `Sobat Furnitur.co.id`, or `Teman Furnitur.co.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
+![Ilustrasi furnitur bambu](/wp-content/uploads/2022/04/furnitur-bambu.jpg)
 
+Ilustrasi umum dari aset lokal Furnitur.co.id; bukan dokumentasi proyek tertentu.
 
-<!-- BEGIN MANAGED IMAGE PLAN -->
+## Jawaban singkat dan salah paham utama
+
+Mulailah dari fungsi dan lingkungan pemakaian, lalu minta bukti untuk setiap hubungan: bambu–bambu, bambu–substrat lain, dan lem–finishing. Untuk furnitur indoor kering, bukti identitas dan instruksi curing mungkin cukup untuk menyaring kandidat sebelum membuat sampel. Untuk area lembap, dekat sumber panas, atau komponen berlapis, Anda memerlukan laporan uji yang mencerminkan kondisi itu dan penilaian teknis proyek. Jika pemasok hanya memberikan brosur tanpa nomor batch, metode uji, atau batas penggunaan, keputusan sebaiknya ditahan: **[NEEDS KOMPATIBILITAS DAN LAPORAN UJI PROYEK]**.
+
+Emisi juga tidak dapat disimpulkan dari bau atau dari satu angka yang dilepas tanpa konteks. Metode ruang uji, suhu, kelembapan, loading, pertukaran udara, conditioning, benda uji, satuan hasil, edisi metode, dan yurisdiksi perlu dicatat. Katalog metode ISO 12460 dan metode small-chamber 2024 menunjukkan mengapa detail tersebut menentukan cara membaca hasil, sementara aturan EPA Amerika Serikat tidak boleh dipindahkan begitu saja menjadi batas Indonesia. [Lihat katalog metode ISO 12460](https://www.iso.org/ics/79.060.01/x/), [ISO 12460-2:2024](https://www.iso.org/standard/84728.html?browse=tc), dan [ikhtisar aturan EPA](https://www.epa.gov/formaldehyde/formaldehyde-emission-standards-composite-wood-products). Untuk persyaratan Indonesia yang berlaku, masih diperlukan verifikasi lokal: **[NEEDS PERSYARATAN EMISI INDONESIA TERKINI DAN PENILAIAN PAPARAN]**.
+
+## Definisi dan batas objek
+
+Dalam artikel ini, “adhesive” berarti bahan perekat yang menyatukan elemen bambu atau bambu dengan bahan lain pada produk. Yang diverifikasi bukan resep formulanya, melainkan apakah pemasok dapat menunjukkan identitas, cara pakai, kesesuaian material, bukti kinerja, serta jejak produksinya. “Bukti” berarti dokumen atau sampel yang dapat dicocokkan dengan produk yang Anda terima—bukan klaim lisan.
+
+Fokusnya adalah keputusan pembelian dan penerimaan barang. Artikel ini tidak menetapkan formula lem, kadar campuran, parameter mesin, desain sambungan struktural, atau klaim emisi universal. Bambu adalah material yang dapat berubah kadar air dan dimensinya; ikatan yang baik di laboratorium tidak otomatis cocok setelah dipotong, diamplas, dilapisi, dikemas, dan dipakai pada lingkungan berbeda. Karena itu, persetujuan akhir tetap memerlukan spesifikasi proyek dan peninjauan kompeten.
+
+## Cara kerjanya
+
+Alur verifikasi paling mudah dimulai dari identitas. Catat nama dagang, pabrikan, tipe atau grade, nomor batch, tanggal produksi, masa simpan, dan dokumen SDS/TDS. Minta instruksi persiapan permukaan, rasio atau komponen (bila sistem dua bagian), waktu terbuka, tekanan atau penjepitan, waktu curing, serta kondisi penyimpanan. Jangan mengisi detail yang tidak tercantum; minta pemasok mengonfirmasi secara tertulis.
+
+Berikutnya cocokkan antarmuka material. Apakah bambu direkatkan ke bambu, kayu, logam, kaca, atau inti panel? Apakah permukaan sudah diberi minyak, stain, atau clear coat? Buat sampel dengan substrat, persiapan, ketebalan lapisan, dan finishing yang sama. Amati apakah lem membasahi permukaan, apakah lapisan akhir mengganggu ikatan, dan apakah perubahan kelembapan memunculkan celah. Panduan USDA dan keselamatan bengkel ILO mendukung pendekatan berbasis persiapan, sampel, dan instruksi pabrikan, tanpa menggantikan evaluasi proyek. [USDA Wood Handbook](https://research.fs.usda.gov/fpl/wood-handbook) dan [ILO Safety and health in the wood workshop](https://www.ilo.org/publications/safety-and-health-wood-workshop).
+
+Terakhir, hubungkan bukti dengan produk jadi. Untuk panel berlapis, tanyakan apakah laporan berlaku pada konstruksi, ketebalan, dan proses produksi yang sama. ISO 6128 dapat membantu mengenali ruang lingkup stok furnitur laminasi, tetapi kecocokan ruang lingkup bukan bukti kepatuhan produk tertentu. [Rujukan ISO 6128](https://www.iso.org/standard/82086.html).
+
+## Faktor yang mengubah hasil
+
+Kondisi pemakaian adalah pembeda pertama. Indoor kering, kamar mandi, area semi-terbuka, dan penggunaan luar ruang menimbulkan siklus kelembapan serta panas yang berbeda. “Tahan air” pada lem tidak sama dengan ketahanan sambungan lengkap terhadap siklus tersebut. Bila produk akan terkena cairan pembersih atau panas, bukti finishing juga harus diperiksa; uji cold liquids dan dry heat ISO 4211 menunjukkan bahwa substrat, lapisan, waktu curing, dan skala hasil harus dicatat, bukan diringkas sebagai “tahan noda”. [ISO 4211-1](https://www.iso.org/standard/85716.html) dan [ISO 4211-3](https://www.iso.org/standard/55267.html).
+
+Kondisi pelaksanaan juga menentukan: kadar air bambu, kebersihan dan kekasaran permukaan, tekanan penjepitan, waktu sebelum dipindahkan, serta cara penyimpanan. Catat siapa yang mengaplikasikan, alat yang dipakai, tanggal, batch, dan penyimpangan dari TDS. Sobat Furnitur.co.id, bila salah satu catatan ini hilang, hasil sampel sulit ditelusuri kembali saat muncul retak atau delaminasi.
+
+Untuk emisi, identitas panel dan perekat harus tetap sama antara benda uji dan barang yang diterima. Mintalah laporan lengkap, termasuk laboratorium dan ruang lingkupnya, metode serta edisi, conditioning, kondisi ruang, loading, pertukaran udara, satuan hasil, dan tanggal pengujian. Jangan menyamakan hasil chamber kecil dengan kondisi ruangan nyata, atau label asing dengan kepatuhan Indonesia.
+
+Sebagai langkah praktis, bandingkan spesifikasi produk yang akan dibeli melalui [halaman produk](/produk) atau [kategori tirai polos](/tirai-polos). Tautan ini hanya membantu Anda melihat konteks produk; bukti adhesive tetap harus diminta dari pemasok barang yang spesifik.
+
+## Contoh keputusan praktis
+
+Bayangkan dua penawaran meja bambu untuk ruang kerja indoor. Pemasok A mengirim SDS, TDS, nomor batch, instruksi curing, dan laporan uji panel dengan konstruksi yang sama; pemasok B hanya menulis “lem waterproof”. Pilihan rasional bukan langsung A tanpa pemeriksaan, melainkan meminta sampel A, mencocokkan batch dan finishing, lalu meminta peninjauan teknis. B belum dapat diterima karena bukti identitas dan kecocokan tidak tersedia.
+
+Jika meja ditempatkan di area yang sering terkena cairan, tambahkan pertanyaan tentang finishing, pembersihan, dan perawatan. Jika pengguna meminta klaim emisi rendah, hentikan keputusan sampai persyaratan Indonesia dan penilaian paparan tersedia. Bila pemasok menawarkan laporan untuk panel kayu lain, perlakukan sebagai referensi metode saja, bukan bukti untuk panel bambu Anda.
+
+Checklist dokumen yang dapat dikirim dalam satu permintaan:
+
+- identitas produk, batch, masa simpan, dan SDS/TDS;
+- instruksi persiapan, aplikasi, penjepitan, curing, dan penyimpanan;
+- matriks kompatibilitas bambu, substrat pasangan, dan finishing;
+- laporan uji lengkap dengan metode, edisi, kondisi, benda uji, satuan, dan laboratorium;
+- sampel atau mockup yang mewakili konstruksi serta lingkungan pemakaian;
+- nama penanggung jawab teknis dan batas penggunaan yang dinyatakan tertulis.
+
+## Kesalahan umum dan cara memeriksanya
+
+Kesalahan pertama adalah memilih dari warna, kekentalan, atau bau. Ciri tersebut mungkin membantu pemeriksaan awal, tetapi tidak membuktikan umur simpan atau kekuatan ikatan. Kesalahan kedua adalah menerima kata “marine” sebagai izin untuk semua lokasi. Minta bukti untuk siklus paparan dan konstruksi Anda.
+
+Kesalahan ketiga adalah mengutip standar tanpa membaca ruang lingkup. Tanyakan: produk apa yang diuji, edisi metode apa, dan apakah proses produksinya setara dengan barang yang akan dikirim? Kesalahan keempat adalah mencampur laporan emisi dari yurisdiksi berbeda. Simpan laporan asli dan minta penilai yang memahami aturan setempat menerjemahkan maknanya.
+
+Periksa juga konsistensi dokumen: nama pabrikan, tipe lem, batch, panel, dan tanggal harus saling cocok. Bila ada perbedaan, minta klarifikasi tertulis sebelum produksi. Jangan menutupinya dengan asumsi bahwa semua produk dalam merek yang sama identik.
+
+## Jalan pintas yang perlu dihindari
+
+Shortcut yang sering dipilih adalah, “Buat satu sampel cepat; kalau tidak lepas, berarti aman.” Sampel tanpa kondisi yang mewakili dapat menyembunyikan pengaruh kelembapan, finishing, waktu curing, atau perubahan batch. Alternatif yang lebih dapat dipertanggungjawabkan adalah menetapkan kriteria penerimaan bersama pemasok, mendokumentasikan sampel, dan meminta review teknis ketika penggunaan atau konsekuensinya penting. Sampel menyaring risiko; ia bukan pengganti laporan dan persetujuan proyek.
+
+## Kesimpulan
+
+Jadi, bukti adhesive yang perlu diminta mencakup identitas dan batch, SDS/TDS, instruksi curing, kecocokan bambu–substrat–finishing, laporan uji lengkap, serta data emisi yang metodenya dan yurisdiksinya jelas. Kirim checklist itu, minta sampel yang mewakili penggunaan, dan tandai setiap dokumen yang belum cocok. Kawan Furnitur.co.id, jangan menyetujui klaim waterproof, emisi, atau daya tahan sebelum peninjauan teknis menghubungkan bukti tersebut dengan produk dan kondisi nyata Anda. Batas yang jujur lebih aman daripada kepastian yang tidak didukung dokumen.
+
+<!-- BEGIN MANAGED IMAGE PLAN
 ## Image plan
 
 - **Image ID:** `LOCAL-001`
@@ -70,152 +110,4 @@ sources:
 - **Selection basis:** filename/source metadata identifies `furnitur bambu` as relevant content media; no pixels were inspected.
 - **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
 - **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-001]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
-
-## Evidence packet
-
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
-
-### KR-10
-
-- **Original sources:** [ISO 12466-1:2007](https://www.iso.org/standard/40123.html), [ISO 12466-2:2007](https://www.iso.org/standard/40124.html), and [USDA Wood Handbook adhesive chapter index](https://research.fs.usda.gov/fpl/wood-handbook).
-- **Purpose for this article:** Support adhesive-family, cure, exposure, veneer/panel bond, delamination, repair, and procurement articles.
-- **Safe grounded facts:** “Exterior,” “marine,” “waterproof,” or adhesive chemistry alone does not prove the complete panel or joint will suit an application.
-- **Limits:** Obtain SDS, technical data, complete test/standard, production controls, compatibility, service exposure, and qualified review under G-04/G-07/G-09.
-
-### KR-11
-
-- **Original sources:** [ISO 12460 panel-method catalogue](https://www.iso.org/ics/79.060.01/x/), [ISO 12460-2:2024 small-chamber method](https://www.iso.org/standard/84728.html?browse=tc), and [U.S. EPA composite-wood rule overview](https://www.epa.gov/formaldehyde/formaldehyde-emission-standards-composite-wood-products).
-- **Purpose for this article:** Ground emissions, labels, indoor-air, test-report, supplier, and safe-use articles.
-- **Safe grounded facts:** Method, chamber, temperature, humidity, loading, air exchange, conditioning, specimen, result units, correlation, edition, and jurisdiction are essential to interpretation.
-- **Limits:** Never transfer U.S. limits to Indonesia or equate unlike methods. Obtain current Indonesian requirements, exact report, laboratory scope, product identity, and exposure assessment under G-01/G-05.
-
-### KR-20
-
-- **Original sources:** [USDA Wood Handbook](https://research.fs.usda.gov/fpl/wood-handbook) and [ILO wood-workshop guidance](https://www.ilo.org/publications/safety-and-health-wood-workshop).
-- **Purpose for this article:** Support grain-aware machining, joinery, pilot holes, fastening, movement allowance, edge sealing, sanding, samples, and repairability.
-- **Safe grounded facts:** A sample/mockup and manufacturer instructions are needed where appearance, adhesion, compatibility, movement, or repairability matters.
-- **Limits:** Do not provide machine bypass, cutting parameters, chemical recipes, or structural joint design. Resolve through G-07/G-08/G-13.
-
-### KR-21
-
-- **Original sources:** [ISO 13822:2010 official record](https://www.iso.org/standard/46556.html) and [USDA Wood Handbook](https://research.fs.usda.gov/fpl/wood-handbook).
-- **Purpose for this article:** Ground inspection, maintenance, symptom diagnosis, repair, replacement, post-flood/fire, and reuse decisions.
-- **Safe grounded facts:** Baseline identity, drawings, exposure, measurements, moisture map, defect/activity, extent, concealed risk, temporary controls, cause, consequence, action, reviewer, and follow-up belong in the record.
-- **Limits:** No remaining capacity, safe occupancy, repair, interval, or reuse decision without project evidence and qualified review under G-09/G-10.
-
-### KR-31
-
-- **Original sources:** [ISO 4211-1:2025 — cold liquids](https://www.iso.org/standard/85716.html), [ISO 4211-5:2021 — abrasion](https://www.iso.org/standard/76931.html), [ISO 4211-6:2025 — scratching](https://www.iso.org/standard/86789.html), and [ISO 4211-3:2013 — dry heat](https://www.iso.org/standard/55267.html).
-- **Purpose for this article:** Ground finish selection, sample/test plans, cleaning, defects, refinish, care, QC, and warranty articles.
-- **Safe grounded facts:** Substrate, preparation, finish layers/cure, texture/color/gloss, specimen, chemical/heat/abrasion/scratch exposure, cleaning, ageing, edge/joint details, result scale, and maintenance all matter.
-- **Limits:** No universal “stain-proof,” “scratch-proof,” disinfectant compatibility, service-life, repair, or warranty claim without exact finish/product, current method/report, maintenance/cleaning evidence, and G-07/G-19/G-22.
-
-### KR-35
-
-- **Original sources:** [ISO 6128:2023 official record](https://www.iso.org/standard/82086.html).
-- **Purpose for this article:** Ground laminated furniture stock, construction, requirements/tests, handling, storage, packaging, and marking.
-- **Safe grounded facts:** An ISO 6128 scope match does not prove a specific product complies, and indoor furniture material evidence cannot be transferred to outdoor, structural, food-contact, or electrical use.
-- **Limits:** Obtain the current full standard, product construction/adhesive/finish, intended indoor use, reports, production equivalence, handling/storage history, and acceptance evidence under G-01/G-04/G-07/G-23.
-
-## Evidence gates
-
-- **TOPIC-GATE:** G-01, G-04, G-05, G-07, G-19, G-22, G-23, G-24
-
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
-
-## Internal-link plan
-
-### Existing local routes
-
-- `/tirai-bambu-polos-yogyakarta` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/tirai-bambu-polos-wonosobo.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/tirai-bambu-polos-wonosobo` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/tirai-bambu-polos-wonogiri` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/tirai-bambu-polos-tulungagung.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/tirai-bambu-polos-tulungagung` — use only if it helps the reader's next step; verify the anchor describes the destination.
-
-### Planned sibling articles
-
-These are future routes. Do not link them as live until their HTML exists.
-
-- `BFU-04-01` → `/artikel/memilih-finishing-bambu.html` — Panduan Memilih Finishing Furnitur Bambu
-- `BFU-04-02` → `/artikel/jenis-finishing-bambu.html` — Natural, Stain, Painted, atau Clear Finish
-- `BFU-04-04` → `/artikel/finishing-bambu-indoor-outdoor.html` — Finishing Bambu untuk Indoor vs Outdoor
-- `BFU-04-05` → `/artikel/kualitas-udara-furnitur-bambu.html` — Bau, Emisi, dan Kualitas Udara pada Furnitur Baru
-
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
-
-## Jawaban singkat dan salah paham utama
-
-- **Purpose:** Jawab pertanyaan judul dalam pembuka dan luruskan miskonsepsi yang paling berbahaya.
-- **Tie back to this article:** Keep the explanation specific to “Adhesive pada Produk Bambu: Bukti Apa yang Perlu Diminta?”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Definisi dan batas objek
-
-- **Purpose:** Jelaskan apa yang dibahas, apa yang tidak, dan mengapa batas itu mengubah keputusan.
-- **Tie back to this article:** Keep the explanation specific to “Adhesive pada Produk Bambu: Bukti Apa yang Perlu Diminta?”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Cara kerjanya
-
-- **Purpose:** Terangkan mekanisme, urutan, pelaku, material/sistem, dan antarmuka secara sebab-akibat.
-- **Tie back to this article:** Keep the explanation specific to “Adhesive pada Produk Bambu: Bukti Apa yang Perlu Diminta?”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Faktor yang mengubah hasil
-
-- **Purpose:** Kelompokkan kondisi proyek, penggunaan, lingkungan, pelaksanaan, dan bukti yang relevan.
-- **Tie back to this article:** Keep the explanation specific to “Adhesive pada Produk Bambu: Bukti Apa yang Perlu Diminta?”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Contoh keputusan praktis
-
-- **Purpose:** Berikan skenario bersyarat atau tabel keputusan; tandai asumsi dan jangan mengarang pengalaman.
-- **Tie back to this article:** Keep the explanation specific to “Adhesive pada Produk Bambu: Bukti Apa yang Perlu Diminta?”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Kesalahan umum dan cara memeriksanya
-
-- **Purpose:** Bongkar shortcut umum lalu ubah menjadi pertanyaan/checklist verifikasi.
-- **Tie back to this article:** Keep the explanation specific to “Adhesive pada Produk Bambu: Bukti Apa yang Perlu Diminta?”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Objection or shortcut to address
-
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
-
-## Required conclusion
-
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
-
-## Draft completion checklist
-
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Kawan Furnitur.co.id!` and uses friendly `Furnitur.co.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+END MANAGED IMAGE PLAN -->

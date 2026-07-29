@@ -3,7 +3,8 @@ article_id: BFU-08-04
 title: "Rak Dinding vs Rak Berdiri dari Bambu"
 slug: "rak-dinding-vs-berdiri-bambu"
 description: "Menentukan kapasitas, ventilasi, akses, kestabilan, kabel, serta interface dinding/lantai."
-status: outline
+status: draft
+writing_contract_version: "native-id-v2"
 publication_date: "2026-01-04"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -14,198 +15,96 @@ reader_address: "Kawan Furnitur.co.id"
 final_route: "/artikel/rak-dinding-vs-berdiri-bambu.html"
 technical_review: required
 sources:
-  - "https://www.iso.org/standard/73866.html"
   - "https://www.iso.org/standard/76864.html"
-  - "https://www.iso.org/standard/73590.html"
-  - "https://www.iso.org/standard/66310.html"
-  - "https://www.iso.org/standard/13773.html"
-  - "https://www.iso.org/standard/13774.html"
-  - "https://www.iso.org/committee/52448/x/catalogue/p/1/u/0/w/0/d/0"
-  - "https://www.ilo.org/publications/safety-and-health-wood-workshop"
   - "https://www.iso.org/standard/71279.html"
   - "https://www.iso.org/standard/82086.html"
+  - "https://www.ilo.org/publications/safety-and-health-wood-workshop"
+  - "https://www.iso.org/committee/52448/x/catalogue/p/1/u/0/w/0/d/0"
 ---
-
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
 
 # Rak Dinding vs Rak Berdiri dari Bambu
 
-## Assignment lock
+Halo, Kawan Furnitur.co.id! Memilih rak dinding atau rak berdiri dari bambu bukan sekadar soal model yang terlihat ringan. Pertanyaan utamanya adalah: di mana beban akan ditahan, bagaimana rak mendapat kestabilan, dan apakah dinding atau lantai di lokasi benar-benar siap menerima gaya tersebut?
 
-- **Writer task:** Expand this file into one complete article answering: “Rak Dinding vs Rak Berdiri dari Bambu”
-- **Reader and situation:** Menentukan kapasitas, ventilasi, akses, kestabilan, kabel, serta interface dinding/lantai.
-- **Reader outcome:** Menentukan kapasitas, ventilasi, akses, kestabilan, kabel, serta interface dinding/lantai.
-- **Primary intent:** Memilih metode support
-- **Reader community:** `Furnitur.co.id`
-- **Primary friendly address:** `Kawan Furnitur.co.id`
-- **Natural variants:** `Sobat Furnitur.co.id` and `Teman Furnitur.co.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** Fokus mounting; installation dimiliki BFU-15.
-- **Final public route:** `/artikel/rak-dinding-vs-berdiri-bambu.html`
-- **Appointed CMS date:** `2026-01-04` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
+Jawaban singkatnya: rak dinding masuk akal bila dinding, titik angkur, dan jalur pemasangan sudah terverifikasi; rak berdiri lebih masuk akal bila Anda membutuhkan fleksibilitas penempatan dan tidak ingin menjadikan dinding sebagai bagian dari sistem penahan. Tidak ada pemenang universal. Kapasitas, tinggi, isi rak, akses, ventilasi, kabel, serta kondisi lantai dan dinding dapat mengubah keputusan. Standar penyimpanan sendiri menilai spesimen lengkap, konfigurasi, pembebanan, dan kestabilan—bukan nama bahan saja ([ISO 7170:2021](https://www.iso.org/standard/76864.html)).
 
-## Opening instructions
+![Ilustrasi rak bambu 10](/wp-content/uploads/2022/04/rak-bambu-10.jpg)
 
-- Open with the exact short salutation: **“Halo, Kawan Furnitur.co.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Rak Dinding vs Rak Berdiri dari Bambu**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Kawan Furnitur.co.id`, `Sobat Furnitur.co.id`, or `Teman Furnitur.co.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
-
-
-<!-- BEGIN MANAGED IMAGE PLAN -->
-## Image plan
-
-- **Image ID:** `LOCAL-019`
-- **Source type:** `local`
-- **Placement:** after the opening has answered the main question, before the first detailed H2
-- **Exact Markdown to insert:** `![Ilustrasi rak bambu 10](/wp-content/uploads/2022/04/rak-bambu-10.jpg)`
-- **Caption/credit:** Aset lokal proyek; jangan klaim sebagai dokumentasi proyek tertentu.
-- **Selection basis:** filename/source metadata identifies `rak bambu 10` as relevant content media; no pixels were inspected.
-- **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
-- **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-019]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
-
-## Evidence packet
-
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
-
-### KR-25
-
-- **Original sources:** [ISO 7173:2023 — chairs/stools](https://www.iso.org/standard/73866.html), [ISO 7170:2021 — storage units](https://www.iso.org/standard/76864.html), [ISO 19682:2023 — tables/desks](https://www.iso.org/standard/73590.html), and [ISO 19833:2018 — adult beds](https://www.iso.org/standard/66310.html).
-- **Purpose for this article:** Ground product taxonomy, strength/durability/stability, configuration, procurement, QC, diagnosis, and safety articles.
-- **Safe grounded facts:** Product family, intended user/use, complete assembled specimen, configuration, materials, joints/hardware, dimensions, loading/cycles, conditioning, failure/result, edition, and acceptance document determine applicability.
-- **Limits:** Public abstracts do not supply test values or prove a product passes. ISO 7173:2023 is already marked for revision. Resolve current full methods, exact specimen-to-offer equivalence, laboratory scope, results, and Indonesian/project acceptance under G-16.
-
-### KR-26
-
-- **Original sources:** [ISO 7174-1:1988 — upright chairs/stools](https://www.iso.org/standard/13773.html), [ISO 7174-2:1992 — reclining/rocking chairs](https://www.iso.org/standard/13774.html), and [ISO 7170:2021 — storage units](https://www.iso.org/standard/76864.html).
-- **Purpose for this article:** Support stability, anchoring, moving parts, loading, misuse, children, installation, inspection, and urgent-hazard articles.
-- **Safe grounded facts:** Open drawers/doors, extension, load location, adjustable/reclined state, floor level, wall/substrate/anchor, user behavior, damage, missing components, and installation change stability.
-- **Limits:** Do not publish a universal anchor, safe load, test force, or pass claim. Obtain the complete applicable method/requirement, product instructions/report, site/substrate survey, installation design, and competent review under G-17.
-
-### KR-29
-
-- **Original sources:** [ISO/TC 136 current furniture catalogue](https://www.iso.org/committee/52448/x/catalogue/p/1/u/0/w/0/d/0), [ISO 7170:2021](https://www.iso.org/standard/76864.html), and [ILO wood-workshop guidance](https://www.ilo.org/publications/safety-and-health-wood-workshop).
-- **Purpose for this article:** Support joints, hinges/slides/extensions, mechanisms, built-ins, anchoring, delivery, installation, relocation, adjustment, and handover.
-- **Safe grounded facts:** Hardware/product identity, declared load/use, mounting material/thickness, fastener/edge distances, alignment, travel/clearance, stops/locks, wall/floor substrate, services, access, inspection, and instructions form the evidence chain.
-- **Limits:** Obtain exact hardware/furniture instructions and reports, site/substrate survey, approved drawings/method, competent installer, safe-work plan, tests, and handover under G-20.
-
-### KR-32
-
-- **Original sources:** [ISO 21625:2020 official record](https://www.iso.org/standard/71279.html).
-- **Purpose for this article:** Ground material naming, product taxonomy, trade descriptions, comparisons, and specifications.
-- **Safe grounded facts:** A culm, strip, sliver, mat, panel, laminated product, engineered product, and completed furniture or structure are not interchangeable evidence objects.
-- **Limits:** Obtain the full current vocabulary, Indonesian/local names, botanical identity, processing history, product construction, and supplier documentation under G-23.
-
-### KR-35
-
-- **Original sources:** [ISO 6128:2023 official record](https://www.iso.org/standard/82086.html).
-- **Purpose for this article:** Ground laminated furniture stock, construction, requirements/tests, handling, storage, packaging, and marking.
-- **Safe grounded facts:** An ISO 6128 scope match does not prove a specific product complies, and indoor furniture material evidence cannot be transferred to outdoor, structural, food-contact, or electrical use.
-- **Limits:** Obtain the current full standard, product construction/adhesive/finish, intended indoor use, reports, production equivalence, handling/storage history, and acceptance evidence under G-01/G-04/G-07/G-23.
-
-## Evidence gates
-
-- **TOPIC-GATE:** G-16, G-17, G-18, G-20, G-22, G-23
-
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
-
-## Internal-link plan
-
-### Existing local routes
-
-- `/rak-tv-bambu-yogyakarta.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/rak-tv-bambu-yogyakarta` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/rak-tv-bambu-wonosobo.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/rak-tv-bambu-wonosobo` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/rak-tv-bambu-wonogiri.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/rak-tv-bambu-wonogiri` — use only if it helps the reader's next step; verify the anchor describes the destination.
-
-### Planned sibling articles
-
-These are future routes. Do not link them as live until their HTML exists.
-
-- `BFU-08-02` → `/artikel/rak-terbuka-vs-lemari-bambu.html` — Rak Terbuka vs Lemari Tertutup dari Bambu
-- `BFU-08-03` → `/artikel/rak-tv-bambu.html` — Rak TV Bambu: Kabel, Ventilasi, dan Ukuran Perangkat
-- `BFU-08-05` → `/artikel/hardware-lemari-bambu.html` — Pintu, Laci, dan Hardware pada Lemari Bambu
-- `BFU-08-06` → `/artikel/kapasitas-rak-bambu.html` — Menentukan Kapasitas Penyimpanan tanpa Menebak Beban
-
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
+*Aset lokal proyek; jangan klaim sebagai dokumentasi proyek tertentu.*
 
 ## Masalah keputusan yang sebenarnya
 
-- **Purpose:** Jelaskan konteks pemilihan dan mengapa dua opsi ini sering dianggap dapat saling menggantikan.
-- **Tie back to this article:** Keep the explanation specific to “Rak Dinding vs Rak Berdiri dari Bambu”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Dua opsi ini sering dianggap dapat saling menggantikan karena sama-sama menyediakan bidang untuk menaruh barang. Padahal jalur gaya dan cara gagal keduanya berbeda. Pada rak dinding, beban berpindah dari papan atau anyaman ke sambungan, braket, pengikat, lalu ke dinding dan elemen di belakangnya. Pada rak berdiri, beban turun melalui kaki atau sisi rak ke lantai; bahaya utamanya dapat berupa oleng, terguling, atau sambungan yang berubah ketika rak dipindahkan.
+
+Karena itu, mulailah dari penggunaan, bukan dari foto produk. Tanyakan barang apa yang akan disimpan, seberapa sering diambil, apakah pintu atau laci akan dibuka, dan apakah perangkat dengan kabel perlu ventilasi. Bila barang sering diakses atau tata ruang mungkin berubah, akses dan relokasi dapat lebih penting daripada penghematan ruang. Bila area lantai sempit tetapi dindingnya kuat dan dapat diperiksa, pemasangan dinding mungkin layak dipertimbangkan—setelah peninjauan kompeten, bukan berdasarkan perkiraan visual.
 
 ## Bedakan objek sebelum membandingkan
 
-- **Purpose:** Definisikan setiap opsi, fungsi, batas sistem, dan bukti identitasnya.
-- **Tie back to this article:** Keep the explanation specific to “Rak Dinding vs Rak Berdiri dari Bambu”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+“Rak bambu” bukan satu objek bukti. Bahan dapat berupa bilah, strip, anyaman, panel laminasi, atau produk rekayasa; semuanya memiliki konstruksi, sambungan, dan batas penggunaan berbeda. Terminologi material perlu dicocokkan dengan konstruksi barang yang benar-benar ditawarkan, karena culm, strip, mat, panel, dan furnitur jadi tidak dapat dipertukarkan sebagai bukti ([ISO 21625:2020](https://www.iso.org/standard/71279.html)).
+
+Rak dinding adalah unit yang stabil hanya jika interface (antarmuka) dengan dinding—braket, pelat, sekrup, atau sistem lain—sesuai dengan substrat dan tata letak utilitas. Rak berdiri adalah unit yang stabil melalui geometri, kaki atau alas, sambungan, dan kontak dengan lantai; pengikat ke dinding bisa saja tetap dibutuhkan untuk kondisi tertentu. Keduanya harus dinilai sebagai rak lengkap dalam konfigurasi penggunaan, bukan sebagai papan bambu terpisah. Catatan produk juga perlu menyebut dimensi, komponen, perangkat keras, cara merakit, dan batas pemakaian.
+
+Untuk panel laminasi, kecocokan ruang lingkup harus jelas. Rekaman resmi tentang persyaratan dan pengujian panel furnitur tidak otomatis membuktikan produk tertentu patuh atau cocok untuk penggunaan luar ruang, struktural, kontak pangan, maupun kelistrikan ([ISO 6128:2023](https://www.iso.org/standard/82086.html)). Jadi, jangan mengubah label “laminasi” menjadi klaim kapasitas atau ketahanan tanpa dokumen produk yang setara.
 
 ## Kriteria perbandingan yang relevan
 
-- **Purpose:** Susun kriteria berdasarkan penggunaan, kondisi, antarmuka, risiko, pelaksanaan, perawatan, dan bukti.
-- **Tie back to this article:** Keep the explanation specific to “Rak Dinding vs Rak Berdiri dari Bambu”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Gunakan urutan pemeriksaan berikut agar keputusan tidak berhenti pada tampilan:
+
+1. **Kapasitas dan lokasi beban.** Catat berat tiap kelompok barang, posisi pusat beban, dan kemungkinan beban terkonsentrasi di ujung. Jangan mengisi angka kapasitas dari tebakan atau memindahkan angka uji dari produk lain. Metode dan laporan yang relevan harus cocok dengan rak lengkap, dimensinya, sambungan, serta konfigurasi yang akan dipakai ([ISO 7170:2021](https://www.iso.org/standard/76864.html)).
+2. **Kestabilan.** Rak dinding bergantung pada dinding, jenis angkur, jarak tepi, dan kondisi pemasangan. Rak berdiri bergantung pada lebar-kedalaman alas, kerataan lantai, tinggi, dan distribusi isi. Pintu terbuka, laci tertarik, rak diperpanjang, atau isi diletakkan di bagian atas dapat mengubah kestabilan. Tidak ada satu jenis angkur atau gaya aman yang berlaku untuk semua lokasi.
+3. **Akses dan perilaku pengguna.** Rak dinding yang terlalu tinggi mungkin mengurangi akses dan mendorong pengguna menarik badan rak. Rak berdiri yang mudah dijangkau lebih fleksibel, tetapi perlu ruang sirkulasi dan pengendalian terhadap dorongan atau benturan. Pertimbangkan siapa yang mengambil barang dan bagaimana rak dibersihkan.
+4. **Ventilasi dan kabel.** Perangkat elektronik memerlukan ruang untuk konektor, kabel, dan aliran udara sesuai petunjuk perangkat. Jangan menutup lubang ventilasi atau menjepit kabel di belakang rak. Rak dinding dapat menyisakan ruang bawah, sedangkan rak berdiri memberi pilihan memindahkan unit, tetapi keduanya tetap memerlukan jalur kabel yang aman dan dapat diperiksa.
+5. **Antarmuka dinding dan lantai.** Sebelum mengebor, identifikasi bahan dinding, ketebalan lapisan, rangka, pipa, dan kabel. Untuk rak berdiri, periksa kerataan lantai, kemungkinan genangan, serta apakah kaki memerlukan pelindung. Jika data substrat tidak tersedia, keputusan pemasangan harus berhenti sampai survei dilakukan.
+6. **Pelaksanaan, inspeksi, dan relokasi.** Pemasangan dinding membutuhkan metode kerja, alat, akses, dan pemeriksaan setelah pengencangan. Rak berdiri membutuhkan perakitan sesuai instruksi, pemeriksaan sambungan, dan pengamanan bila risiko terguling ada. Panduan keselamatan bengkel kayu menekankan pengendalian bahaya kerja dan praktik aman selama pembuatan atau pemasangan ([ILO, Safety and health in wood workshops](https://www.ilo.org/publications/safety-and-health-wood-workshop)).
 
 ## Kapan masing-masing pilihan masuk akal
 
-- **Purpose:** Berikan skenario bersyarat; jangan menyebut satu pemenang universal.
-- **Tie back to this article:** Keep the explanation specific to “Rak Dinding vs Rak Berdiri dari Bambu”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Pilih rak dinding sebagai kandidat bila luas lantai terbatas, posisi rak akan tetap, dan survei menunjukkan dinding serta titik angkur cocok. Ini dapat membantu menjaga lantai tetap lapang dan mengurangi kebutuhan memindahkan unit saat membersihkan. Namun keputusan tersebut hanya aman setelah gambar pemasangan, identitas perangkat keras, dan pemeriksaan substrat disetujui. [NEEDS G-17/G-20: verifikasi dinding, angkur, metode pemasangan, dan pemeriksaan kompeten sebelum keputusan final.]
+
+Pilih rak berdiri sebagai kandidat bila tata ruang sering berubah, Anda membutuhkan akses dari beberapa sisi, atau dinding tidak boleh dilubangi. Opsi ini juga memudahkan penggantian posisi dan pemeriksaan bagian belakang. Syaratnya, lantai harus cukup rata, geometri rak sesuai tinggi dan kedalaman, serta tindakan pencegahan terguling ditetapkan bila diperlukan. Rak berdiri bukan berarti bebas risiko dinding; kondisi penggunaan, perilaku, dan perubahan konfigurasi tetap harus dinilai ([ISO 7170:2021](https://www.iso.org/standard/76864.html)).
+
+Untuk rak media atau perangkat berkabel, buat keputusan dari jalur kabel dan ventilasi terlebih dahulu. Jika kabel harus melewati dinding, rak dinding mungkin menambah pekerjaan koordinasi utilitas. Jika perangkat sering diganti, rak berdiri mungkin memberi akses lebih baik, tetapi kabel tetap harus memiliki kelonggaran dan tidak menjadi titik tersandung. Sobat Furnitur.co.id, tuliskan skenario penggunaan itu di gambar atau lembar permintaan, bukan hanya “rak untuk elektronik”. Bila Anda sedang membandingkan pilihan untuk perangkat media, gunakan [kategori rak TV](/rak-tv) dan [kategori rak](/rak) sebagai titik awal melihat kebutuhan ruang—bukan bukti kapasitas atau kecocokan pemasangan lokasi Anda.
 
 ## Kesalahan perbandingan yang sering terjadi
 
-- **Purpose:** Bongkar sedikitnya tiga shortcut atau asumsi yang membuat keputusan keliru.
-- **Tie back to this article:** Keep the explanation specific to “Rak Dinding vs Rak Berdiri dari Bambu”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Pertama, menganggap bambu menentukan kapasitas. Material adalah satu bagian dari sistem; dimensi, sambungan, panel, perangkat keras, dan konfigurasi lengkap sama pentingnya. Bahkan rekaman standar hanya menjelaskan ruang lingkup dan metode, bukan bukti bahwa rak tertentu lulus.
+
+Kedua, memilih angkur berdasarkan nama dinding. Bata, beton, papan, dan lapisan dekoratif memiliki perilaku berbeda. Memasang sekrup ke lapisan yang tidak menahan beban dapat membuat rak tampak kokoh pada awalnya lalu berubah ketika diberi isi atau terkena tarikan.
+
+Ketiga, membandingkan kondisi kosong. Rak dengan pintu terbuka, laci tertarik, isi berat di bagian atas, atau kabel yang menarik ke samping berada dalam kondisi berbeda dari rak kosong. Uji dan pemeriksaan harus menyatakan konfigurasi dan beban yang dinilai; jangan mengubah hasil satu konfigurasi menjadi jaminan untuk konfigurasi lain.
+
+Keempat, mengabaikan relokasi dan perawatan. Lubang baru, sambungan yang dikencangkan ulang, kaki yang diganjal, atau panel yang diganti mengubah sistem. Setiap perubahan memerlukan inspeksi ulang, terutama bila rak dipakai anak-anak atau di area ramai.
 
 ## Bukti yang perlu diminta sebelum memilih
 
-- **Purpose:** Buat checklist dokumen, data proyek, sampel/tes, persetujuan, dan pihak penanggung jawab.
-- **Tie back to this article:** Keep the explanation specific to “Rak Dinding vs Rak Berdiri dari Bambu”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Minta paket informasi berikut sebelum menyetujui metode support:
 
-## Objection or shortcut to address
+- gambar ukuran lengkap, posisi pusat beban, bukaan pintu/laci, ruang ventilasi, dan jalur kabel;
+- daftar material dan konstruksi (bilah, anyaman, panel, atau laminasi), identitas sambungan, serta perangkat keras;
+- instruksi produk untuk perakitan, pemasangan, relokasi, inspeksi, dan batas penggunaan;
+- deklarasi beban atau laporan pengujian yang identitas spesimen dan konfigurasinya setara dengan unit yang ditawarkan, tanpa menganggapnya sebagai jaminan lokasi;
+- survei dinding/lantai yang mencatat substrat, ketebalan lapisan, utilitas, kerataan, dan kondisi sekitar;
+- metode pemasangan yang disetujui, rencana kerja aman, serta nama pihak kompeten yang memeriksa dan menyerahkan hasil.
 
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
+Katalog ISO/TC 136 dapat membantu memastikan standar yang dirujuk memang berada dalam keluarga furnitur, tetapi katalog tidak menggantikan metode lengkap, instruksi produk, atau persetujuan proyek ([ISO/TC 136 furniture catalogue](https://www.iso.org/committee/52448/x/catalogue/p/1/u/0/w/0/d/0)). Jika salah satu dokumen utama belum ada, tandai keputusan sebagai bersyarat dan jangan mengisi kekosongan dengan angka kapasitas atau jenis angkur yang “biasanya” dipakai. [NEEDS G-16/G-18/G-22/G-23: konfirmasi metode, kesetaraan produk, istilah material, dan bukti penerimaan proyek.]
 
-## Required conclusion
+## Jangan pasang dulu, baru perbaiki
 
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
+Shortcut yang sering dipilih adalah “pasang dulu rak dinding; kalau terasa goyang, tambah sekrup.” Cara ini membalik urutan pengendalian risiko. Menambah sekrup tanpa mengetahui substrat, utilitas, jarak tepi, atau kapasitas perangkat keras dapat memperbanyak titik lemah dan menyulitkan pemeriksaan. Alternatif yang lebih dapat dipertanggungjawabkan adalah menghentikan pemasangan, melakukan survei, mencocokkan instruksi dan metode, lalu meminta pemeriksaan kompeten sebelum rak diisi.
 
-## Draft completion checklist
+## Penutup
 
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Kawan Furnitur.co.id!` and uses friendly `Furnitur.co.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+Rak dinding cocok ketika dinding dan sistem angkurnya terbukti sesuai untuk konfigurasi yang dipakai. Rak berdiri cocok ketika fleksibilitas, akses, dan relokasi lebih penting serta kestabilan lantai dan geometri rak dapat dikendalikan. Kawan Furnitur.co.id, sebelum memilih, minta gambar, data material, instruksi perangkat keras, survei substrat, dan rencana inspeksi; dokumentasikan juga kebutuhan ventilasi serta kabel.
+
+Aturan operasionalnya sederhana: pilih metode support berdasarkan jalur beban dan kondisi antarmuka yang telah diverifikasi, bukan berdasarkan label “bambu” atau foto rak kosong. Bila verifikasi dinding, lantai, atau kesetaraan bukti belum selesai, tahan keputusan dan minta tinjauan teknis pada proyek tersebut.
+
+<!-- BEGIN MANAGED IMAGE PLAN
+Image ID: LOCAL-019
+Source type: local
+Placement: after opening answer, before first detailed H2
+- **Exact Markdown to insert:** `![Ilustrasi rak bambu 10](/wp-content/uploads/2022/04/rak-bambu-10.jpg)`
+Caption/credit: Aset lokal proyek; jangan klaim sebagai dokumentasi proyek tertentu.
+Selection basis: filename/source metadata identifies rak bambu 10 as relevant content media; no pixels were inspected.
+Hard boundary: do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
+Substitution rule: do not replace this image. If unavailable or provenance is incomplete, insert [NEEDS IMAGE REVIEW: LOCAL-019].
+END MANAGED IMAGE PLAN -->

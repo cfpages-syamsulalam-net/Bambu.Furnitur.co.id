@@ -1,9 +1,10 @@
 ---
 article_id: BFU-03-04
+writing_contract_version: "native-id-v2"
 title: "Bracing dan Stabilitas pada Furnitur Bambu"
 slug: "stabilitas-furnitur-bambu"
 description: "Memahami rangka, sambungan, pengikat, interface, stabilitas, dan bukti beban."
-status: outline
+status: draft
 publication_date: "2025-09-10"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -16,221 +17,89 @@ technical_review: required
 sources:
   - "https://www.iso.org/standard/73866.html"
   - "https://www.iso.org/standard/76864.html"
-  - "https://www.iso.org/standard/73590.html"
-  - "https://www.iso.org/standard/66310.html"
   - "https://www.iso.org/standard/13773.html"
   - "https://www.iso.org/standard/13774.html"
   - "https://www.iso.org/committee/52448/x/catalogue/p/1/u/0/w/0/d/0"
   - "https://www.ilo.org/publications/safety-and-health-wood-workshop"
   - "https://www.iso.org/standard/71279.html"
-  - "https://www.iso.org/cms/%20render/live/en/sites/isoorg/contents/data/standard/06/59/65950.html"
-  - "https://www.iso.org/standard/65528.html?browse=tc"
-  - "https://www.iso.org/standard/73831.html?browse=tc"
-  - "https://www.iso.org/standard/82086.html"
-  - "https://www.iso.org/standard/83076.html"
 ---
-
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
 
 # Bracing dan Stabilitas pada Furnitur Bambu
 
-## Assignment lock
+Halo, Kawan Furnitur.co.id! Furnitur bambu yang goyang biasanya bukan sekadar masalah “bambu kurang kuat”. Stabilitas lahir dari jalur beban yang utuh: rangka menahan gaya, sambungan meneruskannya, pengikat mengunci posisi, dan bidang kontak dengan lantai atau dinding tetap sesuai rancangan. Menambah satu batang secara acak atau mengencangkan baut tanpa memeriksa bagian lain dapat memindahkan masalah, bukan menyelesaikannya.
 
-- **Writer task:** Expand this file into one complete article answering: “Bracing dan Stabilitas pada Furnitur Bambu”
-- **Reader and situation:** Memahami rangka, sambungan, pengikat, interface, stabilitas, dan bukti beban.
-- **Reader outcome:** Memahami rangka, sambungan, pengikat, interface, stabilitas, dan bukti beban.
-- **Primary intent:** Memahami penahan goyangan
-- **Reader community:** `Furnitur.co.id`
-- **Primary friendly address:** `Kawan Furnitur.co.id`
-- **Natural variants:** `Sobat Furnitur.co.id` and `Teman Furnitur.co.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** Fokus prinsip; kapasitas beban wajib evidence/project-specific.
-- **Final public route:** `/artikel/stabilitas-furnitur-bambu.html`
-- **Appointed CMS date:** `2025-09-10` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
+Jawaban singkatnya: gunakan bracing (penahan diagonal atau pengaku) yang terhubung pada simpul rangka, lalu pastikan setiap sambungan dan interface—titik pertemuan bambu dengan kayu, logam, kaca, lantai, atau dinding—mampu meneruskan gaya yang memang direncanakan. Stabilitas tidak boleh disimpulkan dari diameter culm, tampilan anyaman, atau satu angka uji material. Jenis furnitur, konfigurasi lengkap, lokasi beban, kondisi lantai, serta bukti uji dan pemasangan yang sesuai dapat mengubah keputusan. Standar furnitur ISO sendiri mengaitkan penilaian dengan spesimen yang dirakit lengkap, konfigurasi, beban, siklus, dan hasil penerimaan; abstraknya tidak membuktikan produk tertentu lulus ([ISO 7173:2023](https://www.iso.org/standard/73866.html), [ISO 7170:2021](https://www.iso.org/standard/76864.html)).
 
-## Opening instructions
+![Ilustrasi furnitur bambu](/wp-content/uploads/2022/04/furnitur-bambu.jpg)
 
-- Open with the exact short salutation: **“Halo, Kawan Furnitur.co.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Bracing dan Stabilitas pada Furnitur Bambu**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Kawan Furnitur.co.id`, `Sobat Furnitur.co.id`, or `Teman Furnitur.co.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
-
-
-<!-- BEGIN MANAGED IMAGE PLAN -->
-## Image plan
-
-- **Image ID:** `LOCAL-001`
-- **Source type:** `local`
-- **Placement:** after the opening has answered the main question, before the first detailed H2
-- **Exact Markdown to insert:** `![Ilustrasi furnitur bambu](/wp-content/uploads/2022/04/furnitur-bambu.jpg)`
-- **Caption/credit:** Aset lokal proyek; jangan klaim sebagai dokumentasi proyek tertentu.
-- **Selection basis:** filename/source metadata identifies `furnitur bambu` as relevant content media; no pixels were inspected.
-- **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
-- **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-001]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
-
-## Evidence packet
-
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
-
-### KR-25
-
-- **Original sources:** [ISO 7173:2023 — chairs/stools](https://www.iso.org/standard/73866.html), [ISO 7170:2021 — storage units](https://www.iso.org/standard/76864.html), [ISO 19682:2023 — tables/desks](https://www.iso.org/standard/73590.html), and [ISO 19833:2018 — adult beds](https://www.iso.org/standard/66310.html).
-- **Purpose for this article:** Ground product taxonomy, strength/durability/stability, configuration, procurement, QC, diagnosis, and safety articles.
-- **Safe grounded facts:** Product family, intended user/use, complete assembled specimen, configuration, materials, joints/hardware, dimensions, loading/cycles, conditioning, failure/result, edition, and acceptance document determine applicability.
-- **Limits:** Public abstracts do not supply test values or prove a product passes. ISO 7173:2023 is already marked for revision. Resolve current full methods, exact specimen-to-offer equivalence, laboratory scope, results, and Indonesian/project acceptance under G-16.
-
-### KR-26
-
-- **Original sources:** [ISO 7174-1:1988 — upright chairs/stools](https://www.iso.org/standard/13773.html), [ISO 7174-2:1992 — reclining/rocking chairs](https://www.iso.org/standard/13774.html), and [ISO 7170:2021 — storage units](https://www.iso.org/standard/76864.html).
-- **Purpose for this article:** Support stability, anchoring, moving parts, loading, misuse, children, installation, inspection, and urgent-hazard articles.
-- **Safe grounded facts:** Open drawers/doors, extension, load location, adjustable/reclined state, floor level, wall/substrate/anchor, user behavior, damage, missing components, and installation change stability.
-- **Limits:** Do not publish a universal anchor, safe load, test force, or pass claim. Obtain the complete applicable method/requirement, product instructions/report, site/substrate survey, installation design, and competent review under G-17.
-
-### KR-29
-
-- **Original sources:** [ISO/TC 136 current furniture catalogue](https://www.iso.org/committee/52448/x/catalogue/p/1/u/0/w/0/d/0), [ISO 7170:2021](https://www.iso.org/standard/76864.html), and [ILO wood-workshop guidance](https://www.ilo.org/publications/safety-and-health-wood-workshop).
-- **Purpose for this article:** Support joints, hinges/slides/extensions, mechanisms, built-ins, anchoring, delivery, installation, relocation, adjustment, and handover.
-- **Safe grounded facts:** Hardware/product identity, declared load/use, mounting material/thickness, fastener/edge distances, alignment, travel/clearance, stops/locks, wall/floor substrate, services, access, inspection, and instructions form the evidence chain.
-- **Limits:** Obtain exact hardware/furniture instructions and reports, site/substrate survey, approved drawings/method, competent installer, safe-work plan, tests, and handover under G-20.
-
-### KR-32
-
-- **Original sources:** [ISO 21625:2020 official record](https://www.iso.org/standard/71279.html).
-- **Purpose for this article:** Ground material naming, product taxonomy, trade descriptions, comparisons, and specifications.
-- **Safe grounded facts:** A culm, strip, sliver, mat, panel, laminated product, engineered product, and completed furniture or structure are not interchangeable evidence objects.
-- **Limits:** Obtain the full current vocabulary, Indonesian/local names, botanical identity, processing history, product construction, and supplier documentation under G-23.
-
-### KR-33
-
-- **Original sources:** [ISO 22157:2019 official record](https://www.iso.org/cms/%20render/live/en/sites/isoorg/contents/data/standard/06/59/65950.html) and [ISO 19624:2018 official record](https://www.iso.org/standard/65528.html?browse=tc).
-- **Purpose for this article:** Ground moisture, density, dimensions, defects, grading, mechanical properties, and lot acceptance.
-- **Safe grounded facts:** Species, age, diameter, colour, seller grade, or one test result does not establish a lot’s characteristic values, furniture strength, joint behavior, or project acceptance.
-- **Limits:** Both records show revision activity in 2026. Obtain current complete editions, representative sampling, identity/maturity/location, seasoned condition, geometry/defects, test reports, grading/acceptance basis, and qualified interpretation under G-01/G-23.
-
-### KR-34
-
-- **Original sources:** [ISO 22156:2021 official record](https://www.iso.org/standard/73831.html?browse=tc).
-- **Purpose for this article:** Ground bamboo load paths, stability, joints, durability, occupied structures, and engineering boundaries.
-- **Safe grounded facts:** A bamboo furniture test, traditional precedent, culm diameter, lashing detail, or “light structure” label does not establish building-scale capacity or Indonesian acceptance.
-- **Limits:** ISO 22156 is under review in 2026 and is not Indonesian law. Obtain current full text, Indonesian load/design basis, exact system, material properties, connections, site/exposure, calculations, drawings, and engineer acceptance under G-01/G-23/G-25.
-
-### KR-35
-
-- **Original sources:** [ISO 6128:2023 official record](https://www.iso.org/standard/82086.html).
-- **Purpose for this article:** Ground laminated furniture stock, construction, requirements/tests, handling, storage, packaging, and marking.
-- **Safe grounded facts:** An ISO 6128 scope match does not prove a specific product complies, and indoor furniture material evidence cannot be transferred to outdoor, structural, food-contact, or electrical use.
-- **Limits:** Obtain the current full standard, product construction/adhesive/finish, intended indoor use, reports, production equivalence, handling/storage history, and acceptance evidence under G-01/G-04/G-07/G-23.
-
-### KR-36
-
-- **Original sources:** [ISO 7567:2024 official record](https://www.iso.org/standard/83076.html) and [ISO 6128:2023](https://www.iso.org/standard/82086.html).
-- **Purpose for this article:** Bound engineered bamboo, glulam, panel, furniture-stock, and structural-product claims.
-- **Safe grounded facts:** Similar appearance or the word “laminated” does not establish common scope, bond/exposure class, structural role, test evidence, or substitution acceptability.
-- **Limits:** Obtain exact product family, construction, adhesive, intended use/exposure, full standard, test reports, production control, design/acceptance basis, and change control under G-01/G-04/G-07/G-23/G-25.
-
-## Evidence gates
-
-- **TOPIC-GATE:** G-01, G-04, G-06, G-16, G-17, G-20, G-23
-
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
-
-## Internal-link plan
-
-### Existing local routes
-
-- `/tirai-bambu-polos-yogyakarta` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/tirai-bambu-polos-wonosobo.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/tirai-bambu-polos-wonosobo` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/tirai-bambu-polos-wonogiri` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/tirai-bambu-polos-tulungagung.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/tirai-bambu-polos-tulungagung` — use only if it helps the reader's next step; verify the anchor describes the destination.
-
-### Planned sibling articles
-
-These are future routes. Do not link them as live until their HTML exists.
-
-- `BFU-03-02` → `/artikel/jenis-sambungan-bambu.html` — Ikatan, Pasak, Baut, Sekrup, dan Sambungan Lem
-- `BFU-03-03` → `/artikel/risiko-pecah-sambungan-bambu.html` — Mencegah Bambu Pecah di Area Sambungan
-- `BFU-03-05` → `/artikel/interface-bambu-material-lain.html` — Sambungan Bambu dengan Kayu, Logam, dan Kaca
-- `BFU-03-06` → `/artikel/bukti-beban-furnitur-bambu.html` — Bukti Beban dan Acceptance yang Perlu Diminta
-
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
-
-## Jawaban singkat dan salah paham utama
-
-- **Purpose:** Jawab pertanyaan judul dalam pembuka dan luruskan miskonsepsi yang paling berbahaya.
-- **Tie back to this article:** Keep the explanation specific to “Bracing dan Stabilitas pada Furnitur Bambu”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+*Aset lokal proyek; jangan klaim sebagai dokumentasi proyek tertentu.*
 
 ## Definisi dan batas objek
 
-- **Purpose:** Jelaskan apa yang dibahas, apa yang tidak, dan mengapa batas itu mengubah keputusan.
-- **Tie back to this article:** Keep the explanation specific to “Bracing dan Stabilitas pada Furnitur Bambu”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Bracing adalah elemen yang mengurangi perubahan bentuk menyamping, misalnya diagonal, panel, atau pengaku belakang. Stabilitas adalah kemampuan furnitur tetap berada pada posisi aman ketika digunakan dalam keadaan yang ditentukan—bukan jaminan untuk semua cara pakai. Rangka, simpul, pengikat, dan interface harus dibaca sebagai satu sistem. Culm utuh, strip, bilah, panel laminasi, dan furnitur jadi bukan objek bukti yang dapat dipertukarkan; kosakata dan klasifikasi produk bambu perlu dicocokkan dengan konstruksi sebenarnya ([ISO 21625:2020](https://www.iso.org/standard/71279.html)).
+
+Artikel ini membahas prinsip penahan goyangan dan cara menyiapkan pemeriksaan. Ia tidak menetapkan kapasitas beban universal, ukuran baut, jarak angkur, atau kelayakan untuk bangunan. Untuk rak tinggi yang dipasang ke dinding, kursi yang menerima beban dinamis, tempat tidur, atau furnitur yang dipakai anak, metode lengkap yang berlaku, instruksi produk, survei substrat, dan peninjauan kompeten tetap diperlukan. Catatan keselamatan kerja bengkel juga perlu mengikuti kondisi kerja setempat, bukan menggantikan rancangan produk ([ILO wood-workshop guidance](https://www.ilo.org/publications/safety-and-health-wood-workshop)).
 
 ## Cara kerjanya
 
-- **Purpose:** Terangkan mekanisme, urutan, pelaku, material/sistem, dan antarmuka secara sebab-akibat.
-- **Tie back to this article:** Keep the explanation specific to “Bracing dan Stabilitas pada Furnitur Bambu”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Mulailah dari jalur gaya. Saat pengguna mendorong sisi meja, gaya bergerak dari permukaan ke kaki, lalu ke simpul dan lantai. Tanpa diagonal atau panel yang bekerja pada bidang tersebut, persegi rangka cenderung berubah menjadi jajaran genjang. Bracing membagi gerakan itu menjadi tarik dan tekan sepanjang elemen, tetapi manfaatnya hanya ada jika ujungnya benar-benar terkunci pada simpul yang kaku.
+
+Sambungan kemudian menentukan apakah jalur itu berlanjut. Ikatan, pasak, baut, sekrup, atau lem memiliki perilaku berbeda terhadap geser, tarik, dan rotasi. Lubang yang terlalu dekat tepi, bambu yang terjepit, atau pengikat yang longgar dapat membuat simpul berputar walaupun diagonalnya tampak kokoh. Karena itu, identitas perangkat keras, material yang dipasang, ketebalan, jarak tepi, alignment, travel, dan stop perlu dicatat sebagai rantai bukti ([katalog ISO/TC 136](https://www.iso.org/committee/52448/x/catalogue/p/1/u/0/w/0/d/0)).
+
+Interface adalah mata rantai berikutnya. Kaki yang menyentuh lantai tidak rata, roda yang dapat bergerak, atau angkur pada dinding dengan substrat yang tidak diketahui mengubah respons seluruh furnitur. Pada lemari, pintu atau laci terbuka memindahkan pusat massa; pada kursi goyang, keadaan recline dan gerak pengguna juga relevan. Catatan metode uji untuk kursi dan unit penyimpanan menunjukkan bahwa konfigurasi, lokasi beban, lantai, dan pemasangan adalah bagian dari pertanyaan stabilitas, bukan detail tambahan ([ISO 7174-1:1988](https://www.iso.org/standard/13773.html), [ISO 7174-2:1992](https://www.iso.org/standard/13774.html), [ISO 7170:2021](https://www.iso.org/standard/76864.html)).
+
+Urutan praktisnya: tetapkan keadaan pakai; petakan gaya dan arah goyangan; tentukan simpul yang menerima gaya; pilih bracing serta sambungan; periksa interface; kemudian dokumentasikan inspeksi atau uji pada spesimen yang sama dengan yang akan dipakai. Jika satu tahap berubah—misalnya kaki diganti atau rak dipindahkan—kesimpulan lama tidak otomatis berlaku.
 
 ## Faktor yang mengubah hasil
 
-- **Purpose:** Kelompokkan kondisi proyek, penggunaan, lingkungan, pelaksanaan, dan bukti yang relevan.
-- **Tie back to this article:** Keep the explanation specific to “Bracing dan Stabilitas pada Furnitur Bambu”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Pertama, geometri dan konfigurasi. Furnitur tinggi dengan alas sempit lebih sensitif terhadap dorongan lateral daripada unit rendah dengan jejak lebar. Pintu, laci, ekstensi meja, sandaran yang dapat direbahkan, dan roda menciptakan keadaan berbeda. Pemeriksaan harus menyebut posisi tersebut secara eksplisit, bukan hanya “produk model X”.
+
+Kedua, material dan proses. Spesies, kematangan, kadar air, cacat, diameter, dan cara bambu diproses memengaruhi objek yang sedang dinilai, tetapi satu sampel atau label grade penjual tidak menetapkan nilai karakteristik seluruh lot. Data material harus dihubungkan dengan geometri, kondisi seasoned, metode sampling, dan laporan yang representatif. Standar pengujian bambu menempatkan identitas, dimensi, cacat, dan kondisi uji sebagai bagian dari interpretasi; rekaman yang tidak lengkap memerlukan [NEEDS MATERIAL EVIDENCE REVIEW].
+
+Ketiga, sambungan dan pelaksanaan. Retak di sekitar lubang, serat terpotong, lem tidak sesuai, simpul tidak siku, atau baut dikencangkan tanpa kontrol dapat menurunkan kekakuan. Bracing yang hanya menempel pada kulit anyaman tidak sama dengan bracing yang diikat ke rangka utama. Minta gambar detail, jenis pengikat, urutan pemasangan, dan pemeriksaan torsi atau penguncian yang memang ditentukan oleh instruksi produk—jangan mengisi angka dari perkiraan.
+
+Keempat, lingkungan dan penggunaan. Kelembapan, perubahan lantai, relokasi, benturan, dan beban yang ditempatkan di ujung dapat mengubah kondisi awal. Sobat Furnitur.co.id, bila furnitur akan diangkur, bahan dinding dan jalur utilitas harus disurvei sebelum mengebor. Pilihan angkur, kedalaman, dan kapasitas adalah keputusan proyek; tanpa survei serta desain pemasangan, tandai [NEEDS SUBSTRATE AND ANCHOR REVIEW].
 
 ## Contoh keputusan praktis
 
-- **Purpose:** Berikan skenario bersyarat atau tabel keputusan; tandai asumsi dan jangan mengarang pengalaman.
-- **Tie back to this article:** Keep the explanation specific to “Bracing dan Stabilitas pada Furnitur Bambu”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Gunakan tabel berikut sebagai penyaring awal, bukan sertifikat keselamatan:
+
+| Situasi | Pertanyaan yang harus dijawab | Keputusan sementara |
+|---|---|---|
+| Meja bergoyang di lantai rata | Apakah semua kaki menyentuh lantai dan simpul siku? | Setel kaki dan periksa simpul; jangan langsung menambah diagonal. |
+| Rak tinggi dekat dinding | Substrat apa yang menerima angkur dan di mana titik gaya? | Hentikan pemasangan sampai survei substrat dan detail angkur disetujui. |
+| Lemari dengan laci terbuka | Apakah keadaan uji mencakup laci/extension terbuka dan beban di lokasi nyata? | Minta metode serta laporan yang cocok dengan konfigurasi lengkap. |
+| Kursi atau bangku | Apakah gaya berulang, arah dorongan, dan sambungan kaki tercakup? | Cocokkan spesimen, metode, dan hasil; tidak ada klaim lulus dari tampilan. |
+
+Jika vendor hanya menunjukkan foto diagonal atau menyebut “bambu kuat”, mintalah daftar material, gambar sambungan, instruksi penggunaan, dan bukti uji untuk model serta konfigurasi yang sama. Bila dokumen hanya menguji bahan laminasi indoor, jangan pindahkan kesimpulannya ke furnitur outdoor atau struktur lain; kesamaan kata “laminasi” tidak menjamin ruang lingkup, perekat, atau kelas paparan yang sama.
+
+Sebagai langkah administratif, bandingkan cara penjual menyatakan ukuran dan konfigurasi pada [kategori tirai polos](/tirai-polos) dan [halaman produk](/produk). Keduanya bukan bukti stabilitas furnitur, tetapi membantu Anda meminta spesifikasi produk yang tertulis sebelum menyetujui rancangan.
 
 ## Kesalahan umum dan cara memeriksanya
 
-- **Purpose:** Bongkar shortcut umum lalu ubah menjadi pertanyaan/checklist verifikasi.
-- **Tie back to this article:** Keep the explanation specific to “Bracing dan Stabilitas pada Furnitur Bambu”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Kesalahan pertama adalah menganggap baut yang lebih besar selalu lebih aman. Periksa apakah lubang merusak serat, apakah ada washer atau pelat distribusi yang ditentukan, dan apakah simpul menerima gaya sesuai arah desain. Kesalahan kedua adalah menguji furnitur kosong lalu menyatakan aman saat laci penuh. Catat lokasi beban, keadaan buka-tutup, dan lantai yang digunakan.
 
-## Objection or shortcut to address
+Kesalahan ketiga adalah memakai panel belakang tipis sebagai pengaku tanpa memeriksa cara panel itu terhubung. Tanyakan apakah panel merupakan elemen struktural yang dirancang, bagaimana tepinya ditahan, dan apa yang terjadi jika panel dilepas. Kesalahan keempat adalah mengabaikan perubahan setelah serah terima: roda, kaki pengganti, pemindahan angkur, atau pemotongan bagian. Setiap perubahan memicu pemeriksaan ulang jalur beban.
 
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
+Checklist serah-terima yang masuk akal berisi identitas model dan konfigurasi, gambar simpul, daftar pengikat, kondisi lantai atau dinding, instruksi relokasi, batas penggunaan yang tertulis, catatan inspeksi, serta laporan uji yang dapat ditelusuri. Kawan Furnitur.co.id, jika salah satu kolom kosong pada titik yang memengaruhi kesimpulan utama, jangan menutupinya dengan asumsi; gunakan [NEEDS TECHNICAL REVIEW] dan minta peninjauan kompeten.
 
-## Required conclusion
+## Menilai jalan pintas yang berisiko
 
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
+Shortcut yang sering dipilih adalah menambah batang silang setelah furnitur selesai, tanpa membuka sambungan atau memeriksa ruang gerak. Cara ini dapat mengurangi goyangan pada satu arah, tetapi juga bisa menambah eksentrisitas, menghalangi laci, atau membebani interface yang tidak dirancang untuknya. Alternatif yang lebih andal adalah memetakan arah gaya terlebih dahulu, memilih titik simpul, lalu menguji konfigurasi lengkap setelah perubahan. Jika bracing menyentuh dinding atau lantai, perlakukan detail angkur dan substrat sebagai bagian dari desain, bukan aksesori.
 
-## Draft completion checklist
+## Penutup: aturan operasi
 
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Kawan Furnitur.co.id!` and uses friendly `Furnitur.co.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+Bracing membantu stabilitas furnitur bambu ketika ia menjadi bagian dari jalur beban yang lengkap—rangka, simpul, pengikat, interface, lantai atau dinding, dan keadaan penggunaan. Tidak ada kapasitas aman yang dapat dipastikan hanya dari jenis bambu atau foto konstruksi.
+
+Langkah berikutnya: minta gambar sambungan dan konfigurasi pakai, catat kondisi lantai/substrat, lalu minta laporan atau metode uji yang benar-benar cocok dengan spesimen tersebut. Bila data material, angkur, atau hasil uji yang menentukan belum tersedia, hentikan klaim kapasitas dan lanjutkan setelah [NEEDS TECHNICAL REVIEW].
+
+<!-- BEGIN MANAGED IMAGE PLAN
+**Image ID:** `LOCAL-001`
+**Source type:** `local`
+**Placement:** after opening answer, before first detailed H2
+**Exact Markdown to insert:** `![Ilustrasi furnitur bambu](/wp-content/uploads/2022/04/furnitur-bambu.jpg)`
+**Caption/credit:** Aset lokal proyek; jangan klaim sebagai dokumentasi proyek tertentu.
+**Selection basis:** filename/source metadata identifies furnitur bambu as relevant content media; no pixels were inspected.
+**Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
+**Substitution rule:** if unavailable or provenance incomplete, insert [NEEDS IMAGE REVIEW: LOCAL-001].
+END MANAGED IMAGE PLAN -->

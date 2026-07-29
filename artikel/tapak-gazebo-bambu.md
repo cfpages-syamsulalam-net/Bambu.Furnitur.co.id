@@ -2,8 +2,9 @@
 article_id: BFU-10-03
 title: "Tapak, Pondasi, dan Drainase Gazebo Bambu"
 slug: "tapak-gazebo-bambu"
-description: "Merencanakan fungsi, tapak, atap, struktur, akses, exposure, dan handover bangunan ringan."
-status: outline
+description: "Merencanakan fungsi, tapak, atap, struktur, akses, paparan cuaca, dan serah terima bangunan ringan."
+status: draft
+writing_contract_version: "native-id-v2"
 publication_date: "2026-02-18"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -14,226 +15,83 @@ reader_address: "Sobat Furnitur.co.id"
 final_route: "/artikel/tapak-gazebo-bambu.html"
 technical_review: required
 sources:
-  - "https://peraturan.bpk.go.id/Details/235254/"
-  - "https://peraturan.bpk.go.id/Details/334454/permenhut-no-23-tahun-2025"
-  - "https://peraturan.bpk.go.id/Details/347927/pp-no-8-tahun-2026"
-  - "https://silk.menlhk.go.id/index.php/svlk/files/1/information-data"
-  - "https://www.iso.org/standard/72532.html"
-  - "https://www.iso.org/standard/90678.html"
-  - "https://www.iso.org/ics/79.060.10/x/"
-  - "https://www.iso.org/cms/%20render/live/en/sites/isoorg/contents/data/standard/06/59/65950.html"
-  - "https://www.iso.org/standard/65528.html?browse=tc"
-  - "https://www.iso.org/standard/73831.html?browse=tc"
-  - "https://www.iso.org/standard/83076.html"
-  - "https://www.iso.org/standard/82086.html"
-  - "https://www.iso.org/standard/79460.html"
-  - "https://www.iso.org/standard/79459.html"
   - "https://peraturan.bpk.go.id/Details/161846/pp-no-16-"
   - "https://pesta.bsn.go.id/produk/detail/12927-sni17272020"
   - "https://pesta.bsn.go.id/produk/detail/13506-84602017"
+  - "https://www.iso.org/standard/73831.html?browse=tc"
+  - "https://www.iso.org/standard/79460.html"
 ---
-
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
 
 # Tapak, Pondasi, dan Drainase Gazebo Bambu
 
-## Assignment lock
+Halo, Sobat Furnitur.co.id! Gazebo bambu tidak dimulai dari memilih model atau menghitung jumlah tiang, melainkan dari membaca tapak. Jawaban praktisnya: kumpulkan data fungsi, elevasi, air, tanah, paparan cuaca, akses, dan batas lahan terlebih dahulu. Dari data itu barulah perancang menentukan konsep pondasi, lantai, atap, serta jalur pembuangan air. Ukuran kecil, sisi terbuka, atau material bambu tidak otomatis membuat pondasi sederhana aman untuk semua lokasi.
 
-- **Writer task:** Expand this file into one complete article answering: “Tapak, Pondasi, dan Drainase Gazebo Bambu”
-- **Reader and situation:** Merencanakan fungsi, tapak, atap, struktur, akses, exposure, dan handover bangunan ringan.
-- **Reader outcome:** Merencanakan fungsi, tapak, atap, struktur, akses, exposure, dan handover bangunan ringan.
-- **Primary intent:** Menentukan data lokasi
-- **Reader community:** `Furnitur.co.id`
-- **Primary friendly address:** `Sobat Furnitur.co.id`
-- **Natural variants:** `Kawan Furnitur.co.id` and `Teman Furnitur.co.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** Fokus input; bukan perhitungan pondasi.
-- **Final public route:** `/artikel/tapak-gazebo-bambu.html`
-- **Appointed CMS date:** `2026-02-18` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
+Artikel ini membantu Anda menyiapkan input dan urutan keputusan. Ini bukan perhitungan pondasi atau pengganti persetujuan setempat. Beban, kondisi tanah, air, dan sistem bangunan yang belum disurvei tetap menjadi `[NEEDS SURVEY, DESIGN BASIS, AND PROFESSIONAL REVIEW]`.
 
-## Opening instructions
+![Ilustrasi Gazebo Bambu](/wp-content/uploads/2022/04/Gazebo-Bambu.jpg)
 
-- Open with the exact short salutation: **“Halo, Sobat Furnitur.co.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Tapak, Pondasi, dan Drainase Gazebo Bambu**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Sobat Furnitur.co.id`, `Kawan Furnitur.co.id`, or `Teman Furnitur.co.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
-
-
-<!-- BEGIN MANAGED IMAGE PLAN -->
-## Image plan
-
-- **Image ID:** `LOCAL-023`
-- **Source type:** `local`
-- **Placement:** after the opening has answered the main question, before the first detailed H2
-- **Exact Markdown to insert:** `![Ilustrasi Gazebo Bambu](/wp-content/uploads/2022/04/Gazebo-Bambu.jpg)`
-- **Caption/credit:** Aset lokal proyek; jangan klaim sebagai dokumentasi proyek tertentu.
-- **Selection basis:** filename/source metadata identifies `Gazebo Bambu` as relevant content media; no pixels were inspected.
-- **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
-- **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-023]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
-
-## Evidence packet
-
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
-
-### KR-17
-
-- **Original sources:** [Permen LHK 8/2021 status record](https://peraturan.bpk.go.id/Details/235254/), [Permenhut 23/2025 amendment](https://peraturan.bpk.go.id/Details/334454/permenhut-no-23-tahun-2025), [PP 8/2026 amendment to PP 23/2021](https://peraturan.bpk.go.id/Details/347927/pp-no-8-tahun-2026), and [official SILK/SVLK service](https://silk.menlhk.go.id/index.php/svlk/files/1/information-data).
-- **Purpose for this article:** Ground legality, forest origin, processing, transport/export-document, and regulatory-refresh articles.
-- **Safe grounded facts:** A legal/sustainability claim must identify the current rule, actor, activity, source, product, document, issuer, holder, scope, date/status, and verification path.
-- **Limits:** Read consolidated operative texts and current implementing rules; verify actual documents in the official system with legal/compliance review under G-11.
-
-### KR-18
-
-- **Original sources:** [ISO 22095:2020](https://www.iso.org/standard/72532.html) and [ISO 22095:2020/Amd 1:2026](https://www.iso.org/standard/90678.html).
-- **Purpose for this article:** Support traceability, certification-scope, mass-balance, supplier-claim, recycled/reclaimed, and procurement articles.
-- **Safe grounded facts:** Claim scheme, input eligibility, identity/lot, model, conversion/loss, segregation, transactions, sites, certificate scope/status, assurance, and downstream wording must align.
-- **Limits:** Obtain the full amended standard, claim-scheme rules, current certificates, transaction evidence, and verification under G-11/G-12.
-
-### KR-24
-
-- **Original sources:** [ISO 22095 and 2026 amendment](https://www.iso.org/standard/72532.html), [SILK/SVLK service](https://silk.menlhk.go.id/index.php/svlk/files/1/information-data), and [ISO plywood catalogue](https://www.iso.org/ics/79.060.10/x/).
-- **Purpose for this article:** Support RFQ, supplier comparison, sampling, receiving, deviations, lifecycle cost, claims, and handover.
-- **Safe grounded facts:** Domain age, logo, certificate image, sample, test badge, species name, or lowest price does not independently prove legal origin, quality, suitability, capacity, or delivered conformity.
-- **Limits:** Obtain dated quotations, actual samples/submittals, certificate/report verification, capability evidence, inspection plan, contract terms, and receiving records under G-04/G-11/G-15.
-
-### KR-33
-
-- **Original sources:** [ISO 22157:2019 official record](https://www.iso.org/cms/%20render/live/en/sites/isoorg/contents/data/standard/06/59/65950.html) and [ISO 19624:2018 official record](https://www.iso.org/standard/65528.html?browse=tc).
-- **Purpose for this article:** Ground moisture, density, dimensions, defects, grading, mechanical properties, and lot acceptance.
-- **Safe grounded facts:** Species, age, diameter, colour, seller grade, or one test result does not establish a lot’s characteristic values, furniture strength, joint behavior, or project acceptance.
-- **Limits:** Both records show revision activity in 2026. Obtain current complete editions, representative sampling, identity/maturity/location, seasoned condition, geometry/defects, test reports, grading/acceptance basis, and qualified interpretation under G-01/G-23.
-
-### KR-34
-
-- **Original sources:** [ISO 22156:2021 official record](https://www.iso.org/standard/73831.html?browse=tc).
-- **Purpose for this article:** Ground bamboo load paths, stability, joints, durability, occupied structures, and engineering boundaries.
-- **Safe grounded facts:** A bamboo furniture test, traditional precedent, culm diameter, lashing detail, or “light structure” label does not establish building-scale capacity or Indonesian acceptance.
-- **Limits:** ISO 22156 is under review in 2026 and is not Indonesian law. Obtain current full text, Indonesian load/design basis, exact system, material properties, connections, site/exposure, calculations, drawings, and engineer acceptance under G-01/G-23/G-25.
-
-### KR-36
-
-- **Original sources:** [ISO 7567:2024 official record](https://www.iso.org/standard/83076.html) and [ISO 6128:2023](https://www.iso.org/standard/82086.html).
-- **Purpose for this article:** Bound engineered bamboo, glulam, panel, furniture-stock, and structural-product claims.
-- **Safe grounded facts:** Similar appearance or the word “laminated” does not establish common scope, bond/exposure class, structural role, test evidence, or substitution acceptability.
-- **Limits:** Obtain exact product family, construction, adhesive, intended use/exposure, full standard, test reports, production control, design/acceptance basis, and change control under G-01/G-04/G-07/G-23/G-25.
-
-### KR-37
-
-- **Original sources:** [ISO 21629-2:2022 official record](https://www.iso.org/standard/79460.html) and [ISO 21629-1:2021 indoor counterpart](https://www.iso.org/standard/79459.html).
-- **Purpose for this article:** Ground exterior exposure, laminated/scrimber products, handling, drainage, maintenance, and indoor/outdoor boundaries.
-- **Safe grounded facts:** Outdoor flooring evidence does not prove a fence, gazebo, furniture item, coating, or other bamboo product, but it refutes generic indoor-to-outdoor transfer.
-- **Limits:** Obtain exact exterior product/assembly, intended exposure, drainage/ground/fastener/finish interfaces, current product data/tests/instructions, installation, maintenance, and warranty under G-03/G-06/G-07/G-22/G-25.
-
-### KR-38
-
-- **Original sources:** [PP 16/2021 official BPK record](https://peraturan.bpk.go.id/Details/161846/pp-no-16-), [SNI 1727:2020 official BSN record](https://pesta.bsn.go.id/produk/detail/12927-sni17272020), and [SNI 8460:2017 official BSN record](https://pesta.bsn.go.id/produk/detail/13506-84602017).
-- **Purpose for this article:** Ground use, site, approvals, loads, foundation, weather, access, construction, inspection, and handover for `BFU-10`.
-- **Safe grounded facts:** Prefabrication, open sides, small size, bamboo material, or a furniture seller does not establish approval, structural, foundation, wind/rain, fire, access, electrical, or functional-worthiness outcomes.
-- **Limits:** Confirm current/local rules, function/site/users, PBG/SLF applicability, survey, loads, ground/water/drainage, foundation, complete bamboo system, roof, fire/access/MEP, K3, inspections, and signed acceptance under G-25.
-
-## Evidence gates
-
-- **TOPIC-GATE:** G-01, G-02, G-03, G-06, G-10, G-11, G-12, G-13, G-23, G-24, G-25
-
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
-
-## Internal-link plan
-
-### Existing local routes
-
-- `/gazebo-bambu-yogyakarta` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/gazebo-bambu-wonosobo` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/gazebo-bambu-wonogiri` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/gazebo-bambu-tulungagung.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/gazebo-bambu-tulungagung` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/gazebo-bambu-tuban` — use only if it helps the reader's next step; verify the anchor describes the destination.
-
-### Planned sibling articles
-
-These are future routes. Do not link them as live until their HTML exists.
-
-- `BFU-10-01` → `/artikel/brief-gazebo-bale-bambu.html` — Checklist Brief Gazebo atau Bale Bambu
-- `BFU-10-02` → `/artikel/gazebo-vs-bale-bambu.html` — Gazebo vs Bale Bambu: Fungsi dan Tata Ruang
-- `BFU-10-04` → `/artikel/atap-gazebo-bambu.html` — Atap dan Overhang untuk Bangunan Bambu Ringan
-- `BFU-10-05` → `/artikel/akses-perawatan-gazebo-bambu.html` — Akses Perawatan pada Gazebo dan Bale
-
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
-
-## Jawaban singkat dan salah paham utama
-
-- **Purpose:** Jawab pertanyaan judul dalam pembuka dan luruskan miskonsepsi yang paling berbahaya.
-- **Tie back to this article:** Keep the explanation specific to “Tapak, Pondasi, dan Drainase Gazebo Bambu”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Ilustrasi umum dari aset lokal Furnitur.co.id; bukan dokumentasi proyek tertentu.
 
 ## Definisi dan batas objek
 
-- **Purpose:** Jelaskan apa yang dibahas, apa yang tidak, dan mengapa batas itu mengubah keputusan.
-- **Tie back to this article:** Keep the explanation specific to “Tapak, Pondasi, dan Drainase Gazebo Bambu”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+“Tapak” mencakup bidang tempat gazebo berdiri sekaligus hubungan dengan halaman, bangunan sekitar, saluran, dan akses kerja. “Pondasi” adalah antarmuka yang meneruskan beban ke tanah; bentuk dan dimensinya belum dapat dipilih hanya dari foto atau luas denah. “Drainase” mencakup cara air hujan dan limpasan menjauh dari kaki, lantai, serta jalur masuk.
+
+Fokus halaman ini adalah daftar data lokasi dan keputusan awal. Ia tidak menetapkan dimensi beton, kedalaman tiang, tulangan, kapasitas tanah, atau detail sambungan. Untuk kerangka desain dan pemeriksaan struktur, rujuk basis yang sesuai seperti [SNI 1727:2020](https://pesta.bsn.go.id/produk/detail/12927-sni17272020), [SNI 8460:2017](https://pesta.bsn.go.id/produk/detail/13506-84602017), serta kajian sistem bambu pada [ISO 22156:2021](https://www.iso.org/standard/73831.html?browse=tc). Status dan penerapan lokalnya tetap perlu dikonfirmasi oleh tenaga berwenang.
 
 ## Cara kerjanya
 
-- **Purpose:** Terangkan mekanisme, urutan, pelaku, material/sistem, dan antarmuka secara sebab-akibat.
-- **Tie back to this article:** Keep the explanation specific to “Tapak, Pondasi, dan Drainase Gazebo Bambu”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Urutkan pekerjaan seperti ini.
+
+1. **Tetapkan fungsi dan pengguna.** Catat apakah gazebo untuk duduk santai, menerima tamu, makan, bekerja, atau kegiatan dengan peralatan listrik. Tulis jumlah pengguna yang direncanakan, jam pemakaian, kebutuhan akses, dan barang yang akan ditempatkan. Fungsi mengubah beban, lebar jalur, perlindungan hujan, dan kebutuhan inspeksi.
+2. **Petakan tapak.** Ukur panjang-lebar area, beda tinggi, jarak ke pagar dan bangunan, posisi pohon, utilitas, serta akses kendaraan dan pekerja. Tandai arah matahari dan sisi yang menerima hujan atau angin dominan. Foto dan sketsa diberi tanggal agar perubahan dapat dilacak.
+3. **Baca air dan tanah.** Amati genangan setelah hujan, arah aliran, titik terendah, saluran eksisting, rembesan, dan tanda tanah lunak. Data observasi ini adalah indikasi awal, bukan nilai daya dukung. Jika kondisi tidak jelas atau beban signifikan, minta survei dan interpretasi profesional.
+4. **Tetapkan konsep elevasi dan drainase.** Putuskan apakah lantai perlu dinaikkan, ke mana air atap diturunkan, dan bagaimana air meninggalkan perimeter tanpa menggerus tanah tetangga. Detail talang, pipa, kemiringan, lapisan lantai, dan perlindungan kaki harus digambar sebagai satu sistem.
+5. **Baru koordinasikan struktur dan pelaksanaan.** Perancang menghubungkan beban atap, kolom, sambungan, pondasi, dan kondisi tanah. Kontraktor kemudian memeriksa toleransi, urutan kerja, curing bila ada beton, dan akses material. Setiap perubahan dimensi atau lokasi dicatat sebelum dikerjakan.
 
 ## Faktor yang mengubah hasil
 
-- **Purpose:** Kelompokkan kondisi proyek, penggunaan, lingkungan, pelaksanaan, dan bukti yang relevan.
-- **Tie back to this article:** Keep the explanation specific to “Tapak, Pondasi, dan Drainase Gazebo Bambu”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+**Fungsi dan beban.** Kursi ringan berbeda dengan meja berat, rak, tungku, atau atap yang menahan air. Skenario angin terbuka juga berbeda dari halaman terlindung. Jangan menyebut bangunan “ringan” sebagai bukti kapasitas; sistem harus ditinjau sebagai rangka lengkap, termasuk sambungan. ISO 22156 membahas sistem bambu, tetapi catatannya tidak otomatis menjadi persetujuan bangunan di Indonesia.
+
+**Tanah, elevasi, dan air.** Tanah urugan baru, lereng, bekas saluran, dan lokasi dengan muka air tinggi memerlukan perhatian berbeda. Genangan di luar gazebo dapat masuk melalui lantai atau membasahi ujung bambu. Arahkan air atap ke saluran yang benar-benar berfungsi; jangan mengandalkan celah lantai untuk menyelesaikan limpasan besar. Bila data tanah, elevasi, atau saluran belum tersedia, tandai `[NEEDS SITE LEVELS, SOIL/WATER CHECK, AND DRAINAGE CONFIRMATION]`.
+
+**Paparan dan material.** Produk untuk ruang luar memiliki tuntutan paparan, pengeringan, dan pemeliharaan yang berbeda dari produk dalam ruang. Bukti lantai luar tidak membuktikan bahwa setiap tiang, panel, coating, atau sambungan cocok dipasang di tempat yang sama. Rujukan [ISO 21629-2:2022](https://www.iso.org/standard/79460.html) dapat membantu membedakan konteks penggunaan luar, tetapi produk dan instruksi aktual harus diminta dari pemasok.
+
+**Akses, keselamatan, dan aturan setempat.** Jalur membawa bambu, beton, dan alat harus aman serta tidak menutup akses darurat atau utilitas. Periksa kebutuhan persetujuan, batas sempadan, listrik, pencahayaan, dan perlindungan kebakaran sesuai lokasi. [PP 16/2021](https://peraturan.bpk.go.id/Details/161846/pp-no-16-) memberi kerangka penyelenggaraan bangunan, namun kewajiban yang berlaku pada gazebo tertentu bergantung pada fungsi dan pemerintah daerah. Minta konfirmasi tertulis bila statusnya belum jelas.
 
 ## Contoh keputusan praktis
 
-- **Purpose:** Berikan skenario bersyarat atau tabel keputusan; tandai asumsi dan jangan mengarang pengalaman.
-- **Tie back to this article:** Keep the explanation specific to “Tapak, Pondasi, dan Drainase Gazebo Bambu”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Gunakan tabel ini sebagai penyaring awal, bukan keputusan struktur final.
+
+| Temuan di lokasi | Keputusan awal yang masuk akal | Bukti sebelum lanjut |
+|---|---|---|
+| Area datar, tidak tergenang, akses mudah | Kembangkan layout dan elevasi konsep | Sketsa ukur, foto bertanggal, jalur air |
+| Ada genangan atau aliran menuju denah | Tunda detail lantai; desain pengalihan air lebih dulu | Level, curah/genangan yang diamati, kapasitas saluran |
+| Tanah urugan/lereng atau retak di sekitar | Jangan meniru detail pondasi proyek lain | Survei tanah dan penilaian profesional |
+| Atap lebar di area sangat terbuka | Koordinasikan jalur beban dan pengikat | Data angin lokasi, sistem atap, sambungan |
+| Akses sempit dan utilitas tidak terpetakan | Ubah metode pengiriman dan urutan kerja | Denah utilitas, rencana kerja, titik penyimpanan |
+
+Contoh: bila gazebo diletakkan di dekat talang rumah yang membuang air ke halaman, pertanyaan pertama bukan “berapa banyak semen?” tetapi “di mana air itu ditangkap, dialirkan, dan diperiksa setelah hujan?”. Sobat Furnitur.co.id, keputusan pondasi yang baik bisa tetap gagal bila air terus membasahi kaki dan tidak ada akses perawatan. Untuk membandingkan kebutuhan fungsi dan konteks lokasi, gunakan [kategori gazebo](/gazebo) dan [halaman produk](/produk); keduanya bukan pengganti survei tapak Anda.
 
 ## Kesalahan umum dan cara memeriksanya
 
-- **Purpose:** Bongkar shortcut umum lalu ubah menjadi pertanyaan/checklist verifikasi.
-- **Tie back to this article:** Keep the explanation specific to “Tapak, Pondasi, dan Drainase Gazebo Bambu”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+- **Menyalin pondasi dari foto.** Foto tidak menunjukkan tanah, beban, atau sambungan. Minta gambar kerja, data lokasi, dan dasar penerimaan; jika tidak ada, anggap belum terbukti.
+- **Menganggap lantai tinggi selalu menyelesaikan banjir.** Elevasi membantu, tetapi air atap, limpasan samping, dan akses tetap perlu jalur. Uji arah aliran secara aman dan dokumentasikan.
+- **Mengecor sebelum posisi final.** Perubahan kolom, talang, atau utilitas setelah pengecoran memicu bongkar ulang. Bekukan koordinat dan elevasi pada gambar yang disetujui.
+- **Menggunakan label “outdoor” sebagai jaminan.** Tanyakan produk, paparan, detail kaki, fastener, finishing, interval perawatan, dan garansi yang benar-benar berlaku; jangan mengisi `[NEEDS PRODUCT DATA AND WARRANTY TERMS]` dengan asumsi.
+- **Tidak membuat handover.** Serah terima harus memuat gambar akhir, foto bagian tertutup, rute drainase, daftar material, jadwal inspeksi, dan siapa yang menangani kebocoran atau pergeseran.
 
-## Objection or shortcut to address
+## Jalan pintas yang perlu ditolak
 
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
+Jalan pintas yang sering dipilih adalah “buat saja pondasi kecil karena gazebo tidak sebesar rumah”. Ukuran denah bukan satu-satunya variabel: atap menangkap angin dan hujan, tanah mungkin berbeda antar titik, dan sambungan meneruskan gaya ke tumpuan. Alternatif yang lebih aman adalah menyelesaikan lembar input tapak, meminta konsep struktur berbasis data itu, lalu memeriksa drainase dan akses sebelum pekerjaan permanen. Bila salah satu data kunci hilang, hentikan keputusan dimensi dan gunakan `[NEEDS TECHNICAL REVIEW]`.
 
-## Required conclusion
+## Kesimpulan dan langkah berikutnya
 
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
+Tapak, pondasi, dan drainase gazebo bambu harus direncanakan sebagai satu rangkaian: fungsi menentukan kebutuhan, survei menjelaskan lokasi, drainase melindungi antarmuka, dan perancang memeriksa jalur beban. Mulailah dengan paket sederhana: denah ukur, elevasi, foto aliran air, daftar pengguna dan beban, paparan cuaca, utilitas, akses, serta aturan setempat.
 
-## Draft completion checklist
+Kawan Furnitur.co.id, kirim paket itu kepada perancang atau pemeriksa yang berwenang dan minta keluaran yang dapat diaudit: gambar tapak, konsep pondasi, detail kaki dan talang, asumsi desain, rencana inspeksi, serta catatan handover. Aturan operasinya jelas: jangan menetapkan dimensi pondasi atau menyatakan gazebo siap dipakai sebelum data lokasi, sistem lengkap, dan penerimaan profesional tersedia.
 
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Sobat Furnitur.co.id!` and uses friendly `Furnitur.co.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+<!-- BEGIN MANAGED IMAGE PLAN
+Image ID: LOCAL-023; Source type: local; Placement: after opening.
+**Exact Markdown to insert:** `![Ilustrasi Gazebo Bambu](/wp-content/uploads/2022/04/Gazebo-Bambu.jpg)`
+Caption/credit: Aset lokal proyek; jangan klaim sebagai dokumentasi proyek tertentu. Selection basis: filename/source metadata identifies Gazebo Bambu; no pixels inspected. Hard boundary: do not infer unseen details, ownership, location, people, brands, condition, performance, or outcome. Substitution rule: if unavailable or provenance incomplete, use [NEEDS IMAGE REVIEW: LOCAL-023].
+END MANAGED IMAGE PLAN -->

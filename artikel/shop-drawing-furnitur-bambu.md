@@ -2,8 +2,9 @@
 article_id: BFU-05-06
 title: "Shop Drawing, Mockup, dan Persetujuan sebelum Produksi"
 slug: "shop-drawing-furnitur-bambu"
-description: "Mengubah kebutuhan pengguna, ukuran ruang, gaya, dan interface menjadi brief yang dapat diproduksi."
-status: outline
+description: "Mengubah kebutuhan pengguna, ukuran ruang, gaya, dan interface menjadi rangkuman yang dapat diproduksi."
+status: draft
+writing_contract_version: "native-id-v2"
 publication_date: "2025-11-05"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -17,209 +18,91 @@ sources:
   - "https://www.iso.org/standard/73866.html"
   - "https://www.iso.org/standard/76864.html"
   - "https://www.iso.org/standard/73590.html"
-  - "https://www.iso.org/standard/66310.html"
-  - "https://www.iso.org/standard/13773.html"
-  - "https://www.iso.org/standard/13774.html"
   - "https://www.iso.org/standard/76831.html"
-  - "https://www.iso.org/cms/%20render/live/en/sites/isoorg/contents/data/standard/03/56/35608.html?browse=tc"
-  - "https://www.iso.org/committee/52448/x/catalogue/p/1/u/0/w/0/d/0"
-  - "https://www.ilo.org/publications/safety-and-health-wood-workshop"
   - "https://www.iso.org/standard/71279.html"
   - "https://www.iso.org/standard/82086.html"
 ---
 
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
-
 # Shop Drawing, Mockup, dan Persetujuan sebelum Produksi
 
-## Assignment lock
+Halo, Sobat Furnitur.co.id! Jangan mulai memotong bambu hanya karena sketsa dan foto referensi sudah disukai. Sebelum produksi, kebutuhan pengguna harus diterjemahkan menjadi shop drawing (gambar kerja), diuji lewat mockup bila ada bagian yang belum pasti, lalu disahkan melalui persetujuan tertulis. Tiga langkah ini adalah gate desain: keputusan berhenti atau lanjut dibuat sebelum material dan hardware terkunci.
 
-- **Writer task:** Expand this file into one complete article answering: “Shop Drawing, Mockup, dan Persetujuan sebelum Produksi”
-- **Reader and situation:** Mengubah kebutuhan pengguna, ukuran ruang, gaya, dan interface menjadi brief yang dapat diproduksi.
-- **Reader outcome:** Mengubah kebutuhan pengguna, ukuran ruang, gaya, dan interface menjadi brief yang dapat diproduksi.
-- **Primary intent:** Menetapkan gate desain
-- **Reader community:** `Furnitur.co.id`
-- **Primary friendly address:** `Sobat Furnitur.co.id`
-- **Natural variants:** `Kawan Furnitur.co.id` and `Teman Furnitur.co.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** Fokus approval; quality acceptance dimiliki BFU-15.
-- **Final public route:** `/artikel/shop-drawing-furnitur-bambu.html`
-- **Appointed CMS date:** `2025-11-05` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
+Shop drawing bukan gambar hiasan, mockup bukan sekadar contoh cantik, dan tanda tangan bukan pengganti pemeriksaan. Gambar harus memuat ukuran, sambungan, material, hardware, interface dengan ruang atau pekerjaan lain, serta asumsi yang disepakati. Mockup dipakai untuk menjawab hal yang sulit dipastikan dari garis—misalnya jangkauan, bukaan, atau pertemuan dengan dinding. Produksi baru aman dilanjutkan setelah versi dokumen, sampel, dan daftar pengecualian jelas. Kecocokan dengan beban, penggunaan, pemasangan, dan material aktual tetap perlu dibuktikan pada proyek; [NEEDS G-16/G-17/G-20/G-23: tinjauan teknis proyek dan dokumen penerimaan belum tersedia].
 
-## Opening instructions
+<!-- BEGIN MANAGED IMAGE PLAN
+Image ID: LOCAL-001
+Source type: local
+Placement: after opening, before first detailed H2
+Caption/credit: Aset lokal proyek; jangan klaim sebagai dokumentasi proyek tertentu.
+Selection basis: filename/source metadata identifies furnitur bambu as relevant content media; no pixels were inspected.
+Hard boundary: do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
+Substitution rule: do not replace this image. If unavailable or provenance is incomplete, insert [NEEDS IMAGE REVIEW: LOCAL-001] and continue drafting the prose.
+**Exact Markdown to insert:** `![Ilustrasi furnitur bambu](/wp-content/uploads/2022/04/furnitur-bambu.jpg)`
+END MANAGED IMAGE PLAN -->
+![Ilustrasi furnitur bambu](/wp-content/uploads/2022/04/furnitur-bambu.jpg)
 
-- Open with the exact short salutation: **“Halo, Sobat Furnitur.co.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Shop Drawing, Mockup, dan Persetujuan sebelum Produksi**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Sobat Furnitur.co.id`, `Kawan Furnitur.co.id`, or `Teman Furnitur.co.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
-
-
-<!-- BEGIN MANAGED IMAGE PLAN -->
-## Image plan
-
-- **Image ID:** `LOCAL-001`
-- **Source type:** `local`
-- **Placement:** after the opening has answered the main question, before the first detailed H2
-- **Exact Markdown to insert:** `![Ilustrasi furnitur bambu](/wp-content/uploads/2022/04/furnitur-bambu.jpg)`
-- **Caption/credit:** Aset lokal proyek; jangan klaim sebagai dokumentasi proyek tertentu.
-- **Selection basis:** filename/source metadata identifies `furnitur bambu` as relevant content media; no pixels were inspected.
-- **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
-- **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-001]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
-
-## Evidence packet
-
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
-
-### KR-25
-
-- **Original sources:** [ISO 7173:2023 — chairs/stools](https://www.iso.org/standard/73866.html), [ISO 7170:2021 — storage units](https://www.iso.org/standard/76864.html), [ISO 19682:2023 — tables/desks](https://www.iso.org/standard/73590.html), and [ISO 19833:2018 — adult beds](https://www.iso.org/standard/66310.html).
-- **Purpose for this article:** Ground product taxonomy, strength/durability/stability, configuration, procurement, QC, diagnosis, and safety articles.
-- **Safe grounded facts:** Product family, intended user/use, complete assembled specimen, configuration, materials, joints/hardware, dimensions, loading/cycles, conditioning, failure/result, edition, and acceptance document determine applicability.
-- **Limits:** Public abstracts do not supply test values or prove a product passes. ISO 7173:2023 is already marked for revision. Resolve current full methods, exact specimen-to-offer equivalence, laboratory scope, results, and Indonesian/project acceptance under G-16.
-
-### KR-26
-
-- **Original sources:** [ISO 7174-1:1988 — upright chairs/stools](https://www.iso.org/standard/13773.html), [ISO 7174-2:1992 — reclining/rocking chairs](https://www.iso.org/standard/13774.html), and [ISO 7170:2021 — storage units](https://www.iso.org/standard/76864.html).
-- **Purpose for this article:** Support stability, anchoring, moving parts, loading, misuse, children, installation, inspection, and urgent-hazard articles.
-- **Safe grounded facts:** Open drawers/doors, extension, load location, adjustable/reclined state, floor level, wall/substrate/anchor, user behavior, damage, missing components, and installation change stability.
-- **Limits:** Do not publish a universal anchor, safe load, test force, or pass claim. Obtain the complete applicable method/requirement, product instructions/report, site/substrate survey, installation design, and competent review under G-17.
-
-### KR-27
-
-- **Original sources:** [ISO 24496:2021 — office-chair dimension methods](https://www.iso.org/standard/76831.html) and [ISO 21015:2007 — office work-chair stability/strength/durability](https://www.iso.org/cms/%20render/live/en/sites/isoorg/contents/data/standard/03/56/35608.html?browse=tc).
-- **Purpose for this article:** Bound anthropometry, dimensions, posture/task fit, adjustability, accessibility, and office-chair claims.
-- **Safe grounded facts:** User population, task, duration, posture changes, adjustability, reach, transfer, circulation, clothing/equipment, trial fit, and maintenance all affect usability.
-- **Limits:** No universal “ergonomic” dimension, accessibility compliance, medical benefit, or fit claim without current Indonesian requirements, user/task evidence, applicable product standard, trial, and ergonomics/accessibility review under G-18.
-
-### KR-28
-
-- **Original sources:** [ISO 7173:2023](https://www.iso.org/standard/73866.html), [ISO 7170:2021](https://www.iso.org/standard/76864.html), [ISO 19682:2023](https://www.iso.org/standard/73590.html), and [ISO 24496:2021](https://www.iso.org/standard/76831.html).
-- **Purpose for this article:** Support workplace, hospitality, healthcare, education, food-service, retail, worship, and public-use furniture briefs.
-- **Safe grounded facts:** Users, traffic/duty, activities, cleaning agents/frequency, spills, mobility, accessibility, supervision, evacuation/fire, utilities, privacy/security, replacement, and facility policy must be documented.
-- **Limits:** Resolve current Indonesian sector/building rules, owner infection-control/cleaning policy, exact products/finishes, tests, risk assessment, and relevant professional review under G-19.
-
-### KR-29
-
-- **Original sources:** [ISO/TC 136 current furniture catalogue](https://www.iso.org/committee/52448/x/catalogue/p/1/u/0/w/0/d/0), [ISO 7170:2021](https://www.iso.org/standard/76864.html), and [ILO wood-workshop guidance](https://www.ilo.org/publications/safety-and-health-wood-workshop).
-- **Purpose for this article:** Support joints, hinges/slides/extensions, mechanisms, built-ins, anchoring, delivery, installation, relocation, adjustment, and handover.
-- **Safe grounded facts:** Hardware/product identity, declared load/use, mounting material/thickness, fastener/edge distances, alignment, travel/clearance, stops/locks, wall/floor substrate, services, access, inspection, and instructions form the evidence chain.
-- **Limits:** Obtain exact hardware/furniture instructions and reports, site/substrate survey, approved drawings/method, competent installer, safe-work plan, tests, and handover under G-20.
-
-### KR-32
-
-- **Original sources:** [ISO 21625:2020 official record](https://www.iso.org/standard/71279.html).
-- **Purpose for this article:** Ground material naming, product taxonomy, trade descriptions, comparisons, and specifications.
-- **Safe grounded facts:** A culm, strip, sliver, mat, panel, laminated product, engineered product, and completed furniture or structure are not interchangeable evidence objects.
-- **Limits:** Obtain the full current vocabulary, Indonesian/local names, botanical identity, processing history, product construction, and supplier documentation under G-23.
-
-### KR-35
-
-- **Original sources:** [ISO 6128:2023 official record](https://www.iso.org/standard/82086.html).
-- **Purpose for this article:** Ground laminated furniture stock, construction, requirements/tests, handling, storage, packaging, and marking.
-- **Safe grounded facts:** An ISO 6128 scope match does not prove a specific product complies, and indoor furniture material evidence cannot be transferred to outdoor, structural, food-contact, or electrical use.
-- **Limits:** Obtain the current full standard, product construction/adhesive/finish, intended indoor use, reports, production equivalence, handling/storage history, and acceptance evidence under G-01/G-04/G-07/G-23.
-
-## Evidence gates
-
-- **TOPIC-GATE:** G-16, G-17, G-18, G-20, G-23
-
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
-
-## Internal-link plan
-
-### Existing local routes
-
-- `/tirai-bambu-polos-yogyakarta` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/tirai-bambu-polos-wonosobo.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/tirai-bambu-polos-wonosobo` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/tirai-bambu-polos-wonogiri` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/tirai-bambu-polos-tulungagung.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/tirai-bambu-polos-tulungagung` — use only if it helps the reader's next step; verify the anchor describes the destination.
-
-### Planned sibling articles
-
-These are future routes. Do not link them as live until their HTML exists.
-
-- `BFU-05-04` → `/artikel/ergonomi-furnitur-bambu.html` — Ergonomi Kursi, Meja, dan Tempat Tidur Bambu
-- `BFU-05-05` → `/artikel/referensi-foto-furnitur-custom.html` — Mengubah Referensi Foto menjadi Desain yang Dapat Diproduksi
-
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
-
-## Jawaban singkat dan salah paham utama
-
-- **Purpose:** Jawab pertanyaan judul dalam pembuka dan luruskan miskonsepsi yang paling berbahaya.
-- **Tie back to this article:** Keep the explanation specific to “Shop Drawing, Mockup, dan Persetujuan sebelum Produksi”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+*Aset lokal proyek; jangan klaim sebagai dokumentasi proyek tertentu.*
 
 ## Definisi dan batas objek
 
-- **Purpose:** Jelaskan apa yang dibahas, apa yang tidak, dan mengapa batas itu mengubah keputusan.
-- **Tie back to this article:** Keep the explanation specific to “Shop Drawing, Mockup, dan Persetujuan sebelum Produksi”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Shop drawing adalah dokumen koordinasi untuk membuat dan memasang satu item atau satu rangkaian furnitur. Isinya bukan hanya tampak depan, melainkan denah, potongan, detail sambungan, toleransi yang disepakati, spesifikasi bambu atau panel, lapisan akhir, hardware, dan referensi revisi. Mockup adalah representasi skala penuh atau sebagian yang sengaja dibuat untuk memeriksa keputusan yang belum dapat dibaca dengan yakin dari gambar. Persetujuan adalah catatan siapa menyetujui versi mana, dengan catatan apa, dan apa yang masih dikecualikan.
+
+Batasnya penting. Artikel ini membahas approval desain sebelum produksi; penerimaan mutu barang jadi berada pada proses quality acceptance tersendiri. Gambar yang disetujui tidak otomatis membuktikan kursi, meja, lemari, atau tempat tidur lulus uji. Rekaman ISO untuk kursi, unit penyimpanan, dan meja menunjukkan bahwa objek uji, konfigurasi, material, sambungan, dimensi, pembebanan, serta hasil harus cocok dengan klaim yang hendak dibuat—abstraknya tidak memberi nilai uji atau bukti produk tertentu lulus ([ISO 7173](https://www.iso.org/standard/73866.html), [ISO 7170](https://www.iso.org/standard/76864.html), [ISO 19682](https://www.iso.org/standard/73590.html)).
+
+Karena itu, persetujuan harus menyebut apa yang disetujui dan apa yang belum. Jangan mengubah “disetujui untuk dibuat” menjadi “dijamin aman untuk semua penggunaan”. Jika fungsi, pengguna, lokasi, atau cara pasang berubah, dokumen perlu kembali ke gate desain.
 
 ## Cara kerjanya
 
-- **Purpose:** Terangkan mekanisme, urutan, pelaku, material/sistem, dan antarmuka secara sebab-akibat.
-- **Tie back to this article:** Keep the explanation specific to “Shop Drawing, Mockup, dan Persetujuan sebelum Produksi”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Mulai dari brief yang dapat diperiksa. Catat siapa pengguna, aktivitas, durasi pemakaian, akses, ruang gerak, cara membersihkan, dan batas perawatan. Untuk kursi atau meja kerja, populasi pengguna, tugas, perubahan postur, jangkauan, dan trial fit memengaruhi dimensi; [ISO 24496](https://www.iso.org/standard/76831.html) menyediakan metode pengukuran, bukan satu ukuran ergonomis universal. Untuk unit yang menempel pada dinding atau lantai, tulis jenis substrat, jalur utilitas, akses pengiriman, titik anchor, dan kebutuhan bongkar-pasang.
+
+Berikut urutan praktisnya:
+
+1. **Kunci kebutuhan.** Ubah foto referensi dan selera gaya menjadi keputusan tertulis: fungsi, ukuran ruang yang sudah disurvei, material yang disepakati, warna atau finish, serta interface dengan lantai, dinding, plafon, listrik, atau peralatan lain.
+2. **Terbitkan shop drawing ber-revisi.** Beri nomor versi dan tanggal. Tandai dimensi kritis, arah bukaan, celah, sambungan, hardware, urutan perakitan, dan area yang memerlukan keputusan pihak lain. Setiap asumsi harus terlihat, bukan disembunyikan di percakapan.
+3. **Pilih kebutuhan mockup.** Buat mockup saat ukuran tubuh, jangkauan, garis pandang, bukaan, pertemuan pola, atau interface belum dapat dipastikan. Tetapkan bagian yang diuji dan kriteria observasinya; mockup yang hanya dipotret tanpa keputusan tidak menutup gate.
+4. **Review lintas pihak.** Pengguna atau pemilik memeriksa fungsi dan tampilan; perancang memeriksa koordinasi; pelaksana memeriksa keterbuatan; pihak teknis memeriksa beban, anchoring, dan keselamatan sesuai lingkupnya. Catat komentar sebagai daftar tindakan.
+5. **Terbitkan keputusan.** Status sebaiknya jelas: disetujui untuk produksi, disetujui dengan syarat, perlu revisi, atau ditahan. Produksi mengikuti satu versi terkendali; perubahan setelah itu menjadi revisi baru.
+
+Sobat Furnitur.co.id, minta persetujuan berbasis paket, bukan satu halaman terpisah. Paket minimal berisi brief, gambar, detail material dan hardware, foto atau catatan mockup, daftar interface, matriks komentar, serta lembar keputusan.
 
 ## Faktor yang mengubah hasil
 
-- **Purpose:** Kelompokkan kondisi proyek, penggunaan, lingkungan, pelaksanaan, dan bukti yang relevan.
-- **Tie back to this article:** Keep the explanation specific to “Shop Drawing, Mockup, dan Persetujuan sebelum Produksi”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+**Penggunaan dan pengguna.** Kursi untuk duduk singkat berbeda tuntutannya dari kursi yang dipakai lama atau dengan perpindahan posisi. Meja makan, meja kerja, dan meja layanan memiliki aktivitas serta ruang gerak berbeda. Jangan menulis “ergonomis” tanpa populasi pengguna, tugas, trial, dan review ergonomi; [NEEDS G-18: bukti pengguna dan tinjauan ergonomi/profesional belum tersedia].
+
+**Konfigurasi dan gerak.** Laci terbuka, pintu mengayun, daun meja memanjang, sandaran direbahkan, atau roda dipindahkan dapat mengubah stabilitas. Posisi beban, lantai yang tidak rata, kerusakan, komponen hilang, dan perilaku pengguna juga berpengaruh. [ISO 7170](https://www.iso.org/standard/76864.html) membantu mengidentifikasi mengapa konfigurasi dan pembebanan harus dinyatakan, tetapi tidak menetapkan universal safe load untuk furnitur ini.
+
+**Interface dan pemasangan.** Detail bambu tidak berdiri sendiri. Ketebalan panel, jenis sekrup, edge distance, alignment, travel, stop, lock, dan substrat dinding harus cocok dengan hardware yang dipilih. Informasi produk dan metode pemasangan aktual perlu dikonfirmasi bersama survei lokasi dan rencana kerja aman; [NEEDS G-20: instruksi hardware, survei substrat, metode terpasang, dan handover belum tersedia].
+
+**Material dan lingkungan.** Culm, strip, sliver, mat, panel laminasi, produk rekayasa, dan furnitur jadi adalah objek bukti yang berbeda ([ISO 21625](https://www.iso.org/standard/71279.html)). Nama “bambu” saja tidak menjelaskan konstruksi, perekat, finish, riwayat penyimpanan, atau kesesuaian dengan ruang. Catat penggunaan indoor, paparan lembap, bahan pembersih, tumpahan, serta kebijakan fasilitas. Untuk stok furnitur laminasi, ruang lingkup dan konstruksi produk harus cocok; rekaman [ISO 6128](https://www.iso.org/standard/82086.html) tidak membuktikan produk tertentu patuh atau cocok untuk penggunaan luar ruang.
+
+Jika brief menyentuh elemen tirai bambu sebagai interface atau bagian ruang, gunakan kategori [tirai polos](/tirai-polos) dan [daftar produk](/produk) sebagai titik koordinasi kebutuhan—bukan sebagai bukti performa atau pengganti gambar kerja.
 
 ## Contoh keputusan praktis
 
-- **Purpose:** Berikan skenario bersyarat atau tabel keputusan; tandai asumsi dan jangan mengarang pengalaman.
-- **Tie back to this article:** Keep the explanation specific to “Shop Drawing, Mockup, dan Persetujuan sebelum Produksi”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Gunakan tabel berikut sebagai percakapan approval, bukan pengganti desain profesional.
+
+| Situasi | Bukti sebelum produksi | Keputusan yang masuk akal |
+|---|---|---|
+| Ukuran ruang dan fungsi sudah pasti, detail sambungan terbaca | Shop drawing berversi, survei ukuran, daftar interface, material/hardware teridentifikasi | Dapat ditinjau untuk persetujuan desain; verifikasi teknis tetap berlaku |
+| Pengguna ragu pada tinggi, jangkauan, atau bukaan | Mockup bagian kritis dan catatan observasi pengguna | Tahan produksi sampai hasil mockup diterima atau gambar direvisi |
+| Panel bambu tersedia, tetapi konstruksi dan finish belum terdokumentasi | Datasheet pemasok, sampel yang diberi identitas, riwayat penyimpanan | Jangan mengunci spesifikasi; minta bukti material dan revisi brief |
+| Lemari built-in bertemu dinding dengan utilitas yang belum dipetakan | Survei substrat dan utilitas, detail anchor, urutan instalasi | Tahan persetujuan pemasangan; koordinasikan pihak terkait |
+| Pemilik menyetujui tampilan, tetapi catatan beban dan penggunaan belum dijawab | Daftar komentar terbuka dan penanggung jawabnya | Status “disetujui dengan syarat” atau “ditahan”, bukan produksi penuh |
+
+Kawan Furnitur.co.id, perhatikan frasa “setuju secara prinsip”. Itu dapat berarti arah desain diterima, tetapi belum tentu detail produksi, warna akhir, interface, atau keselamatan pemasangan sudah lolos. Minta kalimat keputusan yang menyebut batas persetujuan.
 
 ## Kesalahan umum dan cara memeriksanya
 
-- **Purpose:** Bongkar shortcut umum lalu ubah menjadi pertanyaan/checklist verifikasi.
-- **Tie back to this article:** Keep the explanation specific to “Shop Drawing, Mockup, dan Persetujuan sebelum Produksi”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Kesalahan pertama adalah menganggap gambar 3D sebagai gambar kerja. Periksa apakah setiap ukuran kritis, potongan, sambungan, hardware, dan urutan pasang dapat dibaca tanpa menebak. Kedua, memakai mockup sebagai alat pamer. Tanyakan: keputusan apa yang diuji, siapa yang mengamati, dan perubahan apa yang dicatat?
 
-## Objection or shortcut to address
+Ketiga, menyetujui file tanpa identitas versi. Pastikan nama file, nomor revisi, tanggal, status, dan daftar perubahan konsisten pada gambar, sampel, dan lembar komentar. Keempat, menganggap bahan tersedia berarti spesifikasinya selesai. Cocokkan identitas produk, konstruksi, perekat, finish, kondisi simpan, dan penggunaan yang dimaksud.
 
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
+Kelima, mengabaikan interface. Telusuri pintu, laci, kabel, stop kontak, skirting, lantai, dinding, jalur angkut, dan ruang servis. Keenam, menyamakan persetujuan desain dengan bukti lulus uji. Jika ada klaim beban, stabilitas, keselamatan, atau kesesuaian sektor, minta metode, specimen yang setara, laporan, dan review kompeten. [NEEDS G-16/G-17/G-23: bukti tersebut belum menjadi bagian paket artikel ini].
 
-## Required conclusion
+Shortcut yang sering dipilih adalah “langsung buat satu unit, nanti diperbaiki di lokasi”. Cara ini memindahkan keputusan yang seharusnya murah dan terlihat ke tahap material terpotong, pemasangan, dan potensi bongkar ulang. Alternatif yang lebih aman adalah mengunci brief, menguji bagian yang belum pasti melalui mockup, lalu menyetujui satu versi shop drawing dengan daftar pengecualian yang eksplisit.
 
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
+## Kesimpulan: gate yang harus ditutup
 
-## Draft completion checklist
+Shop drawing menerjemahkan kebutuhan menjadi instruksi produksi; mockup menguji keputusan yang tidak cukup jelas di atas kertas; persetujuan mengunci versi dan batas tanggung jawab sebelum material diproses. Ketiganya tidak menggantikan uji mutu, survei lokasi, instruksi hardware, atau review profesional.
 
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Sobat Furnitur.co.id!` and uses friendly `Furnitur.co.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+Langkah berikutnya: kumpulkan brief, survei ukuran dan interface, gambar berversi, identitas material/hardware, catatan mockup bila diperlukan, serta matriks komentar. Minta pihak berwenang menulis status persetujuan dan menyebut pengecualian. Teman Furnitur.co.id, bila salah satu bukti teknis atau kondisi proyek belum tersedia, tandai `[NEEDS REVIEW]` dan tahan produksi sampai gate itu ditutup. Aturan operasionalnya sederhana: tidak ada pemotongan atau pemesanan final hanya berdasarkan gambar yang belum memiliki versi dan keputusan tertulis.

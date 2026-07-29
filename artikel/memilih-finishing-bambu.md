@@ -3,7 +3,8 @@ article_id: BFU-04-01
 title: "Panduan Memilih Finishing Furnitur Bambu"
 slug: "memilih-finishing-bambu"
 description: "Memilih tampilan/proteksi permukaan serta meminta bukti kompatibilitas dan emisi."
-status: outline
+status: draft
+writing_contract_version: "native-id-v2"
 publication_date: "2025-09-21"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -14,14 +15,10 @@ reader_address: "Kawan Furnitur.co.id"
 final_route: "/artikel/memilih-finishing-bambu.html"
 technical_review: required
 sources:
-  - "https://www.iso.org/standard/40123.html"
-  - "https://www.iso.org/standard/40124.html"
   - "https://research.fs.usda.gov/fpl/wood-handbook"
-  - "https://www.iso.org/ics/79.060.01/x/"
   - "https://www.iso.org/standard/84728.html?browse=tc"
   - "https://www.epa.gov/formaldehyde/formaldehyde-emission-standards-composite-wood-products"
   - "https://www.ilo.org/publications/safety-and-health-wood-workshop"
-  - "https://www.iso.org/standard/46556.html"
   - "https://www.iso.org/standard/85716.html"
   - "https://www.iso.org/standard/76931.html"
   - "https://www.iso.org/standard/86789.html"
@@ -29,37 +26,7 @@ sources:
   - "https://www.iso.org/standard/82086.html"
 ---
 
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
-
-# Panduan Memilih Finishing Furnitur Bambu
-
-## Assignment lock
-
-- **Writer task:** Expand this file into one complete article answering: “Panduan Memilih Finishing Furnitur Bambu”
-- **Reader and situation:** Memilih tampilan/proteksi permukaan serta meminta bukti kompatibilitas dan emisi.
-- **Reader outcome:** Memilih tampilan/proteksi permukaan serta meminta bukti kompatibilitas dan emisi.
-- **Primary intent:** Menentukan proteksi/tampilan permukaan
-- **Reader community:** `Furnitur.co.id`
-- **Primary friendly address:** `Kawan Furnitur.co.id`
-- **Natural variants:** `Sobat Furnitur.co.id` and `Teman Furnitur.co.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** Hub finish; perawatan dimiliki BFU-16.
-- **Final public route:** `/artikel/memilih-finishing-bambu.html`
-- **Appointed CMS date:** `2025-09-21` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
-
-## Opening instructions
-
-- Open with the exact short salutation: **“Halo, Kawan Furnitur.co.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Panduan Memilih Finishing Furnitur Bambu**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Kawan Furnitur.co.id`, `Sobat Furnitur.co.id`, or `Teman Furnitur.co.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
-
-
-<!-- BEGIN MANAGED IMAGE PLAN -->
+<!-- BEGIN MANAGED IMAGE PLAN
 ## Image plan
 
 - **Image ID:** `LOCAL-001`
@@ -70,150 +37,80 @@ sources:
 - **Selection basis:** filename/source metadata identifies `furnitur bambu` as relevant content media; no pixels were inspected.
 - **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
 - **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-001]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
+END MANAGED IMAGE PLAN -->
 
-## Evidence packet
+# Panduan Memilih Finishing Furnitur Bambu
 
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
+Halo, Kawan Furnitur.co.id! Finishing yang tepat bukan sekadar memilih warna. Keputusan utamanya adalah mencocokkan tampilan yang diinginkan dengan paparan pemakaian, kondisi permukaan bambu, dan bukti bahwa lapisan tersebut kompatibel dengan substrat serta aman untuk ruang yang dituju. Jika bukti itu belum ada, tahan keputusan pembelian atau aplikasi; jangan mengandalkan label “natural”, “waterproof”, atau “low odor” saja.
 
-### KR-10
+Mulailah dari sampel pada bambu yang sama, dengan persiapan dan jumlah lapisan yang direncanakan. Bandingkan warna, kilap, tekstur, waktu pengeringan, dan perubahan setelah dibersihkan. Untuk furnitur dalam ruang, minta identitas produk finishing, lembar data teknis, lembar data keselamatan (SDS), instruksi curing, serta laporan emisi yang menyebut metode dan spesimen. Metode pengujian tidak otomatis menjadi bukti bahwa furnitur Anda memenuhi batas tertentu; konteks metode dan persyaratan setempat tetap harus ditinjau. [NEEDS REVIEW: persyaratan emisi Indonesia dan kecocokan produk untuk ruang tujuan belum disediakan dalam paket ini.]
 
-- **Original sources:** [ISO 12466-1:2007](https://www.iso.org/standard/40123.html), [ISO 12466-2:2007](https://www.iso.org/standard/40124.html), and [USDA Wood Handbook adhesive chapter index](https://research.fs.usda.gov/fpl/wood-handbook).
-- **Purpose for this article:** Support adhesive-family, cure, exposure, veneer/panel bond, delamination, repair, and procurement articles.
-- **Safe grounded facts:** “Exterior,” “marine,” “waterproof,” or adhesive chemistry alone does not prove the complete panel or joint will suit an application.
-- **Limits:** Obtain SDS, technical data, complete test/standard, production controls, compatibility, service exposure, and qualified review under G-04/G-07/G-09.
+[NEEDS IMAGE REVIEW: LOCAL-001]
 
-### KR-11
-
-- **Original sources:** [ISO 12460 panel-method catalogue](https://www.iso.org/ics/79.060.01/x/), [ISO 12460-2:2024 small-chamber method](https://www.iso.org/standard/84728.html?browse=tc), and [U.S. EPA composite-wood rule overview](https://www.epa.gov/formaldehyde/formaldehyde-emission-standards-composite-wood-products).
-- **Purpose for this article:** Ground emissions, labels, indoor-air, test-report, supplier, and safe-use articles.
-- **Safe grounded facts:** Method, chamber, temperature, humidity, loading, air exchange, conditioning, specimen, result units, correlation, edition, and jurisdiction are essential to interpretation.
-- **Limits:** Never transfer U.S. limits to Indonesia or equate unlike methods. Obtain current Indonesian requirements, exact report, laboratory scope, product identity, and exposure assessment under G-01/G-05.
-
-### KR-20
-
-- **Original sources:** [USDA Wood Handbook](https://research.fs.usda.gov/fpl/wood-handbook) and [ILO wood-workshop guidance](https://www.ilo.org/publications/safety-and-health-wood-workshop).
-- **Purpose for this article:** Support grain-aware machining, joinery, pilot holes, fastening, movement allowance, edge sealing, sanding, samples, and repairability.
-- **Safe grounded facts:** A sample/mockup and manufacturer instructions are needed where appearance, adhesion, compatibility, movement, or repairability matters.
-- **Limits:** Do not provide machine bypass, cutting parameters, chemical recipes, or structural joint design. Resolve through G-07/G-08/G-13.
-
-### KR-21
-
-- **Original sources:** [ISO 13822:2010 official record](https://www.iso.org/standard/46556.html) and [USDA Wood Handbook](https://research.fs.usda.gov/fpl/wood-handbook).
-- **Purpose for this article:** Ground inspection, maintenance, symptom diagnosis, repair, replacement, post-flood/fire, and reuse decisions.
-- **Safe grounded facts:** Baseline identity, drawings, exposure, measurements, moisture map, defect/activity, extent, concealed risk, temporary controls, cause, consequence, action, reviewer, and follow-up belong in the record.
-- **Limits:** No remaining capacity, safe occupancy, repair, interval, or reuse decision without project evidence and qualified review under G-09/G-10.
-
-### KR-31
-
-- **Original sources:** [ISO 4211-1:2025 — cold liquids](https://www.iso.org/standard/85716.html), [ISO 4211-5:2021 — abrasion](https://www.iso.org/standard/76931.html), [ISO 4211-6:2025 — scratching](https://www.iso.org/standard/86789.html), and [ISO 4211-3:2013 — dry heat](https://www.iso.org/standard/55267.html).
-- **Purpose for this article:** Ground finish selection, sample/test plans, cleaning, defects, refinish, care, QC, and warranty articles.
-- **Safe grounded facts:** Substrate, preparation, finish layers/cure, texture/color/gloss, specimen, chemical/heat/abrasion/scratch exposure, cleaning, ageing, edge/joint details, result scale, and maintenance all matter.
-- **Limits:** No universal “stain-proof,” “scratch-proof,” disinfectant compatibility, service-life, repair, or warranty claim without exact finish/product, current method/report, maintenance/cleaning evidence, and G-07/G-19/G-22.
-
-### KR-35
-
-- **Original sources:** [ISO 6128:2023 official record](https://www.iso.org/standard/82086.html).
-- **Purpose for this article:** Ground laminated furniture stock, construction, requirements/tests, handling, storage, packaging, and marking.
-- **Safe grounded facts:** An ISO 6128 scope match does not prove a specific product complies, and indoor furniture material evidence cannot be transferred to outdoor, structural, food-contact, or electrical use.
-- **Limits:** Obtain the current full standard, product construction/adhesive/finish, intended indoor use, reports, production equivalence, handling/storage history, and acceptance evidence under G-01/G-04/G-07/G-23.
-
-## Evidence gates
-
-- **TOPIC-GATE:** G-01, G-04, G-05, G-07, G-19, G-22, G-23, G-24
-
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
-
-## Internal-link plan
-
-### Existing local routes
-
-- `/tirai-bambu-polos-yogyakarta` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/tirai-bambu-polos-wonosobo.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/tirai-bambu-polos-wonosobo` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/tirai-bambu-polos-wonogiri` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/tirai-bambu-polos-tulungagung.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/tirai-bambu-polos-tulungagung` — use only if it helps the reader's next step; verify the anchor describes the destination.
-
-### Planned sibling articles
-
-These are future routes. Do not link them as live until their HTML exists.
-
-- `BFU-04-02` → `/artikel/jenis-finishing-bambu.html` — Natural, Stain, Painted, atau Clear Finish
-- `BFU-04-03` → `/artikel/bukti-adhesive-produk-bambu.html` — Adhesive pada Produk Bambu: Bukti Apa yang Perlu Diminta?
-
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
+Aset lokal proyek; jangan klaim sebagai dokumentasi proyek tertentu.
 
 ## Hasil akhir dan prasyarat
 
-- **Purpose:** Nyatakan hasil yang ingin dicapai, siapa yang berwenang, data awal, alat/dokumen, dan kondisi yang harus tersedia.
-- **Tie back to this article:** Keep the explanation specific to “Panduan Memilih Finishing Furnitur Bambu”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Hasil yang dicari adalah permukaan bambu dengan penampilan konsisten, perlindungan yang sesuai pemakaian, dan berkas penerimaan yang bisa ditelusuri. Pemilik keputusan biasanya pemesan bersama pelaksana finishing dan, bila ruangnya sensitif atau penggunaannya khusus, peninjau teknis yang berwenang. Data awal minimal meliputi lokasi pemakaian (dalam ruang atau luar ruang), sentuhan dan lalu lintas, kemungkinan terkena cairan atau panas, metode pembersihan, warna/kilap yang diinginkan, serta jenis konstruksi bambu.
 
-## Langkah 1 — tetapkan scope
+Siapkan papan sampel dari material dan persiapan permukaan yang sama. Minta nama dagang dan batch, sistem lapisan (primer, warna, topcoat bila ada), rasio atau cara pencampuran yang dinyatakan pabrikan, interval antarlapis, kondisi curing, serta petunjuk pembersihan. Dokumen itu lebih berguna daripada janji lisan karena menjadi dasar membandingkan hasil dan menyelidiki cacat.
 
-- **Purpose:** Jelaskan objek, batas pekerjaan, antarmuka, risiko, serta hal yang sengaja tidak dikerjakan.
-- **Tie back to this article:** Keep the explanation specific to “Panduan Memilih Finishing Furnitur Bambu”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Untuk panel atau komponen laminasi, cocokkan konstruksi, perekat, dan penggunaan yang dimaksud. Catatan tentang material laminasi tidak boleh dipindahkan begitu saja ke penggunaan luar ruang, struktural, kontak pangan, atau kelistrikan; ruang lingkup dan bukti kesesuaian produk harus cocok. Lihat batas ruang lingkup [ISO 6128:2023](https://www.iso.org/standard/82086.html) sebelum memakai dokumen standar sebagai dasar penerimaan.
+
+## Langkah 1 — tetapkan ruang lingkup
+
+Tulis keputusan sebagai kalimat yang dapat diuji: “lapisan X untuk furnitur bambu Y, dipakai di ruang Z, dengan pembersihan Q, dan tampilan R.” Cantumkan pula antarmuka yang sering terlupakan: ujung potongan, lubang sekrup, sambungan, bagian bawah kaki, dan bidang yang bersentuhan dengan bantalan. Lapisan pada bidang utama tidak otomatis melindungi detail tersebut.
+
+Batas pekerjaan halaman ini adalah pemilihan sistem finishing dan pemeriksaan bukti kompatibilitas serta emisi. Perawatan berkala, interval pengolesan ulang, dan tata cara restorasi adalah keputusan tersendiri; ikuti instruksi produk dan rencana perawatan yang disetujui. Jangan mengubah panduan ini menjadi rancangan sambungan, formula kimia, atau keputusan struktur.
+
+Pilih prioritas sebelum memilih produk. Jika prioritasnya mempertahankan serat dan warna, toleransi terhadap variasi alami harus disepakati. Jika prioritasnya mudah dibersihkan, definisikan jenis cairan dan alat pembersih yang benar-benar akan digunakan. Jika prioritasnya menahan goresan atau panas, minta hasil uji yang menggunakan metode dan sistem lapisan yang sama, bukan klaim umum.
+
+Untuk melihat bagaimana keputusan tampilan diterjemahkan ke produk bambu, bandingkan [kategori tirai polos](/tirai-polos) dan [kategori tirai motif](/tirai-motif). Spesifikasi finishing furnitur tetap harus dibuktikan pada sampel dan dokumen proyek Anda.
 
 ## Langkah 2 — kumpulkan dan cocokkan bukti
 
-- **Purpose:** Susun dokumen, observasi, data, produk, atau standar yang harus cocok dengan kasus.
-- **Tie back to this article:** Keep the explanation specific to “Panduan Memilih Finishing Furnitur Bambu”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Susun berkas dalam empat kelompok. Pertama, identitas: substrat bambu, konstruksi panel atau bilah, produk finishing, batch, dan tanggal aplikasi. Kedua, proses: persiapan, kondisi aplikasi, jumlah lapisan, dan curing sesuai petunjuk pabrikan. Ketiga, kinerja yang relevan: paparan cairan dingin, panas kering, abrasi, goresan, atau pembersihan. Keempat, kesehatan ruang: SDS, deklarasi emisi, metode, kondisi ruang uji, hasil, satuan, dan cakupan laboratorium.
+
+Standar uji furnitur menunjukkan mengapa konteks itu penting. [ISO 4211-1](https://www.iso.org/standard/85716.html) membahas paparan cairan dingin, [ISO 4211-3](https://www.iso.org/standard/55267.html) panas kering, [ISO 4211-5](https://www.iso.org/standard/76931.html) abrasi, dan [ISO 4211-6](https://www.iso.org/standard/86789.html) goresan. Keempatnya bukan label universal “tahan segala”; spesimen, persiapan, sistem lapisan, skala hasil, dan cara pembersihan harus cocok dengan keputusan Anda. Minta laporan lengkap atau nyatakan bahwa data belum cukup.
+
+Untuk emisi, jangan menyamakan angka dari metode berbeda. [ISO 12460-2:2024](https://www.iso.org/standard/84728.html?browse=tc) menjelaskan metode ruang kecil, sedangkan ringkasan aturan [EPA Amerika Serikat](https://www.epa.gov/formaldehyde/formaldehyde-emission-standards-composite-wood-products) berada dalam yurisdiksi dan skema kepatuhan yang berbeda. Periksa metode, temperatur, kelembapan, pembebanan, pertukaran udara, pengondisian, spesimen, satuan, edisi, dan negara yang menetapkan batas. Bila salah satu unsur hilang, tandai laporan sebagai belum memadai untuk keputusan ruang Anda.
+
+Kawan Furnitur.co.id, tanyakan secara tertulis: “Apakah laporan ini untuk produk dan batch yang sama, atau hanya bahan pembanding?” Lalu minta produsen menjelaskan kompatibilitas finishing dengan bambu yang dipakai, termasuk perekat atau lapisan sebelumnya. Panduan [USDA Wood Handbook](https://research.fs.usda.gov/fpl/wood-handbook) mengingatkan bahwa jenis perekat atau klaim tahan air, berdiri sendiri, tidak membuktikan kecocokan panel, sambungan, dan paparan lengkap.
 
 ## Langkah 3 — jalankan urutan kerja
 
-- **Purpose:** Berikan urutan konseptual yang dapat diikuti tanpa berubah menjadi instruksi teknis berbahaya.
-- **Tie back to this article:** Keep the explanation specific to “Panduan Memilih Finishing Furnitur Bambu”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Pertama, dokumentasikan permukaan sebelum aplikasi: jenis komponen, cacat yang terlihat, kondisi tepi dan sambungan, serta foto sampel. Kedua, aplikasikan sistem pada mockup dari bambu yang sama. Jangan menguji hanya pada papan lain lalu menganggap hasilnya identik.
 
-## Hold point dan kondisi berhenti
+Ketiga, biarkan curing sesuai instruksi tertulis. Setelah itu, nilai warna, kilap, tekstur, daya rekat yang tampak, dan keseragaman pada bidang serta tepi. Keempat, lakukan paparan yang benar-benar mewakili pemakaian—misalnya cairan pembersih yang akan dipakai—dengan prosedur yang disetujui, bukan eksperimen kimia improvisasi. Catat waktu, kondisi, perubahan visual, dan kriteria lulus yang telah disepakati.
 
-- **Purpose:** Nyatakan kapan pekerjaan tidak boleh diteruskan tanpa review, tes, atau persetujuan.
-- **Tie back to this article:** Keep the explanation specific to “Panduan Memilih Finishing Furnitur Bambu”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Kelima, tinjau berkas emisi dan kompatibilitas bersama pemasok. Produk yang lolos satu uji tidak otomatis cocok untuk seluruh furnitur; konstruksi, sambungan, tepi, dan lapisan sebelumnya dapat mengubah hasil. Pekerjaan pengamplasan dan aplikasi juga memerlukan pengendalian bahaya dan alat pelindung sesuai instruksi keselamatan; rujuk panduan keselamatan bengkel kayu dari [ILO](https://www.ilo.org/publications/safety-and-health-wood-workshop), bukan menebak dari bau atau kecepatan kering.
 
-## Verifikasi hasil dan handover
+Jika sampel gagal, kembali ke penyebab yang dapat dibuktikan: persiapan, kelembapan, produk, curing, atau paparan. Ubah satu variabel pada satu waktu dan dokumentasikan persetujuan sebelum mengulang. Jangan menutupi cacat dengan lapisan tambahan tanpa memastikan kompatibilitasnya.
 
-- **Purpose:** Buat checklist penerimaan, rekaman, tindak lanjut, dan pemicu koreksi.
-- **Tie back to this article:** Keep the explanation specific to “Panduan Memilih Finishing Furnitur Bambu”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+## Titik henti dan kondisi berhenti
 
-## Objection or shortcut to address
+Hentikan pekerjaan sebelum aplikasi massal bila identitas produk atau batch tidak jelas, instruksi curing bertentangan, sampel mengelupas, warna tidak sesuai toleransi, atau pembersih yang akan digunakan tidak tercakup bukti. Berhenti pula bila pemasok hanya memberikan logo atau klaim “aman” tanpa metode, hasil, dan ruang lingkup yang dapat diperiksa.
 
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
+Untuk furnitur di ruang anak, ruang tidur, fasilitas publik, atau ruang dengan ventilasi terbatas, jangan menafsirkan laporan luar negeri sebagai persetujuan lokal. [NEEDS TECHNICAL REVIEW: minta peninjau berwenang memeriksa persyaratan Indonesia, skenario paparan, dan kecukupan laporan emisi sebelum pekerjaan diteruskan.]
 
-## Required conclusion
+Jika terdapat perekat, panel, atau lapisan lama yang tidak teridentifikasi, perlakukan kompatibilitas sebagai pertanyaan terbuka. Minta sampel, SDS, data teknis, dan uji yang sesuai. Tanpa itu, keputusan paling aman adalah menunda, bukan menebak sistem yang “biasanya cocok”.
 
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
+## Verifikasi hasil dan serah terima
 
-## Draft completion checklist
+Serahkan paket penerimaan yang memuat: identitas furnitur dan material; produk, batch, dan sistem lapisan; foto sebelum-sesudah; lembar instruksi aplikasi dan curing; hasil mockup; metode serta hasil uji yang dipakai; SDS; catatan kondisi ruang; kriteria cacat dan toleransi warna/kilap; serta nama pihak yang menyetujui.
 
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Kawan Furnitur.co.id!` and uses friendly `Furnitur.co.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+Periksa setiap bidang termasuk tepi, bawah, lubang, dan sambungan. Catat cacat sebagai lokasi, gejala, dugaan penyebab, tindakan, penanggung jawab, dan tanggal tindak lanjut. Simpan sampel referensi yang diberi label agar perubahan atau perbaikan dapat dibandingkan dengan kondisi awal. Jangan menulis “tahan gores” atau “bebas emisi” pada serah-terima jika bukti hanya mencakup metode berbeda atau produk pembanding.
+
+Sebelum pengguna menerima furnitur, pastikan pertanyaan pembersihan dan batas pemakaian terjawab oleh dokumen produk. Jika jawaban bergantung pada kondisi proyek yang belum diukur, tulis sebagai syarat terbuka dan minta persetujuan teknis, bukan sebagai garansi.
+
+## Jalan pintas yang sering dipilih
+
+Jalan pintasnya adalah memilih lapisan berdasarkan foto warna atau label “waterproof”, lalu mengaplikasikannya ke seluruh furnitur. Cara ini bisa gagal karena tampilan dipengaruhi substrat, persiapan, tekstur, dan curing; perlindungan terhadap satu paparan tidak membuktikan ketahanan terhadap pembersih, panas, abrasi, atau goresan lain. Bukti standar juga hanya berarti jika metode dan spesimennya sebanding.
+
+Alternatif yang lebih dapat dipertanggungjawabkan: tetapkan kondisi pemakaian, minta dokumen identitas dan keselamatan, buat mockup, uji paparan yang relevan, dan minta peninjauan ketika emisi atau kompatibilitas belum jelas. Sobat Furnitur.co.id, biaya dan waktu sampel adalah cara mengurangi risiko mengulang finishing pada seluruh unit.
+
+## Kesimpulan
+
+Pilih finishing furnitur bambu dengan urutan: tetapkan tampilan dan paparan, cocokkan substrat serta sistem lapisan, buktikan melalui mockup dan uji yang relevan, lalu verifikasi dokumen kompatibilitas dan emisi. Langkah berikutnya adalah meminta pemasok mengirim TDS, SDS, identitas batch, instruksi curing, dan laporan uji lengkap untuk produk yang sama; bawa berkas itu ke peninjau yang memahami persyaratan Indonesia bila ruang atau penggunanya sensitif.
+
+Teman Furnitur.co.id, aturan operasionalnya sederhana: tanpa sampel yang disetujui dan bukti yang cocok dengan metode serta ruang lingkup pemakaian, jangan menganggap finishing sudah aman, serasi, atau tahan lama. Tunda aplikasi massal sampai hold point ditutup secara tertulis.

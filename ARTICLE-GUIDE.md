@@ -5,6 +5,7 @@ Status: repository-local instruction for expanding one prebuilt article outline 
 Public route contract: `/artikel/[slug].html`
 Source route evidence: sitemap XML, 2548 routes discovered during packet generation
 Reader community name: `Furnitur.co.id`
+Lean route evidence checked 2026-07-29: repository homepage and `sitemap-complete.xml` confirm the root/nav/product routes `/`, `/produk`, `/anyaman`, `/bale`, `/besek`, `/bingkai-cermin`, `/gazebo`, `/kursi`, `/lampu-hias`, `/lemari`, `/meja`, `/minibar`, `/pagar`, `/rak`, `/rak-tv`, `/tempat-tidur`, `/tirai-motif`, `/tirai-polos`, `/tentang-kami`, and `/kontak-kami`; prefer these natural parent/product destinations over geography-template URLs, and never invent a route.
 
 ## Exact prompt to give the lower-capability model
 

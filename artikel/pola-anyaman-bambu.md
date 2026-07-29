@@ -1,9 +1,10 @@
 ---
 article_id: BFU-12-02
+writing_contract_version: "native-id-v2"
 title: "Pola Anyaman dan Pengaruhnya pada Tampilan serta Fungsi"
 slug: "pola-anyaman-bambu"
 description: "Memahami pola anyaman, bentuk wadah/panel, kualitas tepi, fungsi, dan bukti kontak penggunaan."
-status: outline
+status: draft
 publication_date: "2026-04-02"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -14,52 +15,20 @@ reader_address: "Sobat Furnitur.co.id"
 final_route: "/artikel/pola-anyaman-bambu.html"
 technical_review: required
 sources:
-  - "https://www.iso.org/standard/40123.html"
-  - "https://www.iso.org/standard/40124.html"
-  - "https://research.fs.usda.gov/fpl/wood-handbook"
-  - "https://www.iso.org/ics/79.060.01/x/"
-  - "https://www.iso.org/standard/84728.html?browse=tc"
-  - "https://www.epa.gov/formaldehyde/formaldehyde-emission-standards-composite-wood-products"
-  - "https://www.ilo.org/publications/safety-and-health-wood-workshop"
-  - "https://www.ilo.org/resource/other/code-practice-safety-and-health-forestry-work"
-  - "https://peraturan.bpk.go.id/Details/161852/pp-no-22-tahun-2021"
-  - "https://www.iso.org/standard/72532.html"
   - "https://www.iso.org/standard/71279.html"
+  - "https://research.fs.usda.gov/fpl/wood-handbook"
+  - "https://www.ilo.org/publications/safety-and-health-wood-workshop"
   - "https://jdih.pom.go.id/preview/slide/1762/11/2026/c92a10324374fac681717d63979d00fe"
   - "https://peraturan.bpk.go.id/Details/129230"
 ---
 
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
-
 # Pola Anyaman dan Pengaruhnya pada Tampilan serta Fungsi
 
-## Assignment lock
+Halo, Sobat Furnitur.co.id! Pola anyaman bukan sekadar hiasan. Arah silang, kerapatan, ukuran bidang, dan cara tepinya dikunci bersama-sama memengaruhi bayangan, rasa visual, aliran udara, serta kenyamanan saat benda disentuh atau dibersihkan. Karena itu, memilih pola hanya dari foto dapat berujung pada wadah yang sulit dipakai atau panel yang tidak cocok dengan rangka.
 
-- **Writer task:** Expand this file into one complete article answering: “Pola Anyaman dan Pengaruhnya pada Tampilan serta Fungsi”
-- **Reader and situation:** Memahami pola anyaman, bentuk wadah/panel, kualitas tepi, fungsi, dan bukti kontak penggunaan.
-- **Reader outcome:** Memahami pola anyaman, bentuk wadah/panel, kualitas tepi, fungsi, dan bukti kontak penggunaan.
-- **Primary intent:** Membandingkan pola woven
-- **Reader community:** `Furnitur.co.id`
-- **Primary friendly address:** `Sobat Furnitur.co.id`
-- **Natural variants:** `Kawan Furnitur.co.id` and `Teman Furnitur.co.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** Fokus visual/function; performa harus diuji per produk.
-- **Final public route:** `/artikel/pola-anyaman-bambu.html`
-- **Appointed CMS date:** `2026-04-02` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
+Jawaban singkatnya: pilih pola berdasarkan fungsi dan bentuk benda lebih dulu, lalu nilai tampilan dari contoh fisik. Pola terbuka biasanya memberi kesan ringan dan ventilasi, sedangkan pola rapat memberi bidang yang lebih tertutup dan visual yang tenang. Namun pola, bahan, perekat, lapisan akhir, dan cara pemasangan adalah objek yang berbeda. Performa akhir harus diuji pada produk yang benar-benar akan digunakan; nama “waterproof”, “food grade”, atau “anyaman kuat” saja tidak cukup menjadi bukti.
 
-## Opening instructions
-
-- Open with the exact short salutation: **“Halo, Sobat Furnitur.co.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Pola Anyaman dan Pengaruhnya pada Tampilan serta Fungsi**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Sobat Furnitur.co.id`, `Kawan Furnitur.co.id`, or `Teman Furnitur.co.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
-
-
-<!-- BEGIN MANAGED IMAGE PLAN -->
+<!-- BEGIN MANAGED IMAGE PLAN
 ## Image plan
 
 - **Image ID:** `LOCAL-021`
@@ -70,158 +39,63 @@ sources:
 - **Selection basis:** filename/source metadata identifies `Anyaman Bambu 7` as relevant content media; no pixels were inspected.
 - **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
 - **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-021]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
+END MANAGED IMAGE PLAN -->
 
-## Evidence packet
-
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
-
-### KR-10
-
-- **Original sources:** [ISO 12466-1:2007](https://www.iso.org/standard/40123.html), [ISO 12466-2:2007](https://www.iso.org/standard/40124.html), and [USDA Wood Handbook adhesive chapter index](https://research.fs.usda.gov/fpl/wood-handbook).
-- **Purpose for this article:** Support adhesive-family, cure, exposure, veneer/panel bond, delamination, repair, and procurement articles.
-- **Safe grounded facts:** “Exterior,” “marine,” “waterproof,” or adhesive chemistry alone does not prove the complete panel or joint will suit an application.
-- **Limits:** Obtain SDS, technical data, complete test/standard, production controls, compatibility, service exposure, and qualified review under G-04/G-07/G-09.
-
-### KR-11
-
-- **Original sources:** [ISO 12460 panel-method catalogue](https://www.iso.org/ics/79.060.01/x/), [ISO 12460-2:2024 small-chamber method](https://www.iso.org/standard/84728.html?browse=tc), and [U.S. EPA composite-wood rule overview](https://www.epa.gov/formaldehyde/formaldehyde-emission-standards-composite-wood-products).
-- **Purpose for this article:** Ground emissions, labels, indoor-air, test-report, supplier, and safe-use articles.
-- **Safe grounded facts:** Method, chamber, temperature, humidity, loading, air exchange, conditioning, specimen, result units, correlation, edition, and jurisdiction are essential to interpretation.
-- **Limits:** Never transfer U.S. limits to Indonesia or equate unlike methods. Obtain current Indonesian requirements, exact report, laboratory scope, product identity, and exposure assessment under G-01/G-05.
-
-### KR-20
-
-- **Original sources:** [USDA Wood Handbook](https://research.fs.usda.gov/fpl/wood-handbook) and [ILO wood-workshop guidance](https://www.ilo.org/publications/safety-and-health-wood-workshop).
-- **Purpose for this article:** Support grain-aware machining, joinery, pilot holes, fastening, movement allowance, edge sealing, sanding, samples, and repairability.
-- **Safe grounded facts:** A sample/mockup and manufacturer instructions are needed where appearance, adhesion, compatibility, movement, or repairability matters.
-- **Limits:** Do not provide machine bypass, cutting parameters, chemical recipes, or structural joint design. Resolve through G-07/G-08/G-13.
-
-### KR-22
-
-- **Original sources:** [ILO Safety and health at the wood workshop](https://www.ilo.org/publications/safety-and-health-wood-workshop) and [ILO 2025 forestry-work code](https://www.ilo.org/resource/other/code-practice-safety-and-health-forestry-work).
-- **Purpose for this article:** Support guarding, energy control, cutting/kickback, dust, noise, ergonomics, chemicals, fire, housekeeping, and emergency planning.
-- **Safe grounded facts:** Task, machine/material, energy, guards, extraction, noise/dust/chemical exposure, maintenance, competence, supervision, exclusion, housekeeping, fire, first aid, incident, and emergency/rescue controls must be site-specific.
-- **Limits:** ILO guidance is not an Indonesian legal compliance certificate. Resolve consolidated Indonesian K3 law, exposure assessment, equipment instructions, risk assessment, and competent review under G-13.
-
-### KR-23
-
-- **Original sources:** [PP 22/2021 official BPK record](https://peraturan.bpk.go.id/Details/161852/pp-no-22-tahun-2021), [USDA Wood Handbook](https://research.fs.usda.gov/fpl/wood-handbook), and [ISO 22095](https://www.iso.org/standard/72532.html).
-- **Purpose for this article:** Ground residues, offcuts, dust, coatings/adhesives, wastewater, packaging, reuse, recycling, carbon, and disposal.
-- **Safe grounded facts:** Waste/material identity, source process, chemicals/treatments, contamination, quantity, storage, transport, receiver, records, proposed use, claim basis, and closure must be known.
-- **Limits:** Obtain current classification, permits/approvals, analysis where needed, authorized transport/receiver, reuse suitability, and legal/environmental review under G-12/G-14.
-
-### KR-32
-
-- **Original sources:** [ISO 21625:2020 official record](https://www.iso.org/standard/71279.html).
-- **Purpose for this article:** Ground material naming, product taxonomy, trade descriptions, comparisons, and specifications.
-- **Safe grounded facts:** A culm, strip, sliver, mat, panel, laminated product, engineered product, and completed furniture or structure are not interchangeable evidence objects.
-- **Limits:** Obtain the full current vocabulary, Indonesian/local names, botanical identity, processing history, product construction, and supplier documentation under G-23.
-
-### KR-39
-
-- **Original sources:** [PerBPOM 11/2026 official JDIH record](https://jdih.pom.go.id/preview/slide/1762/11/2026/c92a10324374fac681717d63979d00fe) and [PP 86/2019 official BPK record, amended by PP 1/2026](https://peraturan.bpk.go.id/Details/129230).
-- **Purpose for this article:** Bound besek, trays, containers, finishes, adhesives, inks, liners, temperature, reuse, and food-contact claims.
-- **Safe grounded facts:** Natural bamboo, traditional use, “food grade,” cleanliness, or appearance does not prove suitability for a particular food, contact time/temperature, finish/adhesive/ink system, reuse, or migration requirement.
-- **Limits:** Obtain current complete rules/annexes, exact material/construction/chemicals, intended food/contact conditions, migration/compliance evidence, manufacturing hygiene, labelling, reuse/cleaning, and BPOM/qualified review under G-26.
-
-## Evidence gates
-
-- **TOPIC-GATE:** G-05, G-07, G-08, G-13, G-14, G-19, G-23, G-24, G-26
-
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
-
-## Internal-link plan
-
-### Existing local routes
-
-- `/anyaman-bambu-yogyakarta` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/anyaman-bambu-wonosobo` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/anyaman-bambu-wonogiri` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/anyaman-bambu-tulungagung` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/anyaman-bambu-tuban.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/anyaman-bambu-tuban` — use only if it helps the reader's next step; verify the anchor describes the destination.
-
-### Planned sibling articles
-
-These are future routes. Do not link them as live until their HTML exists.
-
-- `BFU-12-01` → `/artikel/memilih-anyaman-bambu.html` — Panduan Memilih Produk Anyaman Bambu
-- `BFU-12-03` → `/artikel/besek-bambu-kemasan-display.html` — Besek Bambu untuk Kemasan atau Display
-- `BFU-12-04` → `/artikel/panel-anyaman-bambu.html` — Panel Anyaman untuk Furnitur dan Interior
-
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
-
-## Jawaban singkat dan salah paham utama
-
-- **Purpose:** Jawab pertanyaan judul dalam pembuka dan luruskan miskonsepsi yang paling berbahaya.
-- **Tie back to this article:** Keep the explanation specific to “Pola Anyaman dan Pengaruhnya pada Tampilan serta Fungsi”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+[NEEDS IMAGE REVIEW: LOCAL-021]
 
 ## Definisi dan batas objek
 
-- **Purpose:** Jelaskan apa yang dibahas, apa yang tidak, dan mengapa batas itu mengubah keputusan.
-- **Tie back to this article:** Keep the explanation specific to “Pola Anyaman dan Pengaruhnya pada Tampilan serta Fungsi”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Dalam artikel ini, “pola” berarti susunan bilah, iratan, atau pita bambu yang berulang: misalnya silang sederhana, diagonal, atau susunan yang menghasilkan lubang lebih besar-kecil. “Anyaman” dapat menjadi muka wadah, sisipan pintu, sekat, atau bidang panel. Sebuah kulm bambu, bilah, lembar mat, panel laminasi, dan furnitur jadi bukan objek bukti yang sama; taksonomi material ISO juga menekankan perlunya membedakan bentuk dan produk tersebut ([ISO 21625:2020](https://www.iso.org/standard/71279.html)).
+
+Batas ini penting. Pola yang tampak sama pada foto bisa dibuat dari lebar bilah, kadar kelembapan, inti panel, atau finishing berbeda. Artikel ini membantu membandingkan tampilan, bukaan, kualitas tepi, dan pertanyaan fungsi. Artikel ini tidak menyatakan kapasitas beban, ketahanan cuaca, emisi, keamanan struktural, atau kesesuaian kontak pangan untuk produk tertentu.
 
 ## Cara kerjanya
 
-- **Purpose:** Terangkan mekanisme, urutan, pelaku, material/sistem, dan antarmuka secara sebab-akibat.
-- **Tie back to this article:** Keep the explanation specific to “Pola Anyaman dan Pengaruhnya pada Tampilan serta Fungsi”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Mulailah dari kebutuhan benda. Pada keranjang atau besek, pola menjadi kulit yang menahan isi dan menentukan seberapa mudah isi terlihat. Pada panel dekoratif, pola terutama mengatur ritme garis dan cahaya. Pada pintu atau sekat, bukaan memengaruhi privasi dan sirkulasi udara, tetapi rangka dan titik pengikat tetap menentukan kestabilan.
+
+Secara visual, mata menangkap tiga hal: arah (horizontal, vertikal, diagonal), skala (besar-kecilnya pengulangan), dan kepadatan (ruang kosong dibanding bahan). Silang diagonal cenderung terasa dinamis; susunan tegak atau mendatar memberi ritme lebih teratur. Itu adalah kecenderungan visual, bukan jaminan bahwa satu motif selalu cocok.
+
+Secara fisik, tiap bilah saling mengunci, lalu ujungnya ditahan dengan lipatan, bingkai, jahitan, paku kecil, atau perekat sesuai konstruksi. Perbedaan serat dan gerak bambu dapat membuat sambungan, lapisan, atau tepi memerlukan contoh dan instruksi pembuat. USDA Wood Handbook menempatkan pemilihan sambungan, perekat, dan pengendalian gerak sebagai persoalan sistem, bukan sekadar nama material ([Wood Handbook](https://research.fs.usda.gov/fpl/wood-handbook)). Pekerjaan pemotongan, pengamplasan, dan pemasangan juga perlu pengamanan mesin, pengendalian debu, serta kompetensi yang sesuai; panduan bengkel ILO bukan sertifikat kepatuhan hukum Indonesia ([ILO, Safety and health at the wood workshop](https://www.ilo.org/publications/safety-and-health-wood-workshop)).
 
 ## Faktor yang mengubah hasil
 
-- **Purpose:** Kelompokkan kondisi proyek, penggunaan, lingkungan, pelaksanaan, dan bukti yang relevan.
-- **Tie back to this article:** Keep the explanation specific to “Pola Anyaman dan Pengaruhnya pada Tampilan serta Fungsi”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+**Bentuk dan ukuran bidang.** Pada sudut atau radius, bilah harus mengikuti geometri tanpa dipaksa. Pola dengan pengulangan besar mungkin tampak baik di bidang lebar, tetapi terlihat terpotong pada pintu kecil. Mintalah gambar ukuran sebenarnya atau satu sampel pada rangka yang sama.
+
+**Kerapatan dan arah.** Bukaan besar mengurangi massa visual dan dapat membantu ventilasi, tetapi memungkinkan benda di baliknya lebih terlihat. Kerapatan tinggi menutup pandangan, sekaligus menambah area yang perlu dibersihkan. Jangan menyimpulkan angka ventilasi atau kekuatan dari istilah “rapat” dan “jarang”.
+
+**Tepi dan pertemuan sudut.** Periksa apakah ujung bilah rata, terikat, tidak menyembul, dan tidak menyisakan celah yang menjepit jari atau kain. Pada wadah yang sering diangkat, tepi yang kasar lebih penting daripada motif yang menarik. Pada panel, lihat apakah bingkai menutup ujung anyaman secara konsisten di seluruh sisi.
+
+**Lingkungan penggunaan.** Uap dapur, percikan air, matahari, dan pembersihan berulang dapat mengubah warna maupun sambungan. “Tahan air” pada perekat atau lapisan tidak otomatis membuktikan panel lengkap akan awet pada paparan tertentu. Minta spesifikasi produk, cara perawatan, dan uji pada konstruksi yang sama sebelum menjanjikan hasil.
+
+**Kontak dengan makanan.** Besek atau baki yang menyentuh pangan memerlukan pemeriksaan bahan, lapisan, perekat, kebersihan, kondisi kontak, dan penggunaan ulang. Bambu alami atau label “food grade” tidak membuktikan kesesuaian untuk semua pangan dan suhu. Rujuk ketentuan BPOM yang berlaku serta PP 86/2019 (sebagaimana diperbarui) dan minta bukti kepatuhan yang tepat untuk konstruksi tersebut ([PerBPOM](https://jdih.pom.go.id/preview/slide/1762/11/2026/c92a10324374fac681717d63979d00fe), [PP 86/2019](https://peraturan.bpk.go.id/Details/129230)).
 
 ## Contoh keputusan praktis
 
-- **Purpose:** Berikan skenario bersyarat atau tabel keputusan; tandai asumsi dan jangan mengarang pengalaman.
-- **Tie back to this article:** Keep the explanation specific to “Pola Anyaman dan Pengaruhnya pada Tampilan serta Fungsi”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Gunakan tabel ini sebagai penyaring awal, bukan sebagai sertifikat performa. Untuk melihat konteks produk anyaman, gunakan [kategori anyaman](/anyaman) dan [halaman produk](/produk); keduanya membantu menyusun pertanyaan, bukan bukti bahwa semua produk memiliki spesifikasi sama:
+
+| Kebutuhan | Arah pertimbangan pola | Bukti sebelum memesan |
+| --- | --- | --- |
+| Panel dekoratif bidang lebar | Bandingkan ritme dan skala pengulangan dengan ukuran ruang | Sampel ukuran nyata, warna, dan detail bingkai |
+| Sekat yang tetap memberi cahaya | Cari bukaan yang sesuai tingkat pandangan yang diinginkan | Mockup di rangka; amati dari kedua sisi pada pencahayaan nyata |
+| Wadah untuk barang kering | Prioritaskan tepi halus, dasar stabil, dan celah yang mudah dibersihkan | Contoh isi, pemeriksaan sudut, serta petunjuk perawatan |
+| Wadah yang bersentuhan dengan pangan | Jangan memilih dari motif; pastikan sistem bahan dan higiene | Dokumen bahan/lapisan, kondisi kontak, dan telaah BPOM yang relevan |
+
+Kawan Furnitur.co.id, bila dua sampel tampak sama dari jauh, pegang dan ukur bagian yang akan menerima beban atau sentuhan. Catat pola, lebar bilah, metode tepi, finishing, serta siapa yang bertanggung jawab bila hasil berbeda dari sampel. Perbandingan seperti ini lebih berguna daripada menyalin nama motif.
 
 ## Kesalahan umum dan cara memeriksanya
 
-- **Purpose:** Bongkar shortcut umum lalu ubah menjadi pertanyaan/checklist verifikasi.
-- **Tie back to this article:** Keep the explanation specific to “Pola Anyaman dan Pengaruhnya pada Tampilan serta Fungsi”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Kesalahan pertama adalah menganggap pola menentukan kekuatan. Kekuatan bergantung pada material, sambungan, rangka, arah gaya, dan penggunaan; minta pengujian atau penilaian produk, bukan klaim motif. Kedua, memakai foto katalog sebagai bukti warna dan kerapatan. Cahaya, kompresi gambar, dan skala dapat menipu, sehingga sampel fisik diperlukan.
 
-## Objection or shortcut to address
+Ketiga, mengabaikan sisi belakang dan tepi. Balik sampel, lihat penguncian ujung, bekas potongan, celah, dan konsistensi bingkai. Keempat, menyamakan anyaman dekoratif dengan panel struktural. Jika panel harus menahan beban atau menjadi bagian keselamatan, hentikan keputusan berbasis estetika dan minta review profesional dengan gambar kerja serta data produk.
 
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
+Kelima, menganggap pembersihan akan selalu mudah. Tanyakan alat, cairan, frekuensi, waktu kering, dan apakah lapisan dapat diperbaiki. Jangan menambahkan resep kimia atau prosedur mesin tanpa instruksi pembuat dan penilaian risiko di lokasi.
 
-## Required conclusion
+## Jangan memilih hanya karena pola paling rapat
 
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
+Shortcut yang sering dipilih adalah “ambil pola paling rapat agar pasti lebih kuat dan aman.” Itu bisa gagal: pola rapat mungkin tidak menyelesaikan masalah rangka, tepi, perekat, kelembapan, atau kontak pangan, sementara celah kecil justru menyulitkan inspeksi dan pembersihan. Alternatif yang lebih dapat dipertanggungjawabkan adalah menetapkan fungsi, membuat mockup, memeriksa tepi dan sambungan, lalu mengumpulkan dokumen produk yang sesuai. Jika bukti utama belum ada, tandai keputusan sebagai sementara—bukan sebagai jaminan.
 
-## Draft completion checklist
+## Langkah setelah memilih pola
 
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Sobat Furnitur.co.id!` and uses friendly `Furnitur.co.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+Pola anyaman memengaruhi tampilan melalui arah, skala, dan kepadatan; pengaruh fungsinya muncul melalui bukaan, tepi, bentuk, serta cara pola terhubung ke rangka. Pilih pola setelah kebutuhan benda jelas, dan nilai produk jadi—bukan motif yang berdiri sendiri.
+
+Langkah berikutnya: tulis fungsi dan kondisi penggunaan, minta sampel pada ukuran/rangka sebenarnya, foto atau ukur detail tepi, lalu minta spesifikasi finishing, perekat, perawatan, dan bukti kontak bila relevan. Teman Furnitur.co.id, bila keputusan menyentuh beban, paparan berat, K3, atau pangan, serahkan data itu untuk telaah teknis/berwenang. Aturan kerjanya sederhana: tanpa bukti pada produk dan kondisi yang sama, nyatakan hasil sebagai belum terverifikasi.

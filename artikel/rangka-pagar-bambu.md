@@ -1,9 +1,10 @@
 ---
 article_id: BFU-11-05
+writing_contract_version: "native-id-v2"
 title: "Pagar Bambu dengan Rangka Kayu atau Logam"
 slug: "rangka-pagar-bambu"
 description: "Memilih pagar, screen, panel, dan detail exposure luar ruang berdasarkan fungsi dan maintenance."
-status: outline
+status: draft
 publication_date: "2026-03-24"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -16,7 +17,6 @@ technical_review: required
 sources:
   - "https://www.iso.org/standard/40502.html?browse=ics"
   - "https://research.fs.usda.gov/fpl/wood-handbook"
-  - "https://www.iso.org/ics/79.060.10/x/"
   - "https://www.ilo.org/publications/safety-and-health-wood-workshop"
   - "https://www.iso.org/standard/46556.html"
   - "https://www.iso.org/standard/71279.html"
@@ -26,209 +26,83 @@ sources:
   - "https://www.iso.org/standard/83076.html"
   - "https://www.iso.org/standard/82086.html"
   - "https://www.iso.org/standard/79460.html"
-  - "https://www.iso.org/standard/79459.html"
 ---
-
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
 
 # Pagar Bambu dengan Rangka Kayu atau Logam
 
-## Assignment lock
+Halo, Kawan Furnitur.co.id! Memilih rangka kayu atau logam untuk pagar bambu bukan lomba mencari bahan yang paling kuat. Pilihannya mengikuti fungsi pagar, paparan air, cara bambu dipasang, serta kemampuan Anda memeriksa dan merawat sambungannya. Rangka logam dapat memudahkan pembentukan garis yang konsisten, sedangkan kayu dapat menyederhanakan pengeboran dan penyesuaian di lapangan. Keduanya tetap bisa gagal bila air terjebak, pengikat tidak cocok, atau bambu yang dipakai tidak teridentifikasi dengan baik.
 
-- **Writer task:** Expand this file into one complete article answering: “Pagar Bambu dengan Rangka Kayu atau Logam”
-- **Reader and situation:** Memilih pagar, screen, panel, dan detail exposure luar ruang berdasarkan fungsi dan maintenance.
-- **Reader outcome:** Memilih pagar, screen, panel, dan detail exposure luar ruang berdasarkan fungsi dan maintenance.
-- **Primary intent:** Memilih support material
-- **Reader community:** `Furnitur.co.id`
-- **Primary friendly address:** `Kawan Furnitur.co.id`
-- **Natural variants:** `Sobat Furnitur.co.id` and `Teman Furnitur.co.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** Fokus interface; compatibility/load perlu qualified review.
-- **Final public route:** `/artikel/rangka-pagar-bambu.html`
-- **Appointed CMS date:** `2026-03-24` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
+Jawaban singkatnya: gunakan kayu ketika interface (bidang temu) mudah disekrup, disetel, dan diperbaiki dengan material yang kompatibel; pertimbangkan logam ketika Anda memerlukan geometri yang stabil dan detail sambungan yang dapat didokumentasikan. Itu bukan persetujuan struktur. Beban angin, tinggi panel, fondasi, korosi, dan kapasitas sambungan harus diperiksa untuk proyek tertentu. **[NEEDS REVIEW: verifikasi kompatibilitas, beban, dan penerimaan proyek oleh peninjau yang kompeten sebelum pemasangan.]**
 
-## Opening instructions
+![Ilustrasi Pagar Bambu 4](/wp-content/uploads/2022/04/Pagar-Bambu-4.jpg)
 
-- Open with the exact short salutation: **“Halo, Kawan Furnitur.co.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Pagar Bambu dengan Rangka Kayu atau Logam**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Kawan Furnitur.co.id`, `Sobat Furnitur.co.id`, or `Teman Furnitur.co.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
-
-
-<!-- BEGIN MANAGED IMAGE PLAN -->
-## Image plan
-
-- **Image ID:** `LOCAL-026`
-- **Source type:** `local`
-- **Placement:** after the opening has answered the main question, before the first detailed H2
-- **Exact Markdown to insert:** `![Ilustrasi Pagar Bambu 4](/wp-content/uploads/2022/04/Pagar-Bambu-4.jpg)`
-- **Caption/credit:** Aset lokal proyek; jangan klaim sebagai dokumentasi proyek tertentu.
-- **Selection basis:** filename/source metadata identifies `Pagar Bambu 4` as relevant content media; no pixels were inspected.
-- **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
-- **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-026]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
-
-## Evidence packet
-
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
-
-### KR-16
-
-- **Original sources:** [ISO 21887](https://www.iso.org/standard/40502.html?browse=ics), [USDA Wood Handbook](https://research.fs.usda.gov/fpl/wood-handbook), and [ISO plywood catalogue](https://www.iso.org/ics/79.060.10/x/).
-- **Purpose for this article:** Build specification and selection workflows without ranking vague trade labels.
-- **Safe grounded facts:** Selection should state requirement, evidence, acceptance method, responsible reviewer, deviation control, and maintenance assumptions.
-- **Limits:** Exact suitability remains product-, project-, site-, and professional-dependent under G-03/G-04/G-06.
-
-### KR-20
-
-- **Original sources:** [USDA Wood Handbook](https://research.fs.usda.gov/fpl/wood-handbook) and [ILO wood-workshop guidance](https://www.ilo.org/publications/safety-and-health-wood-workshop).
-- **Purpose for this article:** Support grain-aware machining, joinery, pilot holes, fastening, movement allowance, edge sealing, sanding, samples, and repairability.
-- **Safe grounded facts:** A sample/mockup and manufacturer instructions are needed where appearance, adhesion, compatibility, movement, or repairability matters.
-- **Limits:** Do not provide machine bypass, cutting parameters, chemical recipes, or structural joint design. Resolve through G-07/G-08/G-13.
-
-### KR-21
-
-- **Original sources:** [ISO 13822:2010 official record](https://www.iso.org/standard/46556.html) and [USDA Wood Handbook](https://research.fs.usda.gov/fpl/wood-handbook).
-- **Purpose for this article:** Ground inspection, maintenance, symptom diagnosis, repair, replacement, post-flood/fire, and reuse decisions.
-- **Safe grounded facts:** Baseline identity, drawings, exposure, measurements, moisture map, defect/activity, extent, concealed risk, temporary controls, cause, consequence, action, reviewer, and follow-up belong in the record.
-- **Limits:** No remaining capacity, safe occupancy, repair, interval, or reuse decision without project evidence and qualified review under G-09/G-10.
-
-### KR-32
-
-- **Original sources:** [ISO 21625:2020 official record](https://www.iso.org/standard/71279.html).
-- **Purpose for this article:** Ground material naming, product taxonomy, trade descriptions, comparisons, and specifications.
-- **Safe grounded facts:** A culm, strip, sliver, mat, panel, laminated product, engineered product, and completed furniture or structure are not interchangeable evidence objects.
-- **Limits:** Obtain the full current vocabulary, Indonesian/local names, botanical identity, processing history, product construction, and supplier documentation under G-23.
-
-### KR-33
-
-- **Original sources:** [ISO 22157:2019 official record](https://www.iso.org/cms/%20render/live/en/sites/isoorg/contents/data/standard/06/59/65950.html) and [ISO 19624:2018 official record](https://www.iso.org/standard/65528.html?browse=tc).
-- **Purpose for this article:** Ground moisture, density, dimensions, defects, grading, mechanical properties, and lot acceptance.
-- **Safe grounded facts:** Species, age, diameter, colour, seller grade, or one test result does not establish a lot’s characteristic values, furniture strength, joint behavior, or project acceptance.
-- **Limits:** Both records show revision activity in 2026. Obtain current complete editions, representative sampling, identity/maturity/location, seasoned condition, geometry/defects, test reports, grading/acceptance basis, and qualified interpretation under G-01/G-23.
-
-### KR-34
-
-- **Original sources:** [ISO 22156:2021 official record](https://www.iso.org/standard/73831.html?browse=tc).
-- **Purpose for this article:** Ground bamboo load paths, stability, joints, durability, occupied structures, and engineering boundaries.
-- **Safe grounded facts:** A bamboo furniture test, traditional precedent, culm diameter, lashing detail, or “light structure” label does not establish building-scale capacity or Indonesian acceptance.
-- **Limits:** ISO 22156 is under review in 2026 and is not Indonesian law. Obtain current full text, Indonesian load/design basis, exact system, material properties, connections, site/exposure, calculations, drawings, and engineer acceptance under G-01/G-23/G-25.
-
-### KR-36
-
-- **Original sources:** [ISO 7567:2024 official record](https://www.iso.org/standard/83076.html) and [ISO 6128:2023](https://www.iso.org/standard/82086.html).
-- **Purpose for this article:** Bound engineered bamboo, glulam, panel, furniture-stock, and structural-product claims.
-- **Safe grounded facts:** Similar appearance or the word “laminated” does not establish common scope, bond/exposure class, structural role, test evidence, or substitution acceptability.
-- **Limits:** Obtain exact product family, construction, adhesive, intended use/exposure, full standard, test reports, production control, design/acceptance basis, and change control under G-01/G-04/G-07/G-23/G-25.
-
-### KR-37
-
-- **Original sources:** [ISO 21629-2:2022 official record](https://www.iso.org/standard/79460.html) and [ISO 21629-1:2021 indoor counterpart](https://www.iso.org/standard/79459.html).
-- **Purpose for this article:** Ground exterior exposure, laminated/scrimber products, handling, drainage, maintenance, and indoor/outdoor boundaries.
-- **Safe grounded facts:** Outdoor flooring evidence does not prove a fence, gazebo, furniture item, coating, or other bamboo product, but it refutes generic indoor-to-outdoor transfer.
-- **Limits:** Obtain exact exterior product/assembly, intended exposure, drainage/ground/fastener/finish interfaces, current product data/tests/instructions, installation, maintenance, and warranty under G-03/G-06/G-07/G-22/G-25.
-
-## Evidence gates
-
-- **TOPIC-GATE:** G-01, G-03, G-04, G-06, G-07, G-09, G-20, G-22, G-23, G-24, G-25
-
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
-
-## Internal-link plan
-
-### Existing local routes
-
-- `/pagar-bambu-yogyakarta` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/pagar-bambu-wonosobo` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/pagar-bambu-wonogiri` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/pagar-bambu-tulungagung` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/pagar-bambu-tuban` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/pagar-bambu-trenggalek` — use only if it helps the reader's next step; verify the anchor describes the destination.
-
-### Planned sibling articles
-
-These are future routes. Do not link them as live until their HTML exists.
-
-- `BFU-11-03` → `/artikel/orientasi-panel-pagar-bambu.html` — Panel Bambu Horizontal, Vertikal, atau Anyaman
-- `BFU-11-04` → `/artikel/detail-bawah-pagar-bambu.html` — Jarak dari Tanah dan Detail Perlindungan Air
-- `BFU-11-06` → `/artikel/inspeksi-pagar-bambu.html` — Checklist Inspeksi Pagar Bambu Terpasang
-
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
-
-## Jawaban singkat dan salah paham utama
-
-- **Purpose:** Jawab pertanyaan judul dalam pembuka dan luruskan miskonsepsi yang paling berbahaya.
-- **Tie back to this article:** Keep the explanation specific to “Pagar Bambu dengan Rangka Kayu atau Logam”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Ilustrasi umum dari aset lokal Furnitur.co.id; bukan dokumentasi proyek tertentu.
 
 ## Definisi dan batas objek
 
-- **Purpose:** Jelaskan apa yang dibahas, apa yang tidak, dan mengapa batas itu mengubah keputusan.
-- **Tie back to this article:** Keep the explanation specific to “Pagar Bambu dengan Rangka Kayu atau Logam”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Yang dibandingkan di sini adalah bambu sebagai layar atau panel, lalu rangka sebagai penahan dan penghubung ke tiang atau fondasi. “Bambu” bukan satu objek tunggal: culm (batang), strip, sliver, mat, panel, dan produk laminasi memiliki konstruksi serta bukti yang berbeda. ISO 21625 menjelaskan pentingnya membedakan kategori material tersebut sebelum spesifikasi dibuat ([ISO 21625](https://www.iso.org/standard/71279.html)). Karena itu, label dagang seperti “bambu laminasi” belum cukup untuk menyimpulkan kecocokan luar ruang.
+
+Artikel ini membahas keputusan interface dan pemeliharaan untuk pagar, screen, atau panel. Ia tidak menetapkan ukuran profil, jarak tiang, detail fondasi, kapasitas beban, durasi lapisan, maupun penerimaan izin. Bukti untuk lantai bambu luar ruang juga tidak otomatis berlaku pada pagar atau furnitur lain; produk dan rakitannya harus ditinjau sesuai paparan dan instruksinya ([ISO 21629-2](https://www.iso.org/standard/79460.html)).
 
 ## Cara kerjanya
 
-- **Purpose:** Terangkan mekanisme, urutan, pelaku, material/sistem, dan antarmuka secara sebab-akibat.
-- **Tie back to this article:** Keep the explanation specific to “Pagar Bambu dengan Rangka Kayu atau Logam”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Mulailah dari lembar kebutuhan: fungsi (pembatas visual, pengarah akses, atau elemen dekoratif), sisi yang terkena hujan, akses untuk inspeksi, dan konsekuensi jika satu panel longgar. Lalu tetapkan objek material: jenis bambu, bentuk penampang, proses pengeringan, dan dokumen pemasok. Metode penamaan dan pengukuran bambu tidak boleh dicampur dengan asumsi mutu lot; data dimensi, kadar air, cacat, dan pengujian perlu dasar sampel yang jelas ([ISO 22157](https://www.iso.org/cms/%20render/live/en/sites/isoorg/contents/data/standard/06/59/65950.html), [ISO 19624](https://www.iso.org/standard/65528.html?browse=tc)).
+
+Pada rangka kayu, sekrup dan lubang pemandu (pilot hole) dapat disesuaikan dengan arah serat. Kayu dan bambu sama-sama dapat berubah akibat kelembapan, sehingga sisakan ruang gerak, lindungi ujung potongan, dan pastikan air dapat keluar. Panduan Wood Handbook USDA membahas gerak kayu, pemesinan, dan sambungan; panduan ILO menekankan pengendalian bahaya saat pekerjaan bengkel ([USDA Wood Handbook](https://research.fs.usda.gov/fpl/wood-handbook), [ILO wood-workshop guidance](https://www.ilo.org/publications/safety-and-health-wood-workshop)). Gunakan sampel atau mockup ketika tampilan, daya rekat, atau kemudahan perbaikan penting.
+
+Pada rangka logam, perhatian berpindah ke titik kontak, lubang yang mengumpulkan air, tepi tajam, dan pasangan logam yang berpotensi menimbulkan korosi. Tetapkan apakah bambu dipisahkan dari logam dengan detail yang dapat dikeringkan dan diganti. Jangan menyimpulkan umur lapisan atau ketahanan korosi hanya dari nama bahan; minta data produk dan instruksi pemeliharaan yang berlaku.
+
+Urutan pemeriksaan yang dapat dipakai: (1) cocokkan fungsi dan paparan; (2) cocokkan bambu dan rangka pada mockup; (3) periksa jalur air dan akses pengikat; (4) catat penerimaan, penyimpangan, dan pihak yang menyetujui; (5) buat jadwal inspeksi. ISO 21887 membantu membingkai pemilihan perlindungan kayu berdasarkan penggunaan dan paparan, bukan berdasarkan label umum ([ISO 21887](https://www.iso.org/standard/40502.html?browse=ics)).
 
 ## Faktor yang mengubah hasil
 
-- **Purpose:** Kelompokkan kondisi proyek, penggunaan, lingkungan, pelaksanaan, dan bukti yang relevan.
-- **Tie back to this article:** Keep the explanation specific to “Pagar Bambu dengan Rangka Kayu atau Logam”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+**Air dan tanah.** Panel yang dekat tanah memerlukan detail drainase dan pemeriksaan ujung bawah. Rangka kayu yang terus basah dapat mengalami perubahan dimensi dan kerusakan lokal; rangka logam yang memiliki rongga atau sambungan terbuka dapat menyimpan air. Tanyakan: dari mana air masuk, ke mana ia keluar, dan apakah orang dapat melihat titik itu tanpa membongkar panel?
+
+**Gerak dan toleransi.** Bambu, kayu, dan produk rekayasa tidak selalu bergerak dengan cara yang sama. Lubang yang terlalu ketat dapat memaksa elemen; lubang yang terlalu longgar membuat panel bergetar. Produk yang tampak sama karena sama-sama “laminated” belum tentu memiliki konstruksi, perekat, kelas paparan, atau bukti yang sama ([ISO 7567](https://www.iso.org/standard/83076.html), [ISO 6128](https://www.iso.org/standard/82086.html)).
+
+**Beban dan sambungan.** Diameter culm, lash, atau pengalaman tradisional tidak membuktikan kapasitas sistem pagar. ISO 22156 membahas batas rekayasa bambu dan tidak menggantikan basis beban serta penerimaan setempat ([ISO 22156](https://www.iso.org/standard/73831.html?browse=tc)). Untuk panel yang tinggi, berada di area berangin, atau berdekatan dengan jalur orang, minta gambar, perhitungan, dan review yang mencakup fondasi serta koneksi. **[NEEDS REVIEW: data beban lokasi, geometri aktual, dan detail sambungan belum tersedia.]**
+
+**Maintenance.** Pilih rangka yang memungkinkan baut atau sekrup diperiksa, lapisan diperbarui, dan satu bilah diganti tanpa merusak seluruh panel. Catat baseline berupa identitas material, gambar, paparan, peta kelembapan, cacat, penyebab, tindakan, penanggung jawab, dan tindak lanjut. Kerangka inspeksi dan diagnosis seperti ini sejalan dengan ISO 13822, tetapi standar itu tidak memberi interval atau kapasitas otomatis untuk pagar Anda ([ISO 13822](https://www.iso.org/standard/46556.html)).
+
+Teman Furnitur.co.id yang sedang membandingkan kebutuhan dapat melihat [kategori pagar](/pagar) dan [halaman produk](/produk), lalu kembali ke pertanyaan interface dan perawatannya. Halaman tersebut bukan pengganti gambar kerja atau data produk proyek Anda.
 
 ## Contoh keputusan praktis
 
-- **Purpose:** Berikan skenario bersyarat atau tabel keputusan; tandai asumsi dan jangan mengarang pengalaman.
-- **Tie back to this article:** Keep the explanation specific to “Pagar Bambu dengan Rangka Kayu atau Logam”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Gunakan tabel ini sebagai penyaring awal, bukan keputusan desain final.
+
+| Kondisi yang diketahui | Arah pilihan awal | Bukti yang harus diminta |
+|---|---|---|
+| Screen dekoratif, beban rendah, akses servis mudah | Kayu dapat dipertimbangkan | Jenis dan kondisi kayu, detail sekrup, perlindungan ujung, mockup |
+| Garis panel perlu konsisten dan rangka sering dibuka untuk inspeksi | Logam dapat dipertimbangkan | Spesifikasi profil, detail drainase, perlindungan korosi, cara mengganti pengikat |
+| Bambu dekat tanah atau menerima cipratan rutin | Jangan memilih dari material rangka saja | Detail elevasi, pembuangan air, finish, jadwal inspeksi, persetujuan reviewer |
+| Pagar tinggi di lokasi berangin atau menahan akses | Tunda pemilihan final | Data beban, fondasi, koneksi, gambar dan perhitungan profesional |
+
+Sobat Furnitur.co.id, bila dua opsi terlihat setara, bandingkan biaya dan waktu inspeksi sepanjang umur pakai, bukan harga profil hari ini. Pilih yang titik kritisnya dapat dilihat, dicatat, dan diganti. Keputusan berubah jika pemasok tidak dapat menunjukkan identitas produk, instruksi exposure, atau sampel yang konsisten.
 
 ## Kesalahan umum dan cara memeriksanya
 
-- **Purpose:** Bongkar shortcut umum lalu ubah menjadi pertanyaan/checklist verifikasi.
-- **Tie back to this article:** Keep the explanation specific to “Pagar Bambu dengan Rangka Kayu atau Logam”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Kesalahan pertama adalah menganggap rangka logam selalu bebas perawatan. Periksa lubang, las, baut, dan titik kontak setelah hujan; cari genangan, karat, atau celah yang menekan bambu. Kesalahan kedua adalah menganggap kayu selalu “lebih serasi” sehingga sambungan boleh dibuat tanpa ruang gerak. Coba bongkar satu modul pada mockup dan dokumentasikan apakah pengikat dapat dilepas tanpa memecah bambu.
 
-## Objection or shortcut to address
+Kesalahan ketiga adalah memindahkan klaim produk indoor atau lantai outdoor ke pagar. Cocokkan nomor produk, konstruksi, paparan yang dituju, drainase, pemasangan, dan garansi; jika salah satunya tidak cocok, tandai sebagai belum terbukti. Kesalahan keempat adalah mengunci detail sebelum identitas bambu dan lot diterima. Minta catatan kadar air, dimensi, cacat, metode sampling, dan kriteria penerimaan; satu batang atau satu hasil uji tidak mewakili seluruh lot.
 
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
+## Jalan pintas yang perlu diuji
 
-## Required conclusion
+Shortcut yang sering dipilih adalah, “Pakai hollow galvanis saja, lalu bambu ditempel; pasti selesai.” Cara itu bisa gagal karena interface tidak menjawab air yang tertahan, gerak material, akses penggantian, atau beban sambungan. Alternatif yang lebih dapat ditelusuri adalah membuat satu modul contoh lengkap—bambu, rangka, pengikat, penutup ujung, dan jalur drainase—kemudian meminta pemasok serta peninjau proyek menyetujui kriteria penerimaan dan perawatannya secara tertulis.
 
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
+## Kesimpulan dan langkah berikutnya
 
-## Draft completion checklist
+Jadi, rangka kayu atau logam sama-sama mungkin untuk pagar bambu. Kayu unggul sebagai pilihan awal bila penyetelan dan perbaikan sederhana menjadi prioritas; logam layak dipertimbangkan bila geometri dan dokumentasi koneksi lebih penting. Tidak ada pemenang universal tanpa data paparan, material, fondasi, beban, dan maintenance.
 
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Kawan Furnitur.co.id!` and uses friendly `Furnitur.co.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+Langkah berikutnya: tulis lembar kebutuhan, siapkan mockup satu modul, minta data produk dan instruksi pemasangan, lalu minta review kompatibilitas serta beban sebelum produksi massal. **[NEEDS REVIEW: coordinator technical review tetap diperlukan untuk keputusan final dan penerimaan proyek.]** Aturan operasinya sederhana: jangan menyamakan bahan yang tampak serupa dengan sistem yang sudah terbukti.
+
+<!-- BEGIN MANAGED IMAGE PLAN
+## Image plan
+- Image ID: LOCAL-026
+- Source type: local
+- Placement: after the opening has answered the main question, before the first detailed H2
+- **Exact Markdown to insert:** `![Ilustrasi Pagar Bambu 4](/wp-content/uploads/2022/04/Pagar-Bambu-4.jpg)`
+- Caption/credit: Aset lokal proyek; jangan klaim sebagai dokumentasi proyek tertentu.
+- Selection basis: filename/source metadata identifies `Pagar Bambu 4` as relevant content media; no pixels were inspected.
+- Hard boundary: do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
+- Substitution rule: do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-026]` and continue drafting the prose.
+END MANAGED IMAGE PLAN -->

@@ -3,7 +3,8 @@ article_id: BFU-07-04
 title: "Minibar Bambu: Counter, Storage, dan Service Side"
 slug: "desain-minibar-bambu"
 description: "Menentukan top, rangka, penyimpanan, tinggi kerja, interface, dan penggunaan meja/bar."
-status: outline
+status: draft
+writing_contract_version: "native-id-v2"
 publication_date: "2025-12-10"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -14,14 +15,8 @@ reader_address: "Sobat Furnitur.co.id"
 final_route: "/artikel/desain-minibar-bambu.html"
 technical_review: required
 sources:
-  - "https://www.iso.org/standard/73866.html"
   - "https://www.iso.org/standard/76864.html"
   - "https://www.iso.org/standard/73590.html"
-  - "https://www.iso.org/standard/66310.html"
-  - "https://www.iso.org/standard/13773.html"
-  - "https://www.iso.org/standard/13774.html"
-  - "https://www.iso.org/standard/76831.html"
-  - "https://www.iso.org/cms/%20render/live/en/sites/isoorg/contents/data/standard/03/56/35608.html?browse=tc"
   - "https://www.iso.org/standard/85716.html"
   - "https://www.iso.org/standard/76931.html"
   - "https://www.iso.org/standard/86789.html"
@@ -30,37 +25,18 @@ sources:
   - "https://www.iso.org/standard/82086.html"
 ---
 
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
-
 # Minibar Bambu: Counter, Storage, dan Service Side
+Halo, Sobat Furnitur.co.id!
 
-## Assignment lock
+Minibar bambu yang berfungsi baik bukan sekadar meja tinggi berlapis anyaman. Rancangannya perlu memisahkan tiga pekerjaan: **counter** sebagai permukaan kerja dan penyajian, **storage** untuk stok serta alat, dan **service side** sebagai sisi yang dilalui orang saat menyiapkan atau mengambil minuman. Mulailah dari alur kerja dan barang yang benar-benar dipakai; baru sesuaikan top, rangka, tinggi, dan tampilan bambu.
 
-- **Writer task:** Expand this file into one complete article answering: “Minibar Bambu: Counter, Storage, dan Service Side”
-- **Reader and situation:** Menentukan top, rangka, penyimpanan, tinggi kerja, interface, dan penggunaan meja/bar.
-- **Reader outcome:** Menentukan top, rangka, penyimpanan, tinggi kerja, interface, dan penggunaan meja/bar.
-- **Primary intent:** Menyusun fungsi minibar
-- **Reader community:** `Furnitur.co.id`
-- **Primary friendly address:** `Sobat Furnitur.co.id`
-- **Natural variants:** `Kawan Furnitur.co.id` and `Teman Furnitur.co.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** Fokus bar unit; general cabinet dimiliki BFU-08.
-- **Final public route:** `/artikel/desain-minibar-bambu.html`
-- **Appointed CMS date:** `2025-12-10` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
+Jawaban ini dapat berubah setelah ukuran ruang, jenis peralatan, beban, cara pemasangan, dan kondisi lantai diketahui. Standar yang dirujuk di bawah membantu menyusun pertanyaan mutu, tetapi abstrak publiknya tidak membuktikan unit tertentu lulus uji. Untuk keputusan akhir, siapkan gambar kerja, spesifikasi material, instruksi pemasangan, dan tinjauan teknis yang relevan.
 
-## Opening instructions
+![Ilustrasi Minibar Bambu 1](/wp-content/uploads/2022/04/Minibar-Bambu-1.jpg)
 
-- Open with the exact short salutation: **“Halo, Sobat Furnitur.co.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Minibar Bambu: Counter, Storage, dan Service Side**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Sobat Furnitur.co.id`, `Kawan Furnitur.co.id`, or `Teman Furnitur.co.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
+*Ilustrasi umum dari aset lokal Furnitur.co.id; bukan dokumentasi proyek tertentu.*
 
-
-<!-- BEGIN MANAGED IMAGE PLAN -->
+<!-- BEGIN MANAGED IMAGE PLAN
 ## Image plan
 
 - **Image ID:** `LOCAL-013`
@@ -71,152 +47,66 @@ sources:
 - **Selection basis:** filename/source metadata identifies `Minibar Bambu 1` as relevant content media; no pixels were inspected.
 - **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
 - **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-013]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
-
-## Evidence packet
-
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
-
-### KR-25
-
-- **Original sources:** [ISO 7173:2023 — chairs/stools](https://www.iso.org/standard/73866.html), [ISO 7170:2021 — storage units](https://www.iso.org/standard/76864.html), [ISO 19682:2023 — tables/desks](https://www.iso.org/standard/73590.html), and [ISO 19833:2018 — adult beds](https://www.iso.org/standard/66310.html).
-- **Purpose for this article:** Ground product taxonomy, strength/durability/stability, configuration, procurement, QC, diagnosis, and safety articles.
-- **Safe grounded facts:** Product family, intended user/use, complete assembled specimen, configuration, materials, joints/hardware, dimensions, loading/cycles, conditioning, failure/result, edition, and acceptance document determine applicability.
-- **Limits:** Public abstracts do not supply test values or prove a product passes. ISO 7173:2023 is already marked for revision. Resolve current full methods, exact specimen-to-offer equivalence, laboratory scope, results, and Indonesian/project acceptance under G-16.
-
-### KR-26
-
-- **Original sources:** [ISO 7174-1:1988 — upright chairs/stools](https://www.iso.org/standard/13773.html), [ISO 7174-2:1992 — reclining/rocking chairs](https://www.iso.org/standard/13774.html), and [ISO 7170:2021 — storage units](https://www.iso.org/standard/76864.html).
-- **Purpose for this article:** Support stability, anchoring, moving parts, loading, misuse, children, installation, inspection, and urgent-hazard articles.
-- **Safe grounded facts:** Open drawers/doors, extension, load location, adjustable/reclined state, floor level, wall/substrate/anchor, user behavior, damage, missing components, and installation change stability.
-- **Limits:** Do not publish a universal anchor, safe load, test force, or pass claim. Obtain the complete applicable method/requirement, product instructions/report, site/substrate survey, installation design, and competent review under G-17.
-
-### KR-27
-
-- **Original sources:** [ISO 24496:2021 — office-chair dimension methods](https://www.iso.org/standard/76831.html) and [ISO 21015:2007 — office work-chair stability/strength/durability](https://www.iso.org/cms/%20render/live/en/sites/isoorg/contents/data/standard/03/56/35608.html?browse=tc).
-- **Purpose for this article:** Bound anthropometry, dimensions, posture/task fit, adjustability, accessibility, and office-chair claims.
-- **Safe grounded facts:** User population, task, duration, posture changes, adjustability, reach, transfer, circulation, clothing/equipment, trial fit, and maintenance all affect usability.
-- **Limits:** No universal “ergonomic” dimension, accessibility compliance, medical benefit, or fit claim without current Indonesian requirements, user/task evidence, applicable product standard, trial, and ergonomics/accessibility review under G-18.
-
-### KR-31
-
-- **Original sources:** [ISO 4211-1:2025 — cold liquids](https://www.iso.org/standard/85716.html), [ISO 4211-5:2021 — abrasion](https://www.iso.org/standard/76931.html), [ISO 4211-6:2025 — scratching](https://www.iso.org/standard/86789.html), and [ISO 4211-3:2013 — dry heat](https://www.iso.org/standard/55267.html).
-- **Purpose for this article:** Ground finish selection, sample/test plans, cleaning, defects, refinish, care, QC, and warranty articles.
-- **Safe grounded facts:** Substrate, preparation, finish layers/cure, texture/color/gloss, specimen, chemical/heat/abrasion/scratch exposure, cleaning, ageing, edge/joint details, result scale, and maintenance all matter.
-- **Limits:** No universal “stain-proof,” “scratch-proof,” disinfectant compatibility, service-life, repair, or warranty claim without exact finish/product, current method/report, maintenance/cleaning evidence, and G-07/G-19/G-22.
-
-### KR-32
-
-- **Original sources:** [ISO 21625:2020 official record](https://www.iso.org/standard/71279.html).
-- **Purpose for this article:** Ground material naming, product taxonomy, trade descriptions, comparisons, and specifications.
-- **Safe grounded facts:** A culm, strip, sliver, mat, panel, laminated product, engineered product, and completed furniture or structure are not interchangeable evidence objects.
-- **Limits:** Obtain the full current vocabulary, Indonesian/local names, botanical identity, processing history, product construction, and supplier documentation under G-23.
-
-### KR-35
-
-- **Original sources:** [ISO 6128:2023 official record](https://www.iso.org/standard/82086.html).
-- **Purpose for this article:** Ground laminated furniture stock, construction, requirements/tests, handling, storage, packaging, and marking.
-- **Safe grounded facts:** An ISO 6128 scope match does not prove a specific product complies, and indoor furniture material evidence cannot be transferred to outdoor, structural, food-contact, or electrical use.
-- **Limits:** Obtain the current full standard, product construction/adhesive/finish, intended indoor use, reports, production equivalence, handling/storage history, and acceptance evidence under G-01/G-04/G-07/G-23.
-
-## Evidence gates
-
-- **TOPIC-GATE:** G-16, G-17, G-18, G-19, G-22, G-23
-
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
-
-## Internal-link plan
-
-### Existing local routes
-
-- `/minibar-bambu-wonogiri` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/minibar-bambu-tulungagung` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/minibar-bambu-tuban` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/minibar-bambu-trenggalek` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/minibar-bambu-temanggung` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/minibar-bambu-tegal` — use only if it helps the reader's next step; verify the anchor describes the destination.
-
-### Planned sibling articles
-
-These are future routes. Do not link them as live until their HTML exists.
-
-- `BFU-07-02` → `/artikel/jenis-meja-bambu.html` — Meja Makan, Meja Kerja, dan Meja Kopi Bambu
-- `BFU-07-03` → `/artikel/top-meja-bambu.html` — Top Meja Bambu Utuh, Bilah, atau Laminasi
-- `BFU-07-05` → `/artikel/kombinasi-top-meja-bambu.html` — Bambu dengan Top Kaca atau Batu pada Meja
-- `BFU-07-06` → `/artikel/acceptance-meja-minibar-bambu.html` — Checklist Acceptance Meja dan Minibar Bambu
-
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
+END MANAGED IMAGE PLAN -->
 
 ## Jawaban singkat dan salah paham utama
 
-- **Purpose:** Jawab pertanyaan judul dalam pembuka dan luruskan miskonsepsi yang paling berbahaya.
-- **Tie back to this article:** Keep the explanation specific to “Minibar Bambu: Counter, Storage, dan Service Side”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Susun minibar sebagai stasiun kerja satu arah: barang masuk dari service side, diproses di counter, lalu disimpan kembali atau disajikan ke sisi tamu. Top yang cantik tidak menolong bila pintu lemari bertabrakan dengan jalur orang, atau bila stok harus diangkat melewati area basah. Pisahkan area menaruh gelas, area menyiapkan minuman, dan area menunggu hidangan.
+
+Salah paham yang sering muncul adalah menganggap semua bambu setara. Batang (culm), bilah, panel laminasi, dan furnitur jadi merupakan objek bukti yang berbeda. [ISO 21625](https://www.iso.org/standard/71279.html) membedakan istilah serta bentuk produk; karena itu nama “bambu solid” pada penawaran harus diikuti konstruksi, proses, dan dokumen pemasok. Jangan menyimpulkan daya tahan dari nama material saja.
+
+Sobat Furnitur.co.id, tulis tiga angka sebelum memesan: jumlah pengguna bersamaan, peralatan terbesar, dan ruang bebas di depan unit. Ketiganya lebih menentukan fungsi daripada ornamen.
 
 ## Definisi dan batas objek
 
-- **Purpose:** Jelaskan apa yang dibahas, apa yang tidak, dan mengapa batas itu mengubah keputusan.
-- **Tie back to this article:** Keep the explanation specific to “Minibar Bambu: Counter, Storage, dan Service Side”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Artikel ini membahas satu **bar unit**: counter, rangka penopang, penyimpanan terintegrasi, dan service side. Service side berarti sisi kerja yang menghadap operator, bukan klaim tentang dapur komersial atau sistem kabinet umum. Pembahasan tidak menetapkan ukuran universal, kapasitas beban, ketahanan luar ruang, keamanan listrik, atau kepatuhan aksesibilitas.
+
+Top dapat berupa panel bambu, bilah yang dirapatkan, atau lapisan di atas substrat. Rangka dapat terlihat sebagai kaki dan ambang, atau tersembunyi sebagai kerangka panel. Apa pun pilihannya, gambar harus menunjukkan sambungan, tepi, bukaan, dan titik tumpu. Jika storage berdiri sendiri dan hanya ditempelkan ke bar, perlakukan keduanya sebagai dua objek yang perlu diperiksa sambungannya.
 
 ## Cara kerjanya
 
-- **Purpose:** Terangkan mekanisme, urutan, pelaku, material/sistem, dan antarmuka secara sebab-akibat.
-- **Tie back to this article:** Keep the explanation specific to “Minibar Bambu: Counter, Storage, dan Service Side”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Petakan urutan sederhana: terima stok, simpan, ambil, siapkan, sajikan, lalu bersihkan. Tempatkan barang yang sering diambil di antara bahu dan pinggang operator, sementara stok cadangan dapat berada lebih rendah. Sisakan bidang counter yang tidak terpotong untuk menaruh gelas atau nampan. Pintu, laci, dan rak tarik harus punya ruang buka; kondisi terbuka dapat mengubah stabilitas unit, sehingga konfigurasi dan lokasi beban perlu ditinjau terhadap prinsip pengujian unit penyimpanan pada [ISO 7170](https://www.iso.org/standard/76864.html).
+
+Untuk konteks produk, Anda dapat membandingkan [kategori minibar](/minibar) dan [halaman produk](/produk). Keduanya bukan pengganti spesifikasi unit ini; ukuran, material, dan pemasangan tetap harus diverifikasi untuk ruang Anda.
+
+Rangka menerima beban top dan gerakan saat orang bersandar. Sambungan perlu ditentukan sejak awal—sekrup, pasak, bracket, atau kombinasi—beserta akses untuk inspeksi. Untuk ukuran dan konfigurasi meja, [ISO 19682](https://www.iso.org/standard/73590.html) berguna sebagai rujukan cara mengidentifikasi objek dan dimensinya, bukan sebagai angka desain otomatis. Catat ukuran jadi, toleransi, dan perubahan setelah finishing.
+
+Antarmuka (interface) adalah titik temu minibar dengan lantai, dinding, listrik, air, dan pengguna. Tandai jalur kabel, ventilasi alat pendingin, arah bukaan, serta area pembersihan. Jangan menutup akses servis demi tampilan. Bila unit harus ditambatkan, jenis lantai, substrat, dan instruksi produk wajib tersedia; tidak ada jangkar universal yang aman untuk semua kondisi. **[NEEDS G-16/G-17: metode, beban, konfigurasi, dan desain anchoring harus ditinjau sebelum persetujuan.]**
 
 ## Faktor yang mengubah hasil
 
-- **Purpose:** Kelompokkan kondisi proyek, penggunaan, lingkungan, pelaksanaan, dan bukti yang relevan.
-- **Tie back to this article:** Keep the explanation specific to “Minibar Bambu: Counter, Storage, dan Service Side”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Pertama, tugas dan pengguna. Bar untuk kopi cepat berbeda dari unit yang menampung botol, gelas, dan alat pendingin. Durasi berdiri, tinggi pengguna, jangkauan, serta arah lalu lintas memengaruhi tinggi counter dan kedalaman storage. Uji coba dengan peralatan sebenarnya lebih jujur daripada menyalin ukuran katalog.
+
+Kedua, lingkungan. Air dingin, panas kering, tumpahan, gesekan nampan, dan goresan menguji lapisan finishing secara berbeda. [ISO 4211-1](https://www.iso.org/standard/85716.html), [ISO 4211-3](https://www.iso.org/standard/55267.html), [ISO 4211-5](https://www.iso.org/standard/76931.html), dan [ISO 4211-6](https://www.iso.org/standard/86789.html) menunjukkan bahwa jenis paparan, spesimen, cara pembersihan, dan skala hasil harus disebutkan. Jadi, hindari label “anti-noda” atau “anti-gores” tanpa laporan untuk finishing yang sama. **[NEEDS G-19/G-22: kecocokan bahan kimia pembersih, umur layanan, dan garansi perlu bukti produk.]**
+
+Ketiga, konstruksi. Panel laminasi membutuhkan informasi perekat, arah serat, tepi, dan kondisi penyimpanan. [ISO 6128](https://www.iso.org/standard/82086.html) dapat membantu memeriksa kecocokan lingkup stok furnitur laminasi, tetapi kesesuaian lingkup bukan bukti kepatuhan produk tertentu. Bukaan lebar, kaki ramping, atau roda menambah pertanyaan stabilitas yang harus dijawab melalui gambar dan pemeriksaan aktual.
 
 ## Contoh keputusan praktis
 
-- **Purpose:** Berikan skenario bersyarat atau tabel keputusan; tandai asumsi dan jangan mengarang pengalaman.
-- **Tie back to this article:** Keep the explanation specific to “Minibar Bambu: Counter, Storage, dan Service Side”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Gunakan tabel singkat berikut saat menyusun brief. Ini adalah aturan keputusan awal, bukan spesifikasi final.
+
+| Kondisi | Prioritas desain | Bukti yang diminta |
+|---|---|---|
+| Operator menyiapkan minuman, tamu hanya mengambil | Counter lega di sisi kerja; storage dekat tangan | Denah alur dan daftar alat |
+| Botol tinggi dan gelas banyak | Rak dengan tinggi bersih yang terukur; penahan agar tidak bergeser | Daftar ukuran barang dan skema rak |
+| Ruang sempit dengan lalu lintas silang | Bukaan tidak mengganggu jalur; sudut dan tepi aman | Denah bukaan pintu/laci pada posisi terbuka |
+| Ada alat listrik atau pendingin | Ventilasi dan akses servis tidak tertutup | Lembar instalasi alat dan titik listrik |
+| Lantai atau dinding belum pasti | Tunda anchoring dan finalisasi rangka | Survei substrat serta review kompeten |
+
+Kawan Furnitur.co.id, bila dua opsi tampak sama, pilih yang paling mudah diperiksa: sambungan terlihat, komponen dapat diganti, dan rute servis tidak memerlukan pembongkaran seluruh top. Keputusan itu mengurangi risiko perbaikan tanpa mengklaim umur pakai tertentu.
 
 ## Kesalahan umum dan cara memeriksanya
 
-- **Purpose:** Bongkar shortcut umum lalu ubah menjadi pertanyaan/checklist verifikasi.
-- **Tie back to this article:** Keep the explanation specific to “Minibar Bambu: Counter, Storage, dan Service Side”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Kesalahan pertama ialah memilih tinggi dari kebiasaan. Tandai tinggi kerja pada mock-up, letakkan gelas dan alat yang dipakai, lalu minta operator melakukan satu siklus penuh. Catat titik harus membungkuk, menjangkau, atau berputar.
 
-## Objection or shortcut to address
+Kesalahan kedua ialah menjejalkan storage sampai counter kehilangan area bersih. Ukur barang terbesar, ruang jari, dan arah buka. Periksa unit dalam kondisi pintu/laci terbuka dan dengan beban yang direncanakan; [ISO 7170](https://www.iso.org/standard/76864.html) menekankan pentingnya konfigurasi serta lokasi beban dalam penilaian unit penyimpanan, bukan sekadar tampilan tertutup.
 
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
+Kesalahan ketiga ialah menganggap finishing sama dengan perlindungan struktural. Tanyakan substrat, jumlah lapisan, waktu curing, tepi, dan prosedur pembersihan. Minta sampel atau laporan yang benar-benar merujuk produk dan finishing tersebut. **[NEEDS G-23: identitas botani, riwayat proses, dan konstruksi harus ditautkan ke dokumen pemasok sebelum spesifikasi dikunci.]**
 
-## Required conclusion
+Shortcut yang tampak murah adalah memasang unit tanpa survei lantai dan dinding. Ia dapat gagal ketika pintu dibuka, unit digeser, atau beban terkumpul di satu sisi. Alternatif yang lebih aman: bekukan dulu konfigurasi, minta gambar pemasangan dan instruksi produk, lakukan survei substrat, lalu minta review teknis sebelum pengeboran atau produksi massal.
 
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
+## Kesimpulan
 
-## Draft completion checklist
+Minibar bambu yang tepat membagi fungsi dengan jelas: top untuk kerja dan sajian, rangka untuk menopang secara terukur, storage untuk barang sesuai ukuran, dan service side untuk alur operator serta akses perawatan. Tidak ada ukuran, jangkar, finishing, atau kapasitas yang bisa dipastikan hanya dari foto atau nama bambu.
 
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Sobat Furnitur.co.id!` and uses friendly `Furnitur.co.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+Teman Furnitur.co.id, langkah berikutnya adalah membuat denah berskala, daftar peralatan dan beban, detail sambungan, spesifikasi finishing, serta rute listrik/servis. Serahkan paket itu untuk uji coba penggunaan dan review teknis; simpan [NEEDS G-16/G-17/G-19/G-22/G-23] sampai bukti lengkap tersedia. Aturan operasionalnya sederhana: kunci fungsi dan bukti dulu, baru mengunci bentuk akhir minibar.

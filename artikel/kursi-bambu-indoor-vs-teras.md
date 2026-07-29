@@ -3,7 +3,7 @@ article_id: BFU-06-04
 title: "Kursi Bambu Indoor vs Teras"
 slug: "kursi-bambu-indoor-vs-teras"
 description: "Memilih kursi, bangku, lounge, atau set duduk berdasarkan penggunaan dan kenyamanan."
-status: outline
+status: draft
 publication_date: "2025-11-21"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -13,55 +13,94 @@ reader_community: "Furnitur.co.id"
 reader_address: "Sobat Furnitur.co.id"
 final_route: "/artikel/kursi-bambu-indoor-vs-teras.html"
 technical_review: required
+writing_contract_version: "native-id-v2"
 sources:
   - "https://www.iso.org/standard/73866.html"
-  - "https://www.iso.org/standard/76864.html"
-  - "https://www.iso.org/standard/73590.html"
-  - "https://www.iso.org/standard/66310.html"
   - "https://www.iso.org/standard/13773.html"
-  - "https://www.iso.org/standard/13774.html"
   - "https://www.iso.org/standard/76831.html"
-  - "https://www.iso.org/cms/%20render/live/en/sites/isoorg/contents/data/standard/03/56/35608.html?browse=tc"
-  - "https://www.iso.org/standard/15282.html"
-  - "https://www.iso.org/standard/15283.html"
-  - "https://www.iso.org/committee/52448/x/catalogue/p/1/u/0/w/0/d/0"
   - "https://www.iso.org/standard/71279.html"
   - "https://www.iso.org/cms/%20render/live/en/sites/isoorg/contents/data/standard/06/59/65950.html"
-  - "https://www.iso.org/standard/65528.html?browse=tc"
   - "https://www.iso.org/standard/82086.html"
 ---
 
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
-
 # Kursi Bambu Indoor vs Teras
 
-## Assignment lock
+Halo, Sobat Furnitur.co.id! Kursi bambu untuk ruang indoor dan kursi bambu untuk teras tidak otomatis dapat saling menggantikan. Pilihan yang paling masuk akal ditentukan oleh paparan tempat, cara duduk, beban, lalu bukti bahwa konstruksi dan perawatannya memang sesuai. Kursi yang nyaman di ruang tamu bisa menjadi keputusan buruk di teras terbuka; sebaliknya, model yang terasa terlalu kokoh untuk ruang makan belum tentu menyelesaikan persoalan kenyamanan.
 
-- **Writer task:** Expand this file into one complete article answering: “Kursi Bambu Indoor vs Teras”
-- **Reader and situation:** Memilih kursi, bangku, lounge, atau set duduk berdasarkan penggunaan dan kenyamanan.
-- **Reader outcome:** Memilih kursi, bangku, lounge, atau set duduk berdasarkan penggunaan dan kenyamanan.
-- **Primary intent:** Memilih exposure seating
-- **Reader community:** `Furnitur.co.id`
-- **Primary friendly address:** `Sobat Furnitur.co.id`
-- **Natural variants:** `Kawan Furnitur.co.id` and `Teman Furnitur.co.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** Fokus lokasi pakai; finishing outdoor dimiliki BFU-04.
-- **Final public route:** `/artikel/kursi-bambu-indoor-vs-teras.html`
-- **Appointed CMS date:** `2025-11-21` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
+Jawaban singkatnya: pilih kursi indoor bila ruang terlindung dan kondisi lingkungan relatif terkendali. Pilih kursi untuk teras hanya setelah memeriksa apakah teras benar-benar terlindung, bagaimana kursi dipindahkan dan disimpan, serta apakah bahan, sambungan, dan lapisan yang ditawarkan memiliki bukti yang sesuai untuk paparan tersebut. Detail finishing outdoor berada di pembahasan lain, jadi artikel ini membatasi diri pada keputusan lokasi pakai.
 
-## Opening instructions
+![Ilustrasi kursi bambu 6](/wp-content/uploads/2022/04/kursi-bambu-6.jpg)
 
-- Open with the exact short salutation: **“Halo, Sobat Furnitur.co.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Kursi Bambu Indoor vs Teras**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Sobat Furnitur.co.id`, `Kawan Furnitur.co.id`, or `Teman Furnitur.co.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
+*Ilustrasi umum dari aset lokal Furnitur.co.id; bukan dokumentasi proyek tertentu.*
 
+## Masalah keputusan yang sebenarnya
 
-<!-- BEGIN MANAGED IMAGE PLAN -->
+Orang sering membandingkan “kursi bambu indoor” dan “kursi bambu teras” seolah-olah label lokasi adalah spesifikasi produk. Padahal, lokasi hanya titik awal. Indoor dapat berarti ruang makan yang kering, ruang keluarga dengan lalu lintas tinggi, atau area dekat pintu yang sesekali terkena tampias. Teras pun bisa berupa balkon beratap, selasar tertutup, atau ruang terbuka yang menerima hujan dan matahari.
+
+Tanyakan dulu: siapa yang duduk, berapa lama, seberapa sering kursi digeser, dan apa yang terjadi setelah terkena lembap? Untuk kursi, pengujian dan penilaian yang relevan bergantung pada spesimen lengkap, konfigurasi, sambungan, beban, serta kondisi uji; identitas standar saja tidak membuktikan kursi tertentu lulus. Lihat ruang lingkup [ISO 7173:2023 untuk kursi dan bangku](https://www.iso.org/standard/73866.html) sebagai pengingat bahwa objek uji harus cocok dengan barang yang ditawarkan.
+
+Kawan Furnitur.co.id, keputusan juga menyangkut alur kerja. Kursi teras yang harus terus dipindahkan saat hujan mungkin gagal secara operasional meskipun bentuknya menarik. Sebaliknya, membeli model “outdoor” untuk ruang indoor dapat menambah biaya atau mengorbankan proporsi tanpa manfaat yang Anda perlukan.
+
+## Bedakan objek sebelum membandingkan
+
+“Kursi bambu” dapat merujuk pada kursi makan, bangku tanpa sandaran, lounge dengan posisi rebah, atau satu set dengan meja. Setiap konfigurasi memiliki antarmuka dan pola beban berbeda. Kursi yang memiliki sandaran bergerak, mekanisme goyang, bantalan, atau komponen sambungan tambahan bukan objek yang sama dengan bangku tetap.
+
+Bahan juga perlu disebut secara tepat. Culm (batang), strip (bilah), anyaman, panel, dan produk laminasi adalah objek material berbeda; istilah perdagangan tidak boleh dipakai untuk menyamakan bukti. [ISO 21625:2020](https://www.iso.org/standard/71279.html) membantu menempatkan istilah bahan dan produk dalam konteksnya, bukan memberi jaminan kinerja kursi tertentu.
+
+Untuk setiap kandidat, catat setidaknya: tipe kursi, dimensi yang disepakati, bahan tiap bagian, jenis sambungan dan perangkat keras, bantalan atau penutup, serta apakah barang dikirim sudah terakit. Foto katalog tidak menggantikan lembar spesifikasi. Jika ada perubahan material atau konstruksi, perlakukan sebagai objek baru sampai kesetaraannya ditunjukkan.
+
+## Kriteria perbandingan yang relevan
+
+Mulailah dari paparan. Catat atap, arah tampias, sinar langsung, ventilasi, kemungkinan air menggenang, dan tempat penyimpanan. “Teras beratap” bukan kategori tunggal. Buat skenario sederhana: kursi tetap kering; kursi terkena tampias sesekali; atau kursi terbuka dan harus dipindah. Pilihan lokasi harus mengikuti skenario yang paling sering dan paling merugikan, bukan kondisi ideal saat inspeksi.
+
+Berikutnya periksa fungsi. Untuk makan, tinggi dudukan, ruang kaki, dan kemudahan menarik kursi lebih penting daripada kemampuan rebah. Untuk lounge, perubahan postur, sandaran, dan stabilitas saat bangun menjadi perhatian. Pada area publik atau lalu lintas tinggi, sirkulasi dan kemungkinan tersandung perlu ditinjau bersama penanggung jawab tempat. Metode dimensi dan stabilitas kursi kerja di [ISO 24496:2021](https://www.iso.org/standard/76831.html) memberi kerangka bahwa pengguna, tugas, postur, dan penyesuaian memengaruhi kecocokan; itu bukan angka ergonomi universal untuk semua kursi bambu.
+
+Lalu nilai konstruksi dan pemeliharaan. Sambungan yang sering menerima goyangan, kaki yang tidak rata, anyaman yang bisa tersangkut, atau bantalan yang sulit dikeringkan mengubah risiko penggunaan. Uji atau dokumen harus merujuk pada kursi lengkap dan konfigurasi yang akan dipakai. [ISO 7174-1:1988](https://www.iso.org/standard/13773.html) dapat menjadi rujukan identitas untuk isu stabilitas kursi tegak, tetapi abstrak publiknya tidak menetapkan beban aman untuk produk Anda.
+
+Terakhir, bedakan bukti material dari bukti furnitur. Data kadar air, densitas, cacat, atau grading bambu membantu memahami bahan dan lot, namun tidak otomatis membuktikan kekuatan sambungan kursi. Catatan pengambilan sampel dan kondisi bahan perlu cocok dengan barang yang diterima; rujukan pengujian bambu seperti [ISO 22157:2019](https://www.iso.org/cms/%20render/live/en/sites/isoorg/contents/data/standard/06/59/65950.html) tidak boleh dipakai sebagai klaim lulus kursi.
+
+## Kapan masing-masing pilihan masuk akal
+
+Indoor masuk akal ketika area terlindung, jadwal pemakaian rutin, kursi jarang dipindahkan keluar, dan pengelola dapat menjaga kebersihan serta kekeringan. Di ruang makan, Anda dapat memprioritaskan proporsi, kenyamanan duduk, dan kemudahan perbaikan karena variabel lingkungan lebih terkendali. Tetap minta spesifikasi konstruksi dan lakukan pemeriksaan kursi lengkap sebelum diterima.
+
+Pilihan teras masuk akal bila paparan sudah dipetakan dan ada prosedur setelah hujan: siapa memindahkan, di mana menyimpan, dan kapan memeriksa sambungan atau bantalan. Teras beratap dengan penyimpanan dekat biasanya berbeda risikonya dari area terbuka. Jangan menyimpulkan bahwa satu lapisan atau satu jenis bambu membuat semua lokasi aman; kecocokan perlu dibuktikan untuk konfigurasi dan kondisi nyata. [NEEDS G-16/G-17/G-23: verifikasi spesifikasi, instruksi perawatan, kondisi lokasi, dan review kompeten sebelum keputusan teras.]
+
+Jika kebutuhan berubah-ubah, pilih berdasarkan kondisi terburuk yang realistis dan siapkan aturan operasi. Kursi yang boleh dipakai di teras hanya saat kering adalah keputusan berbeda dari kursi yang dibiarkan sepanjang musim hujan. Tuliskan aturan itu di dokumen serah terima agar pengguna berikutnya tidak menebak.
+
+## Kesalahan perbandingan yang sering terjadi
+
+Pertama, menganggap label “outdoor” sebagai bukti kinerja. Label dapat membantu menyaring pilihan, tetapi tidak menggantikan kecocokan material, sambungan, kondisi lokasi, dan instruksi pemeliharaan.
+
+Kedua, menyamakan sampel dengan seluruh lot. Satu kursi yang terasa kokoh tidak membuktikan semua unit memiliki bahan, dimensi, atau sambungan identik. Periksa jumlah sampel, identitas lot, dan kriteria penerimaan yang disepakati.
+
+Ketiga, mengabaikan perubahan konfigurasi. Menambah bantalan, mengganti kaki, memasang roda, atau memakai kursi di permukaan miring dapat mengubah stabilitas. Perubahan itu perlu diperiksa, bukan diasumsikan netral.
+
+Keempat, memindahkan bukti material ke klaim terpasang. Rujukan produk laminasi, misalnya [ISO 6128:2023](https://www.iso.org/standard/82086.html), memiliki ruang lingkup tertentu dan tidak otomatis berlaku untuk penggunaan teras atau produk lain.
+
+## Bukti yang perlu diminta sebelum memilih
+
+Minta paket informasi yang dapat ditelusuri:
+
+- gambar atau lembar spesifikasi kursi lengkap, termasuk dimensi, material, sambungan, bantalan, dan status perakitan;
+- skenario lokasi: atap, tampias, sinar, ventilasi, lantai, serta tempat penyimpanan;
+- instruksi pemakaian, pemindahan, pembersihan, pengeringan, dan pemeriksaan berkala;
+- identitas lot atau produksi, catatan kondisi bahan, serta dokumen pengujian yang benar-benar merujuk pada produk dan konfigurasi yang ditawarkan;
+- sampel penerimaan dan kriteria penolakan untuk kaki goyang, sambungan longgar, kerusakan anyaman, atau komponen hilang;
+- nama pihak yang menyetujui kesesuaian lokasi dan siapa yang menangani perubahan atau perbaikan.
+
+Jika kursi akan dipakai di fasilitas dengan tuntutan keselamatan khusus, mintalah tinjauan profesional dan dasar persyaratan Indonesia yang berlaku. Jangan mengubah abstrak standar menjadi angka beban, jaminan umur, atau klaim kepatuhan tanpa laporan lengkap dan pemeriksaan yang relevan.
+
+## Saat satu model terasa paling praktis
+
+Shortcut yang paling menggoda adalah membeli satu model untuk semua ruang agar pemesanan mudah. Cara ini dapat gagal karena paparan, pola beban, dan prosedur perawatan berbeda. Alternatif yang lebih andal adalah mengelompokkan kebutuhan minimal menjadi indoor terlindung dan teras sesuai skenario paparan, lalu meminta bukti untuk tiap kelompok. Bila kondisi lokasi belum jelas, tunda keputusan teras dan lakukan survei singkat terlebih dahulu.
+
+## Kesimpulan dan langkah berikutnya
+
+Kursi bambu indoor cocok untuk ruang yang terlindung dan dapat dikendalikan; kursi untuk teras hanya masuk akal bila paparan, konstruksi, operasi, dan perawatannya telah dicocokkan. Tidak ada pemenang universal berdasarkan label atau bahan saja.
+
+Langkah berikutnya, ukur kondisi teras dan tulis skenario pemakaian, lalu minta lembar spesifikasi, instruksi perawatan, identitas lot, dan bukti pengujian yang merujuk pada kursi lengkap. Untuk melihat pilihan kursi, gunakan kategori [kursi](/kursi) dan [daftar produk](/produk) sebagai langkah pencarian berikutnya, bukan sebagai bukti bahwa semua produk cocok untuk teras. Sobat Furnitur.co.id, jika dokumen atau kondisi lokasi belum memadai, tandai keputusan sebagai menunggu review—jangan mengisi kekosongan dengan asumsi.
+
+<!-- BEGIN MANAGED IMAGE PLAN
 ## Image plan
 
 - **Image ID:** `LOCAL-008`
@@ -72,159 +111,4 @@ sources:
 - **Selection basis:** filename/source metadata identifies `kursi bambu 6` as relevant content media; no pixels were inspected.
 - **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
 - **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-008]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
-
-## Evidence packet
-
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
-
-### KR-25
-
-- **Original sources:** [ISO 7173:2023 — chairs/stools](https://www.iso.org/standard/73866.html), [ISO 7170:2021 — storage units](https://www.iso.org/standard/76864.html), [ISO 19682:2023 — tables/desks](https://www.iso.org/standard/73590.html), and [ISO 19833:2018 — adult beds](https://www.iso.org/standard/66310.html).
-- **Purpose for this article:** Ground product taxonomy, strength/durability/stability, configuration, procurement, QC, diagnosis, and safety articles.
-- **Safe grounded facts:** Product family, intended user/use, complete assembled specimen, configuration, materials, joints/hardware, dimensions, loading/cycles, conditioning, failure/result, edition, and acceptance document determine applicability.
-- **Limits:** Public abstracts do not supply test values or prove a product passes. ISO 7173:2023 is already marked for revision. Resolve current full methods, exact specimen-to-offer equivalence, laboratory scope, results, and Indonesian/project acceptance under G-16.
-
-### KR-26
-
-- **Original sources:** [ISO 7174-1:1988 — upright chairs/stools](https://www.iso.org/standard/13773.html), [ISO 7174-2:1992 — reclining/rocking chairs](https://www.iso.org/standard/13774.html), and [ISO 7170:2021 — storage units](https://www.iso.org/standard/76864.html).
-- **Purpose for this article:** Support stability, anchoring, moving parts, loading, misuse, children, installation, inspection, and urgent-hazard articles.
-- **Safe grounded facts:** Open drawers/doors, extension, load location, adjustable/reclined state, floor level, wall/substrate/anchor, user behavior, damage, missing components, and installation change stability.
-- **Limits:** Do not publish a universal anchor, safe load, test force, or pass claim. Obtain the complete applicable method/requirement, product instructions/report, site/substrate survey, installation design, and competent review under G-17.
-
-### KR-27
-
-- **Original sources:** [ISO 24496:2021 — office-chair dimension methods](https://www.iso.org/standard/76831.html) and [ISO 21015:2007 — office work-chair stability/strength/durability](https://www.iso.org/cms/%20render/live/en/sites/isoorg/contents/data/standard/03/56/35608.html?browse=tc).
-- **Purpose for this article:** Bound anthropometry, dimensions, posture/task fit, adjustability, accessibility, and office-chair claims.
-- **Safe grounded facts:** User population, task, duration, posture changes, adjustability, reach, transfer, circulation, clothing/equipment, trial fit, and maintenance all affect usability.
-- **Limits:** No universal “ergonomic” dimension, accessibility compliance, medical benefit, or fit claim without current Indonesian requirements, user/task evidence, applicable product standard, trial, and ergonomics/accessibility review under G-18.
-
-### KR-30
-
-- **Original sources:** [ISO 8191-1:1987 — smouldering ignition](https://www.iso.org/standard/15282.html), [ISO 8191-2:1988 — match-flame equivalent](https://www.iso.org/standard/15283.html), and [ISO/TC 136 furniture catalogue](https://www.iso.org/committee/52448/x/catalogue/p/1/u/0/w/0/d/0).
-- **Purpose for this article:** Ground upholstery construction, filling/cover combinations, ignition claims, institutional selection, repair/reupholstery, and fire boundaries.
-- **Safe grounded facts:** Cover, filling, interliner, backing, seams, treatment, conditioning, ignition source, specimen configuration, method, damage criterion, and complete-item design affect applicability.
-- **Limits:** Do not claim fire resistance, legal compliance, safe egress, healthcare/hospitality suitability, or equivalence after material substitution without current Indonesian basis, complete test/report, exact combination, and fire review under G-21.
-
-### KR-32
-
-- **Original sources:** [ISO 21625:2020 official record](https://www.iso.org/standard/71279.html).
-- **Purpose for this article:** Ground material naming, product taxonomy, trade descriptions, comparisons, and specifications.
-- **Safe grounded facts:** A culm, strip, sliver, mat, panel, laminated product, engineered product, and completed furniture or structure are not interchangeable evidence objects.
-- **Limits:** Obtain the full current vocabulary, Indonesian/local names, botanical identity, processing history, product construction, and supplier documentation under G-23.
-
-### KR-33
-
-- **Original sources:** [ISO 22157:2019 official record](https://www.iso.org/cms/%20render/live/en/sites/isoorg/contents/data/standard/06/59/65950.html) and [ISO 19624:2018 official record](https://www.iso.org/standard/65528.html?browse=tc).
-- **Purpose for this article:** Ground moisture, density, dimensions, defects, grading, mechanical properties, and lot acceptance.
-- **Safe grounded facts:** Species, age, diameter, colour, seller grade, or one test result does not establish a lot’s characteristic values, furniture strength, joint behavior, or project acceptance.
-- **Limits:** Both records show revision activity in 2026. Obtain current complete editions, representative sampling, identity/maturity/location, seasoned condition, geometry/defects, test reports, grading/acceptance basis, and qualified interpretation under G-01/G-23.
-
-### KR-35
-
-- **Original sources:** [ISO 6128:2023 official record](https://www.iso.org/standard/82086.html).
-- **Purpose for this article:** Ground laminated furniture stock, construction, requirements/tests, handling, storage, packaging, and marking.
-- **Safe grounded facts:** An ISO 6128 scope match does not prove a specific product complies, and indoor furniture material evidence cannot be transferred to outdoor, structural, food-contact, or electrical use.
-- **Limits:** Obtain the current full standard, product construction/adhesive/finish, intended indoor use, reports, production equivalence, handling/storage history, and acceptance evidence under G-01/G-04/G-07/G-23.
-
-## Evidence gates
-
-- **TOPIC-GATE:** G-16, G-17, G-18, G-21, G-22, G-23
-
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
-
-## Internal-link plan
-
-### Existing local routes
-
-- `/kursi-bambu-yogyakarta` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/kursi-bambu-wonosobo.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/kursi-bambu-wonosobo` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/kursi-bambu-wonogiri.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/kursi-bambu-wonogiri` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/kursi-bambu-tulungagung.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-
-### Planned sibling articles
-
-These are future routes. Do not link them as live until their HTML exists.
-
-- `BFU-06-02` → `/artikel/jenis-kursi-bambu.html` — Kursi Makan, Lounge, dan Bangku Bambu
-- `BFU-06-03` → `/artikel/detail-kursi-bambu.html` — Sandaran, Dudukan, dan Anyaman pada Kursi Bambu
-- `BFU-06-05` → `/artikel/kursi-bambu-goyang-berbunyi.html` — Goyang dan Bunyi pada Kursi Bambu: Apa yang Diperiksa?
-- `BFU-06-06` → `/artikel/acceptance-set-kursi-bambu.html` — Checklist Acceptance Set Kursi Bambu
-
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
-
-## Masalah keputusan yang sebenarnya
-
-- **Purpose:** Jelaskan konteks pemilihan dan mengapa dua opsi ini sering dianggap dapat saling menggantikan.
-- **Tie back to this article:** Keep the explanation specific to “Kursi Bambu Indoor vs Teras”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Bedakan objek sebelum membandingkan
-
-- **Purpose:** Definisikan setiap opsi, fungsi, batas sistem, dan bukti identitasnya.
-- **Tie back to this article:** Keep the explanation specific to “Kursi Bambu Indoor vs Teras”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Kriteria perbandingan yang relevan
-
-- **Purpose:** Susun kriteria berdasarkan penggunaan, kondisi, antarmuka, risiko, pelaksanaan, perawatan, dan bukti.
-- **Tie back to this article:** Keep the explanation specific to “Kursi Bambu Indoor vs Teras”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Kapan masing-masing pilihan masuk akal
-
-- **Purpose:** Berikan skenario bersyarat; jangan menyebut satu pemenang universal.
-- **Tie back to this article:** Keep the explanation specific to “Kursi Bambu Indoor vs Teras”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Kesalahan perbandingan yang sering terjadi
-
-- **Purpose:** Bongkar sedikitnya tiga shortcut atau asumsi yang membuat keputusan keliru.
-- **Tie back to this article:** Keep the explanation specific to “Kursi Bambu Indoor vs Teras”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Bukti yang perlu diminta sebelum memilih
-
-- **Purpose:** Buat checklist dokumen, data proyek, sampel/tes, persetujuan, dan pihak penanggung jawab.
-- **Tie back to this article:** Keep the explanation specific to “Kursi Bambu Indoor vs Teras”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Objection or shortcut to address
-
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
-
-## Required conclusion
-
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
-
-## Draft completion checklist
-
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Sobat Furnitur.co.id!` and uses friendly `Furnitur.co.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+END MANAGED IMAGE PLAN -->

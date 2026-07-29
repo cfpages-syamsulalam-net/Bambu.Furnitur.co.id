@@ -1,9 +1,10 @@
 ---
 article_id: BFU-09-03
+writing_contract_version: "native-id-v2"
 title: "Slat, Support Tengah, dan Ventilasi Kasur"
 slug: "support-kasur-bambu"
 description: "Menentukan ukuran, dukungan kasur, ventilasi, akses, kebisingan, dan kebutuhan kamar."
-status: outline
+status: draft
 publication_date: "2026-01-24"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -14,51 +15,14 @@ reader_address: "Teman Furnitur.co.id"
 final_route: "/artikel/support-kasur-bambu.html"
 technical_review: required
 sources:
-  - "https://www.iso.org/standard/73866.html"
-  - "https://www.iso.org/standard/76864.html"
-  - "https://www.iso.org/standard/73590.html"
   - "https://www.iso.org/standard/66310.html"
-  - "https://www.iso.org/standard/13773.html"
-  - "https://www.iso.org/standard/13774.html"
-  - "https://www.iso.org/standard/76831.html"
-  - "https://www.iso.org/cms/%20render/live/en/sites/isoorg/contents/data/standard/03/56/35608.html?browse=tc"
-  - "https://www.iso.org/committee/52448/x/catalogue/p/1/u/0/w/0/d/0"
-  - "https://www.ilo.org/publications/safety-and-health-wood-workshop"
   - "https://www.iso.org/standard/71279.html"
   - "https://www.iso.org/standard/82086.html"
+  - "https://www.iso.org/committee/52448/x/catalogue/p/1/u/0/w/0/d/0"
+  - "https://www.ilo.org/publications/safety-and-health-wood-workshop"
 ---
 
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
-
-# Slat, Support Tengah, dan Ventilasi Kasur
-
-## Assignment lock
-
-- **Writer task:** Expand this file into one complete article answering: “Slat, Support Tengah, dan Ventilasi Kasur”
-- **Reader and situation:** Menentukan ukuran, dukungan kasur, ventilasi, akses, kebisingan, dan kebutuhan kamar.
-- **Reader outcome:** Menentukan ukuran, dukungan kasur, ventilasi, akses, kebisingan, dan kebutuhan kamar.
-- **Primary intent:** Menilai sistem dukungan kasur
-- **Reader community:** `Furnitur.co.id`
-- **Primary friendly address:** `Teman Furnitur.co.id`
-- **Natural variants:** `Sobat Furnitur.co.id` and `Kawan Furnitur.co.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** Fokus support concept; load evidence dimiliki BFU-03-06.
-- **Final public route:** `/artikel/support-kasur-bambu.html`
-- **Appointed CMS date:** `2026-01-24` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
-
-## Opening instructions
-
-- Open with the exact short salutation: **“Halo, Teman Furnitur.co.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Slat, Support Tengah, dan Ventilasi Kasur**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Teman Furnitur.co.id`, `Sobat Furnitur.co.id`, or `Kawan Furnitur.co.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
-
-
-<!-- BEGIN MANAGED IMAGE PLAN -->
+<!-- BEGIN MANAGED IMAGE PLAN
 ## Image plan
 
 - **Image ID:** `LOCAL-001`
@@ -69,152 +33,76 @@ sources:
 - **Selection basis:** filename/source metadata identifies `furnitur bambu` as relevant content media; no pixels were inspected.
 - **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
 - **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-001]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
+END MANAGED IMAGE PLAN -->
 
-## Evidence packet
+# Slat, Support Tengah, dan Ventilasi Kasur
 
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
+Halo, Teman Furnitur.co.id! Kasur tidak ditopang oleh bilah (slat) saja. Sistem yang masuk akal harus menyatukan slat, balok atau kaki support tengah, rangka keliling, serta ruang udara di bawah kasur. Ukuran bilah yang tampak kokoh belum menjawab apakah beban tersebar merata, bagian tengah tidak melendut, kasur mendapat ventilasi, dan pengguna dapat membersihkan atau memindahkannya.
 
-### KR-25
+Jawaban singkatnya: mulai dari ukuran kasur dan petunjuk produsennya, lalu cocokkan jumlah serta posisi titik tumpu dengan rangka dan lantai kamar. Support tengah diperlukan bila bentang rangka membuat bagian tengah kehilangan tumpuan; ventilasi memerlukan celah dan akses udara yang tidak tertutup rapat. Jangan menetapkan kapasitas atau jarak universal dari nama “bambu”. Kesesuaian konstruksi, sambungan, material, dan pemeriksaan lapangan masih perlu ditinjau—[NEEDS G-16/G-20: metode dan bukti penerimaan sistem belum tersedia].
 
-- **Original sources:** [ISO 7173:2023 — chairs/stools](https://www.iso.org/standard/73866.html), [ISO 7170:2021 — storage units](https://www.iso.org/standard/76864.html), [ISO 19682:2023 — tables/desks](https://www.iso.org/standard/73590.html), and [ISO 19833:2018 — adult beds](https://www.iso.org/standard/66310.html).
-- **Purpose for this article:** Ground product taxonomy, strength/durability/stability, configuration, procurement, QC, diagnosis, and safety articles.
-- **Safe grounded facts:** Product family, intended user/use, complete assembled specimen, configuration, materials, joints/hardware, dimensions, loading/cycles, conditioning, failure/result, edition, and acceptance document determine applicability.
-- **Limits:** Public abstracts do not supply test values or prove a product passes. ISO 7173:2023 is already marked for revision. Resolve current full methods, exact specimen-to-offer equivalence, laboratory scope, results, and Indonesian/project acceptance under G-16.
+![Ilustrasi furnitur bambu](/wp-content/uploads/2022/04/furnitur-bambu.jpg)
 
-### KR-26
-
-- **Original sources:** [ISO 7174-1:1988 — upright chairs/stools](https://www.iso.org/standard/13773.html), [ISO 7174-2:1992 — reclining/rocking chairs](https://www.iso.org/standard/13774.html), and [ISO 7170:2021 — storage units](https://www.iso.org/standard/76864.html).
-- **Purpose for this article:** Support stability, anchoring, moving parts, loading, misuse, children, installation, inspection, and urgent-hazard articles.
-- **Safe grounded facts:** Open drawers/doors, extension, load location, adjustable/reclined state, floor level, wall/substrate/anchor, user behavior, damage, missing components, and installation change stability.
-- **Limits:** Do not publish a universal anchor, safe load, test force, or pass claim. Obtain the complete applicable method/requirement, product instructions/report, site/substrate survey, installation design, and competent review under G-17.
-
-### KR-27
-
-- **Original sources:** [ISO 24496:2021 — office-chair dimension methods](https://www.iso.org/standard/76831.html) and [ISO 21015:2007 — office work-chair stability/strength/durability](https://www.iso.org/cms/%20render/live/en/sites/isoorg/contents/data/standard/03/56/35608.html?browse=tc).
-- **Purpose for this article:** Bound anthropometry, dimensions, posture/task fit, adjustability, accessibility, and office-chair claims.
-- **Safe grounded facts:** User population, task, duration, posture changes, adjustability, reach, transfer, circulation, clothing/equipment, trial fit, and maintenance all affect usability.
-- **Limits:** No universal “ergonomic” dimension, accessibility compliance, medical benefit, or fit claim without current Indonesian requirements, user/task evidence, applicable product standard, trial, and ergonomics/accessibility review under G-18.
-
-### KR-29
-
-- **Original sources:** [ISO/TC 136 current furniture catalogue](https://www.iso.org/committee/52448/x/catalogue/p/1/u/0/w/0/d/0), [ISO 7170:2021](https://www.iso.org/standard/76864.html), and [ILO wood-workshop guidance](https://www.ilo.org/publications/safety-and-health-wood-workshop).
-- **Purpose for this article:** Support joints, hinges/slides/extensions, mechanisms, built-ins, anchoring, delivery, installation, relocation, adjustment, and handover.
-- **Safe grounded facts:** Hardware/product identity, declared load/use, mounting material/thickness, fastener/edge distances, alignment, travel/clearance, stops/locks, wall/floor substrate, services, access, inspection, and instructions form the evidence chain.
-- **Limits:** Obtain exact hardware/furniture instructions and reports, site/substrate survey, approved drawings/method, competent installer, safe-work plan, tests, and handover under G-20.
-
-### KR-32
-
-- **Original sources:** [ISO 21625:2020 official record](https://www.iso.org/standard/71279.html).
-- **Purpose for this article:** Ground material naming, product taxonomy, trade descriptions, comparisons, and specifications.
-- **Safe grounded facts:** A culm, strip, sliver, mat, panel, laminated product, engineered product, and completed furniture or structure are not interchangeable evidence objects.
-- **Limits:** Obtain the full current vocabulary, Indonesian/local names, botanical identity, processing history, product construction, and supplier documentation under G-23.
-
-### KR-35
-
-- **Original sources:** [ISO 6128:2023 official record](https://www.iso.org/standard/82086.html).
-- **Purpose for this article:** Ground laminated furniture stock, construction, requirements/tests, handling, storage, packaging, and marking.
-- **Safe grounded facts:** An ISO 6128 scope match does not prove a specific product complies, and indoor furniture material evidence cannot be transferred to outdoor, structural, food-contact, or electrical use.
-- **Limits:** Obtain the current full standard, product construction/adhesive/finish, intended indoor use, reports, production equivalence, handling/storage history, and acceptance evidence under G-01/G-04/G-07/G-23.
-
-## Evidence gates
-
-- **TOPIC-GATE:** G-16, G-17, G-18, G-20, G-22, G-23
-
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
-
-## Internal-link plan
-
-### Existing local routes
-
-- `/tirai-bambu-polos-yogyakarta` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/tirai-bambu-polos-wonosobo.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/tirai-bambu-polos-wonosobo` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/tirai-bambu-polos-wonogiri` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/tirai-bambu-polos-tulungagung.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/tirai-bambu-polos-tulungagung` — use only if it helps the reader's next step; verify the anchor describes the destination.
-
-### Planned sibling articles
-
-These are future routes. Do not link them as live until their HTML exists.
-
-- `BFU-09-01` → `/artikel/memilih-tempat-tidur-bambu.html` — Panduan Memilih Tempat Tidur Bambu
-- `BFU-09-02` → `/artikel/ukuran-tempat-tidur-bambu.html` — Ukuran Kasur, Clearance, dan Tinggi Tempat Tidur
-- `BFU-09-04` → `/artikel/headboard-bambu.html` — Headboard Bambu: Batang, Panel, atau Anyaman
-- `BFU-09-05` → `/artikel/tempat-tidur-bambu-berbunyi.html` — Bunyi pada Tempat Tidur Bambu: Sambungan atau Permukaan?
-
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
-
-## Jawaban singkat dan salah paham utama
-
-- **Purpose:** Jawab pertanyaan judul dalam pembuka dan luruskan miskonsepsi yang paling berbahaya.
-- **Tie back to this article:** Keep the explanation specific to “Slat, Support Tengah, dan Ventilasi Kasur”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+*Ilustrasi umum dari aset lokal Furnitur.co.id; bukan dokumentasi proyek tertentu.*
 
 ## Definisi dan batas objek
 
-- **Purpose:** Jelaskan apa yang dibahas, apa yang tidak, dan mengapa batas itu mengubah keputusan.
-- **Tie back to this article:** Keep the explanation specific to “Slat, Support Tengah, dan Ventilasi Kasur”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Slat adalah bilah yang membentuk bidang tumpuan kasur. Support tengah adalah rangka memanjang atau melintang, kaki, dan pengikat yang membawa sebagian reaksi dari bidang itu ke lantai. Rangka keliling menjaga geometri dan mencegah kasur bergeser. Ventilasi adalah jalur udara di antara atau di bawah komponen, bukan sekadar lubang dekoratif.
+
+Yang dinilai di sini adalah konsep dukungan kasur: geometri, antarmuka, akses, dan kondisi pemakaian. Ini bukan penetapan ukuran struktural, klaim kasur pasti awet, atau pengganti instruksi kasur dan pemeriksaan profesional. Sebuah batang bambu, strip, panel laminasi, dan furnitur jadi adalah objek bukti yang berbeda; istilah material tidak otomatis memindahkan data dari satu objek ke objek lain. [ISO 21625:2020](https://www.iso.org/standard/71279.html) mencatat pentingnya pembedaan istilah dan bentuk produk bambu.
+
+Untuk pengadaan, minta gambar rakitan yang menunjukkan slat, dudukan, support tengah, kaki, pengikat, dan arah pemasangan. Standar tempat tidur dewasa dapat menjadi rujukan identitas dan ruang lingkup pengujian, tetapi halaman publiknya tidak membuktikan model tertentu lulus atau menetapkan kapasitas untuk kamar Anda. Lihat [ISO 19833:2018](https://www.iso.org/standard/66310.html) sebagai rujukan ruang lingkup, bukan sertifikat otomatis.
+
+Jika kebutuhan kamar juga mencakup elemen peneduh berbahan bambu, pisahkan keputusan itu dari sistem kasur dan gunakan [kategori tirai polos](/tirai-polos) atau [kategori tirai motif](/tirai-motif) untuk mengenali pilihannya. Tautan tersebut bukan bukti performa rangka tempat tidur.
 
 ## Cara kerjanya
 
-- **Purpose:** Terangkan mekanisme, urutan, pelaku, material/sistem, dan antarmuka secara sebab-akibat.
-- **Tie back to this article:** Keep the explanation specific to “Slat, Support Tengah, dan Ventilasi Kasur”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Pertama, ukur panjang, lebar, dan tinggi kasur yang benar-benar akan dipakai. Sisakan toleransi gerak yang ditentukan oleh desain rangka, bukan dengan memaksa kasur masuk. Rangka keliling menerima ujung slat; dudukan harus memiliki kontak yang konsisten agar bilah tidak mudah berputar atau terlepas.
+
+Kedua, distribusikan tumpuan dari tepi ke area tengah. Slat meneruskan tekanan kasur ke rangka keliling dan support tengah. Support tengah lalu meneruskan reaksi melalui kaki atau sambungan ke lantai. Bila kaki berhenti di lantai yang tidak rata, sebagian titik dapat tidak bekerja sampai rangka berubah bentuk. Karena itu, “ada satu balok di tengah” belum cukup sebagai bukti sistem.
+
+Ketiga, pertahankan jalur udara. Celah antar-slat dan ruang di bawah rangka membantu udara bergerak, tetapi celah harus tetap kompatibel dengan konstruksi kasur. Jangan menutup bagian bawah dengan panel rapat, karpet tebal, atau kotak penyimpanan yang menghilangkan ruang tersebut tanpa memeriksa dampaknya pada kelembapan dan akses.
+
+Keempat, rancang gerak dan pemeliharaan. Anda perlu dapat mengangkat kasur, memeriksa pengikat, membersihkan debu, dan menemukan slat yang bergeser. Jika ada laci atau mekanisme angkat, geraknya menambah titik jepit dan perubahan distribusi beban; identitas perangkat keras, stopper, dan instruksi pemasangan harus ada sebelum dipakai. [NEEDS G-20: verifikasi hardware, substrat lantai, dan metode instalasi].
 
 ## Faktor yang mengubah hasil
 
-- **Purpose:** Kelompokkan kondisi proyek, penggunaan, lingkungan, pelaksanaan, dan bukti yang relevan.
-- **Tie back to this article:** Keep the explanation specific to “Slat, Support Tengah, dan Ventilasi Kasur”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Ukuran kasur mengubah bentang dan jumlah tumpuan. Kasur tunggal, queen, dan ukuran khusus tidak boleh memakai gambar detail yang sama tanpa pemeriksaan ulang. Jenis kasur juga penting: beberapa produk memerlukan dukungan kontinu atau aturan celah tertentu dari produsennya. Jadikan lembar instruksi kasur sebagai syarat desain yang harus disimpan bersama gambar rangka.
+
+Material dan konstruksi mengubah cara sambungan bekerja. “Bambu” dapat berarti culm, strip, mat, panel, atau produk laminasi. Produk laminasi untuk furnitur memiliki persyaratan konstruksi, pengujian, penanganan, dan penandaan yang tidak otomatis berlaku untuk bambu luar ruang atau komponen struktural lain. [ISO 6128:2023](https://www.iso.org/standard/82086.html) membantu membatasi objek bukti tersebut; kecocokan ruang lingkup tetap harus dibuktikan oleh dokumen produk.
+
+Kondisi kamar mengubah ventilasi dan akses. Lantai lembap, dinding yang menutup sisi rangka, atau ruang sempit di bawah tempat tidur dapat menghambat pemeriksaan. Ukur jalur membawa rangka melewati pintu dan tangga sebelum memilih konstruksi permanen. Kawan Furnitur.co.id, masukkan kebutuhan membersihkan dan memindahkan komponen ke daftar spesifikasi sejak awal, bukan setelah rangka terpasang.
+
+Pemakaian dan perubahan instalasi juga relevan. Rangka yang dipindahkan, kaki yang diganjal, pengikat yang diganti, atau slat yang dilepas dapat mengubah kestabilan. Tidak ada angka beban, jarak slat, atau jenis angkur universal yang dapat saya tetapkan dari paket ini—[NEEDS G-16/G-17: lengkapi metode yang berlaku, instruksi produk, survei lantai, dan tinjauan kompeten].
 
 ## Contoh keputusan praktis
 
-- **Purpose:** Berikan skenario bersyarat atau tabel keputusan; tandai asumsi dan jangan mengarang pengalaman.
-- **Tie back to this article:** Keep the explanation specific to “Slat, Support Tengah, dan Ventilasi Kasur”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Gunakan urutan keputusan berikut sebelum memesan:
+
+1. Jika produsen kasur menyebut dukungan kontinu atau celah maksimum, jadikan itu batas desain. Minta gambar slat yang menunjukkan cara batas tersebut dipenuhi.
+2. Jika bentang sisi panjang membuat bidang tengah tanpa tumpuan, tambahkan konsep support tengah dan kaki yang dapat benar-benar duduk di lantai. Jangan menyebutnya aman sebelum sambungan, lantai, dan bukti beban ditinjau.
+3. Jika kamar membutuhkan penyimpanan bawah, pilih modul yang masih menyisakan jalur udara dan bukaan inspeksi. Kotak tertutup penuh adalah keputusan ventilasi, bukan aksesori netral.
+4. Jika rangka harus sering dipindah, gunakan sambungan yang dapat dibongkar dengan penanda orientasi dan daftar pengencangan. Periksa kembali setelah relokasi.
+5. Jika muncul bunyi, hentikan kebiasaan mengencangkan semua sekrup secara acak. Tandai lokasi bunyi, cek slat bergeser dan kontak kaki, lalu dokumentasikan perubahan untuk pemeriksaan.
+
+Dokumen minimum yang sebaiknya menyertai keputusan adalah ukuran kasur, gambar susunan tumpuan, daftar komponen dan perangkat keras, petunjuk perakitan, serta catatan kondisi lantai. Dokumen ini membantu membedakan asumsi desain dari hasil inspeksi; bukan pengganti laporan pengujian atau persetujuan proyek.
 
 ## Kesalahan umum dan cara memeriksanya
 
-- **Purpose:** Bongkar shortcut umum lalu ubah menjadi pertanyaan/checklist verifikasi.
-- **Tie back to this article:** Keep the explanation specific to “Slat, Support Tengah, dan Ventilasi Kasur”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Kesalahan pertama adalah mengukur bagian luar kasur secara perkiraan lalu membuat rangka berdasarkan ukuran nominal. Ukur kasur aktual dan tuliskan toleransinya. Kesalahan kedua adalah membuat semua slat sama panjang tanpa memeriksa dudukan ujung; cari slat yang tidak memiliki kontak penuh atau mudah terangkat.
 
-## Objection or shortcut to address
+Kesalahan ketiga adalah menganggap support tengah bekerja hanya karena terlihat di gambar. Dengan kasur dilepas, periksa apakah setiap kaki menyentuh lantai dan apakah sambungan tidak longgar. Setelah perakitan, periksa kembali setelah rangka dipindahkan atau lantai berubah.
 
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
+Kesalahan keempat adalah menutup ventilasi demi tampilan atau penyimpanan. Pastikan udara dan akses inspeksi tetap tersedia sesuai petunjuk kasur. Kesalahan kelima adalah mengklaim “bambu kuat” sebagai kapasitas. Kekuatan bergantung pada bentuk produk, sambungan, dimensi, kondisi, dan pengujian spesimen lengkap; katalog ISO furnitur menunjukkan bahwa konfigurasi, material, dimensi, pembebanan, dan kriteria hasil menentukan penerapan metode ([katalog ISO/TC 136](https://www.iso.org/committee/52448/x/catalogue/p/1/u/0/w/0/d/0)).
 
-## Required conclusion
+Saat bekerja di bengkel, kendalikan debu, alat potong, dan area perakitan sesuai rencana kerja aman. Panduan [ILO untuk keselamatan dan kesehatan bengkel kayu](https://www.ilo.org/publications/safety-and-health-wood-workshop) dapat menjadi titik awal keselamatan kerja; panduan itu bukan bukti bahwa rangka tempat tidur tertentu aman.
 
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
+## Jalan pintas yang tampak praktis
 
-## Draft completion checklist
+Jalan pintas yang sering dipilih adalah menyalin ukuran slat dari tempat tidur lain atau mengganti semua komponen dengan panel penuh agar “lebih kuat”. Cara itu dapat mengubah celah udara, berat, jalur beban, dan akses pemeriksaan. Alternatif yang lebih dapat dipertanggungjawabkan adalah mulai dari instruksi kasur dan gambar rakitan, kemudian meminta peninjauan atas bentang, support tengah, kaki, sambungan, dan ventilasi. Jika data penting belum ada, pertahankan [NEEDS G-16/G-20/G-23] pada lembar keputusan dan jangan mengubahnya menjadi angka perkiraan.
 
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Teman Furnitur.co.id!` and uses friendly `Furnitur.co.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+## Penutup
+
+Slat, support tengah, dan ventilasi kasur harus dinilai sebagai satu sistem. Ukuran kasur menentukan geometri; support tengah menjaga jalur tumpuan ketika bentang memerlukannya; celah dan ruang bawah menjaga udara serta akses. Tidak satu pun nama material, jumlah bilah, atau satu kaki tengah yang otomatis membuktikan kapasitas dan kestabilan.
+
+Langkah Anda berikutnya: kumpulkan ukuran kasur aktual, instruksi dukungan, gambar rakitan, daftar perangkat keras, dan kondisi lantai; lalu minta pemeriksaan kompeten untuk detail beban, sambungan, dan instalasi yang belum terbukti. Sobat Furnitur.co.id, jadikan aturan operasi ini sederhana: bila tumpuan, ventilasi, atau bukti instalasi tidak dapat ditunjukkan di gambar dan inspeksi, anggap keputusan masih terbuka—bukan sudah aman.

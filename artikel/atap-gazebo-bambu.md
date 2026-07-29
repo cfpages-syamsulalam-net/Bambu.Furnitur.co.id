@@ -1,9 +1,10 @@
 ---
 article_id: BFU-10-04
+writing_contract_version: "native-id-v2"
 title: "Atap dan Overhang untuk Bangunan Bambu Ringan"
 slug: "atap-gazebo-bambu"
-description: "Merencanakan fungsi, tapak, atap, struktur, akses, exposure, dan handover bangunan ringan."
-status: outline
+description: "Merencanakan fungsi, tapak, atap, struktur, akses, paparan cuaca, dan serah terima bangunan ringan."
+status: draft
 publication_date: "2026-02-22"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -14,226 +15,98 @@ reader_address: "Sobat Furnitur.co.id"
 final_route: "/artikel/atap-gazebo-bambu.html"
 technical_review: required
 sources:
-  - "https://peraturan.bpk.go.id/Details/235254/"
-  - "https://peraturan.bpk.go.id/Details/334454/permenhut-no-23-tahun-2025"
-  - "https://peraturan.bpk.go.id/Details/347927/pp-no-8-tahun-2026"
-  - "https://silk.menlhk.go.id/index.php/svlk/files/1/information-data"
-  - "https://www.iso.org/standard/72532.html"
-  - "https://www.iso.org/standard/90678.html"
-  - "https://www.iso.org/ics/79.060.10/x/"
-  - "https://www.iso.org/cms/%20render/live/en/sites/isoorg/contents/data/standard/06/59/65950.html"
-  - "https://www.iso.org/standard/65528.html?browse=tc"
-  - "https://www.iso.org/standard/73831.html?browse=tc"
-  - "https://www.iso.org/standard/83076.html"
-  - "https://www.iso.org/standard/82086.html"
-  - "https://www.iso.org/standard/79460.html"
-  - "https://www.iso.org/standard/79459.html"
   - "https://peraturan.bpk.go.id/Details/161846/pp-no-16-"
   - "https://pesta.bsn.go.id/produk/detail/12927-sni17272020"
   - "https://pesta.bsn.go.id/produk/detail/13506-84602017"
+  - "https://www.iso.org/standard/73831.html?browse=tc"
+  - "https://www.iso.org/cms/%20render/live/en/sites/isoorg/contents/data/standard/06/59/65950.html"
+  - "https://www.iso.org/standard/65528.html?browse=tc"
+  - "https://www.iso.org/standard/72532.html"
+  - "https://silk.menlhk.go.id/index.php/svlk/files/1/information-data"
 ---
-
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
 
 # Atap dan Overhang untuk Bangunan Bambu Ringan
 
-## Assignment lock
+Halo, Sobat Furnitur.co.id! Atap dan overhang pada bangunan bambu ringan bukan sekadar pilihan bentuk. Keduanya harus diputuskan bersama fungsi ruang, arah hujan dan angin, jalur air, kestabilan rangka, serta akses pemeriksaan. Overhang yang terlalu pendek membiarkan dinding dan sambungan sering basah; overhang yang diperpanjang tanpa hitungan dapat menambah beban dan momen pada struktur.
 
-- **Writer task:** Expand this file into one complete article answering: “Atap dan Overhang untuk Bangunan Bambu Ringan”
-- **Reader and situation:** Merencanakan fungsi, tapak, atap, struktur, akses, exposure, dan handover bangunan ringan.
-- **Reader outcome:** Merencanakan fungsi, tapak, atap, struktur, akses, exposure, dan handover bangunan ringan.
-- **Primary intent:** Menyusun kebutuhan perlindungan cuaca
-- **Reader community:** `Furnitur.co.id`
-- **Primary friendly address:** `Sobat Furnitur.co.id`
-- **Natural variants:** `Kawan Furnitur.co.id` and `Teman Furnitur.co.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** Fokus brief; klaim performa cuaca harus dibuktikan.
-- **Final public route:** `/artikel/atap-gazebo-bambu.html`
-- **Appointed CMS date:** `2026-02-22` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
+Jawaban singkatnya: mulai dari peta paparan dan aliran air di tapak, pilih sistem atap yang dapat dikeringkan dan diperiksa, lalu minta verifikasi struktur untuk rangka, sambungan, pondasi, dan penahan angin sebagai satu sistem. Ukuran, kemiringan, jenis penutup, dan detail talang tidak aman ditentukan hanya dari kebiasaan tukang atau label “bangunan ringan”. Data lokasi, penggunaan, material, dan aturan yang berlaku dapat mengubah keputusan. [NEEDS TECHNICAL REVIEW: ukuran overhang, kemiringan, sambungan, dan penahan angin harus ditetapkan dari data tapak dan perhitungan proyek.]
 
-## Opening instructions
+![Ilustrasi Gazebo Bambu](/wp-content/uploads/2022/04/Gazebo-Bambu.jpg)
 
-- Open with the exact short salutation: **“Halo, Sobat Furnitur.co.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Atap dan Overhang untuk Bangunan Bambu Ringan**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Sobat Furnitur.co.id`, `Kawan Furnitur.co.id`, or `Teman Furnitur.co.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
+Aset lokal proyek; jangan klaim sebagai dokumentasi proyek tertentu.
 
-
-<!-- BEGIN MANAGED IMAGE PLAN -->
-## Image plan
-
-- **Image ID:** `LOCAL-023`
-- **Source type:** `local`
-- **Placement:** after the opening has answered the main question, before the first detailed H2
-- **Exact Markdown to insert:** `![Ilustrasi Gazebo Bambu](/wp-content/uploads/2022/04/Gazebo-Bambu.jpg)`
-- **Caption/credit:** Aset lokal proyek; jangan klaim sebagai dokumentasi proyek tertentu.
-- **Selection basis:** filename/source metadata identifies `Gazebo Bambu` as relevant content media; no pixels were inspected.
-- **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
-- **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-023]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
-
-## Evidence packet
-
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
-
-### KR-17
-
-- **Original sources:** [Permen LHK 8/2021 status record](https://peraturan.bpk.go.id/Details/235254/), [Permenhut 23/2025 amendment](https://peraturan.bpk.go.id/Details/334454/permenhut-no-23-tahun-2025), [PP 8/2026 amendment to PP 23/2021](https://peraturan.bpk.go.id/Details/347927/pp-no-8-tahun-2026), and [official SILK/SVLK service](https://silk.menlhk.go.id/index.php/svlk/files/1/information-data).
-- **Purpose for this article:** Ground legality, forest origin, processing, transport/export-document, and regulatory-refresh articles.
-- **Safe grounded facts:** A legal/sustainability claim must identify the current rule, actor, activity, source, product, document, issuer, holder, scope, date/status, and verification path.
-- **Limits:** Read consolidated operative texts and current implementing rules; verify actual documents in the official system with legal/compliance review under G-11.
-
-### KR-18
-
-- **Original sources:** [ISO 22095:2020](https://www.iso.org/standard/72532.html) and [ISO 22095:2020/Amd 1:2026](https://www.iso.org/standard/90678.html).
-- **Purpose for this article:** Support traceability, certification-scope, mass-balance, supplier-claim, recycled/reclaimed, and procurement articles.
-- **Safe grounded facts:** Claim scheme, input eligibility, identity/lot, model, conversion/loss, segregation, transactions, sites, certificate scope/status, assurance, and downstream wording must align.
-- **Limits:** Obtain the full amended standard, claim-scheme rules, current certificates, transaction evidence, and verification under G-11/G-12.
-
-### KR-24
-
-- **Original sources:** [ISO 22095 and 2026 amendment](https://www.iso.org/standard/72532.html), [SILK/SVLK service](https://silk.menlhk.go.id/index.php/svlk/files/1/information-data), and [ISO plywood catalogue](https://www.iso.org/ics/79.060.10/x/).
-- **Purpose for this article:** Support RFQ, supplier comparison, sampling, receiving, deviations, lifecycle cost, claims, and handover.
-- **Safe grounded facts:** Domain age, logo, certificate image, sample, test badge, species name, or lowest price does not independently prove legal origin, quality, suitability, capacity, or delivered conformity.
-- **Limits:** Obtain dated quotations, actual samples/submittals, certificate/report verification, capability evidence, inspection plan, contract terms, and receiving records under G-04/G-11/G-15.
-
-### KR-33
-
-- **Original sources:** [ISO 22157:2019 official record](https://www.iso.org/cms/%20render/live/en/sites/isoorg/contents/data/standard/06/59/65950.html) and [ISO 19624:2018 official record](https://www.iso.org/standard/65528.html?browse=tc).
-- **Purpose for this article:** Ground moisture, density, dimensions, defects, grading, mechanical properties, and lot acceptance.
-- **Safe grounded facts:** Species, age, diameter, colour, seller grade, or one test result does not establish a lot’s characteristic values, furniture strength, joint behavior, or project acceptance.
-- **Limits:** Both records show revision activity in 2026. Obtain current complete editions, representative sampling, identity/maturity/location, seasoned condition, geometry/defects, test reports, grading/acceptance basis, and qualified interpretation under G-01/G-23.
-
-### KR-34
-
-- **Original sources:** [ISO 22156:2021 official record](https://www.iso.org/standard/73831.html?browse=tc).
-- **Purpose for this article:** Ground bamboo load paths, stability, joints, durability, occupied structures, and engineering boundaries.
-- **Safe grounded facts:** A bamboo furniture test, traditional precedent, culm diameter, lashing detail, or “light structure” label does not establish building-scale capacity or Indonesian acceptance.
-- **Limits:** ISO 22156 is under review in 2026 and is not Indonesian law. Obtain current full text, Indonesian load/design basis, exact system, material properties, connections, site/exposure, calculations, drawings, and engineer acceptance under G-01/G-23/G-25.
-
-### KR-36
-
-- **Original sources:** [ISO 7567:2024 official record](https://www.iso.org/standard/83076.html) and [ISO 6128:2023](https://www.iso.org/standard/82086.html).
-- **Purpose for this article:** Bound engineered bamboo, glulam, panel, furniture-stock, and structural-product claims.
-- **Safe grounded facts:** Similar appearance or the word “laminated” does not establish common scope, bond/exposure class, structural role, test evidence, or substitution acceptability.
-- **Limits:** Obtain exact product family, construction, adhesive, intended use/exposure, full standard, test reports, production control, design/acceptance basis, and change control under G-01/G-04/G-07/G-23/G-25.
-
-### KR-37
-
-- **Original sources:** [ISO 21629-2:2022 official record](https://www.iso.org/standard/79460.html) and [ISO 21629-1:2021 indoor counterpart](https://www.iso.org/standard/79459.html).
-- **Purpose for this article:** Ground exterior exposure, laminated/scrimber products, handling, drainage, maintenance, and indoor/outdoor boundaries.
-- **Safe grounded facts:** Outdoor flooring evidence does not prove a fence, gazebo, furniture item, coating, or other bamboo product, but it refutes generic indoor-to-outdoor transfer.
-- **Limits:** Obtain exact exterior product/assembly, intended exposure, drainage/ground/fastener/finish interfaces, current product data/tests/instructions, installation, maintenance, and warranty under G-03/G-06/G-07/G-22/G-25.
-
-### KR-38
-
-- **Original sources:** [PP 16/2021 official BPK record](https://peraturan.bpk.go.id/Details/161846/pp-no-16-), [SNI 1727:2020 official BSN record](https://pesta.bsn.go.id/produk/detail/12927-sni17272020), and [SNI 8460:2017 official BSN record](https://pesta.bsn.go.id/produk/detail/13506-84602017).
-- **Purpose for this article:** Ground use, site, approvals, loads, foundation, weather, access, construction, inspection, and handover for `BFU-10`.
-- **Safe grounded facts:** Prefabrication, open sides, small size, bamboo material, or a furniture seller does not establish approval, structural, foundation, wind/rain, fire, access, electrical, or functional-worthiness outcomes.
-- **Limits:** Confirm current/local rules, function/site/users, PBG/SLF applicability, survey, loads, ground/water/drainage, foundation, complete bamboo system, roof, fire/access/MEP, K3, inspections, and signed acceptance under G-25.
-
-## Evidence gates
-
-- **TOPIC-GATE:** G-01, G-02, G-03, G-06, G-10, G-11, G-12, G-13, G-23, G-24, G-25
-
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
-
-## Internal-link plan
-
-### Existing local routes
-
-- `/gazebo-bambu-yogyakarta` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/gazebo-bambu-wonosobo` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/gazebo-bambu-wonogiri` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/gazebo-bambu-tulungagung.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/gazebo-bambu-tulungagung` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/gazebo-bambu-tuban` — use only if it helps the reader's next step; verify the anchor describes the destination.
-
-### Planned sibling articles
-
-These are future routes. Do not link them as live until their HTML exists.
-
-- `BFU-10-02` → `/artikel/gazebo-vs-bale-bambu.html` — Gazebo vs Bale Bambu: Fungsi dan Tata Ruang
-- `BFU-10-03` → `/artikel/tapak-gazebo-bambu.html` — Tapak, Pondasi, dan Drainase Gazebo Bambu
-- `BFU-10-05` → `/artikel/akses-perawatan-gazebo-bambu.html` — Akses Perawatan pada Gazebo dan Bale
-- `BFU-10-06` → `/artikel/serah-terima-gazebo-bambu.html` — Bukti Struktur dan Serah Terima Gazebo Bambu
-
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
-
-## Jawaban singkat dan salah paham utama
-
-- **Purpose:** Jawab pertanyaan judul dalam pembuka dan luruskan miskonsepsi yang paling berbahaya.
-- **Tie back to this article:** Keep the explanation specific to “Atap dan Overhang untuk Bangunan Bambu Ringan”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+<!-- BEGIN MANAGED IMAGE PLAN
+Image ID: LOCAL-023
+Source type: local
+Placement: after the opening has answered the main question, before the first detailed H2
+**Exact Markdown to insert:** `![Ilustrasi Gazebo Bambu](/wp-content/uploads/2022/04/Gazebo-Bambu.jpg)`
+Caption/credit: Aset lokal proyek; jangan klaim sebagai dokumentasi proyek tertentu.
+Selection basis: filename/source metadata identifies `Gazebo Bambu` as relevant content media; no pixels were inspected.
+Hard boundary: do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
+Substitution rule: do not replace this image. If unavailable or provenance is incomplete, insert [NEEDS IMAGE REVIEW: LOCAL-023] and continue drafting the prose.
+END MANAGED IMAGE PLAN -->
 
 ## Definisi dan batas objek
 
-- **Purpose:** Jelaskan apa yang dibahas, apa yang tidak, dan mengapa batas itu mengubah keputusan.
-- **Tie back to this article:** Keep the explanation specific to “Atap dan Overhang untuk Bangunan Bambu Ringan”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Dalam artikel ini, atap berarti seluruh lapisan yang menahan cuaca—penutup, lapisan bawah bila ada, rangka, tepi, dan pembuangan air. Overhang adalah bagian atap yang melewati bidang dinding atau garis tumpuan. Fungsinya mengurangi air langsung pada dinding, bukaan, lantai tepi, dan detail sambungan. Ia bukan pengganti lapisan kedap, drainase tapak, atau perawatan.
+
+Bangunan bambu ringan dapat berupa gazebo atau ruang terbuka dengan ukuran dan penggunaan yang beragam. “Ringan” tidak otomatis berarti bebas persetujuan, aman terhadap angin, atau cukup ditopang tanpa pondasi yang sesuai. Catatan PP 16/2021 dan katalog SNI 1727:2020 serta SNI 8460:2017 menjadi titik awal untuk memeriksa penggunaan, beban, fondasi, dan aspek teknis; penerapan aktual tetap memerlukan konfirmasi aturan daerah serta tenaga ahli. [NEEDS REGULATORY REVIEW: konfirmasi kewajiban dan dokumen PBG/SLF sesuai fungsi, lokasi, dan perubahan aturan saat proyek berjalan.] ([PP 16/2021](https://peraturan.bpk.go.id/Details/161846/pp-no-16-), [SNI 1727:2020](https://pesta.bsn.go.id/produk/detail/12927-sni17272020), [SNI 8460:2017](https://pesta.bsn.go.id/produk/detail/13506-84602017))
+
+Batasnya penting: kita membahas perlindungan cuaca dan antarmuka atap, bukan menentukan desain final, menjanjikan umur pakai, atau membuktikan kinerja sebuah produk tertentu. Klaim ketahanan hujan, angin, api, atau kelembapan harus didukung data sistem yang tepat untuk proyek.
 
 ## Cara kerjanya
 
-- **Purpose:** Terangkan mekanisme, urutan, pelaku, material/sistem, dan antarmuka secara sebab-akibat.
-- **Tie back to this article:** Keep the explanation specific to “Atap dan Overhang untuk Bangunan Bambu Ringan”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Urutan yang masuk akal dimulai dari fungsi. Ruang makan, tempat duduk sesekali, dan ruang yang menampung peralatan memiliki kebutuhan terhadap tampias, panas, akses, dan beban yang berbeda. Catat siapa pengguna, jam pemakaian, bukaan yang harus tetap kering, dan area yang harus dapat diperiksa tanpa membongkar atap.
+
+Berikutnya, petakan tapak: arah datang hujan dan angin yang lazim, pohon atau bangunan sekitar, elevasi lantai, jalur limpasan, serta titik pembuangan air. Overhang sebaiknya mengarahkan air menjauh dari kaki dinding dan pondasi, bukan menjatuhkannya ke jalur orang atau mengumpulkannya di satu titik. Talang, bila dipakai, memerlukan kemiringan, outlet, pembersihan, dan jalur pipa yang terlihat pada gambar kerja.
+
+Atap lalu bekerja sebagai rangkaian beban. Penutup meneruskan berat sendiri dan beban pemeliharaan ke reng atau gording, kemudian ke kuda-kuda atau balok, kolom, sambungan, dan fondasi. Angin dapat menekan maupun mengangkat bidang atap; tepi dan sudut biasanya memerlukan perhatian khusus. Jangan menganggap ikatan pada satu kolom sudah menjadi pengaku seluruh bangunan. Untuk struktur bambu, ISO 22156:2021 mencatat batas rekayasa bangunan dan tidak menggantikan basis desain serta penerimaan Indonesia. ([ISO 22156:2021](https://www.iso.org/standard/73831.html?browse=tc))
+
+Detail air sama pentingnya dengan jalur gaya. Sediakan tepi tetes (drip edge) agar air tidak merayap ke ujung elemen, beri jarak material yang memungkinkan pengeringan, dan hindari kantong air pada pertemuan penutup dengan bambu. Ventilasi ruang atap, akses untuk mengencangkan atau mengganti komponen, dan perlindungan ujung bambu perlu terlihat di gambar, bukan hanya disepakati lisan.
 
 ## Faktor yang mengubah hasil
 
-- **Purpose:** Kelompokkan kondisi proyek, penggunaan, lingkungan, pelaksanaan, dan bukti yang relevan.
-- **Tie back to this article:** Keep the explanation specific to “Atap dan Overhang untuk Bangunan Bambu Ringan”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Paparan pertama-tama mengubah kebutuhan overhang. Pantulan hujan dari lantai, angin silang, lokasi dekat pantai, kabut atau kelembapan tinggi, dan naungan pohon dapat memperpanjang waktu basah. Orientasi bukaan juga menentukan apakah overhang melindungi ruang atau justru menghalangi ventilasi dan cahaya. Tanpa data lokasi, tidak ada ukuran universal yang dapat dijanjikan.
+
+Material dan sambungan adalah faktor kedua. Bambu utuh, bambu laminasi, panel, dan komponen kayu memiliki data, perilaku, serta batas penggunaan berbeda. Tampilan serupa atau kata “laminated” tidak membuktikan kesamaan perekat, kelas paparan, peran struktural, atau kelayakan substitusi. Mintalah identitas produk, instruksi paparan, laporan uji yang relevan, dan prosedur kendali perubahan sebelum mengganti spesifikasi.
+
+Kadar air, dimensi, cacat, dan metode grading harus dikaitkan dengan lot yang diterima, bukan satu sampel yang tidak jelas asalnya. Rekaman ISO 22157:2019 dan ISO 19624:2018 dapat menjadi rujukan untuk membahas pengujian serta penerimaan, namun keduanya memiliki aktivitas revisi; gunakan edisi lengkap yang berlaku dan interpretasi berkualifikasi. ([ISO 22157:2019](https://www.iso.org/cms/%20render/live/en/sites/isoorg/contents/data/standard/06/59/65950.html), [ISO 19624:2018](https://www.iso.org/standard/65528.html?browse=tc))
+
+Pelaksanaan dan pemeliharaan juga mengubah hasil. Lubang baut, potongan ujung, lapisan akhir, sambungan logam, dan kontak dengan genangan harus memiliki detail yang konsisten. Tetapkan siapa yang memeriksa talang, membersihkan daun, mencari retak atau kelonggaran, dan mencatat perbaikan. Serah terima sebaiknya menyertakan gambar akhir, daftar material, titik akses, panduan perawatan, dan daftar penyimpangan yang disepakati.
+
+Untuk pengadaan, telusuri identitas lot dan cakupan klaim pemasok, bukan hanya logo atau foto sertifikat. ISO 22095:2020 menekankan keselarasan skema klaim, input, lot, model rantai pasok, segregasi, dan cakupan sertifikat; sistem SILK/SVLK dapat dipakai untuk memeriksa informasi layanan resmi. Itu belum menggantikan pemeriksaan dokumen transaksi dan kesesuaian material yang benar-benar dikirim. ([ISO 22095:2020](https://www.iso.org/standard/72532.html), [SILK/SVLK](https://silk.menlhk.go.id/index.php/svlk/files/1/information-data))
 
 ## Contoh keputusan praktis
 
-- **Purpose:** Berikan skenario bersyarat atau tabel keputusan; tandai asumsi dan jangan mengarang pengalaman.
-- **Tie back to this article:** Keep the explanation specific to “Atap dan Overhang untuk Bangunan Bambu Ringan”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Gunakan tabel ini sebagai percakapan awal, bukan ukuran siap bangun.
+
+| Kondisi yang teramati | Arah keputusan | Bukti yang diminta |
+|---|---|---|
+| Bukaan menghadap hujan dan angin, lantai dekat area limpasan | Prioritaskan overhang, tepi tetes, dan pembuangan air yang tidak menuju kaki kolom | Sketsa arah cuaca, elevasi lantai, detail tepi dan outlet |
+| Ruang terbuka, tetapi peralatan harus tetap kering | Jangan hanya memperpanjang atap; atur bukaan, layar tampias, ventilasi, dan akses servis | Denah penggunaan, potongan, dan rute pemeriksaan |
+| Penutup diganti dengan produk yang tampak sama | Tahan pengadaan sampai kelas paparan, konstruksi, perekat, dan data sistem dibandingkan | Submittal, lembar data, laporan uji, serta persetujuan perubahan |
+| Lokasi menerima angin kuat atau tidak terlindung | Minta perhitungan jalur beban dan pengangkatan; periksa tepi, sudut, pengaku, dan fondasi | Data tapak, asumsi beban, gambar sambungan, dan tanda tangan ahli |
+
+Kawan Furnitur.co.id, bila Anda belum memiliki data arah angin, kondisi tanah, dan fungsi ruang, keputusan paling aman adalah menunda penguncian dimensi atap. Minta survei singkat dan daftar asumsi tertulis. Asumsi yang terlihat lebih mudah dikoreksi daripada detail yang sudah tertutup.
 
 ## Kesalahan umum dan cara memeriksanya
 
-- **Purpose:** Bongkar shortcut umum lalu ubah menjadi pertanyaan/checklist verifikasi.
-- **Tie back to this article:** Keep the explanation specific to “Atap dan Overhang untuk Bangunan Bambu Ringan”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Kesalahan pertama adalah menyalin overhang dari gazebo lain. Periksa apakah fungsi, orientasi, penutup, dan kondisi tapaknya benar-benar sebanding; jika tidak, perlakukan sebagai inspirasi bentuk saja. Kedua, talang dipasang tanpa rute pembersihan. Pastikan tangan atau alat dapat mencapai saringan dan outlet, dan air memiliki tujuan yang aman.
 
-## Objection or shortcut to address
+Ketiga, rangka dinilai dari ukuran bambu atau jumlah tiang semata. Minta gambar jalur gaya dari penutup sampai fondasi, detail pengaku, tipe pengikat, dan pemeriksaan setelah pemasangan. Data material atau satu hasil uji tidak otomatis membuktikan kapasitas sambungan dan penerimaan bangunan.
 
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
+Keempat, lapisan pelindung dianggap menghapus kebutuhan pengeringan. Cari instruksi produk tentang paparan, persiapan permukaan, interval pemeliharaan, dan batas garansi. Jangan mengklaim umur pakai atau ketahanan cuaca sebelum dokumen dan kondisi pemasangan cocok.
 
-## Required conclusion
+Terakhir, dokumen legalitas disamakan dengan mutu dan kesesuaian sistem. Verifikasi penerbit, pemegang, cakupan, tanggal, lot, dan transaksi; lalu cocokkan barang datang dengan submittal. Jika salah satu mata rantai tidak jelas, tandai penyimpangan dan minta keputusan tertulis. Untuk membandingkan konteks penggunaan, Anda dapat melihat [kategori gazebo](/gazebo) dan [halaman produk](/produk); keduanya bukan bukti bahwa detail atap tertentu cocok untuk tapak Anda.
 
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
+## Jalan pintas yang perlu diuji
 
-## Draft completion checklist
+“Ini hanya gazebo kecil; pasang atap yang paling murah dan tambah terpal saat hujan” terdengar praktis. Namun pendekatan itu memindahkan masalah ke tampias, genangan, akses darurat, dan beban angin yang tidak pernah dihitung. Terpal tambahan juga dapat mengubah aliran air dan titik angkat tanpa detail sambungan.
 
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Sobat Furnitur.co.id!` and uses friendly `Furnitur.co.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+Alternatif yang lebih dapat dipertanggungjawabkan adalah membekukan kebutuhan fungsi dan paparan, membuat dua atau tiga opsi atap, lalu membandingkan jalur air, jalur beban, biaya perawatan, serta akses inspeksi. Mintalah profesional memeriksa opsi terpilih dan mendokumentasikan batas penggunaannya. [NEEDS PROJECT EVIDENCE: tidak ada data lokasi atau gambar proyek dalam paket ini untuk menyatakan opsi tertentu telah aman.]
+
+## Kesimpulan
+
+Atap dan overhang yang tepat untuk bangunan bambu ringan adalah hasil dari fungsi, paparan, jalur air, jalur beban, sambungan, dan pemeliharaan yang dirancang bersama. Jangan mengunci ukuran atau menjanjikan performa hanya dari foto, kebiasaan, atau label ringan.
+
+Teman Furnitur.co.id, langkah berikutnya: siapkan denah dan potongan dengan arah utara, fungsi ruang, bukaan, elevasi lantai, jalur limpasan, pilihan penutup, serta daftar material; sertakan asumsi beban dan rencana inspeksi. Serahkan paket itu untuk telaah teknis dan konfirmasi aturan setempat sebelum pembelian atau pemasangan. Aturan operasionalnya sederhana: setiap perubahan atap atau overhang harus ditelusuri dampaknya pada air, angin, sambungan, akses, dan dokumen serah terima—dan dinyatakan tertulis bila bukti belum lengkap.

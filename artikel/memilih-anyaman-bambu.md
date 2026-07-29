@@ -3,7 +3,8 @@ article_id: BFU-12-01
 title: "Panduan Memilih Produk Anyaman Bambu"
 slug: "memilih-anyaman-bambu"
 description: "Memahami pola anyaman, bentuk wadah/panel, kualitas tepi, fungsi, dan bukti kontak penggunaan."
-status: outline
+status: draft
+writing_contract_version: "native-id-v2"
 publication_date: "2026-03-30"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -17,11 +18,9 @@ sources:
   - "https://www.iso.org/standard/40123.html"
   - "https://www.iso.org/standard/40124.html"
   - "https://research.fs.usda.gov/fpl/wood-handbook"
-  - "https://www.iso.org/ics/79.060.01/x/"
   - "https://www.iso.org/standard/84728.html?browse=tc"
   - "https://www.epa.gov/formaldehyde/formaldehyde-emission-standards-composite-wood-products"
   - "https://www.ilo.org/publications/safety-and-health-wood-workshop"
-  - "https://www.ilo.org/resource/other/code-practice-safety-and-health-forestry-work"
   - "https://peraturan.bpk.go.id/Details/161852/pp-no-22-tahun-2021"
   - "https://www.iso.org/standard/72532.html"
   - "https://www.iso.org/standard/71279.html"
@@ -29,198 +28,79 @@ sources:
   - "https://peraturan.bpk.go.id/Details/129230"
 ---
 
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
-
 # Panduan Memilih Produk Anyaman Bambu
 
-## Assignment lock
+Halo, Sobat Furnitur.co.id!
 
-- **Writer task:** Expand this file into one complete article answering: “Panduan Memilih Produk Anyaman Bambu”
-- **Reader and situation:** Memahami pola anyaman, bentuk wadah/panel, kualitas tepi, fungsi, dan bukti kontak penggunaan.
-- **Reader outcome:** Memahami pola anyaman, bentuk wadah/panel, kualitas tepi, fungsi, dan bukti kontak penggunaan.
-- **Primary intent:** Menentukan woven product
-- **Reader community:** `Furnitur.co.id`
-- **Primary friendly address:** `Sobat Furnitur.co.id`
-- **Natural variants:** `Kawan Furnitur.co.id` and `Teman Furnitur.co.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** Hub anyaman; tirai dimiliki BFU-13.
-- **Final public route:** `/artikel/memilih-anyaman-bambu.html`
-- **Appointed CMS date:** `2026-03-30` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
+Memilih produk anyaman bambu bukan sekadar mencari pola yang paling menarik. Pilihan yang tepat bergantung pada fungsi, bentuk produk, kualitas tepi dan sambungan, serta bukti dari pemasok. Wadah untuk display, panel dekoratif, dan benda yang bersentuhan dengan makanan memiliki pemeriksaan berbeda.
 
-## Opening instructions
+Jawaban singkatnya: tentukan fungsi dan paparan terlebih dahulu, minta sampel produk jadi, lalu cocokkan konstruksi, pola, tepi, finishing, serta dokumennya. Klaim “waterproof”, “food grade”, atau “eksterior” pada satu bahan tidak otomatis membuktikan seluruh produk sesuai. Sampel dan dokumen yang merujuk pada konstruksi serta kondisi pakai yang sama dapat mengubah keputusan.
 
-- Open with the exact short salutation: **“Halo, Sobat Furnitur.co.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Panduan Memilih Produk Anyaman Bambu**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Sobat Furnitur.co.id`, `Kawan Furnitur.co.id`, or `Teman Furnitur.co.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
+![Ilustrasi Anyaman Bambu](/wp-content/uploads/2022/04/Anyaman-Bambu.jpg)
 
-
-<!-- BEGIN MANAGED IMAGE PLAN -->
-## Image plan
-
-- **Image ID:** `LOCAL-002`
-- **Source type:** `local`
-- **Placement:** after the opening has answered the main question, before the first detailed H2
-- **Exact Markdown to insert:** `![Ilustrasi Anyaman Bambu](/wp-content/uploads/2022/04/Anyaman-Bambu.jpg)`
-- **Caption/credit:** Aset lokal proyek; jangan klaim sebagai dokumentasi proyek tertentu.
-- **Selection basis:** filename/source metadata identifies `Anyaman Bambu` as relevant content media; no pixels were inspected.
-- **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
-- **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-002]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
-
-## Evidence packet
-
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
-
-### KR-10
-
-- **Original sources:** [ISO 12466-1:2007](https://www.iso.org/standard/40123.html), [ISO 12466-2:2007](https://www.iso.org/standard/40124.html), and [USDA Wood Handbook adhesive chapter index](https://research.fs.usda.gov/fpl/wood-handbook).
-- **Purpose for this article:** Support adhesive-family, cure, exposure, veneer/panel bond, delamination, repair, and procurement articles.
-- **Safe grounded facts:** “Exterior,” “marine,” “waterproof,” or adhesive chemistry alone does not prove the complete panel or joint will suit an application.
-- **Limits:** Obtain SDS, technical data, complete test/standard, production controls, compatibility, service exposure, and qualified review under G-04/G-07/G-09.
-
-### KR-11
-
-- **Original sources:** [ISO 12460 panel-method catalogue](https://www.iso.org/ics/79.060.01/x/), [ISO 12460-2:2024 small-chamber method](https://www.iso.org/standard/84728.html?browse=tc), and [U.S. EPA composite-wood rule overview](https://www.epa.gov/formaldehyde/formaldehyde-emission-standards-composite-wood-products).
-- **Purpose for this article:** Ground emissions, labels, indoor-air, test-report, supplier, and safe-use articles.
-- **Safe grounded facts:** Method, chamber, temperature, humidity, loading, air exchange, conditioning, specimen, result units, correlation, edition, and jurisdiction are essential to interpretation.
-- **Limits:** Never transfer U.S. limits to Indonesia or equate unlike methods. Obtain current Indonesian requirements, exact report, laboratory scope, product identity, and exposure assessment under G-01/G-05.
-
-### KR-20
-
-- **Original sources:** [USDA Wood Handbook](https://research.fs.usda.gov/fpl/wood-handbook) and [ILO wood-workshop guidance](https://www.ilo.org/publications/safety-and-health-wood-workshop).
-- **Purpose for this article:** Support grain-aware machining, joinery, pilot holes, fastening, movement allowance, edge sealing, sanding, samples, and repairability.
-- **Safe grounded facts:** A sample/mockup and manufacturer instructions are needed where appearance, adhesion, compatibility, movement, or repairability matters.
-- **Limits:** Do not provide machine bypass, cutting parameters, chemical recipes, or structural joint design. Resolve through G-07/G-08/G-13.
-
-### KR-22
-
-- **Original sources:** [ILO Safety and health at the wood workshop](https://www.ilo.org/publications/safety-and-health-wood-workshop) and [ILO 2025 forestry-work code](https://www.ilo.org/resource/other/code-practice-safety-and-health-forestry-work).
-- **Purpose for this article:** Support guarding, energy control, cutting/kickback, dust, noise, ergonomics, chemicals, fire, housekeeping, and emergency planning.
-- **Safe grounded facts:** Task, machine/material, energy, guards, extraction, noise/dust/chemical exposure, maintenance, competence, supervision, exclusion, housekeeping, fire, first aid, incident, and emergency/rescue controls must be site-specific.
-- **Limits:** ILO guidance is not an Indonesian legal compliance certificate. Resolve consolidated Indonesian K3 law, exposure assessment, equipment instructions, risk assessment, and competent review under G-13.
-
-### KR-23
-
-- **Original sources:** [PP 22/2021 official BPK record](https://peraturan.bpk.go.id/Details/161852/pp-no-22-tahun-2021), [USDA Wood Handbook](https://research.fs.usda.gov/fpl/wood-handbook), and [ISO 22095](https://www.iso.org/standard/72532.html).
-- **Purpose for this article:** Ground residues, offcuts, dust, coatings/adhesives, wastewater, packaging, reuse, recycling, carbon, and disposal.
-- **Safe grounded facts:** Waste/material identity, source process, chemicals/treatments, contamination, quantity, storage, transport, receiver, records, proposed use, claim basis, and closure must be known.
-- **Limits:** Obtain current classification, permits/approvals, analysis where needed, authorized transport/receiver, reuse suitability, and legal/environmental review under G-12/G-14.
-
-### KR-32
-
-- **Original sources:** [ISO 21625:2020 official record](https://www.iso.org/standard/71279.html).
-- **Purpose for this article:** Ground material naming, product taxonomy, trade descriptions, comparisons, and specifications.
-- **Safe grounded facts:** A culm, strip, sliver, mat, panel, laminated product, engineered product, and completed furniture or structure are not interchangeable evidence objects.
-- **Limits:** Obtain the full current vocabulary, Indonesian/local names, botanical identity, processing history, product construction, and supplier documentation under G-23.
-
-### KR-39
-
-- **Original sources:** [PerBPOM 11/2026 official JDIH record](https://jdih.pom.go.id/preview/slide/1762/11/2026/c92a10324374fac681717d63979d00fe) and [PP 86/2019 official BPK record, amended by PP 1/2026](https://peraturan.bpk.go.id/Details/129230).
-- **Purpose for this article:** Bound besek, trays, containers, finishes, adhesives, inks, liners, temperature, reuse, and food-contact claims.
-- **Safe grounded facts:** Natural bamboo, traditional use, “food grade,” cleanliness, or appearance does not prove suitability for a particular food, contact time/temperature, finish/adhesive/ink system, reuse, or migration requirement.
-- **Limits:** Obtain current complete rules/annexes, exact material/construction/chemicals, intended food/contact conditions, migration/compliance evidence, manufacturing hygiene, labelling, reuse/cleaning, and BPOM/qualified review under G-26.
-
-## Evidence gates
-
-- **TOPIC-GATE:** G-05, G-07, G-08, G-13, G-14, G-19, G-23, G-24, G-26
-
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
-
-## Internal-link plan
-
-### Existing local routes
-
-- `/anyaman-bambu-yogyakarta` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/anyaman-bambu-wonosobo` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/anyaman-bambu-wonogiri` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/anyaman-bambu-tulungagung` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/anyaman-bambu-tuban.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/anyaman-bambu-tuban` — use only if it helps the reader's next step; verify the anchor describes the destination.
-
-### Planned sibling articles
-
-These are future routes. Do not link them as live until their HTML exists.
-
-- `BFU-12-02` → `/artikel/pola-anyaman-bambu.html` — Pola Anyaman dan Pengaruhnya pada Tampilan serta Fungsi
-- `BFU-12-03` → `/artikel/besek-bambu-kemasan-display.html` — Besek Bambu untuk Kemasan atau Display
-
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
+*Aset lokal proyek; jangan klaim sebagai dokumentasi proyek tertentu.*
 
 ## Hasil akhir dan prasyarat
 
-- **Purpose:** Nyatakan hasil yang ingin dicapai, siapa yang berwenang, data awal, alat/dokumen, dan kondisi yang harus tersedia.
-- **Tie back to this article:** Keep the explanation specific to “Panduan Memilih Produk Anyaman Bambu”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Hasil yang dicari adalah spesifikasi pembelian yang dapat diperiksa: format (bilah, lembar anyaman, panel, atau laminasi), pola, ukuran, sambungan, lapisan akhir, dan lingkungan pemakaian. Orang yang menyetujui pembelian perlu memegang sampel fisik dan lembar spesifikasi terbaru; foto katalog tidak cukup untuk menilai tepi dan sambungan.
 
-## Langkah 1 — tetapkan scope
+Tuliskan fungsi, paparan (kering, lembap, panas, atau sering disentuh), serta batas penampilan yang dapat diterima. Untuk wadah makanan, tambahkan jenis makanan, lama dan suhu kontak, penggunaan ulang, serta cara cuci. Tanpa data itu, pilihan “terbaik” masih tebakan.
 
-- **Purpose:** Jelaskan objek, batas pekerjaan, antarmuka, risiko, serta hal yang sengaja tidak dikerjakan.
-- **Tie back to this article:** Keep the explanation specific to “Panduan Memilih Produk Anyaman Bambu”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+## Langkah 1 — tetapkan lingkup pilihan
+
+Bedakan objek yang dibeli. Culm (batang), strip (bilah), sliver (serat tipis), mat (lembar anyaman), panel, laminasi, dan furnitur jadi adalah benda pembuktian yang berbeda; nama dagang tidak membuatnya setara ([ISO 21625:2020](https://www.iso.org/standard/71279.html)). Artikel ini membahas hub anyaman: pola dan bentuk wadah atau panel, kualitas tepi, fungsi, serta bukti kontak penggunaan. Tirai berada di luar cakupan.
+
+Tentukan antarmuka: anyaman masuk ke bingkai, ditekuk, direkatkan ke panel, atau menjadi wadah mandiri? Sambungan dengan kayu, logam, dan lapisan lain dapat mengubah gerak, perawatan, serta kemampuan perbaikan. Pekerjaan yang menahan beban atau menghadapi cuaca memerlukan tinjauan teknis tersendiri.
 
 ## Langkah 2 — kumpulkan dan cocokkan bukti
 
-- **Purpose:** Susun dokumen, observasi, data, produk, atau standar yang harus cocok dengan kasus.
-- **Tie back to this article:** Keep the explanation specific to “Panduan Memilih Produk Anyaman Bambu”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Minta sampel dengan konstruksi dan finishing yang sama dengan barang produksi. Sertakan nama material dan proses, perekat atau coating, petunjuk perawatan, toleransi ukuran, cara pengemasan, serta prosedur menangani tepi rusak. Untuk panel berperekat, minta lembar data teknis, SDS, dan laporan uji yang menyebut produk, metode, kondisi, satuan, dan edisinya.
+
+Kawan Furnitur.co.id, laporan emisi hanya bermakna bila metode ruang uji, suhu, kelembapan, beban, pertukaran udara, pengkondisian, spesimen, satuan hasil, dan yurisdiksi jelas. Metode berbeda tidak boleh dipertukarkan, dan batas Amerika Serikat tidak otomatis menjadi persyaratan Indonesia ([ISO 12460-2:2024](https://www.iso.org/standard/84728.html?browse=tc), [U.S. EPA](https://www.epa.gov/formaldehyde/formaldehyde-emission-standards-composite-wood-products)). Bila identitas produk atau persyaratan lokal tidak jelas, **[NEEDS LAPORAN EMISI DAN PERSYARATAN INDONESIA YANG SESUAI]**.
+
+Periksa sampel secara berurutan: pola konsisten, bilah tidak terlepas, tepi tidak tajam atau menganga, bingkai tidak memaksa anyaman, dan permukaan tidak meninggalkan serpihan pada sentuhan wajar. Ini pemeriksaan penerimaan, bukan sertifikasi performa. Sampel atau mockup diperlukan ketika penampilan, adhesi, kompatibilitas, gerak, atau reparabilitas penting ([USDA Wood Handbook](https://research.fs.usda.gov/fpl/wood-handbook)).
 
 ## Langkah 3 — jalankan urutan kerja
 
-- **Purpose:** Berikan urutan konseptual yang dapat diikuti tanpa berubah menjadi instruksi teknis berbahaya.
-- **Tie back to this article:** Keep the explanation specific to “Panduan Memilih Produk Anyaman Bambu”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Pilih format berdasarkan fungsi. Mat lentur dapat dipertimbangkan untuk bidang dekoratif yang memiliki penahan; panel atau laminasi mungkin lebih sesuai bila bidang stabil dibutuhkan, tetapi lapisan dan sambungan menambah hal yang harus dibuktikan. Wadah memerlukan perhatian pada bentuk, tepi, pegangan, dan cara dibersihkan. Jangan menyamakan anyaman dekoratif dengan komponen struktural.
 
-## Hold point dan kondisi berhenti
+Bandingkan pola setelah fungsi lolos. Pola rapat memengaruhi tampilan dan pembersihan; pola terbuka dapat memudahkan ventilasi tetapi mungkin memerlukan liner atau penahan. Lakukan mockup pada bingkai atau ukuran nyata dan ikuti pengamanan mesin, pengendalian debu, kebisingan, bahan kimia, housekeeping, serta kompetensi setempat ([ILO wood workshop guidance](https://www.ilo.org/publications/safety-and-health-wood-workshop)).
 
-- **Purpose:** Nyatakan kapan pekerjaan tidak boleh diteruskan tanpa review, tes, atau persetujuan.
-- **Tie back to this article:** Keep the explanation specific to “Panduan Memilih Produk Anyaman Bambu”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Kunci pesanan pada kode sampel, material, pola, ukuran, finishing, toleransi, kemasan, dan kriteria penolakan. Simpan foto sampel, lembar data, dan catatan perubahan agar barang pengganti tidak berbeda diam-diam.
 
-## Verifikasi hasil dan handover
+Saat membandingkan pemasok, gunakan pertanyaan yang sama untuk setiap calon: apakah sampel ini dibuat dengan proses yang akan diproduksi massal, siapa yang memeriksa tepi, dan bagaimana perubahan bahan diberitahukan? Anda dapat menelusuri [kategori anyaman](/anyaman) dan [produk yang tersedia](/produk) untuk menyusun pertanyaan, tetapi tetap minta bukti untuk barang yang benar-benar Anda terima.
 
-- **Purpose:** Buat checklist penerimaan, rekaman, tindak lanjut, dan pemicu koreksi.
-- **Tie back to this article:** Keep the explanation specific to “Panduan Memilih Produk Anyaman Bambu”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+## Kapan harus berhenti dan meminta pemeriksaan
 
-## Objection or shortcut to address
+Hentikan pembelian bila pemasok hanya memberi klaim tanpa identitas konstruksi, sampel berbeda dari barang produksi, atau tepi menunjukkan delaminasi. Perekat “tahan air” atau “marine” saja tidak membuktikan panel lengkap cocok untuk paparan tertentu; kompatibilitas, curing, dan kondisi layanan perlu data lengkap ([ISO 12466-1:2007](https://www.iso.org/standard/40123.html), [ISO 12466-2:2007](https://www.iso.org/standard/40124.html)).
 
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
+Untuk kontak pangan, bambu alami atau penggunaan tradisional bukan bukti kesesuaian. Periksa makanan, waktu dan suhu kontak, finishing, perekat, tinta, liner, migrasi, kebersihan, pelabelan, penggunaan ulang, dan pencucian. Dapatkan aturan yang berlaku serta tinjauan BPOM atau pihak kompeten; jika belum ada, pertahankan **[NEEDS BUKTI KESESUAIAN KONTAK PANGAN DAN REVIEW BPOM/PROFESIONAL]** ([PerBPOM 11/2026](https://jdih.pom.go.id/preview/slide/1762/11/2026/c92a10324374fac681717d63979d00fe), [PP 86/2019](https://peraturan.bpk.go.id/Details/129230)).
 
-## Required conclusion
+## Periksa hasil dan lakukan serah terima
 
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
+Sebelum serah terima, cocokkan barang dengan sampel: pola, dimensi, kelurusan, tepi, sambungan, lapisan, dan kondisi kemasan. Simpan identitas pemasok, tanggal penerimaan, foto, lembar data, serta keputusan terima atau tolak. Jika bahan, perekat, atau finishing berubah, ulangi pemeriksaan sampel.
 
-## Draft completion checklist
+Checklist penerimaan sebaiknya menjawab pertanyaan yang bisa dilihat atau dibuktikan: apakah kode lot sama, apakah ukuran masih dalam toleransi yang disepakati, apakah ada bilah patah, apakah permukaan mudah dibersihkan sesuai petunjuk, dan apakah dokumen menyebut versi bahan yang diterima? Bila satu jawaban belum tersedia, catat sebagai terbuka dan jangan menutupnya dengan asumsi. Untuk pesanan berulang, bandingkan sampel lama dan baru di bawah pencahayaan serta kondisi pemeriksaan yang sama agar perubahan pola atau warna tidak terlewat.
 
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Sobat Furnitur.co.id!` and uses friendly `Furnitur.co.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+Potongan, debu, coating, dan kemasan perlu diidentifikasi dan ditangani sesuai klasifikasi serta jalur penerima yang berwenang; jangan membuat klaim daur ulang atau pembuangan tanpa data material dan tinjauan lingkungan ([PP 22/2021](https://peraturan.bpk.go.id/Details/161852/pp-no-22-tahun-2021), [ISO 22095](https://www.iso.org/standard/72532.html)).
+
+## Jalan pintas yang sering menggoda
+
+Memilih berdasarkan foto pola dan harga per lembar lalu berharap penyesuaian di bengkel sering gagal ketika format, tepi, atau perekat berbeda dari kebutuhan. Cara yang lebih andal adalah mengirim kebutuhan fungsi kepada pemasok, meminta sampel identik, dan menyetujui pesanan hanya setelah checklist serta dokumen cocok.
+
+## Kesimpulan
+
+Panduan memilih produk anyaman bambu dimulai dari fungsi dan paparan, lalu menguji format, pola, tepi, sambungan, dan bukti pemasok pada sampel yang sama dengan produk akhir. Teman Furnitur.co.id, minta sampel, spesifikasi, SDS atau laporan uji relevan, dan tuliskan kondisi kontak serta perawatan sebelum memesan.
+
+Jika bukti konstruksi, emisi, atau kontak pangan belum lengkap, jangan mengubah ketidakpastian menjadi klaim aman atau tahan. Tunda persetujuan dan minta review teknis yang berwenang.
+
+<!-- BEGIN MANAGED IMAGE PLAN
+Image ID: LOCAL-002
+Source type: local
+Placement: after the opening has answered the main question, before the first detailed H2
+**Exact Markdown to insert:** `![Ilustrasi Anyaman Bambu](/wp-content/uploads/2022/04/Anyaman-Bambu.jpg)`
+Caption/credit: Aset lokal proyek; jangan klaim sebagai dokumentasi proyek tertentu.
+Selection basis: filename/source metadata identifies `Anyaman Bambu` as relevant content media; no pixels were inspected.
+Hard boundary: do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
+Substitution rule: do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-002]` and continue drafting the prose.
+END MANAGED IMAGE PLAN -->
